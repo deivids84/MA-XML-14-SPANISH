@@ -1,6 +1,6 @@
 [![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
 
-# MA-XML-13-SPANISH
+# MA-XML-14-SPANISH
 
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
@@ -13,6 +13,6 @@ Estado de la traducción: ![es-ES translation](https://img.shields.io/badge/dyna
 # Si desea colaborar con la traducción, https://crowdin.com/project/miui-xiaomieu
 
 Translation xml checker (updated every 30min)
-http://translators.xiaomi.eu/XML_MIUI13-Spanish-es.html
+http://translators.xiaomi.eu/XML_MIUI14-Spanish-es.html
 
 ## Para mas informacion contactar con  [@deivids84](https://github.com/deivids84)
