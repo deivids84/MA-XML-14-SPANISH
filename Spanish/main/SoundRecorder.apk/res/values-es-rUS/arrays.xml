@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>Música</item>
+        <item>Voz</item>
+        <item>Entrevista</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Música</item>
+        <item>Voz</item>
+        <item>Entrevista</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Alta</item>
+        <item>Estándar</item>
+        <item>Baja</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192 kbit/s, ~90 MB/h</item>
+        <item>MP3, ~100 kbit/s, ~45 MB/h</item>
+        <item>MP3, ~75 kbit/s, ~32 MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Música</item>
+        <item>Voz</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Grabe música con mejor calidad</item>
+        <item>Acerque el micrófono a la fuente de sonido para una mejor calidad</item>
+        <item>Coloque el teléfono entre dos personas para grabar su conversación claramente</item>
+        <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Grabe en 2 canales y escuche sonido estéreo en los audífonos</item>
+        <item>Acerque el micrófono a la fuente de sonido para una mejor calidad</item>
+        <item>Coloque el teléfono entre dos personas para grabar su conversación claramente</item>
+        <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
+    </string-array>
+</resources>

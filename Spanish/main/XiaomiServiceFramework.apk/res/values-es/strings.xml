@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Ir arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Hecho</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Elige una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">intro</string>
+    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Mayúsculas+</string>
+    <string name="abc_menu_space_shortcut_label">espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Buscar por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="accept">Aceptar</string>
+    <string name="app_name">Marco de Servicios de Xiaomi</string>
+    <string name="app_update_dialog_btn_bg_update">Actualizar</string>
+    <string name="app_update_dialog_btn_cancel">Ahora no</string>
+    <string name="app_update_dialog_btn_update">Actualizar</string>
+    <string name="app_update_dialog_desc_title">"Novedades"</string>
+    <string name="app_update_dialog_support">Actualizaciones proporcionadas por GetApps</string>
+    <string name="app_update_dialog_title">Hay una actualización disponible</string>
+    <string name="error_device_id_message">"ID del dispositivo no válido: %s
+El ID del dispositivo debe ser un IMEI válido o una dirección MAC. Sin un ID de dispositivo, algunas de las funciones de la cuenta Xiaomi y Xiaomi Cloud no estarán disponibles."</string>
+    <string name="error_device_id_title">"No se puede obtener un ID de dispositivo válido"</string>
+    <string name="explain_send_sms_permission_button">Verificar</string>
+    <string name="explain_send_sms_permission_msg">Para activar %s, el Marco de Servicios Xiaomi enviará un SMS para verificar tu número de teléfono. Tu operador cobrará un SMS normal.</string>
+    <string name="explain_send_sms_permission_title">Verificar número de teléfono</string>
+    <string name="pop_up_allow_notify_dialog">Permitir</string>
+    <string name="pop_up_deny_notify_dialog">Denegar</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="size_unit_byte">%1$sB</string>
+    <string name="size_unit_gigabyte">%1$sGB</string>
+    <string name="size_unit_kilobyte">%1$sKB</string>
+    <string name="size_unit_megabyte">%1$sMB</string>
+    <string name="sync_notification_title_format">Elemento de sincronización actual: %1$s</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xmsf_activate_info">Información de activación de XMSF</string>
+</resources>

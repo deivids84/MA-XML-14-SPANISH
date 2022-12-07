@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Salud</item>
+        <item>Ejercicio</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imagen</item>
+        <item>Ruta</item>
+        <item>Tarjeta</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Correr</item>
+        <item>Caminar</item>
+        <item>Ciclismo</item>
+        <item>Saltar a la comba</item>
+        <item>Entrenamiento</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Razonable</item>
+        <item>Largo</item>
+        <item>Demasiado largo</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>¡Hora de moverse!</item>
+        <item>Aprender más</item>
+        <item>Bebe algo de agua y da un paseo.</item>
+        <item>Aprender más</item>
+        <item>Sube un tramo de escaleras</item>
+        <item>Aprender más</item>
+        <item>"No te sientes demasiado tiempo"</item>
+        <item>Aprender más</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 hora</item>
+        <item>2 horas</item>
+    </string-array>
+    <string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Sin establecer</item>
+        <item>Padre/Madre</item>
+        <item>Hermana</item>
+        <item>Hermano</item>
+        <item>Cónyuge</item>
+        <item>Pareja</item>
+        <item>Amigo/a</item>
+        <item>Compañero/a de trabajo</item>
+        <item>Compañero/a de clase</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>No establecido</item>
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>No establecido</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+    </string-array>
+    <string-array name="references">
+        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
+        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relación entre la composición corporal y la edad en sujetos japoneses sanos. Eur J Clin Nutr. 55(6):462-70, 2001</item>
+        <item>Lee RD y Nieman DC. Evaluación Nutricional (segunda edición), pp.264</item>
+        <item>Lohman TG. Avanzado en la evaluación de la composición corporal - Temas de Currenet en la serie de ciencias del ejercicio. Champaign-IL: Cinética humana. págs. 80. 1992</item>
+        <item>"Mahan LK y Escott-stump S. Krause's Food, Nutrition &amp; Diet Therapy 9ª edición. WB Saunders Co. págs. 455"</item>
+        <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
+        <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
+        <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
+        <item>《中国居民膳食指南2016》第一部分 一般人群膳食指南 中国营养学会 编著</item>
+        <item>Evaluación avanzada de condición física y prescripción de ejercicio. Heyward VH. Cinética Humana. págs. 162</item>
+        <item>"Colegio Americano de Medicina Deportiva. Directrices del ACSM para la prescripción de pruebas de ejercicio[M]. Wolters Kluwer/Lippincott Williams &amp; Wilkins Health, 2014."</item>
+        <item>Bray GA. Diagnóstico y Manejo Contemporáneo de la Obesidad. págs. 13, 1998</item>
+        <item>Brown JE. Nutrición Ahora 2da edición. Editorial Wadsworth. págs. 9-3. 1999</item>
+        <item>Brozek J. Grande F, Anderson JT, Keys A. Análisis densitométrico de la composición corporal: Revisión de algunos supuestos cuantitativos. Ann NY Acad Sci. 1963 26 de septiembre; 110: 113-40</item>
+        <item>Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Masa muscular esquelética apendicular: medición por absorciometría de fotón dual. Soy J Clin Nutr. 52(2):214-8, 1990</item>
+        <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D. Posición de ACSM: la cantidad, la calidad recomendada y la calidad del ejercicio para el desarrollo y el mantenimiento de la cardiorespiratoria, la aptitud muscular, y la flexibilidad en la salud de los adultos[J]. Medicina &amp; Ciencia, en Deportes &amp; Ejercise, 30(6):975-991.</item>
+        <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. Patrón relacionado con la edad de la densidad corporal y la composición corporal de hombres y mujeres japoneses de 18 a 59 años de edad. Soy J Hum Biol. 14(6):743-52, 2002</item>
+        <item>Wang ZM, Pierson RN Jr, Heymsfield SB. El modelo de cinco niveles: un nuevo enfoque para organizar la investigación de composición corporal. Soy J Clin Nutr. 1992 julio; 56 (1): 19-28.</item>
+        <item>Directrices de la OMS para el IMC</item>
+        <item>儿科学辞典. 北京科学技术出版社. 2003</item>
+        <item>临床医学概要 第2版 第二章 体格检查人民卫生出版社</item>
+        <item>苏亮，陆峥. 2017 年中国失眠症诊断和治疗指南解读[J]. 世界临床药物, 2018, 39(4).</item>
+        <item>卫生部“十二五”规划教材【诊断学】 第8版 第三篇 体格检查</item>
+        <item>营养与食品卫生学（第八版）第一章 第五节 孙长颢主编 人民卫生出版社</item>
+        <item>中国超重肥胖医学营养治疗专家共识编写委员会. 中国超重/肥胖医学营养治疗专家共识(2016年版)[J].</item>
+        <item>中国高血压防治指南-2005年修订版 中国高血压防治指南2010年修订版</item>
+        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
+        <item>Amato MC, Giordano C, Galia M, et al. Índice de Adiposidad Visceral[J]. 2010, 33(4):920-922.</item>
+        <item>章振林. 骨质疏松诊断与骨密度检查报告的解读[J]. 中国全科医学, 2010, 13(2):117-117.</item>
+        <item>谢幸.妇产科学（第9版）[M].北京:人民卫生出版社.2018.</item>
+        <item>窗敲雨. 安全期真的安全吗[J]. 康复, 2013(1):16-16.</item>
+        <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
+        <item>El Comité Asesor de las Pautas de Actividad Física de 2018 presenta un informe científico</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Lun, mié, vie</item>
+        <item>Mar, jue, sáb</item>
+        <item>Mié, vie, dom</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Todos los lunes</item>
+        <item>Todos los martes</item>
+        <item>Todos los miércoles</item>
+        <item>Todos los jueves</item>
+        <item>Todos los viernes</item>
+        <item>Todos los sábados</item>
+        <item>Todos los domingos</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>No establecido</item>
+        <item>Negativo</item>
+        <item>Positivo</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Sin restricciones</item>
+        <item>Limitar la actividad en segundo plano</item>
+        <item>Detener después de 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/h"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>"Sentarse no beneficia tu salud. En caso de no poder reducir el tiempo que pasas sentado, es una buena idea ponerte de pie de vez en cuando."</item>
+        <item>Esta función te recordará que debes pasar al menos 1 minuto de cada hora de pie. 12 horas con descansos de pie todos los días te ayudará a evitar los riesgos de un estilo de vida sedentario.</item>
+        <item>Toca \"Continuar\" para obtener más información y activar esta función.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Salud puede detectar y grabar cuando te pones de pie. También puedes recibir recordatorios para ponerte de pie después de 1 hora de inactividad.</item>
+        <item>Esta función rastrea tu movimiento y envía recordatorios basados en los resultados.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" g"</item>
+        <item>" kg"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Sin indicar</item>
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+</resources>

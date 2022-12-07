@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">en %d min</item>
+        <item quantity="one">en 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Justo ahora</item>
+        <item quantity="other">Justo ahora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="common_selected_num">
+        <item quantity="other">%1$d elementos seleccionados</item>
+        <item quantity="one">%1$d elemento seleccionado</item>
+    </plurals>
+    <plurals name="common_share_unit_kilometer_desc">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="common_share_unit_meter_desc">
+        <item quantity="other">%1$s m</item>
+        <item quantity="one">%1$s m</item>
+    </plurals>
+    <plurals name="common_unit_calorie">
+        <item quantity="other">" kcal"</item>
+        <item quantity="one">" kcal"</item>
+    </plurals>
+    <plurals name="common_unit_calorie_desc">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+    </plurals>
+    <plurals name="common_unit_day_desc">
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate">
+        <item quantity="other">" LPM"</item>
+        <item quantity="one">" LPM"</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc">
+        <item quantity="other">%1$d LPM</item>
+        <item quantity="one">%1$d LPM</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc2">
+        <item quantity="other">%1$d LPM</item>
+        <item quantity="one">%1$d LPM</item>
+    </plurals>
+    <plurals name="common_unit_kilometer">
+        <item quantity="other">km</item>
+        <item quantity="one">km</item>
+    </plurals>
+    <plurals name="common_unit_kilometer_desc_new">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="common_unit_meter_desc_new">
+        <item quantity="other">%1$s m</item>
+        <item quantity="one">%1$s m</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">" pasos"</item>
+        <item quantity="one">" paso"</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d pasos</item>
+        <item quantity="one">%1$d paso</item>
+    </plurals>
+    <plurals name="common_unit_time">
+        <item quantity="other">veces</item>
+        <item quantity="one">vez</item>
+    </plurals>
+    <plurals name="common_unit_time_desc">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="common_unit_time_rope_skipping_desc">
+        <item quantity="other">%1$d saltos</item>
+        <item quantity="one">%1$d salto</item>
+    </plurals>
+    <plurals name="common_unit_time_rowing_desc">
+        <item quantity="other">%1$d brazadas</item>
+        <item quantity="one">%1$d brazada</item>
+    </plurals>
+    <plurals name="course_content_segment">
+        <item quantity="other">%d sesiones</item>
+        <item quantity="one">%d sesión</item>
+    </plurals>
+    <plurals name="course_practised_num">
+        <item quantity="other">Entrenamientos: %d</item>
+        <item quantity="one">Entrenamientos: %d</item>
+    </plurals>
+    <plurals name="course_start_times">
+        <item quantity="other">Entrenamientos: %d</item>
+        <item quantity="one">Entrenamientos: %d</item>
+    </plurals>
+    <plurals name="device_last_charged_time">
+        <item quantity="other">Última carga hace %1$d días</item>
+        <item quantity="one">Última carga hace %1$d día</item>
+    </plurals>
+    <plurals name="device_settings_alarm_add_max_expression_plurals">
+        <item quantity="other">Puedes añadir hasta %1$s alarmas</item>
+        <item quantity="one">Puedes añadir hasta %1$s alarma</item>
+    </plurals>
+    <plurals name="device_settings_alarm_clocks">
+        <item quantity="other">%1$d alarmas</item>
+        <item quantity="one">%1$d alarma</item>
+    </plurals>
+    <plurals name="device_settings_common_items">
+        <item quantity="other">%1$d eventos</item>
+        <item quantity="one">%1$d evento</item>
+    </plurals>
+    <plurals name="device_settings_common_minute">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="device_settings_common_unit_heart_rate_desc">
+        <item quantity="other">%1$d LPM</item>
+        <item quantity="one">%1$d LPM</item>
+    </plurals>
+    <plurals name="device_settings_event_content_max_length">
+        <item quantity="other">Puedes introducir hasta %1$d caracteres</item>
+        <item quantity="one">Puedes introducir hasta %1$d caracter</item>
+    </plurals>
+    <plurals name="device_settings_event_minder_add_max_expression">
+        <item quantity="other">Puedes añadir hasta %1$d eventos</item>
+        <item quantity="one">Puedes añadir hasta %1$d evento</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_monitor_freq">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_warning_freq">
+        <item quantity="other">%1$d LPM</item>
+        <item quantity="one">%1$d LPM</item>
+    </plurals>
+    <plurals name="device_settings_huami_shortcut_quantity_limit_tips">
+        <item quantity="other">Puedes añadir %1$d widgets como máximo</item>
+        <item quantity="one">Puedes añadir %1$d widget como máximo</item>
+    </plurals>
+    <plurals name="device_settings_huami_sporttype_quantity_limit_tips">
+        <item quantity="other">Puedes añadir hasta %1$d entrenamientos</item>
+        <item quantity="one">Puedes añadir hasta %1$d entrenamiento</item>
+    </plurals>
+    <plurals name="device_settings_hypoxemia_notice_threshold_percent">
+        <item quantity="other">%1$d%%</item>
+        <item quantity="one">%1$d%%</item>
+    </plurals>
+    <plurals name="device_settings_spo2_freq_freq">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="device_settings_unit_heart_rate">
+        <item quantity="other">LPM</item>
+        <item quantity="one">LPM</item>
+    </plurals>
+    <plurals name="device_settings_widget_manager_max_toast">
+        <item quantity="other">Puedes añadir hasta %d widgets</item>
+        <item quantity="one">Puedes añadir hasta %d widget</item>
+    </plurals>
+    <plurals name="device_settings_world_clock_select_number_v2">
+        <item quantity="other">%1$d elementos seleccionados</item>
+        <item quantity="one">%1$d elemento seleccionado</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanzar %d segundos</item>
+        <item quantity="one">Avanzar %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
+    <plurals name="habit_day_num">
+        <item quantity="other">Racha de %1$d-días</item>
+        <item quantity="one">Racha de %1$d-día</item>
+    </plurals>
+    <plurals name="habit_people_num">
+        <item quantity="other">%1$d personas haciendo esto</item>
+        <item quantity="one">%1$d persona haciendo esto</item>
+    </plurals>
+    <plurals name="habit_share_days">
+        <item quantity="other">días</item>
+        <item quantity="one">día</item>
+    </plurals>
+    <plurals name="habit_world_clock_select_number_v2">
+        <item quantity="other">%1$d elementos seleccionados</item>
+        <item quantity="one">%1$d elemento seleccionado</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="health_common_minute_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="health_common_unit_calorie_desc">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+    </plurals>
+    <plurals name="health_common_unit_step">
+        <item quantity="other">pasos</item>
+        <item quantity="one">paso</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc">
+        <item quantity="other">%1$d pasos</item>
+        <item quantity="one">%1$d paso</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc2">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="health_curse_cycle_days">
+        <item quantity="other">Ciclo: %1$d días</item>
+        <item quantity="one">Ciclo: %1$d día</item>
+    </plurals>
+    <plurals name="health_curse_danger_will">
+        <item quantity="other">Periodo fértil en %d días</item>
+        <item quantity="one">Periodo fértil en %d día</item>
+    </plurals>
+    <plurals name="health_curse_danger_will_before">
+        <item quantity="other">Periodo fértil en %d días</item>
+        <item quantity="one">Periodo fértil en %d día</item>
+    </plurals>
+    <plurals name="health_curse_day">
+        <item quantity="other">días</item>
+        <item quantity="one">día</item>
+    </plurals>
+    <plurals name="health_curse_days_bracket">
+        <item quantity="other">(%d días)</item>
+        <item quantity="one">(%d día)</item>
+    </plurals>
+    <plurals name="health_curse_days_left_future">
+        <item quantity="other">%d días hasta que el periodo finalice</item>
+        <item quantity="one">%d día hasta que el periodo finalice</item>
+    </plurals>
+    <plurals name="health_curse_days_left_pre">
+        <item quantity="other">%d días hasta que el periodo finalice</item>
+        <item quantity="one">%d día hasta que el periodo finalice</item>
+    </plurals>
+    <plurals name="health_curse_in_days">
+        <item quantity="other">Periodo: %1$d día</item>
+        <item quantity="one">Periodo: %1$d día</item>
+    </plurals>
+    <plurals name="health_curse_in_future">
+        <item quantity="other">Día %d del periodo</item>
+        <item quantity="one">Día %d del periodo</item>
+    </plurals>
+    <plurals name="health_curse_in_pre">
+        <item quantity="other">Día %d del periodo</item>
+        <item quantity="one">Día %d del periodo</item>
+    </plurals>
+    <plurals name="health_curse_in_start_before">
+        <item quantity="other">Periodo en %d días</item>
+        <item quantity="one">Periodo en %d día</item>
+    </plurals>
+    <plurals name="health_curse_in_start_will">
+        <item quantity="other">Periodo en %d días</item>
+        <item quantity="one">Periodo en %d día</item>
+    </plurals>
+    <plurals name="health_curse_ovum_start">
+        <item quantity="other">Ovulación en %d días</item>
+        <item quantity="one">Ovulación en %d día</item>
+    </plurals>
+    <plurals name="health_curse_period">
+        <item quantity="other">Ciclo de %d días</item>
+        <item quantity="one">Ciclo de %d día</item>
+    </plurals>
+    <plurals name="health_mh_home_title">
+        <item quantity="other">En movimiento durante %1$d min</item>
+        <item quantity="one">En movimiento durante %1$d min</item>
+    </plurals>
+    <plurals name="health_sleep_breath_quality_value">
+        <item quantity="other">Puntuación de respiración: %1$d</item>
+        <item quantity="one">Puntuación de respiración: %1$d</item>
+    </plurals>
+    <plurals name="health_sleep_dream_talk_count_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="health_sleep_snore_decibel_unit">
+        <item quantity="other">dB</item>
+        <item quantity="one">dB</item>
+    </plurals>
+    <plurals name="health_spo2_home_value">
+        <item quantity="other">Oxígeno en sangre %1$d%%</item>
+        <item quantity="one">Oxígeno en sangre %1$d%%</item>
+    </plurals>
+    <plurals name="health_stand_count_desc">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="health_stand_count_desc_no_value">
+        <item quantity="other">h</item>
+        <item quantity="one">h</item>
+    </plurals>
+    <plurals name="health_stand_unit_time">
+        <item quantity="other">h</item>
+        <item quantity="one">h</item>
+    </plurals>
+    <plurals name="health_target_calories_unit">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+    </plurals>
+    <plurals name="health_target_mhs_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="health_target_stand_times_unit">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="health_target_step_unit">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="health_unit_spo2_percent_desc">
+        <item quantity="other">%1$d%%</item>
+        <item quantity="one">%1$d%%</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_gain">
+        <item quantity="other">%1$s kg | + %3$s kg desde hace %2$d días</item>
+        <item quantity="one">%1$s kg | + %3$s kg desde hace %2$d día</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_loss">
+        <item quantity="other">%1$s kg | - %3$s kg desde hace %2$d días</item>
+        <item quantity="one">%1$s kg | - %3$s kg desde hace %2$d día</item>
+    </plurals>
+    <plurals name="health_weight_home_title">
+        <item quantity="other">Peso %s kg</item>
+        <item quantity="one">Peso %s kg</item>
+    </plurals>
+    <plurals name="heartrate_fp_detect_time_remainder">
+        <item quantity="other">%1$d s restantes</item>
+        <item quantity="one">%1$d s restante</item>
+    </plurals>
+    <plurals name="hour_in_simplify">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Justo ahora</item>
+        <item quantity="other">Justo ahora</item>
+    </plurals>
+    <plurals name="medal_count">
+        <item quantity="other">Total: %1$d | Reciente: %2$d</item>
+        <item quantity="one">Total: %1$d | Reciente: %2$d</item>
+    </plurals>
+    <plurals name="min_in_simplify">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementos seleccionados</item>
+        <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
+    </plurals>
+    <plurals name="nfc_common_card_num">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="nfc_common_unit_word_des">
+        <item quantity="other">Puedes introducir hasta %1$d caracteres</item>
+        <item quantity="one">Puedes introducir hasta %1$d caracter</item>
+    </plurals>
+    <plurals name="nfc_issue_card_hold_on_">
+        <item quantity="other">&lt;Data&gt;\"Mantén el dispositivo conectado a tu teléfono.
+Lleva alrededor de %1$d minutos.\"&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\"Mantén el dispositivo conectado a tu teléfono.
+Lleva alrededor de %1$d minuto.\"&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="notify_sms_reply_delay_time">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="notify_unit_second">
+        <item quantity="other">s</item>
+        <item quantity="one">s</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_unit">
+        <item quantity="other">pasos</item>
+        <item quantity="one">paso</item>
+    </plurals>
+    <plurals name="provider_step_goal_unit">
+        <item quantity="other">pasos</item>
+        <item quantity="one">paso</item>
+    </plurals>
+    <plurals name="sport_local_sport_setting_speed">
+        <item quantity="other">%1$d km/h</item>
+        <item quantity="one">%1$d km/h</item>
+    </plurals>
+    <plurals name="sport_unit_kilometer">
+        <item quantity="other">km</item>
+        <item quantity="one">km</item>
+    </plurals>
+    <plurals name="sport_unit_meter">
+        <item quantity="other">m</item>
+        <item quantity="one">m</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">Hace %1$d días</item>
+        <item quantity="one">Hace %1$d día</item>
+    </plurals>
+    <plurals name="trail_hint_unit_kcal">
+        <item quantity="other">kcal</item>
+        <item quantity="one">kcal</item>
+    </plurals>
+    <plurals name="trail_hint_unit_meter">
+        <item quantity="other">m</item>
+        <item quantity="one">m</item>
+    </plurals>
+    <plurals name="trail_hint_unit_minute">
+        <item quantity="other">min</item>
+        <item quantity="one">min</item>
+    </plurals>
+    <plurals name="trail_hint_unit_step">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trail_label_step">
+        <item quantity="other">pasos</item>
+        <item quantity="one">paso</item>
+    </plurals>
+    <plurals name="trail_label_times">
+        <item quantity="other">entrenamientos</item>
+        <item quantity="one">entrenamiento</item>
+    </plurals>
+    <plurals name="trail_row_energy_working_unit">
+        <item quantity="other">W</item>
+        <item quantity="one">W</item>
+    </plurals>
+    <plurals name="trail_share_unit_kilometer">
+        <item quantity="other">" km"</item>
+        <item quantity="one">" km"</item>
+    </plurals>
+    <plurals name="trail_sport_data_group_count">
+        <item quantity="other">series</item>
+        <item quantity="one">serie</item>
+    </plurals>
+    <plurals name="trail_sport_group_info_title_desc">
+        <item quantity="other">Series: %d</item>
+        <item quantity="one">Series: %d</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit_only">
+        <item quantity="other">h</item>
+        <item quantity="one">h</item>
+    </plurals>
+    <plurals name="trail_sport_times">
+        <item quantity="other">%d entrenamientos</item>
+        <item quantity="one">%d entrenamiento</item>
+    </plurals>
+    <plurals name="trail_sport_unit_speed_plurals">
+        <item quantity="other">%s km/h</item>
+        <item quantity="one">%s km/h</item>
+    </plurals>
+    <plurals name="trail_unit_score_desc_new">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="trail_unit_time_rope_skipping">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">h</item>
+        <item quantity="one">h</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">h</item>
+        <item quantity="one">h</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="unit_kilometer_space">
+        <item quantity="other">" km"</item>
+        <item quantity="one">" km"</item>
+    </plurals>
+    <plurals name="unit_kilometer_without_space">
+        <item quantity="other">km</item>
+        <item quantity="one">km</item>
+    </plurals>
+    <plurals name="unit_meter_space">
+        <item quantity="other">" m"</item>
+        <item quantity="one">" m"</item>
+    </plurals>
+    <plurals name="unit_meter_without_space">
+        <item quantity="other">m</item>
+        <item quantity="one">m</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_point_desc">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">s</item>
+        <item quantity="one">s</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="unit_speed_meter_sed">
+        <item quantity="other">m/s</item>
+        <item quantity="one">m/s</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_age">
+        <item quantity="other">%1$d años</item>
+        <item quantity="one">%1$d año</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_calorie">
+        <item quantity="other">kcal</item>
+        <item quantity="one">kcal</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_heart_rate">
+        <item quantity="other">" LPM"</item>
+        <item quantity="one">" LPM"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_step">
+        <item quantity="other">" pasos"</item>
+        <item quantity="one">" paso"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_time">
+        <item quantity="other">h</item>
+        <item quantity="one">h</item>
+    </plurals>
+    <plurals name="userinfo_target_calories_unit">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+    </plurals>
+    <plurals name="userinfo_target_mhs_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="userinfo_target_stand_times_unit">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="userinfo_target_step_unit">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="userinfo_unit_heart_rate_space">
+        <item quantity="other">%1$d LPM</item>
+        <item quantity="one">%1$d LPM</item>
+    </plurals>
+    <plurals name="userinfo_unit_min">
+        <item quantity="other">min</item>
+        <item quantity="one">min</item>
+    </plurals>
+    <plurals name="userinfo_user_age_display_format_year">
+        <item quantity="one">%1$d año</item>
+        <item quantity="other">%1$d años</item>
+    </plurals>
+</resources>

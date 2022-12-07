@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Mala conexión Wi-Fi. Cambia de banda o reinicia el router.</item>
+        <item>"No se puede acceder a la red. Conecta otra vez a Wi-Fi o reinicia el router."</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Mala conexión Wi-Fi. Cambia de banda o reinicia el router.</item>
+        <item>"No se puede acceder a la red. Vuelve a conectar a Wi-Fi o reinicia el router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Se necesita autenticación para el acceso a la red</item>
+        <item>"El acceso a la red está restringido. Ajusta la hora en este dispositivo y comprueba la configuración de red del router."</item>
+        <item>Error de la red. Comprueba la configuración del proxy HTTP.</item>
+        <item>Error de la red. Comprueba si el router tiene acceso a Internet.</item>
+        <item>"No se puede acceder a la red. Conecta otra vez a Wi-Fi o reinicia el router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Se necesita autenticación para el acceso a la red</item>
+        <item>"El acceso a la red está restringido. Ajusta la hora en este dispositivo y comprueba la configuración de red del router."</item>
+        <item>Error de la red. Comprueba la configuración del proxy HTTP.</item>
+        <item>Error de la red. Comprueba si el router tiene acceso a Internet.</item>
+        <item>"No se puede acceder a la red. Conecta otra vez a Wi-Fi o reinicia el router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>"Error del servidor DNS. Comprueba la configuración DNS del router."</item>
+        <item>"Respuesta muy lenta del servidor DNS. Comprueba la configuración DNS del router."</item>
+        <item>"No hay acceso a la puerta de enlace. Conecta otra vez a Wi-Fi o reinicia el router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>"Error del servidor DNS. Comprueba la configuración DNS del router."</item>
+        <item>"Respuesta muy lenta del servidor DNS. Comprueba la configuración DNS del router."</item>
+        <item>"No hay acceso a la puerta de enlace. Conecta otra vez a Wi-Fi o reinicia el router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Respuesta muy lenta de la red local. Reinicia el router o conecta a otra red.</item>
+        <item>Respuesta muy lenta desde Internet. Comprueba la configuración de red del operador o conecta a otra red.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Cambia de IP estática a una proporcionada por DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Error de protocolo de red. Conecta otra vez a Wi-Fi o reinicia el dispositivo.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Error de protocolo de red. Conecta otra vez a Wi-Fi o reinicia el dispositivo.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Muévete a una zona que tenga mejor cobertura Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Muévete a una zona que tenga mejor cobertura Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Comprueba la configuración DHCP del router y la conexión por cable"</item>
+    </string-array>
+</resources>
