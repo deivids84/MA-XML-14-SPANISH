@@ -49,9 +49,8 @@
     <string name="autofill_password_activity_label">Códigos de verificación</string>
     <string name="autofill_service_label">Gestionar contraseñas</string>
     <string name="autofill_setting_activity_label">Gestionar contraseñas</string>
-    <string name="back_button_label">Atrás</string>
     <string name="cancel">Cancelar</string>
-    <string name="change_passwork_dialog_content">"Ya ha guardado una contraseña para esta cuenta. ¿Actualizar la contraseña ahora?"</string>
+    <string name="change_passwork_dialog_content">"Ya has guardado una contraseña para esta cuenta. ¿Actualizarla ahora?"</string>
     <string name="change_passwork_dialog_title">¿Actualizar la contraseña?</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="close">Cerrar</string>
@@ -77,7 +76,7 @@
     <string name="friday_shortest">Vie</string>
     <string name="invalid_package_signature">Firma de la aplicación no válida</string>
     <string name="login_mi_account_alert">Atención</string>
-    <string name="login_mi_account_summary">El administrador de contraseñas sincroniza contraseñas con tu cuenta de Xiaomi. ¿Iniciar sesión ahora?</string>
+    <string name="login_mi_account_summary">El administrador de contraseñas sincroniza contraseñas con tu cuenta Xiaomi. ¿Iniciar sesión?</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>

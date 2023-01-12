@@ -541,7 +541,7 @@ Mi Roaming necesita conectar a Internet y acceder a la información de ubicació
     <string name="dialer_menu_title">Opciones de Menú</string>
     <string name="dialog_delete_contact_button_delete">Eliminar</string>
     <string name="dialog_delete_contact_button_keep">Mantener</string>
-    <string name="dialog_delete_contact_content">Xiaomi Cloud quiere eliminar algunos de tus contactos. ¿Eliminar ahora?</string>
+    <string name="dialog_delete_contact_content">Xiaomi Cloud quiere eliminar algunos de tus contactos. ¿Eliminarlos?</string>
     <string name="dialog_delete_contact_title">Eliminando contactos</string>
     <string name="dialog_new_contact_account">Crear contactos en la cuenta</string>
     <string name="dialog_new_group_account">Crear grupo en la cuenta</string>

@@ -193,6 +193,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
     <string name="mtrl_picker_date_header_title">Seleccione fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
@@ -214,6 +215,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="mtrl_picker_toggle_to_day_selection">Toca para cambiar a la selección de un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca para cambiar a la selección de un año</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="night">Tarde</string>
     <string name="nonui_mode_config_description">"No encender la pantalla para notificaciones, desactivar la luz LED, sensor de huella digital y controles táctiles para ahorrar batería cuando MIUI detecte que no está usando su dispositivo."</string>
     <string name="nonui_mode_config_title">Modo no interactivo</string>

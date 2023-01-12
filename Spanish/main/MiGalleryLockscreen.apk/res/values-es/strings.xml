@@ -93,7 +93,7 @@
     <string name="am">AM</string>
     <string name="app_name">Carrusel de fondos</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorar esta versión</string>
-    <string name="app_self_upgrade_dlg_content">Una nueva version esta disponible. ¿Actualizar ahora?</string>
+    <string name="app_self_upgrade_dlg_content">Hay una versión nueva disponible. ¿Actualizar ahora?</string>
     <string name="app_self_upgrade_dlg_negative_btn">Más tarde</string>
     <string name="app_self_upgrade_dlg_postive_btn">Actualizar ahora</string>
     <string name="app_self_upgrade_dlg_title">Actualización disponible</string>
@@ -586,7 +586,7 @@ mm"</string>
     <string name="passport_dialog_is_your_mi_account">¿Es esta tu cuenta Xiaomi?</string>
     <string name="passport_dialog_loading">Un momento…</string>
     <string name="passport_dialog_nick_name_prefix">Nombre o apodo: %s</string>
-    <string name="passport_dialog_phone_number_prefix">Teléfono: %s</string>
+    <string name="passport_dialog_phone_number_prefix">Número de teléfono: %s</string>
     <string name="passport_dialog_register_other">"No, voy a crear una"</string>
     <string name="passport_email">Dirección de email</string>
     <string name="passport_empty_password">"La contraseña no puede estar en blanco"</string>
@@ -597,7 +597,7 @@ mm"</string>
     <string name="passport_error_empty_email">Introduzca dirección de email</string>
     <string name="passport_error_empty_password">Escribe tu contraseña</string>
     <string name="passport_error_empty_pwd">"Escribe tu contraseña"</string>
-    <string name="passport_error_empty_user_id">Escribe tu usuario</string>
+    <string name="passport_error_empty_user_id">Escribe tu nombre de usuario</string>
     <string name="passport_error_length_limit">El texto es demasiado largo</string>
     <string name="passport_error_network">"No se puede conectar a la red"</string>
     <string name="passport_error_no_password_user">"Aún no has establecido la contraseña. Inicia sesión con SMS."</string>
@@ -608,7 +608,7 @@ mm"</string>
     <string name="passport_error_timeout_network_error">Se ha excedido el tiempo de espera</string>
     <string name="passport_error_token_expired">El código ha caducado. Inténtalo otra vez.</string>
     <string name="passport_error_unknow_error">Se ha producido un error</string>
-    <string name="passport_error_unknow_host_network_error">"No se pudo conectar a la red"</string>
+    <string name="passport_error_unknow_host_network_error">"No es posible conectar a la red"</string>
     <string name="passport_error_unknow_network_error">Se ha producido un error de la red</string>
     <string name="passport_error_unknown">No se puede iniciar sesión</string>
     <string name="passport_error_user_agreement">Antes, acepta nuestro Acuerdo de Usuario</string>
@@ -624,7 +624,7 @@ mm"</string>
     <string name="passport_input_voice_captcha_hint">Introducir código de verificación de voz</string>
     <string name="passport_input_voice_hint">Introducir código de voz</string>
     <string name="passport_mi_account_first_title">"Crearemos una cuenta automáticamente si es la primera vez que usas tu número de teléfono."</string>
-    <string name="passport_mi_account_title">Iniciar sesión con tu cuenta Xiaomi</string>
+    <string name="passport_mi_account_title">Iniciar sesión con la cuenta Xiaomi</string>
     <string name="passport_network_error">Se ha producido un error de la red.</string>
     <string name="passport_network_error_hint">Comprueba la dirección URL e inténtalo otra vez, o cópiala y ábrela en el navegador.</string>
     <string name="passport_next">Siguiente</string>
@@ -687,7 +687,7 @@ mm"</string>
     <string name="privacy_update_quit">Salir</string>
     <string name="privacy_update_summary1">Se actualizó la Política de privacidad de carrusel de fondos de pantalla:</string>
     <string name="privacy_update_summary2">"Lea y acepte la nueva versión de &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
-    <string name="privacy_update_summary3">"No podrá seguir usando Wallpaper Carousel a menos que acepte la nueva versión de su &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="privacy_update_summary3">"No podrás seguir usando Carousel de Fondos de Pantalla si no aceptas la nueva versión de su &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt;. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="privacy_update_title1">Política de privacidad actualizada</string>
     <string name="privacy_update_title2">Atención</string>
     <string name="progressbar_title">Comprobando problemas de seguridad…</string>

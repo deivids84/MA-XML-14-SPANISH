@@ -107,6 +107,16 @@
         <item>Cambiar la contraseña de la cuenta Xiaomi</item>
         <item>Cambiar contraseña;Actualizar contraseña;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Espacio de almacenamiento familiar</item>
+        <item>Ver/activar el espacio de almacenamiento familiar</item>
+        <item>Espacio de almacenamiento familiar; Compartir almacenamiento</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Servicios familiares</item>
+        <item>Ver/activar los servicios familiares</item>
+        <item>Familia; Servicios familiares; Compartir en familia</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Ayuda</item>
         <item>Obtener ayuda y soporte para la cuenta Xiaomi</item>

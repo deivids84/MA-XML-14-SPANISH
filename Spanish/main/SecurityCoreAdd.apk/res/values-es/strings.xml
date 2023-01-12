@@ -144,7 +144,7 @@ Asegúrate de que el nombre de tu empresa es correcto. Lee y acepta la Política
     <string name="ent_agency_code_invalid">El código empresarial que has introducido es inválido.</string>
     <string name="ent_agree_privacy_policy">"He leído y aceptado la Política de Privacidad"</string>
     <string name="ent_app_verified">Parece que hay aplicaciones de empresa instaladas en tu dispositivo. ¿Activar Modo empresa?</string>
-    <string name="ent_confirm_dialog_content">"No podrá volver al estado actual de su sistema después de activar el modo Empresa. Sin embargo, todos sus datos se almacenarán en este dispositivo. Tendrá que reiniciar su dispositivo para activar el modo Empresa. ¿Activar ahora?"</string>
+    <string name="ent_confirm_dialog_content">"Después de activar el modo Empresa no podrás volver al estado actual del sistema. Sin embargo, todos los datos se almacenarán en el dispositivo. Tendrás que reiniciarlo para activar el modo Empresa. ¿Activar ahora?"</string>
     <string name="ent_disallow_running">La aplicación está bloqueada para funcionar</string>
     <string name="ent_download_install_dialog_content">Debes instalar aplicaciones corporativas para activar el Modo empresa. ¿Instalar ahora?</string>
     <string name="ent_download_install_dialog_title">Descargar aplicaciones corporativas</string>
@@ -216,11 +216,13 @@ Asegúrate de que el nombre de tu empresa es correcto. Lee y acepta la Política
     <string name="green_guard_title3">Administrar aplicaciones</string>
     <string name="greenguard_child_des">Gestiona el dispositivo de tus amigos y familia</string>
     <string name="greenguard_child_des_title">Escanea el código QR para añadir dispositivo</string>
-    <string name="greenguard_functional_description">Administre dispositivos de forma remota, vea información de ubicación y controle las aplicaciones instaladas</string>
+    <string name="greenguard_functional_description">Administra dispositivos de forma remota, ve información de ubicación y controla las aplicaciones instaladas</string>
     <string name="greenguard_install_cancle">No, gracias</string>
     <string name="greenguard_install_confirm">Instalar</string>
     <string name="greenguard_install_message">"Control parental es una aplicación del sistema. No necesitas internet para instalarlo."</string>
     <string name="greenguard_install_title">Instalar Control parental</string>
+    <string name="greenguard_new_install_message">Control Parental es una aplicación del sistema que puedes instalar sin descargarla.</string>
+    <string name="greenguard_new_install_title">Instalar Control Parental</string>
     <string name="greenguard_parent_des">Gestiona el dispositivo de tus amigos y familia</string>
     <string name="greenguard_parent_des_title">Usa Kite Guard para añadir dispositivos</string>
     <string name="guide_contact_sub_title_desc">"Los contactos añadidos al segundo espacio serán privados.
@@ -447,7 +449,7 @@ Separa y protege tus datos."</string>
     <string name="setting_finger_print_title">Añadir huella en el Segundo espacio</string>
     <string name="setting_fingerprint_title">Añadir contraseña del Segundo espacio</string>
     <string name="setting_is_show_text_contacts">Configurar contactos privados y mensajes</string>
-    <string name="settings_cross_notification_summary">Reciba las notificaciones del otro espacio</string>
+    <string name="settings_cross_notification_summary">Recibe las notificaciones del otro espacio</string>
     <string name="settings_cross_notification_title">Notificaciones</string>
     <string name="settings_msg_add_shortcut_to_owner_space">Acceso directo agregado al Primer espacio</string>
     <string name="settings_msg_add_shortcut_to_second_space">El acceso directo se creó en el Segundo espacio</string>

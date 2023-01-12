@@ -172,9 +172,9 @@
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">¿Eliminar %d ráfagas de fotos de Xiaomi Cloud y todos los dispositivos sincronizados?</item>
-        <item quantity="one">¿Eliminar %d ráfaga de fotos de Xiaomi Cloud y todos los dispositivos sincronizados?</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">¿Eliminar %d fotos de ráfaga?</item>
+        <item quantity="one">¿Eliminar %d foto de ráfaga?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">¿Eliminar %d ráfagas de fotos?</item>
@@ -192,17 +192,13 @@
         <item quantity="other">¿Eliminar %d elementos?</item>
         <item quantity="one">¿Eliminar %d elemento?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">¿Eliminar %d fotos de todos los dispositivos y de Xiaomi Cloud?</item>
-        <item quantity="one">¿Eliminar %d foto de todos los dispositivos y de Xiaomi Cloud?</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">¿Eliminar %d elementos?</item>
+        <item quantity="one">¿Eliminar %d elemento?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">¿Eliminar %d ráfagas de fotos de tu dispositivo?</item>
         <item quantity="one">¿Eliminar %d ráfaga de fotos de tu dispositivo?</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">¿Eliminar %d vídeos de todos los dispositivos y de Xiaomi Cloud?</item>
-        <item quantity="one">¿Eliminar %d vídeo de todos los dispositivos y de Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"No se pudieron descargar %1$d archivos"</item>
@@ -515,6 +511,10 @@
     <plurals name="share_album_home_pref_rooms">
         <item quantity="other">%1$d estancias</item>
         <item quantity="one">%1$d estancia</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d pantallas</item>
+        <item quantity="one">%1$d pantalla</item>
     </plurals>
     <plurals name="share_album_home_pref_screens">
         <item quantity="other">%1$d pantallas</item>

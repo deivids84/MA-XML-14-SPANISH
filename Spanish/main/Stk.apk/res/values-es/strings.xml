@@ -29,9 +29,9 @@
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
-    <string name="alphabet">Letras</string>
+    <string name="alphabet">Alfabetos</string>
     <string name="am">AM</string>
-    <string name="app_name">Herramientas SIM</string>
+    <string name="app_name">Servicios SIM</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_no">No</string>
@@ -48,11 +48,11 @@
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="default_call_setup_msg">Llamada en progreso…</string>
     <string name="default_close_channel_msg">Canal cerrado</string>
-    <string name="default_open_channel_msg">¿Abrir Canal?</string>
-    <string name="default_receive_data_msg">Recibir datos…</string>
-    <string name="default_send_data_msg">Enviar datos…</string>
-    <string name="default_setup_call_msg">Configurar llamada…</string>
-    <string name="default_tone_dialog_msg">Reproducir…</string>
+    <string name="default_open_channel_msg">¿Abrir canal?</string>
+    <string name="default_receive_data_msg">Recibiendo datos</string>
+    <string name="default_send_data_msg">Enviando datos</string>
+    <string name="default_setup_call_msg">Configurando llamada</string>
+    <string name="default_tone_dialog_msg">Reproduciendo tono</string>
     <string name="digits">Dígitos (0-9, *, #, +)</string>
     <string name="disable_app">Deshabilitado</string>
     <string name="early_morning">Mañana</string>
@@ -165,6 +165,7 @@
     <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
     <string name="mtrl_picker_date_header_title">Seleccione fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
@@ -186,8 +187,9 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toca para cambiar a la selección de un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca para cambiar a la selección de un año</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="night">Tarde</string>
-    <string name="no_sim_card_inserted">Insertar tarjeta SIM para ejecutar las Herramientas SIM.</string>
+    <string name="no_sim_card_inserted">Inserta la tarjeta SIM para iniciar los servicios SIM.</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">No establecido</string>
     <string name="password_toggle_content_description">Cambiar la visibilidad de la contraseña</string>
@@ -230,7 +232,7 @@
     <string name="stk_channel_name">Mensajes de servicios móviles</string>
     <string name="stk_dialog_accept">SÍ</string>
     <string name="stk_dialog_reject">NO</string>
-    <string name="stk_dialog_title">Herramientas SIM</string>
+    <string name="stk_dialog_title">Servicios SIM</string>
     <string name="stk_ic_remove_content">"Después de eliminar el acceso directo de la pantalla de inicio, aún podrá usar el kit de herramientas USIM a través de la aplicación Configuración."</string>
     <string name="stk_ic_remove_title">¿Eliminar el kit de herramientas USIM de la Pantalla de inicio?</string>
     <string name="stk_no_service">No hay un servicio disponible</string>

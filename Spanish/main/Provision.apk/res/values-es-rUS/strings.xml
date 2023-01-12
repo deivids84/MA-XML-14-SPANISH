@@ -64,7 +64,14 @@
     <string name="calculator_introduction">Puede usar esta aplicación para realizar cálculos, convertir unidades y divisas, y estimar sus pagos de hipoteca.</string>
     <string name="camera_application_introduction">Puede usar esta aplicación para tomar fotos y videos.</string>
     <string name="camera_introduction">Puede usar la cámara para tomar fotos y grabar videos.</string>
+    <string name="carousel_cookies_content"><Data>Cuando pulses sobre imágenes e historias en el Carrusel de Fondos de Pantalla, se abrirán sus versiones completas en el navegador. entonces, el proveedor de contenido de terceros puede recomendar contenido adicional y mostrar anuncios adaptados a tus intereses. Si aceptas esta función, instalarán cookies en el navegador, como se describe en esta &lt;a href=\"%1$s\"&gt;Política de Cookie&lt;/a&gt;. Si rechazas las cookies, el Carrusel seguirá funcionando, pero su contenido y recomendaciones podrían no ser relevantes. Puedes cambiar tus preferencias en Ajustes.</Data></string>
+    <string name="carousel_cookies_subtitle">Las cookies permiten personalizar tu contenido de la pantalla de bloqueo.</string>
+    <string name="carousel_cookies_title">Contenido personalizado y cookies</string>
+    <string name="carousel_privacy"><Data>\"Lee y acepta la Política de Privacidad de &lt;a href=\"%1$s\"&gt;nuestro proveedor de servicios externo&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de usar el Carrusel de Fondos de Pantalla\".</Data></string>
+    <string name="carousel_setting">Configurar la pantalla de bloqueo</string>
+    <string name="carousel_setting_sub">El Carrusel de Fondos de Pantalla mostrará nuevas historias cada vez que desbloquees el dispositivo</string>
     <string name="carrier_introduction_china">"Para proporcionarle mejores servicios, los procesos que se ejecutan en su dispositivo (incluyendo SystemHelper, RegService, y servicios de transportista) pueden enviar periódicamente la información relacionada con su dispositivo y tarjeta SIM (incluyendo IMEI, IMSI, MSISDN, MEID, ICCID, dirección MAC, Versión MIUI, versión Android, modelo de dispositivo y especificaciones básicas de hardware), así como información aproximada de la ubicación (incluyendo región, coordenadas, identificador de área e ID de estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratis. El transportista se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración de transportista específica prevalecerá. Consulte a su transportista en relación con el coste del uso de este servicio."</string>
+    <string name="check_box_label"><Data>\"Al activar esta función, aceptas &lt;a href=%1$s&gt;la Política de Privacidad de los Servicios de Interconexión de Xiaomi&lt;/a &gt;.\"</Data></string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="clock_introduction">Puede usar esta aplicación para ver la hora, usar el temporizador, cronómetro, consultar el reloj mundial, establecer alarmas y más.</string>
     <string name="close">Cerrar</string>
@@ -73,6 +80,8 @@
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puede usar esta aplicación para navegar, conocer las coordenadas, presión atmosférica y altitud del sitio.</string>
     <string name="congratulation_label">"¡Listo para disfrutar!​"</string>
+    <string name="congratulation_pre_label">Un momento…</string>
+    <string name="congratulation_pre_title">Preparando el sistema…</string>
     <string name="congratulation_swipe">Deslice hacia arriba para acceder al sistema</string>
     <string name="congratulation_title">Configuración completada</string>
     <string name="content_description_complete">Completado</string>
@@ -149,6 +158,36 @@
     <string name="install_preinstall_app">Cargando aplicaciones…</string>
     <string name="intent_filter_verification_service">Servicio de verificación de filtros de intentos</string>
     <string name="interconnection_communication_introduction">Los servicios de comunicación por Internet de Xiaomi le permiten descubrir, conectarse y comunicarse con otros dispositivos Xiaomi.</string>
+    <string name="interconnection_service_summary">"Los servicios de interconexión de Xiaomi permiten que tus dispositivos interactúen entre sí de manera inalámbrica. Incluyen Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share y Emisión.
+Para funcionar normalmente, necesitan conexión a Internet y la conesión de los siguientes permisos:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Activar y desactivar Wi-Fi
+\u0009\u0009Transferir elementos a través de Wi-Fi
+\u0009\u0009Grabar audio
+\u0009\u0009Transferir la reproducción de audio a dispositivos conectados o la duplicación de pantalla
+\u0009\u0009Acceder al almacenamiento
+\u0009\u0009Transferir y recibir archivos de forma inalámbrica
+\u0009\u0009Mi Share:
+\u0009\u0009Acceder y guardar archivos y fotos en el dispositivo
+\u0009\u0009Transferir y recibir archivos de forma inalámbrica
+\u0009\u0009Acceder a la ubicación
+\u0009\u0009Transferir elementos a dispositivos cercanos a través de Wi-Fi y Bluetooth
+\u0009\u0009Activar y desactivar Bluetooth
+\u0009\u0009Encontrar dispositivos cercanos
+\u0009\u0009Activar y desactivar Wi -Fi
+\u0009\u0009Encontrar dispositivos cercanos y transferir archivos de forma inalámbrica
+\u0009\u0009Conectar a dispositivos cercanos
+\u0009\u0009Emisión:
+\u0009\u0009Activar y desactivar Bluetooth
+\u0009\u0009Encontrar dispositivos cercanos
+\u0009\u0009Activar y desactivar Wi-Fi
+\u0009\u0009Acceder a la ubicación
+\u0009\u0009Obtener información sobre dispositivos cercanos
+\u0009\u0009Grabar audio
+\u0009\u0009Transferir la reproducción de audio a dispositivos conectados
+Si no aceptas conceder estos permisos, no podrás utilizar los Servicios de interconexión de Xiaomi.
+Las características están sujetas a cambios. Algunas pueden no estar disponibles en todos los dispositivo o en todas las versiones del sistema. Consulta el sitio web de MIUI (www.miui.com) para comprobar la disponibilidad."</string>
+    <string name="interconnection_service_title">Servicios de Interconexión de Xiaomi</string>
     <string name="item_contents_wwarning">"Si su dispositivo se pierde, no podrá evitar que otras personas lo usen y accedan a sus datos a menos que establezca un bloqueo de pantalla. ¿Saltar de todos modos?"</string>
     <string name="item_facerecognition">Desbloqueo facial</string>
     <string name="item_fingerprint">Huella dactilar</string>
@@ -163,7 +202,7 @@
     <string name="locale_picker_other_locale_title">Más regiones</string>
     <string name="locale_picker_title">Seleccione su región</string>
     <string name="location_content">De acuerdo con la ley, los operadores de telefonía móvil pueden obtener la información de ubicación de los dispositivos móviles para cumplir con los requisitos de las agencias de rescate de emergencia (departamentos de bomberos y la policía) que persiguen propósitos de seguridad y rescate de emergencia.</string>
-    <string name="location_introduction">Los servicios de localización utilizan posicionamiento para proporcionar servicios específicos de ubicación.</string>
+    <string name="location_introduction">Los servicios de ubicación proporcionan una serie de prestaciones basadas en tu localización.</string>
     <string name="location_introduction_qcom">Los servicios de localización utilizan posicionamiento para proporcionar servicios específicos de ubicación. Cuando tu dispositivo utiliza servicios de ubicación, el módulo QCC se conectará a la red para acelerar el proceso de posicionamiento.</string>
     <string name="location_location">Las agencias de emergencia pueden obtener su ubicación actual a pedido</string>
     <string name="lockscreen_introduction">El Carrusel de fondos de pantalla le permite obtener diariamente nuevas imágenes en la pantalla de bloqueo.</string>
@@ -408,7 +447,6 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="pref_title_data_slot">Tarjeta SIM de datos preferida</string>
     <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
-    <string name="preinstall_tips">Preparando…</string>
     <string name="privacy_content_one">"Las recomendaciones de Wallpaper Carousel están impulsadas por Taboola, nuestro proveedor de contenido externo de confianza. Para proporcionar este contenido, Taboola necesita acceder y almacenar datos no personales de su dispositivo, incluido el idioma del sistema y el tipo de navegador. Usted puede aprender cómo Taboola utiliza los datos recogidos en la Taboola &lt;a href =%1$s&gt;Política de privacidad&lt;/a&gt; y &lt;a href =%2$s&gt;Acuerdo de usuario&lt;/a&gt;. Lea y acepte los términos y condiciones proporcionados en estos documentos antes de continuar. Si no está de acuerdo, los servicios de Wallpaper Carousel se desactivarán."</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_provision_more">Aprende más sobre la protección de privacidad</string>

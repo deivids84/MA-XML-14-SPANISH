@@ -68,7 +68,7 @@
     <string name="already_newest_version">Estás usando la última versión de MIUI</string>
     <string name="am">AM</string>
     <string name="anonymous_resource_link_error">"No se pudo añadir"</string>
-    <string name="anonymous_resource_link_hint">"Algunos elementos no se agregan a su cuenta. ¿Añadir ahora?"</string>
+    <string name="anonymous_resource_link_hint">"Algunos elementos no se han añadido a tu cuenta. ¿Añadir ahora?"</string>
     <string name="anonymous_resource_link_now">Añadir</string>
     <string name="anonymous_resource_link_retry">Ha ocurrido un error. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="anonymous_resource_link_retry_cancel">Cancelar</string>
@@ -102,7 +102,7 @@
     <string name="apply_sensor_video_wallpaper_dialog_message">Este fondo se aplicará a las pantallas de bloqueo interior y exterior y a las pantallas de inicio.</string>
     <string name="apply_succeed">Aplicado</string>
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
-    <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre Encendida con los temas en este dispositivo. El resto de componentes de este tema se han aplicado."</string>
+    <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre encendida con los temas del dispositivo. El resto de componentes del tema se han aplicado."</string>
     <string name="apply_theme_with_ringtones">Aplicar tema con tonos</string>
     <string name="apply_wallpaper_after_three_theme">"Estás usando un tema de terceros. Al cambiar el fondo de la pantalla de bloqueo, es posible que el estilo del reloj de la pantalla de bloqueo se restablezca al estilo por defecto. ¿Aplicar?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo, y la pantalla siempre encendida volverá a su configuración anterior. ¿Aplicar?"</string>
@@ -162,7 +162,7 @@
     <string name="common_downloading">Descargando…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Saltar</string>
-    <string name="community_community_message_trigger_summary">Reciba notificaciones sobre respuestas, Me gusta y actualizaciones de estado de Mi Community usando su ID de Mi Cuenta</string>
+    <string name="community_community_message_trigger_summary">Recibe notificaciones, usando tu ID de cuenta, desde la Comunidad Mi sobre respuestas y \"likes\"</string>
     <string name="community_community_message_trigger_title">Notificar sobre actividad</string>
     <string name="community_cta_dialog_cancel">No, gracias</string>
     <string name="community_cta_dialog_des">Los temas de terceros ahora son compatibles con el widget Mi Community. Permita que Themes acceda a su ID de Mi Cuenta y los estados de Mi Comunidad asociados con la cuenta para poder verlos aquí.</string>
@@ -289,6 +289,7 @@
     <string name="download_failed">"No se puede descargar"</string>
     <string name="download_preview_failed">"No puede cargarse la vista previa"</string>
     <string name="download_success">Descarga terminada</string>
+    <string name="dynamic_large_icon_not_support_current_type">"%s no es compatible con el icono dinámico"</string>
     <string name="dynamic_video_wallpaper">Fondo de pantalla 24H</string>
     <string name="early_morning">Mañana</string>
     <string name="enable_all_free_mode">Canjear</string>
@@ -337,7 +338,7 @@
     <string name="exo_download_notification_channel_name">Descargas</string>
     <string name="exo_download_paused">Descargas pausadas</string>
     <string name="exo_download_paused_for_network">Descargas en espera de red</string>
-    <string name="exo_download_paused_for_wifi">Descargas en espera de WiFi</string>
+    <string name="exo_download_paused_for_wifi">Descargas esperando por Wi-Fi</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alterno</string>
@@ -418,6 +419,7 @@
     <string name="has_mamual_hide_aod">Este elemento está oculto ahora</string>
     <string name="has_mamual_hide_font">Ocultos</string>
     <string name="has_mamual_hide_icons">Iconos ocultos</string>
+    <string name="has_mamual_hide_large_icons">Supericono ocultado</string>
     <string name="has_mamual_hide_theme">Ocultos</string>
     <string name="has_mamual_hide_wallpaper">Ocultos</string>
     <string name="head_portraits">Foto de perfil</string>
@@ -431,6 +433,7 @@
     <string name="hide_mamual_hide_aod">"No mostrar elementos ocultos manualmente"</string>
     <string name="hide_mamual_hide_font">"No mostrar fuentes ocultas"</string>
     <string name="hide_mamual_hide_icons">"No mostrar iconos ocultos manualmente"</string>
+    <string name="hide_mamual_hide_large_icons">"No mostrar los supericonos ocultos"</string>
     <string name="hide_mamual_hide_miwallpaper">"No mostrar efectos ocultos en la pantalla de inicio"</string>
     <string name="hide_mamual_hide_theme">"No mostrar temas ocultos"</string>
     <string name="hide_mamual_hide_wallpaper">"No mostrar fondos de pantalla ocultos"</string>
@@ -452,7 +455,7 @@
     <string name="incall_show_apply_fail">"No se pudo establecer"</string>
     <string name="incall_show_apply_success">Aplicado</string>
     <string name="incall_show_apply_success_without_ringtone">"Aplicado. Como este vídeo no tiene sonido se utilizará el tono original.
-Para desactivar esto, vete a Ajustes, Sonido y vibración, Perfil de vídeo."</string>
+Para desactivar esto, vete a Ajustes &gt; Sonido y vibración &gt; Perfil de vídeo."</string>
     <string name="incall_show_find_more">Encontrar más</string>
     <string name="incall_show_not_set">No hay videos de perfil</string>
     <string name="incall_show_remove">Eliminar video de perfil</string>
@@ -477,6 +480,28 @@ Para desactivar esto, vete a Ajustes, Sonido y vibración, Perfil de vídeo."</s
     <string name="kuyin_user_agreement_content_href">Política de privacidad de iFlytek</string>
     <string name="lab">Características experimentales</string>
     <string name="label">Etiqueta</string>
+    <string name="large_icon_apply_fail_for_in_dock">"No se puede usar supericonos en el cajón de aplicaciones"</string>
+    <string name="large_icon_apply_fail_for_in_folder">"No se puede usar supericonos en las carpetas"</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">"Los supericonos no son compatibles con el modo Lite"</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"No se puede usar supericonos para aplicaciones que no estén en la pantalla de inicio"</string>
+    <string name="large_icon_detail_title">%s supericonos</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Supericonos</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Iconos predeterminados</string>
+    <string name="large_icon_detail_warning_dialog_msg">"Algunas aplicaciones usan supericonos. ¿Seguir con ellos o restaurar los iconos predeterminados del tema?"</string>
+    <string name="large_icon_detail_warning_dialog_title">Ajustes de supericonos</string>
+    <string name="large_icon_no_more">Nada aquí aún</string>
+    <string name="large_icon_no_network">"No es posible conectar a la red"</string>
+    <string name="large_icon_not_support">"No se puede establecer iconos para %s"</string>
+    <string name="large_icon_not_support_current_type">"%s no es compatible con este icono"</string>
+    <string name="large_icon_official">Predeterminado</string>
+    <string name="large_icon_picker_haven">Iconos disponibles</string>
+    <string name="large_icon_picker_more">Más</string>
+    <string name="large_icon_picker_size">Tamaño del icono</string>
+    <string name="large_icon_theme">Temas</string>
+    <string name="large_icon_to_find_more">Ver más</string>
+    <string name="large_icon_warning_install">Instalar</string>
+    <string name="large_icon_warning_not_install">Instalar %s</string>
+    <string name="large_icon_warning_not_install_msg">Instala %s para usar un supericono. ¿Instalar?</string>
     <string name="like_list">Mis gustos</string>
     <string name="live_wallpaper">Fondo de pantalla animado</string>
     <string name="load_from_local_photos">Galería</string>
@@ -486,7 +511,7 @@ Para desactivar esto, vete a Ajustes, Sonido y vibración, Perfil de vídeo."</s
     <string name="loading_resource_detail_info">Un momento…</string>
     <string name="local_mode">Modo sin conexión</string>
     <string name="local_mode_close">¿Desactivar modo sin conexión?</string>
-    <string name="local_mode_close_desc">Desactive el modo sin conexión si desea utilizar los servicios en línea. ¿Desactivar ahora?</string>
+    <string name="local_mode_close_desc">Desactiva el modo sin conexión para usar los servicios en línea. ¿Desactivar ahora?</string>
     <string name="local_mode_desc">"El modo sin conexión solo usa contenido local y no usa servicios en línea"</string>
     <string name="local_mode_hint">"Estás usando el modo sin conexión.
 Toca para desactivar."</string>
@@ -817,7 +842,7 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
 Siempre que utilice los elementos almacenados en este dispositivo para personalizarlos (por ejemplo, configurarlos como fondos de pantalla o tonos de llamada), le pediremos que permita que esta aplicación acceda al almacenamiento del dispositivo."</string>
     <string name="privacy_permission_management_description">Detalles de permisos</string>
     <string name="privacy_permission_related_content">Permisos</string>
-    <string name="privacy_permit_privacy_policy_content">"No podrá seguir usando nuestro a menos que esté de acuerdo con la nueva versión de &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="privacy_permit_privacy_policy_content">"No podrás seguir usando nuestro sistema a menos que aceptes la nueva versión de &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt;. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="privacy_phone_important_prompt_content">"Parece que aún no ha aceptado nuestro Acuerdo de usuario y nuestra Política de privacidad. Sin embargo, las funciones y servicios básicos de Temas siguen estando disponibles.
 Siempre que utilice los elementos almacenados en este dispositivo para personalizarlos (por ejemplo, configurarlos como fondos de pantalla o tonos de llamada), le pediremos que permita que esta aplicación acceda al almacenamiento del dispositivo."</string>
     <string name="privacy_phone_logoff_service_content">Cancelar servicios de Temas</string>
@@ -1201,6 +1226,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="show_mamual_hide_aod">Mostrar elementos ocultos manualmente</string>
     <string name="show_mamual_hide_font">Mostrar fuentes ocultas</string>
     <string name="show_mamual_hide_icons">Mostrar iconos ocultos manualmente</string>
+    <string name="show_mamual_hide_large_icons">Mostrar supericonos ocultos</string>
     <string name="show_mamual_hide_miwallpaper">Mostrar efectos ocultos en la pantalla de inicio</string>
     <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
     <string name="show_mamual_hide_wallpaper">Mostrar fondos de pantalla ocultos</string>
@@ -1298,6 +1324,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="theme_component_title_framework">Bordes</string>
     <string name="theme_component_title_homepage">Inicio</string>
     <string name="theme_component_title_icon">Iconos</string>
+    <string name="theme_component_title_large_icon">Supericonos</string>
     <string name="theme_component_title_launcher">Bandeja de favoritos</string>
     <string name="theme_component_title_lockstyle">Estilo de bloqueo</string>
     <string name="theme_component_title_lockwallpaper">Pantalla de bloqueo</string>
@@ -1393,7 +1420,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="transparency_pref_summary">Elige qué tan transparente quieres que sea tu fondo de pantalla</string>
     <string name="transparency_pref_title">Nivel de opacidad</string>
     <string name="transparent_wallpaper">Fondo transparente</string>
-    <string name="transparent_wallpaper_apply_success">"Establecido. Puedes desactivar esto en Temas &gt; Perfil &gt; Características beta."</string>
+    <string name="transparent_wallpaper_apply_success">"Establecido. Puedes desactivarlo en Temas &gt; Mi cuenta &gt; Laboratorio de temas."</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">Siga usando fondos de pantalla transparentes después de reiniciar su dispositivo</string>
     <string name="transparent_wallpaper_auto_start_pref_title">Inicio automático</string>
     <string name="transparent_wallpaper_disable">Desactivado</string>

@@ -126,7 +126,7 @@ Remite este código al supervisor."</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="mibi_account_disable_dialog_btn_negative">Cancelar</string>
     <string name="mibi_account_disable_dialog_btn_positive">Activar</string>
-    <string name="mibi_account_disable_dialog_msg">Para usar MiCoin, necesitas iniciar sesión en tu cuenta Xiaomi. Activa el servicio de cuenta Xiaomi en Ajustes - Administración de Aplicaciones.</string>
+    <string name="mibi_account_disable_dialog_msg">Para usar MiCoin, necesitas iniciar sesión en tu cuenta Xiaomi. Activa el servicio de cuenta Xiaomi en los ajustes de la aplicación.</string>
     <string name="mibi_account_disable_dialog_title">Aviso</string>
     <string name="mibi_all_license_message">"Está a punto de utilizar Mi Coin, que es un servicio proporcionado por Xiaomi Inc. Antes de poder utilizar este servicio, debe aceptar los Términos de servicio. Toque Aceptar si está de acuerdo con los términos y condiciones descritos en %1$s y %2$s. Debe conectarse a Internet, ubicar su dispositivo para usar Mi Coin."</string>
     <string name="mibi_all_purpose">Te damos la bienvenida a MiCoin. Puedes usar esta aplicación para recargar MiCoin, revisar tus tarjetas de regalo, etc.</string>
@@ -372,7 +372,7 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_paytool_error_install">No se pudo instalar el complemento de seguridad móvil %1$s</string>
     <string name="mibi_paytool_error_msp">%1$s falló</string>
     <string name="mibi_paytool_mipay">pago airstar</string>
-    <string name="mibi_paytool_msp_not_installed">No ha instalado el complemento de seguridad móvil %1$s , ¿instalarlo ahora?</string>
+    <string name="mibi_paytool_msp_not_installed">No has instalado el complemento %1$s de seguridad móvil. ¿Instalarlo?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_wechat_return_cancel">Cancelar devolución de WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Permite que la cámara use las funciones, en Ajustes.</string>

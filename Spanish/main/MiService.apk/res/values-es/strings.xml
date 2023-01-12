@@ -79,7 +79,7 @@
     <string name="miui_feedback_answer_detail_title">Detalles</string>
     <string name="miui_feedback_edit_action_submit">Enviar</string>
     <string name="miui_feedback_edit_add_original_images">Añadir foto</string>
-    <string name="miui_feedback_edit_add_original_images_dialog_content">"Si el problema que estás reportando está relacionado con la calidad de imagen de la cámara, añade un foto original como muestra (sin recortar) para ayudarnos a localizar el problema. ¿Añadir la foto ahora?"</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">"Si el problema del que estás informando se relaciona con la calidad de imagen de la cámara, añade una foto original como muestra (sin recortar) para ayudar a localizar el problema. ¿Añadir la foto?"</string>
     <string name="miui_feedback_edit_choose_module">Seleccionar elemento</string>
     <string name="miui_feedback_edit_choose_module_hint">Requerido</string>
     <string name="miui_feedback_edit_choose_occurrence_time">Hora</string>
@@ -136,7 +136,6 @@
     <string name="miui_feedback_edit_toast_module_required">Seleccionar elemento</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Tu descripción debe ser más larga</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Seleccionar categoría</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">"No se pueden subir imágenes o vídeos mayores de 100MB"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Introduce el nombre de la aplicación</string>
     <string name="miui_feedback_main_answer_title">"Hay una respuesta para esta pregunta"</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"Línea directa de servicio: 0120-300-521
@@ -364,7 +363,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="user_must_known">Atención</string>
-    <string name="user_must_known_content">"No podrá seguir utilizando nuestros servicios a menos que esté de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="user_must_known_content">"No podrás seguir usando nuestros servicios si no estás de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de Privacidad actualizada?"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="wednesday">Miércoles</string>

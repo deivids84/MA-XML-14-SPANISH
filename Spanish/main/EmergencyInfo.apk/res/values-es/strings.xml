@@ -36,7 +36,7 @@
     <string name="accessibility_data_signal_full">Señal de datos llena.</string>
     <string name="accessibility_data_three_bars">Tres barras de datos.</string>
     <string name="accessibility_data_two_bars">Dos barras de datos.</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Ajusta cómo se muestran los colores en tu dispositivo. Esto puede ser útil cuando desee:&lt;br/&gt;&lt;br/&gt; &lt;ol&gt; &lt;li&gt;&amp;nbsp;Ver los colores con mayor precisión&lt;/li&gt; &lt;li&gt;&amp;nbsp;Eliminar colores para ayudarlo a concentrarse&lt;/li&gt; &lt;/ol&gt;</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">La corrección de color puede ser útil si deseas:&lt;br/&gt; &lt;ol&gt; &lt;li&gt;&amp;nbsp;Ver los colores con mayor precisión&lt;/li&gt; &lt;li&gt;&amp;nbsp;Eliminar los colores para una mejor concentración&lt;/li&gt; &lt;/ol&gt;</string>
     <string name="accessibility_display_daltonizer_preference_title">Corrección de color</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
@@ -93,6 +93,7 @@
     <string name="adbwifi_warning_message">La depuración inalámbrica está destinada únicamente a fines de desarrollo. Puedes usarla para copiar datos entre un ordenador y tu dispositivo, instalar aplicaciones en el dispositivo y leer anotaciones de registro.</string>
     <string name="adbwifi_warning_title">¿Permitir la depuración inalámbrica?</string>
     <string name="add_emergency_contact">Agregar contacto</string>
+    <string name="add_guest_failed">Error al crear un nuevo invitado</string>
     <string name="add_medical_info">Añadir información</string>
     <string name="add_user_failed">No se pudo crear un nuevo usuario</string>
     <string name="address">Dirección</string>
@@ -104,25 +105,32 @@
 Con este permiso desactivado, las alarmas existentes y los eventos basados en el tiempo programados por esta aplicación no funcionarán."</string>
     <string name="alarms_and_reminders_label">Alarmas y recordatorios</string>
     <string name="alarms_and_reminders_switch_title">Permitir configurar alarmas y recordatorios</string>
-    <string name="alarms_and_reminders_title">Alarmas &amp; recordatorios</string>
+    <string name="alarms_and_reminders_title">Alarmas y recordatorios</string>
     <string name="allergies">Alergias</string>
     <string name="allergies_hint">Por ejemplo, nueces</string>
     <string name="allow_mock_location">Permitir ubicaciones falsas</string>
     <string name="allow_mock_location_summary">Permitir ubicaciones falsas</string>
+    <string name="allow_turn_screen_on">Permitir encender la pantalla</string>
+    <string name="allow_turn_screen_on_description">Permite que una aplicación encienda la pantalla. En este caso, puede activar la pantalla en cualquier momento sin tu intervención.</string>
     <string name="animator_duration_scale_title">Escala de duración del animador</string>
     <string name="apn_settings_not_available">La configuración del nombre del punto de acceso no está disponible para este usuario</string>
     <string name="app_label">Información de emergencia</string>
     <string name="app_process_limit_title">Límite de proceso en segundo plano</string>
     <string name="available_via_carrier">Disponible a través de %1$s</string>
     <string name="available_via_passpoint">Disponible a través de %1$s</string>
+    <string name="avatar_picker_title">Elige una foto de perfil</string>
     <string name="b_negative">B negativo</string>
     <string name="b_positive">B positivo</string>
+    <string name="back_navigation_animation">Animaciones de retroceso predictivas</string>
+    <string name="back_navigation_animation_dialog">Activar animaciones del sistema para los gestos predictivos. Necesita establecer enableOnBackInvokedCallback en la aplicación en el archivo de manifiesto.</string>
+    <string name="back_navigation_animation_summary">Activa la animación de retroceso predictiva.</string>
     <string name="battery_info_status_charging">Cargando</string>
     <string name="battery_info_status_charging_fast">Cargando rápidamente</string>
     <string name="battery_info_status_charging_slow">Cargando lentamente</string>
     <string name="battery_info_status_charging_wireless">Cargando de forma inalámbrica</string>
     <string name="battery_info_status_discharging">Sin cargar</string>
     <string name="battery_info_status_full">Cargado</string>
+    <string name="battery_info_status_full_charged">Completamente cargado</string>
     <string name="battery_info_status_not_charging">Conectado, sin cargar</string>
     <string name="battery_info_status_unknown">Desconocido</string>
     <string name="blob_expires_text">Caduca a las %s</string>
@@ -135,6 +143,8 @@ Con este permiso desactivado, las alarmas existentes y los eventos basados en el
     <string name="bluetooth_active_no_battery_level">Activo</string>
     <string name="bluetooth_battery_level">%1$s batería</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s batería, R: %2$s batería</string>
+    <string name="bluetooth_bc_profile_summary_connected">Conectado al servidor BA</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Usado para BA</string>
     <string name="bluetooth_connected">Conectado%1$s</string>
     <string name="bluetooth_connected_battery_level">Conectado, batería %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Conectado (sin medios)%1$s</string>
@@ -149,18 +159,21 @@ Con este permiso desactivado, las alarmas existentes y los eventos basados en el
     <string name="bluetooth_disable_absolute_volume_summary">Desactiva la función de volumen absoluto de Bluetooth en caso de problemas de volumen con dispositivos remotos, como un volumen inaceptablemente alto o falta de control.</string>
     <string name="bluetooth_disconnected">Desconectado</string>
     <string name="bluetooth_disconnecting">Desconectando…</string>
+    <string name="bluetooth_dun_profile_summary_connected">Conectado al servidor Dun</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Usado para acceso telefónico a redes</string>
     <string name="bluetooth_enable_gabeldorsche">Activar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita la pila de funciones de Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del dispositivo</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usar para audio del dispositivo</string>
+    <string name="bluetooth_hearing_aid_left_active">Activo, solo el izquierdo</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">Activo, derecho e izquierdo</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a audífonos</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Uso para audífonos</string>
-    <string name="bluetooth_hearingaid_left_battery_level">Izquierda - %1$s batería</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">Emparejamiento del audífono izquierdo…</string>
-    <string name="bluetooth_hearingaid_right_battery_level">Derecha - %1$s batería</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">Emparejamiento del audífono derecho…</string>
+    <string name="bluetooth_hearing_aid_right_active">Activo, solo el derecho</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado al dispositivo de entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usar para entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Conectado a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Usar para LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Conectado al mapa</string>
     <string name="bluetooth_map_profile_summary_use_for">Usar para mapa</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectado al servidor de transferencia de archivos</string>
@@ -181,9 +194,13 @@ Con este permiso desactivado, las alarmas existentes y los eventos basados en el
     <string name="bluetooth_profile_a2dp">Audio multimedia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
+    <string name="bluetooth_profile_bc">Perfil BC</string>
+    <string name="bluetooth_profile_broadcast">Transmisión</string>
+    <string name="bluetooth_profile_dun">Acceso telefónico a redes</string>
     <string name="bluetooth_profile_headset">Llamadas telefónicas</string>
     <string name="bluetooth_profile_hearing_aid">Audífonos</string>
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
+    <string name="bluetooth_profile_le_audio">IE_UDIO</string>
     <string name="bluetooth_profile_map">Mensajes de texto</string>
     <string name="bluetooth_profile_opp">Transferencia de archivos</string>
     <string name="bluetooth_profile_pan">Acceso a Internet</string>
@@ -191,6 +208,7 @@ Con este permiso desactivado, las alarmas existentes y los eventos basados en el
     <string name="bluetooth_profile_pbap">Compartir contacto</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartir contactos</string>
     <string name="bluetooth_profile_sap">Acceso SIM</string>
+    <string name="bluetooth_profile_vcp">Control de volumen</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Usar para acceso a SIM</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth: Bits por muestra de audio</string>
@@ -218,6 +236,7 @@ Selección"</string>
     <string name="bluetooth_show_devices_without_names_summary">Se mostrarán los dispositivos Bluetooth sin nombre (solo direcciones MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Ordenador</string>
+    <string name="bluetooth_talkback_group">Grupo de dispositivos</string>
     <string name="bluetooth_talkback_headphone">Auricular</string>
     <string name="bluetooth_talkback_headset">Auriculares</string>
     <string name="bluetooth_talkback_imaging">Imagen</string>
@@ -226,9 +245,12 @@ Selección"</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
     <string name="bt_hci_snoop_log">Habilitar el registro de inspección de HCI de Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Capture paquetes de Bluetooth. (Alternar Bluetooth después de cambiar esta configuración)</string>
+    <string name="bt_le_audio_broadcast_dialog_different_output">Cambiar salida</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">Si transmites %1$s o cambias la salida, la transmisión actual se detendrá</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Transmisión de %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">¿Detener la transmisión de %1$s?</string>
     <string name="bugreport_in_power">Atajo de informe de error</string>
     <string name="bugreport_in_power_summary">Mostrar un botón en el menú de energía para realizar un informe de errores</string>
-    <string name="button_convert_fbe">Limpiar y convertir…</string>
     <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Dispositivo predeterminado</string>
     <string name="cached_apps_freezer_disabled">Discapacitado</string>
@@ -258,15 +280,9 @@ Selección"</string>
     <string name="connected_via_network_scorer_default">Conectado automáticamente a través del proveedor de clasificación de red</string>
     <string name="connected_via_passpoint">Conectado a través de %1$s</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="convert_to_fbe_warning">"Convierte la partición de datos en cifrado basado en archivos.
- !! Atención !! Esto borrará todos tus datos.
- Esta función está en desarrollo y puede no funcionar correctamente.
- Pulsa 'Limpiar y convertir…' para continuar."</string>
-    <string name="convert_to_file_encryption">Convertir a cifrado de archivos</string>
-    <string name="convert_to_file_encryption_done">Archivo ya cifrado</string>
-    <string name="convert_to_file_encryption_enabled">Convertir…</string>
     <string name="copy">Copiar</string>
     <string name="countdown_text_content_description">{seconds_left, plural, =1 {1 second} other {# seconds} }</string>
+    <string name="creating_new_guest_dialog_message">Creando nuevo invitado…</string>
     <string name="creating_new_user_dialog_message">Creando nuevo usuario…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rojo-verde)</string>
     <string name="daltonizer_mode_disabled">Deshabilitado</string>
@@ -306,6 +322,7 @@ Selección"</string>
     <string name="debug_monitoring_category">Monitoreo</string>
     <string name="debug_networking_category">Redes</string>
     <string name="debug_view_attributes">Habilitar la inspección de atributos de vista</string>
+    <string name="default_user_icon_description">Icono de usuario predeterminado</string>
     <string name="delete_blob_confirmation_text">¿Está seguro de que desea eliminar estos datos compartidos?</string>
     <string name="delete_blob_text">Eliminar datos compartidos</string>
     <string name="dev_logpersist_clear_warning_message">Cuando ya no estemos monitoreando con el registrador persistente, debemos borrar los datos del registrador residentes en su dispositivo.</string>
@@ -322,6 +339,13 @@ Selección"</string>
     <string name="disabled">Deshabilitado</string>
     <string name="disabled_by_admin">Desahabilitado por el administrador</string>
     <string name="disabled_by_admin_summary_text">Controlado por el administrador</string>
+    <string name="disabled_by_app_ops_text">Controlado por ajustes restringidos</string>
+    <string name="done">Hecho</string>
+    <string name="dream_complication_title_aqi">Calidad del aire</string>
+    <string name="dream_complication_title_cast_info">Información del reparto</string>
+    <string name="dream_complication_title_date">Fecha</string>
+    <string name="dream_complication_title_time">Hora</string>
+    <string name="dream_complication_title_weather">Clima</string>
     <string name="edit_info">Editar información de emergencia</string>
     <string name="emergency_action_subtitle">Preparando una llamada a %1$s</string>
     <string name="emergency_action_title">SOS de emergencia</string>
@@ -352,6 +376,10 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="fail_add_contact">No se puede leer la información de contacto correctamente</string>
     <string name="fail_display_contact">"No se puede mostrar el contacto"</string>
     <string name="fail_load_contact_picker">"No se pudo encontrar un selector de contactos"</string>
+    <string name="failed_attempts_now_wiping_device">"Demasiados intentos incorrectos. Los datos del dispositivo serán eliminados."</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Descartar</string>
+    <string name="failed_attempts_now_wiping_profile">Demasiados intentos incorrectos. El perfil de trabajo y sus datos serán eliminados.</string>
+    <string name="failed_attempts_now_wiping_user">Demasiados intentos incorrectos. El usuario será eliminado.</string>
     <string name="failed_to_open_app_settings_toast">No se pudo abrir la configuración de %1$s</string>
     <string name="force_allow_on_external">Permitir aplicaciones externas</string>
     <string name="force_allow_on_external_summary">Hace que cualquier aplicación sea elegible para ser escrita en un almacenamiento externo, independientemente de los valores de manifiesto</string>
@@ -363,7 +391,8 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="force_rtl_layout_all_locales_summary">Forzar la dirección del diseño de la pantalla a RTL para todas las configuraciones regionales</string>
     <string name="guest_exit_guest">Eliminar invitado</string>
     <string name="guest_new_guest">Agregar invitado</string>
-    <string name="guest_nickname">Invitado</string>
+    <string name="guest_remove_guest_confirm_button">Eliminar</string>
+    <string name="guest_remove_guest_dialog_title">¿Eliminar invitado?</string>
     <string name="guest_reset_guest">Restablecer invitado</string>
     <string name="guest_reset_guest_confirm_button">Reiniciar</string>
     <string name="guest_reset_guest_dialog_title">¿Restablecer invitado?</string>
@@ -387,6 +416,8 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="item_view_role_description">Pestaña</string>
     <string name="keep_screen_on">Mantente despierto</string>
     <string name="keep_screen_on_summary">La pantalla nunca se pondrá en modo receso mientras se carga</string>
+    <string name="keyboard_layout_default_label">Predeterminada</string>
+    <string name="keyboard_layout_dialog_title">Elegir el diseño del teclado</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
     <string name="keywords_alarms_and_reminders">horario, alarma, recordatorio, reloj</string>
     <string name="launch_defaults_none">No se establecieron valores predeterminados</string>
@@ -412,7 +443,7 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="material_timepicker_select_time">Seleccionar hora</string>
     <string name="material_timepicker_text_input_mode_description">Cambia al modo de entrada de texto para la entrada de tiempo.</string>
     <string name="media_category">Multimedia</string>
-    <string name="media_transfer_this_device_name">Altavoz del dispositivo</string>
+    <string name="media_transfer_this_device_name">Este dispositivo</string>
     <string name="media_transfer_this_phone">Este teléfono</string>
     <string name="media_transfer_wired_device_name">Dispositivo de audio con cable</string>
     <string name="media_transfer_wired_usb_device_name">Auriculares con cable</string>
@@ -457,6 +488,7 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
     <string name="mtrl_picker_date_header_title">Seleccione fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
@@ -478,6 +510,7 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="mtrl_picker_toggle_to_day_selection">Pulsa para cambiar a la selección de un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Pulsa para cambiar a la selección de un año</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="name">Nombre</string>
     <string name="no">No</string>
     <string name="no_application">Nada</string>
@@ -498,6 +531,7 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="osu_sign_up_failed">No se pudo completar el registro. Pulsa para intentarlo otra vez.</string>
     <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="physical_keyboard_title">Teclado físico</string>
     <string name="picture_color_mode">Modo de color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pointer_location">Posición del puntero</string>
@@ -598,9 +632,12 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="storage_category">Almacenamiento</string>
     <string name="strict_mode">Modo estricto activado</string>
     <string name="strict_mode_summary">Pantalla flash cuando las aplicaciones realizan operaciones largas en el hilo principal</string>
+    <string name="sud_back_button_label">Atrás</string>
+    <string name="sud_more_button_label">Más</string>
+    <string name="sud_next_button_label">Siguiente</string>
     <string name="tab_title_contacts">Contactos</string>
     <string name="tab_title_info">Información</string>
-    <string name="tap_pencil">Si este dispositivo es tuyo, pulsa el ícono del lápiz para añadir la información a mostrar en caso de emergencia</string>
+    <string name="tap_pencil">Con el dispositivo desbloqueado, toca el icono del lápiz para añadir información que se mostrará aquí en caso de emergencia</string>
     <string name="tap_to_sign_up">Pulsa para registrarte</string>
     <string name="tether_settings_title_all">Anclaje a red &amp; punto de acceso portátil</string>
     <string name="tether_settings_title_bluetooth">Anclaje a red Bluetooth</string>
@@ -611,7 +648,6 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="tethering_hardware_offload_summary">Utilice la aceleración de hardware de anclaje si está disponible</string>
     <string name="tethering_settings_not_available">La configuración de anclaje no está disponible para este usuario</string>
     <string name="time_unit_just_now">Ahora mismo</string>
-    <string name="title_convert_fbe">Conversión a cifrado basado en archivos</string>
     <string name="track_frame_time">Representación de perfil HWUI</string>
     <string name="transcode_default">Soportar formatos modernos</string>
     <string name="transcode_disable_cache">Desactivar la caché</string>
@@ -648,6 +684,7 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="tts_status_ok">%1$s es totalmente compatible</string>
     <string name="tts_status_requires_network">%1$s requiere conexión a la red</string>
     <string name="tts_status_title">Estado de idioma predeterminado</string>
+    <string name="turn_screen_on_title">Encender la pantalla</string>
     <string name="unknown">Desconocido</string>
     <string name="unknown_address">Desconocido</string>
     <string name="unknown_allergies">Desconocido</string>
@@ -662,6 +699,7 @@ Cualquiera puede leer esta información desde la pantalla de bloqueo y llamar a 
     <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas del sistema</string>
     <string name="user_add_profile_item_summary">Puede restringir el acceso a aplicaciones y contenido desde su cuenta</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
+    <string name="user_add_user">Añadir usuario</string>
     <string name="user_add_user_item_summary">Los usuarios tienen sus propias aplicaciones y contenido</string>
     <string name="user_add_user_item_title">Usuario</string>
     <string name="user_add_user_message_long">"Puedes compartir este dispositivo con otras personas creando usuarios adicionales. Cada usuario tiene su propio espacio, que puede personalizar con aplicaciones, fondos de pantalla, etc. Los usuarios también pueden hacer ajustes del dispositivo, como Wi-Fi, que afectan a todos.
@@ -674,7 +712,6 @@ Cualquier usuario puede actualizar aplicaciones para todos los demás usuarios. 
 Cualquier usuario puede actualizar aplicaciones para todos los demás usuarios."</string>
     <string name="user_add_user_title">¿Añadir nuevo usuario?</string>
     <string name="user_add_user_type_title">Agregar</string>
-    <string name="user_guest">Invitado</string>
     <string name="user_image_choose_photo">Elige una imagen</string>
     <string name="user_image_photo_selector">Seleccionar foto</string>
     <string name="user_image_take_photo">Tomar una foto</string>
@@ -706,7 +743,7 @@ Cualquier usuario puede actualizar aplicaciones para todos los demás usuarios."
     <string name="wapi_cert_manage_title">Gestión de certificados WAPI</string>
     <string name="wapi_cert_roaming">Conectando…</string>
     <string name="wapi_no">no</string>
-    <string name="wapi_no_vaild_cert">No hay certificados disponibles, ¿instalarlo ahora?</string>
+    <string name="wapi_no_vaild_cert">No hay certificados disponibles. ¿Instalarlo?</string>
     <string name="wapi_password_hex_format_add">El recuento de caracteres hexadecimales no puede ser un número impar</string>
     <string name="wapi_password_is_empty">El campo de la contraseña no se puede dejar en blanco</string>
     <string name="wapi_password_is_not_hex_format">Caracteres hexadecimales no válidos</string>
@@ -721,6 +758,8 @@ Cualquier usuario puede actualizar aplicaciones para todos los demás usuarios."
     <string name="wifi_check_password_try_again">Verifique la contraseña y vuelva a intentarlo</string>
     <string name="wifi_connected_low_quality">Baja calidad</string>
     <string name="wifi_connected_no_internet">Sin internet</string>
+    <string name="wifi_coverage_extend">Activar la característica de Wi-Fi Extendida</string>
+    <string name="wifi_coverage_extend_summary">Activa la ampliación de cobertura Wi-Fi mediante un punto de acceso directo</string>
     <string name="wifi_disabled_by_recommendation_provider">No conectado debido a una red de baja calidad</string>
     <string name="wifi_disabled_generic">Deshabilitado</string>
     <string name="wifi_disabled_network_failure">Error de configuración IP</string>
@@ -729,8 +768,6 @@ Cualquier usuario puede actualizar aplicaciones para todos los demás usuarios."
     <string name="wifi_disconnected">Desconectado</string>
     <string name="wifi_display_certification">Certificación de pantalla inalámbrica</string>
     <string name="wifi_display_certification_summary">Mostrar opciones para la certificación de pantallas inalámbricas</string>
-    <string name="wifi_enhanced_mac_randomization">Aleatorización MAC no persistente de Wi-Fi</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Cuando este modo está habilitado, la dirección MAC de este dispositivo puede cambiar cada vez que se conecta a una red que tiene habilitada la aleatorización de MAC.</string>
     <string name="wifi_fail_to_scan">"No puedo buscar redes"</string>
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_hotspot_switch_off_text">Apagado</string>
@@ -739,6 +776,8 @@ Cualquier usuario puede actualizar aplicaciones para todos los demás usuarios."
     <string name="wifi_metered_label">Medido</string>
     <string name="wifi_no_internet">Sin acceso a Internet</string>
     <string name="wifi_no_internet_no_reconnect">"No se conectará automáticamente"</string>
+    <string name="wifi_non_persistent_mac_randomization">MAC aleatoria para Wi‑Fi no persistente</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Con este modo activado, la dirección MAC del dispositivo puede cambiar cada vez que se conecte a una red con aleatorización MAC.</string>
     <string name="wifi_not_in_range">Fuera de rango</string>
     <string name="wifi_passpoint_expired">Caducado</string>
     <string name="wifi_remembered">Guardado</string>
@@ -766,11 +805,10 @@ Por favor, compruebe la validez de los certificados"</string>
 Es posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifi_wapi_psk_type">Tipo de contraseña</string>
     <string name="wifi_wapi_user_certificate">Certificado de usuario</string>
+    <string name="wifitrackerlib_admin_restricted_network">No permitido por tu organización</string>
     <string name="wifitrackerlib_auto_connect_disable">La conexión automática está desactivada</string>
     <string name="wifitrackerlib_available_via_app">Disponible a través de %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Conectado a través de %1$s</string>
-    <string name="wifitrackerlib_connected_via_network_scorer">Conectado automáticamente a través de %1$s</string>
-    <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automáticamente a través del proveedor de clasificación de red</string>
     <string name="wifitrackerlib_imsi_protection_warning">Esta red recibe una ID de SIM que se puede usar para rastrear la ubicación del dispositivo. <annotation id="url">Más información</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Completando el registro…</string>
     <string name="wifitrackerlib_osu_connect_failed">No se pudo conectar</string>
@@ -779,12 +817,6 @@ Es posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifitrackerlib_osu_sign_up_failed">No se pudo completar el registro. Toque para volver a intentarlo.</string>
     <string name="wifitrackerlib_private_dns_broken">No se puede acceder al servidor DNS privado</string>
     <string name="wifitrackerlib_saved_network">Guardado por %1$s</string>
-    <string name="wifitrackerlib_speed_label_fast">Rápido</string>
-    <string name="wifitrackerlib_speed_label_medium">Medio</string>
-    <string name="wifitrackerlib_speed_label_okay">OK</string>
-    <string name="wifitrackerlib_speed_label_slow">Lento</string>
-    <string name="wifitrackerlib_speed_label_very_fast">Muy rapido</string>
-    <string name="wifitrackerlib_speed_label_very_slow">Muy lento</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Toque para renovar la suscripción y conectarse</string>
     <string name="wifitrackerlib_tap_to_sign_up">Pulsa para registrarte</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Punto de acceso temporalmente lleno</string>
@@ -808,6 +840,8 @@ Es posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifitrackerlib_wifi_security_none">Ninguno</string>
     <string name="wifitrackerlib_wifi_security_owe">Apertura mejorada</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
+    <string name="wifitrackerlib_wifi_standard_legacy">Antiguo</string>
+    <string name="wifitrackerlib_wifi_standard_unknown">Desconocido</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Sin medidor</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi no se conectará automáticamente por ahora</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>

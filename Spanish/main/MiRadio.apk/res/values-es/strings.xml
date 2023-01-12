@@ -771,7 +771,7 @@ Remite este código al supervisor."</string>
     <string name="notification_download_failed">"No se pudo descargar"</string>
     <string name="notification_need_wifi_for_size">Este tamaño de descarga requiere de Wi-Fi.</string>
     <string name="notification_setting">Ajustes de notificación</string>
-    <string name="notification_settings_summary">Reciba notificaciones sobre noticias y últimos lanzamientos</string>
+    <string name="notification_settings_summary">Recibe notificaciones sobre noticias y últimos lanzamientos</string>
     <string name="notification_settings_title">Notificaciones push</string>
     <string name="novel">Audiolibros</string>
     <string name="nowplaying_bottom_bubble">Desplácese para ver más</string>
@@ -802,7 +802,7 @@ Remite este código al supervisor."</string>
     <string name="online_switch_setting">Servicios de contenido online</string>
     <string name="online_tip_text">Permite a la aplicación conectar a Internet para escuchar radio en línea</string>
     <string name="open_download">Abrir</string>
-    <string name="open_online_service">Tienes que encender los servicios online para usar esta característica. ¿Encender ahora?</string>
+    <string name="open_online_service">Necesitas activar los servicios en línea para utilizar esta función. ¿Activarlos?</string>
     <string name="open_online_service_tip">Se han activado los servicios en línea</string>
     <string name="open_service">Activar</string>
     <string name="open_settings">Ir a la configuración</string>

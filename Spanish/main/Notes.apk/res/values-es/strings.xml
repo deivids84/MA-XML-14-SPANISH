@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MM">mm</string>
+    <string name="MOBILE_QQ">mobileqq</string>
+    <string name="SINA">sina.</string>
+    <string name="TENCENT">tencent.</string>
+    <string name="WEIBO">weibo</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
@@ -62,6 +67,9 @@
     <string name="app_name">Notas</string>
     <string name="app_notification_info">Notas se está ejecutando en segundo plano</string>
     <string name="app_widget">Notas</string>
+    <string name="app_widget_name_create_note">Crear notas</string>
+    <string name="app_widget_name_create_todo">Crear tareas</string>
+    <string name="app_widget_name_fast_entry">Accesos directos</string>
     <string name="app_widget_name_new">Notas</string>
     <string name="application_icon">Icono de la aplicación</string>
     <string name="audio_btn_mode_meeting">Reunión</string>
@@ -282,6 +290,7 @@
     <string name="login_sync">Iniciar sesión &amp; sincronizar</string>
     <string name="lunar_day">Lunar %1$s</string>
     <string name="manage_folders">Administrar carpetas</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Seleccione AM o PM</string>
     <string name="material_hour_selection">Seleccione la hora</string>
@@ -597,7 +606,7 @@
     <string name="permission_intro_phone">Para marcar notas tomadas durante llamadas</string>
     <string name="permission_intro_storage">Para guardar notas y archivos adjuntos</string>
     <string name="permission_microphone_desc">Para grabar notas de voz</string>
-    <string name="permission_network_for_cloud_desc">Para sincronizar notas con la nube necesitas conectarte a internet. Los datos móviles podrían ser usados para sincronizar elementos. ¿Conectar ahora?</string>
+    <string name="permission_network_for_cloud_desc">La sincronización de Notas con la nube necesita conexión a Internet. Puede usar datos móviles para sincronizar elementos. ¿Conectar?</string>
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
     <string name="permission_photos_desc">Para añadir imágenes a las notas</string>
     <string name="permission_photos_desc_pad">Para añadir imágenes a las notas</string>
@@ -985,5 +994,8 @@ Permite a las Notas grabar audio."</string>
     <string name="widget_size_item_super_big">Muy grande</string>
     <string name="widget_size_not_support">"Widgets extra grandes no soportados en este dispositivo"</string>
     <string name="widget_take_notes_title">Notas</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
     <string name="yesterday">Ayer</string>
 </resources>

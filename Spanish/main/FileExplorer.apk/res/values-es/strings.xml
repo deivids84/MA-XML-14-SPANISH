@@ -193,7 +193,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="delete_error">"No se pudieron eliminar los archivos. Inténtalo otra vez."</string>
     <string name="delete_file">¿Eliminar este archivo?</string>
     <string name="delete_file_error">"No se pudo eliminar el archivo"</string>
-    <string name="delete_folder">¿Eliminar ahora?</string>
+    <string name="delete_folder">¿Eliminar esta carpeta?</string>
     <string name="des_hide_pwd">Ocultar la contraseña</string>
     <string name="des_show_pwd">Mostrar la contraseña</string>
     <string name="dialog_account_permission_denied_msg">Permitir a esta aplicación acceder a las cuentas del dispositivo para iniciar sesión en Mi Drive. Puedes conceder este permiso en Ajustes.</string>
@@ -362,6 +362,9 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="image_loading_error">"No se pudo cargar la imagen"</string>
     <string name="imm_str_storage">Almacenamiento</string>
     <string name="import_files_from_old_phones">Importar del dispositivo anterior</string>
+    <string name="install_media_editor_button_text">Descargar</string>
+    <string name="install_media_editor_message">Para editar elementos, antes hay que descargar el plug-in. ¿Descargar?</string>
+    <string name="install_media_editor_title">Plug-in necesario</string>
     <string name="instruction">Introduzca la siguiente dirección en un cliente FTP: </string>
     <string name="instruction_pre_pad">Administrar los archivos del dispositivo con un ordenador</string>
     <string name="instruction_pre_phone">Administrar los archivos del dispositivo con un ordenador</string>
@@ -721,7 +724,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="recent_hide_camera_and_screenshots">"No mostrar elementos de la Galería ni capturas de pantalla entre los archivos recientes"</string>
     <string name="recent_hide_cloud_drive_files">"No mostrar archivos de Mi Drive en Recientes"</string>
     <string name="refresh_success">Actualización completa</string>
-    <string name="reinstall_midriver_message">¿Volver a instalar ahora?</string>
+    <string name="reinstall_midriver_message">¿Instalar otra vez?</string>
     <string name="release_enter_private">Suelte para abrir la carpeta privada</string>
     <string name="remainder_size">Restante: %s</string>
     <string name="reminder_card_title">Atención</string>

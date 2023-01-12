@@ -31,6 +31,8 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
+    <string name="android_id_usage">Para reconocer la versión de la aplicación y compatibilidad entre los dispositivos antiguos y nuevos</string>
+    <string name="android_oaid">OAID</string>
     <string name="antispam">Lista de bloqueados</string>
     <string name="app_name">Mi Mover</string>
     <string name="app_update_64_dialog_cancel">Ahora no</string>
@@ -118,6 +120,9 @@ https://appleid.apple.com/#!&amp;page=signin para apagar"</string>
     <string name="cloud_service_check_dialog_message">Parece que la sincronización está desactivada para elementos de la Galería y contactos. Activa la sincronización para que esos elementos aparezcan en este dispositivo.</string>
     <string name="cloud_service_check_dialog_positive_button">Activar</string>
     <string name="cloud_service_check_dialog_title">Sincronizar contactos y elementos de la Galería</string>
+    <string name="collect_content">Contenido recopilado</string>
+    <string name="collect_situation">Estado de la colección</string>
+    <string name="collected">Recopilado</string>
     <string name="connect_icloud_fail">"No se pudo conectar a iCloud"</string>
     <string name="connect_icloud_fail_tips">Asegúrate de que tu cuenta iCloud ha sido activada. Si no, ve a icloud.com y sigue las instrucciones para poder activar tu cuenta.</string>
     <string name="connect_wifi">Conectar a red Wi-Fi</string>
@@ -308,6 +313,22 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="lack_perm_msg">Mi Mover necesita los siguientes permisos para funcionar con normalidad: <b>%s</b>.</string>
     <string name="lack_perm_title">Permisos necesarios</string>
     <string name="launcher">Diseño de la pantalla de inicio</string>
+    <string name="league_acquire_accept">Acepto</string>
+    <string name="league_acquire_message1">Para transferir aplicaciones de terceros, y sus datos, desde éste a tu nuevo dispositivo %s, se necesitan los siguientes permisos:</string>
+    <string name="league_acquire_message2">Permitir que Mi Mover acceda a datos de aplicaciones de terceros</string>
+    <string name="league_acquire_message3">Este es un permiso único usado solo para transferir datos. Una vez finalizada la transferencia, automáticamente Mi Mover dejará de usarlo.</string>
+    <string name="league_acquire_message4">"Si no concedes este permiso, no podrás transferir aplicaciones de terceros ni sus datos."</string>
+    <string name="league_acquire_refuse">"No acepto"</string>
+    <string name="league_acquire_title">Permisos necesarios</string>
+    <string name="league_check_service_content">"Mi Mover proporciona servicios de transferencia para %s y no está disponible en este momento."</string>
+    <string name="league_check_service_title">Transferir usando %s</string>
+    <string name="league_client_acquire">Abrir %s</string>
+    <string name="league_client_hint_text">Cloning Alliance ayuda a transferir datos de aplicaciones de terceros (ej. WeChat e historial de chat QQ). Pulsa \"%s\" para continuar, o pulsa \"Ahora No\" para no transferir datos y aplicaciones de terceros.</string>
+    <string name="league_client_install">Instalar %s</string>
+    <string name="league_client_title">Transferir con Mi Mover</string>
+    <string name="league_client_traditional">Ahora No</string>
+    <string name="league_client_update">Actualizar %s</string>
+    <string name="league_mi_device">Xiaomi</string>
     <string name="less_than_1_minute">Menos de 1 minutos</string>
     <string name="loading_data">Un momento...</string>
     <string name="location_permission_desc">Para encontrar dispositivos cercanos</string>
@@ -452,6 +473,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="no_more_memory_title">"Mi Mover necesita crear un respaldo local en este dispositivo. No hay suficiente espacio de almacenamiento para crear un respaldo ahora. Libera algo de espacio primero."</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
+    <string name="not_support">No soportado</string>
     <string name="not_support_data_content1">1. Elementos específicos del modelo de dispositivo</string>
     <string name="not_support_data_content2">2. Datos de aplicaciones seleccionadas</string>
     <string name="not_support_data_content3">3. Datos del segundo espacio</string>
@@ -485,6 +507,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="notification_trans_running_title">Mi Mover está trabajando ahora...</string>
     <string name="notification_trans_send_message">"Enviando datos ahora. No desactive el Wi-Fi o cambie entre las redes."</string>
     <string name="notification_trans_send_title">Enviando datos...</string>
+    <string name="oaid_usage">Para garantizar la seguridad de los elementos transferidos</string>
     <string name="ok">Ok</string>
     <string name="old_app_name">Versión antigua</string>
     <string name="old_task_cleared">Tareas viejas eliminadas correctamente</string>
@@ -496,7 +519,12 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="open_photo_and_contacts_cloud_sync_summary">Active la sincronización para que los contactos y los elementos de la Galería aparezcan en este dispositivo.</string>
     <string name="open_photo_and_contacts_cloud_sync_title">Sincronizar contactos y elementos de la Galería</string>
     <string name="option_feedback_title">Comentarios</string>
+    <string name="option_personal_info_list">Recopilación de datos personales</string>
     <string name="option_privacy_policy">Política de Privacidad</string>
+    <string name="option_privacy_settings">Privacidad</string>
+    <string name="option_third_party_shared_info_instruction">Compartir datos con terceros</string>
+    <string name="option_user_agreement">Acuerdo de Usuario</string>
+    <string name="option_user_device_info">Información del dispositivo</string>
     <string name="other_system_data">Datos de app de Sistema</string>
     <string name="other_user_app">Apps de terceros</string>
     <string name="other_user_app_data">Apps de terceros y datos de app</string>
@@ -567,6 +595,9 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="receiver_finish_title">"¡Ya está todo listo!"</string>
     <string name="receiver_video_summary">Desbloquee su antiguo dispositivo, toque \"Transferir\" y escanee esta imagen</string>
     <string name="receiver_video_title">Transferir desde dispositivo antiguo</string>
+    <string name="recent_one_year">Último año</string>
+    <string name="recent_seven_days">Últimos 7 días</string>
+    <string name="recent_thirty_days">Últimos 30 días</string>
     <string name="recommend_hint">Recomendado</string>
     <string name="reconnect">Reconectar</string>
     <string name="recreate_soft_ap_tips">Toca el botón de abajo para intentar otra vez.</string>
@@ -578,6 +609,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
 - Mensajes de texto
 - Almacenamiento"</string>
     <string name="request_all_permission_title">Permisos requeridos</string>
+    <string name="request_permission">Permitir</string>
     <string name="restore_data_to_device_content">"Tus elementos se sincronizaron con la nube Xiaomi Cloud.
 Inicia sesión en tu cuenta Xiaomi para restaurarlos."</string>
     <string name="restore_data_to_device_title">Restaurar elementos a este dispositivo</string>
@@ -676,6 +708,7 @@ Libera al menos %s."</string>
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">El invierno comienza</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
+    <string name="ssid_name">Nombre de SSID/Wi-Fi</string>
     <string name="succ_description">Listo</string>
     <string name="summary_open_wlan">Mi Mover necesita este permiso para garantizar la estabilidad del proceso de transferencia.</string>
     <string name="summary_request_alert_window_prem">Mi Mover necesita este permiso para garantizar la estabilidad del proceso de transferencia.</string>
@@ -823,9 +856,14 @@ en su iPhone"</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="uncollected">No recopilado</string>
     <string name="unselected">No seleccionado</string>
     <string name="update_later">Ahora no</string>
     <string name="update_now">Actualizar ahora</string>
+    <string name="use_purpose">Finalidad del uso</string>
+    <string name="use_purpose_description">"Para conectar al punto de acceso del dispositivo nuevo"</string>
+    <string name="use_scene">Escenario de uso</string>
+    <string name="use_scene_description">Para transferir elementos del dispositivo antiguo al nuevo</string>
     <string name="user_agreement">Acuerdo de Usuario</string>
     <string name="user_name">Ingresa el Apple ID</string>
     <string name="user_name_null">"El Apple ID no puede estar en blanco"</string>

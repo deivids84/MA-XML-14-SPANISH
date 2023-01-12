@@ -100,7 +100,6 @@
     <string name="help_content">"Si no puede encontrar el dispositivo que necesita, pídale a la otra persona que encienda Mi Share."</string>
     <string name="image_decode_failed">"No se pudo decodificar la imagen"</string>
     <string name="image_not_found">"No se pudo encontrar la imagen"</string>
-    <string name="lenovo_phone">Teléfono Lenovo</string>
     <string name="loading_text_format" formatted="false">Eliminando información privada de fotos (%d/%d)…</string>
     <string name="long_screenshot_error">Ha ocurrido un error. Vuelve a intentarlo.</string>
     <string name="long_screenshot_guide_text">"Pulsa para realizar una captura de pantalla desplazable"</string>
@@ -218,7 +217,6 @@
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="remover_menu_processing">Procesando</string>
-    <string name="samsung_phone">Teléfono Samsung</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="config_udfps_enroll_stage_thresholds">
+    <item>0.25</item>
+    <item>0.5</item>
+    <item>0.75</item>
+    <item>0.875</item>
+  </string-array>
   <string-array name="emailAddressTypes">
     <item>Casa</item>
     <item>Trabajo</item>

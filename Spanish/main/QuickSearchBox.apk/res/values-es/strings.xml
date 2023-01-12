@@ -64,7 +64,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
  Puedes cambiarlo en Ajustes &gt; Aplicaciones instaladas &gt; Buscar"</string>
     <string name="recent_close_title">Desactivar función</string>
     <string name="recent_delete_content">"¿Ocultar estas aplicaciones?
- Puede cambiarlo en Ajustes &gt; Aplicaciones instaladas &gt; Buscar"</string>
+Puedes cambiarlo en Ajustes &gt; Aplicaciones instaladas &gt; Buscar"</string>
     <string name="recent_delete_negative">Cancelar</string>
     <string name="recent_delete_positive">Aceptar</string>
     <string name="recent_delete_title">Ocultar aplicaciones</string>

@@ -386,7 +386,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="recognition_button_add_to_queue">Añadir a la cola</string>
     <string name="recognition_button_cancel">Ahora no</string>
     <string name="recognition_button_start">Transcribir</string>
-    <string name="recognition_confirm_dialog_body">"La transcripción podría llevar algo de tiempo. Recibirás una notificación cuando esta tarea sea completada. ¿Transcribir ahora?"</string>
+    <string name="recognition_confirm_dialog_body">"La transcripción puede tardar algo de tiempo. Recibirás una notificación cuando esté completa. ¿Transcribir ahora?"</string>
     <string name="recognition_error_cancel">Cancelado</string>
     <string name="recognition_error_code">Código de error: %d</string>
     <string name="recognition_error_download_cancel">Más tarde</string>

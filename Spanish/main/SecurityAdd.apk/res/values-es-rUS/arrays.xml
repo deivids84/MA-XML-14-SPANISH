@@ -66,6 +66,14 @@
         <item>Alto</item>
         <item>Máximo</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Equilibrado</item>
+        <item>Alta calidad</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Equilibrado</item>
+        <item>Predeterminado</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Alta velocidad</item>
         <item>Balanceado</item>

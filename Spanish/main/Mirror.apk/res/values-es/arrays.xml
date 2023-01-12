@@ -60,9 +60,9 @@
         <item>\#</item>
     </string-array>
     <string-array name="settings_search_mirror">
-        <item>MIUI+ Beta</item>
-        <item>Conexión &amp; compartir/MIUI+ Beta</item>
-        <item>Pantalla Combinada;Duo;Multipantalla;Duo;Ordenador;Espejo;MIUI+</item>
+        <item>Dispositivos conectados</item>
+        <item>Conexión &amp; uso compartido/Dispositivos conectados</item>
+        <item>MIUI+, MIUIPLUS, handoff, multipantalla, interconectividad, duplicar pantalla, ratón y teclado, extensión de pantalla, app de transferencia, Mi Smart Hub, mirror, espejo, extensión, multitarea, compartir, ratón, teclado, dispositivos de conexión</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Apaga el punto de acceso portátil, Mi Share o la transmisión en el dispositivo antes de usar esta función.

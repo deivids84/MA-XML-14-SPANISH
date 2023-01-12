@@ -221,6 +221,8 @@ Asegúrese de que el nombre de su empresa es correcto. Lea y acepte la Política
     <string name="greenguard_install_confirm">Instalar</string>
     <string name="greenguard_install_message">"Control parental es una aplicación del sistema. No necesita internet para instalarla."</string>
     <string name="greenguard_install_title">Instalar Control parental</string>
+    <string name="greenguard_new_install_message">Control Parental es una aplicación del sistema que puedes instalar sin descargarla.</string>
+    <string name="greenguard_new_install_title">Instalar Control Parental</string>
     <string name="greenguard_parent_des">Administre los dispositivos de sus amigos y familia</string>
     <string name="greenguard_parent_des_title">Usar Kite Guard para agregar dispositivos</string>
     <string name="guide_contact_sub_title_desc">"Los contactos agregados al segundo espacio se convertirán en privados.

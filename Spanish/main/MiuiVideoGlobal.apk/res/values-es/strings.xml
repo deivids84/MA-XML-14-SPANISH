@@ -85,6 +85,7 @@
     <string name="afternoon">Tarde</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_continue">Aceptar</string>
+    <string name="agree_label">De acuerdo</string>
     <string name="ai_animation_music_text">Banda sonora IA</string>
     <string name="ai_music_save_cancel">Cancelar</string>
     <string name="ai_music_save_dialog_title">Guardar</string>
@@ -198,6 +199,7 @@
     <string name="cloud_online_player">Reproductor</string>
     <string name="cloud_online_switch">Recomendaciones personalizadas</string>
     <string name="cloud_online_switch_open_time">Mostrar recomendaciones de contenido personalizado</string>
+    <string name="cmp_tier_privacy_policy">Políticas de privacidad de terceros</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
     <string name="columbus_ad_flag_text">AD</string>
     <string name="columbus_player_close_desc">Perderás tu recompensa</string>
@@ -271,6 +273,8 @@
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="day">día</string>
+    <string name="default_message_body">Cuerpo del mensaje</string>
+    <string name="default_title">Título</string>
     <string name="default_upgrade_hint">"¡Hola!
 Mi Video está listo para una actualización.
 ¡Actualice la aplicación ahora para ver nuestras nuevas funcionalidades!
@@ -297,8 +301,11 @@ Remite este código al supervisor."</string>
     <string name="dialog_clearn_title">Borrar historial</string>
     <string name="dialog_confirm">OK</string>
     <string name="dialog_delete_bookmarks_content">¿Eliminar marcador ahora?</string>
+    <string name="dialog_disagree_continue">Continuar</string>
+    <string name="dialog_disagree_info">"Si no estás de acuerdo con la Política de Privacidad de Mi Vídeo, no podrás usar nuestros servicios en línea y solo podrás ver vídeos almacenados en el dispositivo. ¿Continuar?"</string>
     <string name="dialog_disagree_privacychange_info">"No podrás utilizar los servicios de transmisión online de Mi Vídeo si no estás de acuerdo con nuestra Política de Privacidad. Pulsa \"Cancelar\" para volver atrás o \"No aceptar\" para continuar y usar Mi Vídeo solo como reproductor local."</string>
     <string name="dialog_disagree_privacychange_title">"¿No aceptar?"</string>
+    <string name="dialog_disagree_title">Política de Privacidad</string>
     <string name="dialog_edit_bookmarks">Editar marcador</string>
     <string name="dialog_edit_hint_bookmarks_name">Nombre del marcador</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
@@ -1197,7 +1204,7 @@ para vídeos"</string>
     <string name="notification_bar_player_subtitle">Mostrar reproductor minimizado en la Barra de notificaciones</string>
     <string name="notification_bar_player_title">Minimizar reproductor</string>
     <string name="notification_last_played_status">Historial de reproducción</string>
-    <string name="notification_open_tip">Reciba notificaciones cuando se encuentren nuevos videos locales</string>
+    <string name="notification_open_tip">Recibe notificaciones cuando se encuentren nuevos vídeos locales</string>
     <string name="notification_promotion">Recomendado</string>
     <string name="notification_recall_action">Activar</string>
     <string name="notification_recall_desc">Mi Video puede notificarte sobre vídeos populares y tus suscripciones.</string>
@@ -1626,6 +1633,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="recommend_slide_to_more">Desliza para más</string>
     <string name="recommend_switch_alert">Para eliminar esta sección ve a los ajustes en Mi Vídeo</string>
     <string name="recommend_to_you">Recomendado para ti</string>
+    <string name="reject_all_label">Rechazar todo</string>
     <string name="reload_sub_title">Pulsa para intentarlo otra vez.</string>
     <string name="reload_title">"No se pudo conectar a la red."</string>
     <string name="remaining_space">Disponible: %s</string>
@@ -1708,6 +1716,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="share_ugc_content">¡Echa un vistazo a %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Unirse</string>
     <string name="share_ugc_waitting">Generando enlace…</string>
+    <string name="show_options_label">Mostrar opciones</string>
     <string name="show_the_location">Tipos de notificaciones</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_google_account">Inicia sesión con Google</string>
@@ -2051,6 +2060,11 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="welcome_tip_into_mivideo">Empezar</string>
     <string name="welcome_tip_skip">Saltar</string>
     <string name="welcome_tip_title">Te damos la bienvenida a Mi Vídeo</string>
+    <string name="widget_add_dialog_button_add">Añadir</string>
+    <string name="widget_add_dialog_button_cancel">Cancelar</string>
+    <string name="widget_add_dialog_desc_local">Con este widget, puedes reproducir archivos de audio y vídeo almacenados en el dispositivo, solo con una pulsación. ¿Añadirlo?</string>
+    <string name="widget_add_dialog_desc_online">"Con este widget, puedes ver los videos populares de hoy, solo con una pulsación. ¿Añadirlo?"</string>
+    <string name="widget_add_dialog_title">Añadir widget</string>
     <string name="widget_local_video">Vídeos locales</string>
     <string name="widget_local_video_click">Pulsa para ver vídeos del dispositivo</string>
     <string name="widget_more_channel">Más canales</string>

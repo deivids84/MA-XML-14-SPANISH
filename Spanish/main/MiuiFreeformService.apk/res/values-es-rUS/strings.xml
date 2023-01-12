@@ -44,12 +44,14 @@
     <string name="eras_bc">BCE</string>
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">M/D</string>
     <string name="fmt_date_numeric_year_month_day">M/d/aaaa</string>
-    <string name="fmt_date_short_month_day">Mm/dd</string>
-    <string name="fmt_date_short_year_month_day">MM/dd/aaaa</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h en punto"</string>
+    <string name="fmt_time_24hour">"HH en punto"</string>
     <string name="freeform_demo_back">Atrás</string>
     <string name="freeform_demo_final_over">Hecho</string>
     <string name="freeform_demo_final_restart">Empezar de nuevo</string>
@@ -88,6 +90,8 @@
     <string name="how_to_slide_up_to_close_summary">Deslice hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="how_to_use_freeform">Cómo usar ventanas flotantes</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionada</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -102,6 +106,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>

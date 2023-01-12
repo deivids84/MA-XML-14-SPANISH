@@ -108,8 +108,8 @@
     <string name="dialog_storage_upgrade_now">Actualizar</string>
     <string name="dialog_title_prompt">Atención</string>
     <string name="do_not_merge">Cancelar</string>
-    <string name="download_gallery_data_summary">Ve a i.mi.com para descargar fotos y videos sincronizados a tu dispositivo.</string>
-    <string name="download_gallery_data_title">Descargar elementos en el dispositivo</string>
+    <string name="download_gallery_data_summary">Ve a i.mi.com para descargar al dispositivo las fotos y videos sincronizados.</string>
+    <string name="download_gallery_data_title">Descargar elementos al dispositivo</string>
     <string name="early_morning">Mañana</string>
     <string name="enable_find_device_success">Encontrar dispositivo activado.</string>
     <string name="enable_micloud">Inicie sesión para usar Xiaomi Cloud</string>
@@ -175,8 +175,8 @@
     <string name="gallery_auto_sync_fail_noti_content">No queda suficiente espacio de almacenamiento en la nube. Actualice su plan de almacenamiento para sincronizar fotos y videos.</string>
     <string name="gallery_data_transfer_ddl">Fecha límite: %s</string>
     <string name="gallery_data_transfer_summary">"Los elementos de Galería ya no se pueden sincronizar con Xiaomi Cloud. Recomendamos que transfieras fotos y vídeos que hayas sincronizado con la nube a Google Fotos y que utilices sus servicios para hacer copia de seguridad."</string>
-    <string name="gallery_data_transfer_title">Transferir fotos y vídeos sincronizados a Google Fotos</string>
-    <string name="gallery_service_termination_announcement">AVISO: Los elementos de Galería ya no se pueden sincronizar con la nube de Xiaomi</string>
+    <string name="gallery_data_transfer_title">Transferir fotos y vídeos a Google Fotos</string>
+    <string name="gallery_service_termination_announcement">Aviso: Los elementos de la galería ya no se sincronizan con Xiaomi Cloud</string>
     <string name="gallery_service_termination_announcement_title">"Los elementos de Galería ya no se pueden sincronizar con Xiaomi Cloud. Recomendamos que transfieras a Google Fotos las fotos y 
 vídeos que estén sincronizados, o visita i.mi.com para descargar todos a tu dispositivo. Los servicios de transferencia y descarga estarán disponibles hasta el %s, cuando todos los elementos de Galería sincronizados con Xiaomi Cloud se eliminarán permanentemente."</string>
     <string name="gallery_service_termination_btn_continue">Continuar</string>

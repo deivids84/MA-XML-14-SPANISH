@@ -36,6 +36,14 @@
         <item quantity="other">Hace %d mins</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d dispositivos</item>
+        <item quantity="one">%1$d dispositivo</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d dispositivos</item>
+        <item quantity="one">%1$d dispositivo</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
@@ -63,6 +71,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>

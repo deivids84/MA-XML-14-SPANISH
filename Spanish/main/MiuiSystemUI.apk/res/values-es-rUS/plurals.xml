@@ -52,6 +52,10 @@
         <item quantity="other">Se agregaron %s controles.</item>
         <item quantity="one">Se agregó %s control.</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s aplicaciones están activas</item>
+        <item quantity="one">%s aplicación está activa</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
@@ -140,22 +144,6 @@
         <item quantity="other">El código PUK de la tarjeta SIM es incorrecto. Tienes %d intentos más antes de que la tarjeta SIM quede inutilizable de manera permanente.</item>
         <item quantity="one">El código PUK de la tarjeta SIM es incorrecto. Tienes %d intento antes de que la tarjeta SIM quede inutilizable de manera permanente.</item>
     </plurals>
-    <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">"Hace %d horas que no se desbloquea el dispositivo. Confirma la contraseña."</item>
-        <item quantity="one">"Hace %d hora que no se desbloquea el dispositivo. Confirma la contraseña."</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"Hace %d horas que no se desbloquea el dispositivo. Confirma el patrón."</item>
-        <item quantity="one">"Hace %d hora que no se desbloquea el dispositivo. Confirma el patrón."</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">"Hace %d horas que no se desbloquea el dispositivo. Confirma el PIN."</item>
-        <item quantity="one">"Hace %d hora que no se desbloquea el dispositivo. Confirma el PIN."</item>
-    </plurals>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Vuelve a intentarlo en %d segundos.</item>
-        <item quantity="one">Vuelve a intentarlo en 1 segundo.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
         <item quantity="other">Justo ahora</item>
@@ -203,9 +191,5 @@
     <plurals name="user_limit_reached_message">
         <item quantity="other">Puedes agregar hasta %d usuarios.</item>
         <item quantity="one">Solo se puede crear un usuario.</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivos conectados</item>
-        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>

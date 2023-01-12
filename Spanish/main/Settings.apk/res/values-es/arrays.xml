@@ -264,13 +264,13 @@
         <item>Modo baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Bits de muestra usados en la reproducción</item>
+        <item>Usar selección de sistema (predeterminado)</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usar preferencia de sistema (Por defecto)</item>
+        <item>Usar selección de sistema (predeterminado)</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
@@ -322,14 +322,14 @@
         <item>Mejor esfuerzo (Tasa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Frecuencia de sonido usada en la reproducción</item>
+        <item>Usar selección de sistema (predeterminado)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Predeterminada del sistema</item>
+        <item>Usar selección de sistema (predeterminado)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
@@ -377,6 +377,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Sin cifrar (sin seguridad)</item>
+        <item>Pin de 4 dígitos (baja seguridad)</item>
+        <item>Pin de 16 dígitos (alta seguridad)</item>
+    </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Por defecto)</item>
         <item>MAP 1.3</item>
@@ -400,6 +405,8 @@
         <item>Deshabilitado</item>
         <item>Filtrado</item>
         <item>Habilitado</item>
+        <item>Encabezados filtrados</item>
+        <item>Paquetes multimedia filtrados</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -427,7 +434,7 @@
     <string-array name="captioning_font_size_selector_titles">
         <item>Muy pequeña</item>
         <item>Pequeña</item>
-        <item>Predeterminado</item>
+        <item>Medio</item>
         <item>Grande</item>
         <item>Muy grande</item>
     </string-array>
@@ -762,12 +769,12 @@
         <item>Estándar</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Verde azulado</item>
+        <item>Cian</item>
         <item>Azul</item>
-        <item>Índigo</item>
+        <item>Verde</item>
         <item>Morado</item>
         <item>Rosa</item>
-        <item>Rojo</item>
+        <item>Naranja</item>
     </string-array>
     <string-array name="common_password_business_clickable_default">
         <item>true</item>
@@ -823,35 +830,6 @@
     <string-array name="default_vol_stream_entries">
         <item>Tono de llamada</item>
         <item>Multimedia</item>
-    </string-array>
-    <string-array name="disable_apptitmer_device_list">
-        <item>cactus</item>
-        <item>pine</item>
-        <item>rosy</item>
-        <item>willow</item>
-        <item>olive</item>
-        <item>tiare</item>
-        <item>cereus</item>
-        <item>riva</item>
-        <item>rolex</item>
-        <item>markw</item>
-        <item>santoni</item>
-        <item>land</item>
-        <item>vince</item>
-        <item>nikel</item>
-        <item>ugglite</item>
-        <item>ugg</item>
-        <item>kate</item>
-        <item>prada</item>
-        <item>dandelion</item>
-        <item>lime</item>
-        <item>citrus</item>
-        <item>cannon</item>
-        <item>lemon</item>
-        <item>rainbow</item>
-        <item>camellian</item>
-        <item>camellia</item>
-        <item>tierra</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
@@ -1046,11 +1024,23 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="mvno_type_values">
+        <item></item>
+        <item>spn</item>
+        <item>imsi</item>
+        <item>gid</item>
+        <item>iccid</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>La red es lenta debido a exceso de tráfico</item>
         <item>La red es lenta debido a que la señal es débil</item>
         <item>Trasladando…</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Siempre</item>
+        <item>Excepto si hay otra aplicación de pago abierta</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gráfico</item>
@@ -1237,25 +1227,25 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desactivar</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
-        <item>64 KB por búfer de registro</item>
-        <item>256 KB por búfer de registro</item>
-        <item>1 MB por búfer de registro</item>
-        <item>4 MB por búfer de registro</item>
-        <item>8 MB por búfer de registro</item>
+        <item>64K por buffer de registro</item>
+        <item>256K por buffer de registro</item>
+        <item>1M por búfer de registro</item>
+        <item>4M por búfer de registro</item>
+        <item>8M por buffer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivar</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>8 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Ninguno</item>
@@ -1304,52 +1294,25 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Predeterminado</item>
         <item>Compacto</item>
     </string-array>
-    <string-array name="support_settings_haptic_device_list">
-        <item>apollo</item>
-        <item>cas</item>
-        <item>cmi</item>
-        <item>umi</item>
-        <item>alioth</item>
-        <item>aliothin</item>
-        <item>ares</item>
-        <item>chopin</item>
-        <item>haydn</item>
-        <item>thyme</item>
-        <item>star</item>
-        <item>mars</item>
-        <item>agate</item>
-        <item>vili</item>
-        <item>amber</item>
-        <item>odin</item>
-        <item>pissarro</item>
-        <item>pissarropro</item>
-        <item>pissarroin</item>
-        <item>pissarroinpro</item>
-        <item>zeus</item>
-        <item>cupid</item>
-        <item>psyche</item>
-        <item>poussin</item>
-        <item>ingres</item>
-        <item>matisse</item>
-        <item>rubens</item>
-        <item>munch</item>
-        <item>thor</item>
-        <item>evergo</item>
-        <item>evergreen</item>
-        <item>xaga</item>
-        <item>xagapro</item>
-        <item>plato</item>
-        <item>mayfly</item>
-        <item>daumier</item>
-        <item>diting</item>
-        <item>unicorn</item>
-        <item>secuoya</item>
-        <item>rembrandt</item>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Nunca</item>
+        <item>Después de 1 minuto</item>
+        <item>Después de 5 minutos</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítido</item>
         <item>Base</item>
         <item>Pop</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Nítido</item>
+        <item>Sólido</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Cargando</item>
+        <item>Reposo</item>
+        <item>Modo ahorro de energía</item>
+        <item>Estado del proceso</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12 horas 1:00 PM</item>
@@ -1530,6 +1493,10 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="wifi_hidden_entries">
         <item>No</item>
         <item>Sí</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
+        <item>No</item>
+        <item>Si</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>Protocolo DHCP</item>

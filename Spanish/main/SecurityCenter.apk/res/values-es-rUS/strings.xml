@@ -118,7 +118,6 @@
     <string name="activity_title_antivirus_kddi">Escaneo de seguridad</string>
     <string name="activity_title_apps_manager">Aplicaciones</string>
     <string name="activity_title_auto_start_manager">Inicio automático</string>
-    <string name="activity_title_create_shortcut">Administrar accesos directos</string>
     <string name="activity_title_garbage_cleanup">Limpiador</string>
     <string name="activity_title_license_manager">Permisos</string>
     <string name="activity_title_networkassistants">Uso de datos</string>
@@ -145,7 +144,7 @@
     <string name="adb_install_open_error">"No se permitió, compruebe su conexión de red"</string>
     <string name="adb_install_reject_notiy">"No permite la instalación de %s a través de USB"</string>
     <string name="adb_install_reject_notiy_desc">Puede permitir la instalación a través de USB en Opciones de desarrollador</string>
-    <string name="adb_login_xiaomi_account">Inicie sesión con su Cuenta Mi primero</string>
+    <string name="adb_login_xiaomi_account">Antes, inicia sesión en tu cuenta Xiaomi</string>
     <string name="add_auto_task_desktop_icon">Agregar acceso directo a la pantalla de inicio</string>
     <string name="add_bill_reminder_alarm">Establecer advertencia de saldo del teléfono</string>
     <string name="add_done">Añadido con éxito</string>
@@ -194,7 +193,7 @@
     <string name="antispam_notificaiton_type_show_none">Nunca</string>
     <string name="antispam_notification_setting_title">Notificaciones</string>
     <string name="antispam_xpace_text">Cambia al espacio principal para establecer la Lista de bloqueo</string>
-    <string name="antivirus_antidefraud_risk_desc">Esta aplicación está clasificada como fraude financiero por el Centro Nacional Anti Fraude. Debes desinstalarla para evitar posibles riesgos.</string>
+    <string name="antivirus_antidefraud_risk_desc">Esta aplicación se puede usar para fraude financiero. Desinstálala para evitar posibles riesgos.</string>
     <string name="antivirus_antidefraud_risk_type">Fraude financiero</string>
     <string name="antivirus_antidefraud_risk_type_label">Fraude financiero y riesgos de seguridad</string>
     <string name="antivirus_browser_check">Consultar sitios web en Mi navegador</string>
@@ -338,7 +337,7 @@
     <string name="app_behavior_monitor_tips_if_trust">Puede desactivar las notificaciones sobre acciones delicadas si confía en esta aplicación</string>
     <string name="app_behavior_monitor_tips_key">Notificaciones sobre acciones delicadas</string>
     <string name="app_behavior_monitor_tips_summary">Puede recibir notificaciones cuando las aplicaciones graben audio, accedan a su ubicación o realicen otras acciones delicadas en segundo plano.</string>
-    <string name="app_behavior_no_recorder">"No se encontraron resultados"</string>
+    <string name="app_behavior_no_recorder">Aún no hay elementos aquí</string>
     <string name="app_behavior_notification_audio_now_one">%1s está grabando audio</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s y %2s están grabando audio</string>
     <string name="app_behavior_notification_camera_one">%1s está tomando fotos</string>
@@ -375,11 +374,18 @@
     <string name="app_behavior_read_clipboard_bg">%1s accedió a elementos en el portapapeles en segundo plano.</string>
     <string name="app_behavior_recognition">%1s accedió a su información de actividad</string>
     <string name="app_behavior_recognition_single">Esta aplicación accedió a su información de actividad</string>
+    <string name="app_behavior_record_cancel">Cancelar</string>
+    <string name="app_behavior_record_close">Desactivar</string>
+    <string name="app_behavior_record_close_title">Desactivar</string>
+    <string name="app_behavior_record_hide_system">Ocultar aplicaciones del sistema</string>
+    <string name="app_behavior_record_open">Activar</string>
+    <string name="app_behavior_record_open_content_text">Los registros de comportamiento muestran lo que hacen las aplicaciones y ayudan a evitar riesgos de seguridad.</string>
     <string name="app_behavior_record_setting_button_title">Mostrar el comportamiento de los servicios del sistema</string>
     <string name="app_behavior_record_setting_show_system">Mostrar el comportamiento de los servicios del sistema</string>
     <string name="app_behavior_record_setting_show_system_desc">"Active para ver el comportamiento de los servicios básicos del sistema. Para garantizar la estabilidad del sistema, estos servicios usarán los permisos necesarios, algunos de los cuales no se pueden restringir."</string>
     <string name="app_behavior_record_setting_show_system_title">Mostrar el comportamiento de los servicios del sistema</string>
     <string name="app_behavior_record_setting_title">Registros de comportamiento</string>
+    <string name="app_behavior_record_show_system">Mostrar aplicaciones del sistema</string>
     <string name="app_behavior_search">Buscar</string>
     <string name="app_behavior_sensor">%1s accedió a los datos del sensor</string>
     <string name="app_behavior_sensor_single">Esta aplicación accedió a los datos del sensor</string>
@@ -635,15 +641,15 @@ No perderá ningún dato de aplicación."</string>
     <string name="applock_add_account">Agregar</string>
     <string name="applock_add_account_ignore">Ahora no</string>
     <string name="applock_add_account_ignore_with_seconds">Ahora no (%ds)</string>
-    <string name="applock_add_account_info">Agregue su Cuenta Mi para poder restablecer su contraseña en caso de olvidarla.</string>
+    <string name="applock_add_account_info">Añade tu cuenta Xiaomi para restablecer tu contraseña en caso de que la olvides.</string>
     <string name="applock_add_account_setting">Cuenta y privacidad</string>
-    <string name="applock_add_account_tips">"Con Cuenta Mi, podrá restaurar el bloqueo de su aplicación si la olvida."</string>
-    <string name="applock_add_account_title">Agregue su Cuenta Mi</string>
+    <string name="applock_add_account_tips">"Con la cuenta Xiaomi, podrás restaurar el bloqueo de aplicaciones si lo olvidas."</string>
+    <string name="applock_add_account_title">Añade tu cuenta Xiaomi</string>
     <string name="applock_add_account_title_part">Agregue su cuenta Mi para poder restablecer la contraseña</string>
     <string name="applock_already_add_account">Cuenta actual: %s</string>
     <string name="applock_app_recommend_lock_title">Puede bloquear las siguientes aplicaciones</string>
-    <string name="applock_bind_account_dialog_content">Su Cuenta Mi es la única forma de restaurar el bloqueo de su aplicación en caso de que la olvide. Inicie sesión para agregar su Cuenta Mi.</string>
-    <string name="applock_bind_account_dialog_title">Agregue su Cuenta Mi</string>
+    <string name="applock_bind_account_dialog_content">Tu cuenta de Xiaomi es la única forma de restaurar el bloqueo de aplicaciones en caso de que lo olvides. Inicia sesión para añadir tu cuenta Xiaomi.</string>
+    <string name="applock_bind_account_dialog_title">Añade tu cuenta Xiaomi</string>
     <string name="applock_bind_account_title">Olvidé la contraseña</string>
     <string name="applock_biometric_recognition">Biometría</string>
     <string name="applock_close_dialog_summary">Se eliminará la contraseña de bloqueo de la aplicación. ¿Desactivar el bloqueo de aplicaciones ahora?</string>
@@ -667,7 +673,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="applock_guide_tip1_without_face">Múltiples tipos de contraseña están disponibles. Desbloquee aplicaciones con su huella digital o ingrese la contraseña.</string>
     <string name="applock_guide_tip1_without_finger">Múltiples tipos de contraseña están disponibles. Desbloquee aplicaciones con su rostro o ingrese la contraseña.</string>
     <string name="applock_guide_tip1_without_finger_face">Múltiples tipos de contraseña están disponibles.</string>
-    <string name="applock_guide_tip2">Agregue su Cuenta Mi para poder restablecer su contraseña.</string>
+    <string name="applock_guide_tip2">Añade tu cuenta Xiaomi para poder restablecer tu contraseña.</string>
     <string name="applock_guide_tip3">Ocultar contenido de notificaciones.</string>
     <string name="applock_guide_tip3_global">Ocultar contenido de notificaciones.</string>
     <string name="applock_guide_title">Proteja su privacidad con Bloqueo de aplicaciones</string>
@@ -680,7 +686,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="applock_login_and_add_account">Iniciar sesión y agregar</string>
     <string name="applock_mixtype_hidepwd_icon">Ocultar</string>
     <string name="applock_mixtype_showpwd_icon">Mostrar</string>
-    <string name="applock_no_account_login">"No ha iniciado sesión en su Cuenta Mi"</string>
+    <string name="applock_no_account_login">"No has iniciado sesión en tu cuenta Xiaomi"</string>
     <string name="applock_not_add_account"><u>Ahora no</u></string>
     <string name="applock_not_add_account_normal">"No agregue cuenta"</string>
     <string name="applock_not_login_account">"No ha iniciado sesión"</string>
@@ -1004,6 +1010,8 @@ No perderá ningún dato de aplicación."</string>
     <string name="bh_purchase_dialog_tips">Es posible que las compras se entreguen con retraso</string>
     <string name="bh_set_phone_dialog_title">"Asegúrate de que el número de teléfono que ingreses aquí sea correcto.
 Puedes cambiar tu número de teléfono en Configuración."</string>
+    <string name="bh_set_phone_dialog_title_new">"Añade tu número de teléfono para ver y comprar planes de datos disponibles.
+Siempre podrás cambiarlo, posteriormente, en Ajustes."</string>
     <string name="bh_settings_declare">Descargo de responsabilidad</string>
     <string name="bh_settings_policy_text">Política de privacidad</string>
     <string name="bh_settings_user_agreement">Acuerdo de Usuario</string>
@@ -1030,10 +1038,10 @@ Sin embargo, algunas de tus transacciones aún no se han completado. Para poder 
     <string name="bill_traffic_reminder_instruction_text">El método de facturación y la forma de cálculo de datos de cada operador pueden variar. También pueden retrasar su facturación. Las estadísticas de uso proporcionadas aquí sirven tan solo como una referencia.</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Agregar</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Está a punto de agregar la Cuenta Mi %s. Si olvida su contraseña, puede usar esta cuenta para restablecerla. La cuenta será eliminada automáticamente si cierra sesión."</string>
-    <string name="bind_xiaomi_account_success">Cuenta Mi agregada con éxito</string>
-    <string name="bind_xiaomi_account_summary">Use su Cuenta Mi para restablecer su contraseña</string>
-    <string name="bind_xiaomi_account_title">Agregar Cuenta Mi</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir la cuenta Xiaomi %s. Si olvidas la contraseña, puedes usar esta cuenta para restablecerla. La cuenta se eliminará automáticamente al cerrar la sesión."</string>
+    <string name="bind_xiaomi_account_success">Cuenta Xiaomi añadida</string>
+    <string name="bind_xiaomi_account_summary">Usa la cuenta Xiaomi para restablecer tu contraseña</string>
+    <string name="bind_xiaomi_account_title">Añadir cuenta Xiaomi</string>
     <string name="birthday">Cumpleaños</string>
     <string name="bl_no_blacklist">Sin números bloqueados.</string>
     <string name="bl_no_block_call">Sin llamadas bloqueadas.</string>
@@ -1222,7 +1230,7 @@ Sin embargo, algunas de tus transacciones aún no se han completado. Para poder 
     <string name="confirmSecondSpacePassword">Confirmar contraseña del segundo espacio</string>
     <string name="confirm_ai_allow_all_permission">¿Cambiar el estado de permiso a \"Decide por mí\" para todas las aplicaciones?</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">Agregando Cuenta Mi</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Añadiendo cuenta Xiaomi</string>
     <string name="confirm_close">Desactivar</string>
     <string name="confirm_fingerprint_msg">Verifique su huella</string>
     <string name="confirm_leave">No gracias</string>
@@ -1356,12 +1364,12 @@ Todos los datos en su dispositivo podrían ser borrados y su contraseña de bloq
     <string name="dialog_change_package_type_summary">Cambiar el tipo de plan de datos reiniciará todos los ajustes del uso de datos (p. ej. límites de datos) a sus valores por defecto. ¿Cambiar tipo de plan de datos?</string>
     <string name="dialog_change_package_type_title">Cambiando tipo de plan de datos</string>
     <string name="dialog_msg_auto_start_declare">Algunas aplicaciones podrían indicar incorrectamente que MIUI ha evitado que se iniciaran. Compruebe los permisos otorgados a cada aplicación en Ajustes &gt; Aplicaciones.</string>
-    <string name="dialog_msg_create_icon_content">¿Añadir un acceso directo en la pantalla de inicio?</string>
+    <string name="dialog_msg_create_icon_content">¿Crear acceso directo en la pantalla de inicio?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">"No mostrar otra vez"</string>
     <string name="dialog_msg_delete_icon_content_pad">Seguridad permite limpiar la basura del dispositivo, encontrar y neutralizar virus, ahorrar batería, administrar permisos y más.</string>
     <string name="dialog_msg_delete_icon_content_phone">Seguridad permite limpiar la basura del dispositivo, encontrar y neutralizar virus, ahorrar batería, administrar permisos y más.</string>
-    <string name="dialog_msg_delete_icon_title_pad">¿Eliminar este acceso directo en la pantalla de inicio?</string>
-    <string name="dialog_msg_delete_icon_title_phone">¿Eliminar este acceso directo en la pantalla de inicio?</string>
+    <string name="dialog_msg_delete_icon_title_pad">¿Eliminar el acceso directo de la pantalla de inicio?</string>
+    <string name="dialog_msg_delete_icon_title_phone">¿Eliminar el acceso directo de la pantalla de inicio?</string>
     <string name="dialog_msg_stop_virus_scan">"¿Detener escaneo antes de haber terminado?"</string>
     <string name="dialog_no_longer_alert">"No volver a mostrar"</string>
     <string name="dialog_restrict_all_mobile_summary">Los datos móviles de la %s estarán restringidos para todas las aplicaciones.</string>
@@ -2098,6 +2106,8 @@ voluntario"</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante las muertes en el juego.</string>
     <string name="gb_audition_instruction">Mantenga presionado para grabar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Use audífonos para un mejor efecto</string>
+    <string name="gb_award_noti_message">Activa las actualizaciones de fondo de Game for Peace en Game Turbo para obtener recompensas</string>
+    <string name="gb_award_noti_title">¡Las recompensas de Game for Peace están aquí!</string>
     <string name="gb_barrage_chat_desc">Siempre cree que algo maravilloso está a punto de suceder</string>
     <string name="gb_barrage_chat_pre_desc">Vista previa</string>
     <string name="gb_barrage_chat_text_color">Color</string>
@@ -2235,7 +2245,10 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_predownload_noti_message">"%2$1.2f GB de contenido actualizado ya está en este dispositivo. Podrás usarlo tan pronto como se lance la nueva versión."</string>
     <string name="gb_predownload_noti_title">%s actualizado en segundo plano correctamente</string>
     <string name="gb_predownload_receive">Obtener recompensas</string>
+    <string name="gb_predownload_receive_error">Se produjo un error de red. Inténtalo otra vez.</string>
+    <string name="gb_predownload_receive_max">"No se puede obtener más recompensas en este dispositivo"</string>
     <string name="gb_predownload_receive_tips">Activa actualización en segundo plano para obtener recompensas</string>
+    <string name="gb_predownload_receiving">Recibiendo…</string>
     <string name="gb_predownload_title">Actualizaciones en segundo plano</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la Pantalla de inicio</string>
     <string name="gb_shoulder_guide_message1">Mueva [L] a cualquier posición funcional para usarlo a través del disparador emergente</string>
@@ -2313,7 +2326,7 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_voice_changer_recommend">Recomendado</string>
     <string name="gb_voice_changer_renew_dailog">Renueve su suscripción para poder utilizar este efecto.</string>
     <string name="gb_voice_changer_robot">Robot</string>
-    <string name="gb_voice_changer_setting_account_title">Cuenta Mi</string>
+    <string name="gb_voice_changer_setting_account_title">Cuenta Xiaomi</string>
     <string name="gb_voice_changer_setting_become_vip">Suscribirse</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Ajuste los efectos y las recomendaciones al sexo seleccionado</string>
     <string name="gb_voice_changer_setting_gender_title">Género</string>
@@ -2329,7 +2342,7 @@ Cambie entre diferentes personajes y efectos especiales."</string>
     <string name="gb_voice_changer_user_status_expired">Suscripción caducada</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Obtenga una prueba gratuita de %d días 
 y explore nuestro cambiador de voz."</string>
-    <string name="gb_voice_changer_user_status_no_login">Iniciar sesión en Cuenta Mi</string>
+    <string name="gb_voice_changer_user_status_no_login">Inicia sesión en tu cuenta Xiaomi</string>
     <string name="gb_voice_changer_user_status_remain_time">Fecha de expiración: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renovar</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Sus suscripciones expiraron. ¡Renueve la suscripción ahora para obtener beneficios!</string>
@@ -2372,6 +2385,11 @@ de sus sesiones de juego"</string>
     <string name="get_detail_by_click">Toque para ver detalles</string>
     <string name="get_phone_num_fail">Número de teléfono desconocido</string>
     <string name="get_sys_info">Obteniendo info…</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Pulsa en una aplicación de la barra lateral para abrirla en una ventana flotante.
+· Arrastra una aplicación al centro de la pantalla para abrirla en una ventana flotante o a un lado para usar la pantalla dividida.
+· Mantén pulsado el indicador para mover la ventana."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Pulsa en una aplicación de la barra lateral para abrirla en una ventana flotante.
+· Mantén pulsado el indicador para mover la ventana."</string>
     <string name="global_satisfaction_notification_button">Valorar</string>
     <string name="global_satisfaction_notification_subhead">Cuéntenos tu experiencia</string>
     <string name="global_satisfaction_notification_title">Califica este dispositivo</string>
@@ -2440,10 +2458,10 @@ de sus sesiones de juego"</string>
     <string name="gtb_dialog_btn_close">Desactivar</string>
     <string name="gtb_dialog_btn_open">Activar</string>
     <string name="gtb_dialog_hint_smart_5g">Puede activar y desactivar esta función en Game Turbo &gt; Ajustes.</string>
-    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará tu ID de cuenta Xiaomi para registrar la duración de tu suscripción."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Optimizador de juegos Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">"Estás a punto de usar Xunyou Game Voice Changer. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
+    <string name="gtb_dialog_privacy_voice_message">"Estás a punto de usar Xunyou Game Voice Changer. Este servicio recopilará tu ID de cuenta Xiaomi para registrar la duración de tu suscripción."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Cambiador de voz del juego Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar su dispositivo a la mejor red disponible para reducir el retraso de red. ¿Activar ahora esta función?</string>
@@ -2721,7 +2739,7 @@ responda"</string>
     <string name="managed_user_title">Todas las aplicaciones del trabajo</string>
     <string name="manual_input_free_traffic">Establecer uso de datos fuera de hora punta</string>
     <string name="manual_input_traffic">Establecer uso de datos</string>
-    <string name="manual_item_create_icon_title">Acceso directo en la pantalla de inicio</string>
+    <string name="manual_item_create_icon_title">Acceso directo a \"Seguridad\"</string>
     <string name="manual_item_white_list_summary">Evitar que los elementos seleccionados sean optimizados</string>
     <string name="manual_item_white_list_title">Escanear excepciones</string>
     <string name="mark_agent">Bloquear agencias reportadas</string>
@@ -2800,7 +2818,7 @@ Tu dispositivo es %s más rápido ahora."</string>
     <string name="menu_item_notification_power_text">Optimización de batería</string>
     <string name="menu_item_notification_title">Mostrar menú en el panel de notificaciones</string>
     <string name="menu_item_shortcut_summary">Colocar funciones en la pantalla de inicio</string>
-    <string name="menu_item_shortcut_title">Administrar accesos directos</string>
+    <string name="menu_item_shortcut_title">Acceso directo a funciones comunes</string>
     <string name="menu_item_uninstall">Desinstalar</string>
     <string name="menu_item_virus_cloud_scan_summary">Subir detalles y nombres de aplicaciones y escanear usando definiciones de virus en línea</string>
     <string name="menu_item_virus_cloud_scan_title">Definiciones en línea</string>
@@ -3286,9 +3304,9 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="password_forget_pattern_message_none">"Las aplicaciones no están bloqueadas. Puede restablecer su contraseña."</string>
     <string name="password_forget_pattern_reset">Restablecer</string>
     <string name="password_forget_pattern_title">Advertencia</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">Agregue su Cuenta Mi para poder restablecer su contraseña en caso de olvidarla.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">Añade tu cuenta Xiaomi para restablecer tu contraseña en caso de que la olvides.</string>
     <string name="password_promotion_postbutton_text">Agregar</string>
-    <string name="password_promotion_title">Agregar Cuenta Mi</string>
+    <string name="password_promotion_title">Añadir cuenta Xiaomi</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="password_type">Cambiar contraseña</string>
     <string name="password_type_underline"><u>Cambiar contraseña</u></string>
@@ -3318,6 +3336,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consumo de energía total</string>
     <string name="pc_battery_history_usetime_title">Activado</string>
+    <string name="pc_emergency_call">Emergencia</string>
     <string name="pc_endurance_calculation">Calculando…</string>
     <string name="pc_fast_charge_notifi_action_text_off">Detener</string>
     <string name="pc_fast_charge_notifi_action_text_on">Acelerar</string>
@@ -3338,6 +3357,10 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="pc_hidemode_performance">Rendimiento</string>
     <string name="pc_hidemode_performance_title">Modo de rendimiento</string>
     <string name="pc_hidemode_power_save">Ahorra batería</string>
+    <string name="pc_high_temp_protection_noti_bt_text">Entendido</string>
+    <string name="pc_high_temp_protection_noti_summary">"No es posible usar puntos de acceso, datos móviles y servicios de ubicación ahora"</string>
+    <string name="pc_high_temp_protection_noti_summary2">"No es posible usar puntos de acceso ahora"</string>
+    <string name="pc_high_temp_protection_noti_tile">El dispositivo está sobrecalentado</string>
     <string name="pc_install_manager">Instalar vía USB</string>
     <string name="pc_main_activity_back">Atrás</string>
     <string name="pc_main_battery_text_day">%1$s min agregados. Alrededor de %2$s d restantes</string>
@@ -3364,7 +3387,9 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="pc_statistics_battery_use_hour_minute">%1$d h y %2$d min desde la última carga</string>
     <string name="pc_statistics_battery_use_summary">%s desde la última carga</string>
     <string name="pc_statistics_battery_use_title">Uso de batería</string>
+    <string name="pc_temperature_too_high">Dispositivo sobrecalentado</string>
     <string name="pc_to_phone_install">Instalación bloqueada de %s vía USB</string>
+    <string name="pc_wait_device_cools_down">Espera hasta que el dispositivo se enfríe para usar esta función.</string>
     <string name="pc_xiaoai_create_auto_task">Nueva tarea de IA Mi</string>
     <string name="per_month_pkg_traffic_settings">Establecer límite de datos</string>
     <string name="perfermance_optimization_summary">Evita el sobrecalentamiento y problemas relacionados con el hardware</string>
@@ -3450,6 +3475,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="permission_instruction_send_mms">This permission allows apps to send multimedia messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
     <string name="permission_instruction_send_payment_sms">This permission allows apps to send paid text messages.</string>
     <string name="permission_instruction_send_sms">This permission allows apps to send text messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
+    <string name="permission_instruction_shake">"Este permiso permite que las aplicaciones registren la orientación y movimiento del dispositivo (inclinación y rotación, por ejemplo)"</string>
     <string name="permission_instruction_show_locked">Este permiso permite que las aplicaciones muestren elementos en su pantalla de bloqueo. Las aplicaciones maliciosas pueden usar este permiso para mostrar anuncios.</string>
     <string name="permission_instruction_sociality">"Para proteger su privacidad, MIUI le permite decidir si permite que las aplicaciones que tienen permisos de almacenamiento accedan a sus mensajes en las aplicaciones de redes sociales."</string>
     <string name="permission_instruction_storage">"Para proteger su privacidad, MIUI le permite decidir si permite que las aplicaciones que tienen permisos de almacenamiento accedan a la Galería y sus mensajes en las aplicaciones de redes sociales."</string>
@@ -3761,6 +3787,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_setting_wireless_reverse_charging_summary">Cargue dispositivos compatibles de manera inalámbrica</string>
     <string name="power_setting_wireless_reverse_charging_title">Carga inalámbrica reversible</string>
     <string name="power_settings_category_title">Indicador de batería</string>
+    <string name="power_settings_firmware_update_title">Actualizaciones de firmware</string>
     <string name="power_settings_lock_screen_saver_title">Ajustes de pantalla de bloqueo</string>
     <string name="power_settings_number">Porcentaje</string>
     <string name="power_settings_saver_title">Ahorrador De Energía</string>
@@ -4016,18 +4043,18 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="privacy_flares_current">Acción actual</string>
     <string name="privacy_flares_current_detail_cam">Esta aplicación está usando la cámara</string>
     <string name="privacy_flares_current_detail_cam_loc">Esta aplicación está usando la cámara y accediendo a tu ubicación</string>
-    <string name="privacy_flares_current_detail_cam_mic">Esta aplicación está usando cámara y micrófono</string>
+    <string name="privacy_flares_current_detail_cam_mic">Esta aplicación está accediendo a la cámara y al micrófono</string>
     <string name="privacy_flares_current_detail_loc">Esta aplicación está accediendo a tu ubicación</string>
-    <string name="privacy_flares_current_detail_mic">Esta aplicación está usando el micrófono</string>
-    <string name="privacy_flares_current_detail_mic_loc">Esta aplicación está usando el micrófono y accediendo a tu ubicación</string>
+    <string name="privacy_flares_current_detail_mic">Esta aplicación está accediendo al micrófono</string>
+    <string name="privacy_flares_current_detail_mic_loc">Esta aplicación está accediendo al micrófono y a la ubicación</string>
     <string name="privacy_flares_current_detail_more">Esta aplicación está usando un permiso sensible</string>
     <string name="privacy_flares_recent">Acción reciente</string>
     <string name="privacy_flares_recent_detail_cam">Esta aplicación ha usado la cámara</string>
     <string name="privacy_flares_recent_detail_cam_loc">Esta aplicación usó la cámara y accedió a tu ubicación</string>
-    <string name="privacy_flares_recent_detail_cam_mic">Esta aplicación ha usado cámara y micrófono</string>
+    <string name="privacy_flares_recent_detail_cam_mic">Esta aplicación accedió a la cámara y al micrófono</string>
     <string name="privacy_flares_recent_detail_loc">Esta aplicación ha accedido a tu ubicación</string>
-    <string name="privacy_flares_recent_detail_mic">Esta aplicación ha usado micrófono</string>
-    <string name="privacy_flares_recent_detail_mic_loc">Esta aplicación usó el micrófono y accedió a tu ubicació</string>
+    <string name="privacy_flares_recent_detail_mic">Esta aplicación accedió al micrófono</string>
+    <string name="privacy_flares_recent_detail_mic_loc">Esta aplicación accedió al micrófono y a la ubicación</string>
     <string name="privacy_flares_recent_detail_more">Esta aplicación ha utilizado un permiso sensible</string>
     <string name="privacy_global_guide_permission_guide_text">"Recibirás una alerta de la barra de estado cuando las aplicaciones graben audio o usen la cámara. Para saber qué aplicación hace eso, toca la alerta."</string>
     <string name="privacy_guide_permission_guide_text">Usted puede recibir una alerta en la barra de estado cuando las aplicaciones accedan a su ubicación, graben audios o tomen fotos.</string>
@@ -4047,7 +4074,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="privacy_look_all_permission_status">Todos los permisos</string>
     <string name="privacy_look_all_permission_times">Todas las aplicaciones</string>
     <string name="privacy_look_privacy">Política de privacidad</string>
-    <string name="privacy_manage_title">Administrar</string>
     <string name="privacy_mask_summary">En lugar de su identificador real, MIUI proporcionará una ID virtual (OAID) a aplicaciones de terceros. Impide que las aplicaciones rastreen su comportamiento y preferencias y protege su privacidad.</string>
     <string name="privacy_mask_title">La ID virtual está activa</string>
     <string name="privacy_mode_dialog_title">Modo de invitado</string>
@@ -4080,9 +4106,9 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="privacy_pop_record">Hoy se grabó audio</string>
     <string name="privacy_pop_storage">Hoy se accedió al almacenamiento</string>
     <string name="privacy_prompt_tc_sms_report_message">"Su número telefónico y los detalles de la operadora serán encriptados y cargados a los servidores Mi para actualizar la información de su uso de datos."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Después de empezar la calibración, MIUI se conectará a la red, codificará la información de su operador, número telefónico, IMEI y Cuenta Mi y subirá estos elementos a los servidores Mi. Esto es para obtener la plantilla de calibración de su operadora y saber si es posible comprar datos en su ubicación.
+    <string name="privacy_prompt_traffic_adjust_message">"Después de iniciar la calibración, MIUI conectará a la red, codificará la información del operador, número de teléfono, IMEI y cuenta Xiaomi, guardando estos datos en los servidores de Xiaomi. Su intención es adquirir la plantilla de calibración del operador y determinar si es posible comprar datos en tu ubicación.
 
-Mientras se esté calibrando, MIUI enviará un mensaje a su operadora para recibir esta plantilla."</string>
+Durante la calibración, MIUI enviará un mensaje de texto al operador para recibir la plantilla de calibración."</string>
     <string name="privacy_prompt_upload">Subir</string>
     <string name="privacy_protect_summary">Proteja su información personal</string>
     <string name="privacy_protect_title">Protección de la privacidad</string>
@@ -4281,7 +4307,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="report_warning_title">Advertencia</string>
     <string name="required_permissions">Permisos obligatorios</string>
     <string name="required_permissions_desc">Estos permisos son necesarios para que las funciones y servicios básicos de esta aplicación estén disponibles.</string>
-    <string name="reset_data_dialog_message">"Este dispositivo no está asociado con su cuenta Mi. No se puede restaurar o restablecer la contraseña. Realice una copia de seguridad de todos los elementos importantes y realice un restablecimiento de fábrica. Todos los datos se eliminarán de forma permanente y su tarjeta SD se formateará durante el restablecimiento de fábrica."</string>
+    <string name="reset_data_dialog_message">"Este dispositivo no está asociado a tu cuenta Xiaomi. No puedes restaurar o restablecer la contraseña. Haz una copia de seguridad de todos los elementos importantes y después un restablecimiento de fábrica. Todos los datos se eliminarán permanentemente y la tarjeta SD será formateada."</string>
     <string name="reset_data_dialog_ok">Restauración de fábrica</string>
     <string name="reset_data_title">"No se puede restaurar la contraseña"</string>
     <string name="result_autoscan_header">Monitoreando pago</string>
@@ -4406,7 +4432,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="set_now">Ajustes</string>
     <string name="set_numeric_password_name">Establecer PIN</string>
     <string name="set_package_tips">"Enviaremos un SMS gratis a su operador para verificar su plan de datos. La información que proporcione se cifrará y se cargará en nuestros servidores para redactar este mensaje."</string>
-    <string name="set_package_tips_detail">"La información cargada en los servidores de Xiaomi incluirá los detalles de su operador, así como su número de teléfono, IMEI y Cuenta Mi."</string>
+    <string name="set_package_tips_detail">"La información enviada a los servidores de Xiaomi incluirá detalles del operador, número de teléfono, IMEI y cuenta de Xiaomi."</string>
     <string name="set_pattern_password_name">Establecer patrón</string>
     <string name="set_traffic_tips">Configure su plan de datos para administrar el uso de datos móviles y evitar tarifas adicionales del operador</string>
     <string name="setting">Ajustes</string>
@@ -4975,6 +5001,7 @@ Para usar esta ^1 con este dispositivo primero tiene que configurarla."</string>
     <string name="storage_system_memory_expansion">Extensión de memoria</string>
     <string name="storage_system_memory_expansion_tip">Ampliar la memoria RAM ocupando almacenamiento</string>
     <string name="storage_system_other_tip">Datos necesarios para que el sistema funcione normalmente (el tamaño del archivo puede cambiar con el tiempo)</string>
+    <string name="storage_system_other_tip_new">Incluye el espacio de almacenamiento necesario para el funcionamiento del sistema y sus actualizaciones. El tamaño de esta partición cambiará en función de estas necesidades.</string>
     <string name="storage_unmount_failure">"No se pudo desmontar %1$s"</string>
     <string name="storage_unmount_success">%1$s desmontada con éxito</string>
     <string name="storage_wizard_format_confirm_v2_action">Formatear ^1</string>
@@ -5234,12 +5261,12 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="terminal_privacy_ability_others">Otros procedimientos</string>
     <string name="terminal_privacy_ability_others_summary">Compartir pantalla, probar el entorno de pagos, huella dactilar y reconocimiento facial</string>
     <string name="terminal_privacy_ability_suggest">Recomendaciones</string>
-    <string name="terminal_privacy_ability_suggest_summary">Recomendaciones y sugerencias del administrador de archivos, barra lateral, IA de MI y Cartera MI</string>
+    <string name="terminal_privacy_ability_suggest_summary">Recomendaciones y sugerencias de carpetas en la pantalla de inicio, barra lateral y Mi Wallet</string>
     <string name="terminal_privacy_ability_summary">*Las funciones y procedimientos de protección de la privacidad pueden variar en función del modelo de dispositivo</string>
     <string name="terminal_privacy_ability_txt">Texto</string>
     <string name="terminal_privacy_ability_txt_summary">Edición de texto, subtítulos inteligentes, Taplus, mensajes y portapapeles compartido</string>
     <string name="terminal_privacy_ability_voice">Reconocimiento de voz</string>
-    <string name="terminal_privacy_ability_voice_summary">Comandos de voz IA de Mi y subtítulos inteligentes</string>
+    <string name="terminal_privacy_ability_voice_summary">Comandos de voz y subtítulos inteligentes</string>
     <string name="terminal_privacy_instruction">La protección de privacidad incluye características que mantienen tu información personal en el dispositivo en lugar de cargarse a la nube</string>
     <string name="terminal_privacy_summary">Procesar información personal en el dispositivo</string>
     <string name="terms_and_conditions_content"><Data>\"Esta función te brinda la funcionalidad de alerta de terremotos. Te notificará sobre los próximos terremotos y reproducirá un sonido de advertencia. Podrás encontrar el refugio más cercano, llamar a tu contacto de emergencia y presentar su tarjeta médica si es necesario. &lt;br&gt;Lo haremos proteja su información personal de acuerdo con las leyes, reglamentos y políticas &lt;br&gt;privacidad pertinentes.2 Para poder funcionar con normalidad, esta función requiere los siguientes permisos para recopilar tu información personal: &lt;br&gt;• Información de ubicación: &lt;br&gt;Para acceder a tu ubicación y proporcionar alertas de terremotos precisas. &lt;br&gt;Si no aceptas otorgar dichos permisos o compartir y cargar su información personal, no podrás usar esta función. Puedes optar por desactivar esta función o no activarla en tal &lt;br&gt;Debes leer y aceptar nuestra &lt;a href=%s&gt;Política de privacidad&lt;/a&gt; antes de usar esta función\".</Data></string>
@@ -5324,7 +5351,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_block_calls_from_strangers">¿Llamadas perdidas importantes?</string>
     <string name="title_chain_start">Restringir inicio en cadena</string>
     <string name="title_cleaner_cloudscan">Escanear papelera en la Nube</string>
-    <string name="title_cloud_account">Cuenta Mi</string>
+    <string name="title_cloud_account">Cuenta Xiaomi</string>
     <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi lleno, algunos elementos pueden no sincronizarse</string>
     <string name="title_cloud_space_full">La nube está llena</string>
     <string name="title_cmcc_app_check">"La verificación no se ha completado"</string>
@@ -5627,6 +5654,8 @@ Los datos restantes incluyen datos transferidos desde el mes anterior."</string>
     <string name="vb_video_effects_dolby_headset">" (Solo auriculares)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos está encendido</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
+    <string name="vb_video_effects_immersion_sound">Sonido envolvente</string>
+    <string name="vb_video_effects_immersion_sound_summary">Experimenta la inmersión y la sensación de espacio al reproducir el sonido a través de auriculares</string>
     <string name="vb_video_effects_liquid_summary">Mejore la claridad del diálogo en los videos</string>
     <string name="vb_video_effects_only_headphone">Solo funciona con auriculares</string>
     <string name="vb_video_effects_setting_black_white">B&amp;W</string>
@@ -5650,6 +5679,7 @@ Los datos restantes incluyen datos transferidos desde el mes anterior."</string>
     <string name="vb_video_effects_spatial">Seguimiento del movimiento de la cabeza</string>
     <string name="vb_video_effects_spatial_summary">"Ajuste el sonido inmersivo según el movimiento de la cabeza
 *Solo compatible con modelos de auriculares para juegos"</string>
+    <string name="vb_video_effects_spatial_summary_new">Experimenta una mayor sensación de espacio y direccionalidad para el audio y vídeo compatibles. Ajusta el sonido envolvente en función del movimiento de la cabeza.</string>
     <string name="vb_video_effects_srs_premium_sound">Sonido</string>
     <string name="vb_video_super_division">Reescalar</string>
     <string name="vb_video_super_division_desc">"Mejora la resolución automáticamente cuando es ≤720p.

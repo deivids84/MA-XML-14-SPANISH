@@ -607,7 +607,10 @@ para mostrar widgets."</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Toca para permitir el uso de Compras</string>
     <string name="pa_shopping_widget_no_network_content_desc">"No es posible conectar a la red"</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Aceptar la Política de Privacidad de Compras para usar esta función. Pulsa para ver.</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Compras</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Concede permiso a este widget para obtener cupones y ofertas en tus plataformas de comercio electrónico favoritas</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Ajustes</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Conceder</string>
     <string name="pa_shopping_widget_title">Compras</string>
     <string name="pa_shortcut_accessibility_description">"La bóveda de la aplicaciones proporciona accesos directos para aplicaciones de terceros seleccionadas. Estos accesos directos no funcionarán si desactiva la función."</string>
     <string name="pa_shortcut_accessibility_service">Bóveda de aplicaciones</string>

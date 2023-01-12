@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_key_position_action">
+        <item>Botón de Menú a la izquierda, botón Atrás a la derecha</item>
+        <item>Botón Atrás a la izquierda, botón de Menú a la derecha</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Mostrar panel de aplicaciones recientes</item>
+        <item>Mostrar menú</item>
+    </string-array>
+</resources>

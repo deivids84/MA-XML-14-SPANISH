@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MM">mm</string>
+    <string name="MOBILE_QQ">mobileqq</string>
+    <string name="SINA">sina.</string>
+    <string name="TENCENT">tencent.</string>
+    <string name="WEIBO">weibo</string>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
@@ -62,6 +67,9 @@
     <string name="app_name">Notas</string>
     <string name="app_notification_info">Notas se está ejecutando en segundo plano</string>
     <string name="app_widget">Notas</string>
+    <string name="app_widget_name_create_note">Crear notas</string>
+    <string name="app_widget_name_create_todo">Crear tareas</string>
+    <string name="app_widget_name_fast_entry">Accesos directos</string>
     <string name="app_widget_name_new">Notas</string>
     <string name="application_icon">Ícono de aplicación</string>
     <string name="audio_btn_mode_meeting">Reunión</string>
@@ -306,6 +314,7 @@
     <string name="login_sync">Iniciar sesión y sincronizar</string>
     <string name="lunar_day">%1$s lunar</string>
     <string name="manage_folders">Administrar carpetas</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Seleccione AM o PM</string>
     <string name="material_hour_selection">Seleccione la hora</string>
@@ -1011,5 +1020,8 @@ Permita a Notas grabar audio."</string>
     <string name="widget_size_item_super_big">Muy grande</string>
     <string name="widget_size_not_support">"Widgets extra grandes no soportados en este dispositivo"</string>
     <string name="widget_take_notes_title">Notas</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
     <string name="yesterday">Ayer</string>
 </resources>

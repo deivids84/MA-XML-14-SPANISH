@@ -150,13 +150,21 @@
     <string name="app_cache">Caché</string>
     <string name="app_id">ID de aplicación de Firebase (haga clic para exportar)</string>
     <string name="app_library_category_entertainment">Entretenimiento</string>
+    <string name="app_library_category_financial_management">Finanzas</string>
     <string name="app_library_category_games">Juegos</string>
+    <string name="app_library_category_health_and_exercise">Salud</string>
+    <string name="app_library_category_individualization">Personalización</string>
     <string name="app_library_category_information">Multimedia</string>
     <string name="app_library_category_lifestyle">Estilo de vida</string>
+    <string name="app_library_category_originality">Creatividad</string>
     <string name="app_library_category_others">Otros</string>
     <string name="app_library_category_productivity">Productividad</string>
+    <string name="app_library_category_reading_and_information">Noticias</string>
+    <string name="app_library_category_shopping_and_food">Compras</string>
     <string name="app_library_category_social">Social</string>
+    <string name="app_library_category_travel">Viajes</string>
     <string name="app_library_category_utility">Herramientas</string>
+    <string name="app_library_category_work_and_efficiency">Productividad</string>
     <string name="app_library_title">Aplicaciones</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Cámara</string>
@@ -482,6 +490,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="close_all_tab_alert_title">Cerrar todas las pestañas</string>
     <string name="close_cant_recommand">"No recibirá servicios de contenido personalizado si desactiva esta función."</string>
     <string name="close_cloud_tab_tip">¿Cerrar las pestañas en la nube de %s?</string>
+    <string name="close_desktop">Versión de escritorio desactivada</string>
     <string name="cloud_loading_tips">Deslice hacia abajo para sincronizar</string>
     <string name="cloud_no_new_data_toast">"Todo está actualizado"</string>
     <string name="cloud_sync_closed_toast">"No se puedo actualizar porque la sincronización está apagada"</string>
@@ -668,6 +677,7 @@ Envíe este código al supervisor."</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Repetir</string>
     <string name="doc_viewer_label">Lector (Navegador Mi)</string>
     <string name="doc_viewer_open_out_file_prompt">Para abrir y ver un archivo recibido de fuentes externas, es necesario crear una copia del mismo. ¿Continuar?</string>
+    <string name="doc_viewer_user_guide_profile">Ver el elemento que buscabas aquí</string>
     <string name="document_download_background_btn">Descargar en segundo plano</string>
     <string name="document_download_cancel_btn">Cancelar</string>
     <string name="document_download_failed">"No se ha podido descargar"</string>
@@ -1650,6 +1660,7 @@ Dejar esta página ahora?"</string>
     <string name="my_account">Mi cuenta</string>
     <string name="my_cahnnel">Mis canales</string>
     <string name="my_channel">Mis canales</string>
+    <string name="my_prize_entry">Mis recompensas</string>
     <string name="name_empty">Debe ingresar un nombre.</string>
     <string name="nav_bottom_bar_back">Atrás</string>
     <string name="nav_bottom_bar_close_all">Cerrar todo</string>
@@ -1756,6 +1767,7 @@ Dejar esta página ahora?"</string>
     <string name="ok">Aceptar</string>
     <string name="one_prefect_author">Creador</string>
     <string name="open_app_confirm_message">¿Permitir a esta página abrir %s?</string>
+    <string name="open_desktop">Versión de escritorio activada</string>
     <string name="open_google_gaid">"Para poder utilizar esta función, asegúrate de no haber desactivado la personalización de anuncios en Ajustes &gt; Google &gt; Anuncios"</string>
     <string name="open_personalized_services">Activa los servicios personalizados para poder usar esta función.</string>
     <string name="open_private_folder">Suelte para ver carpetas ocultas</string>
@@ -2289,7 +2301,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="privacy_btn_more">Más</string>
     <string name="privacy_dialog_next">Siguiente</string>
     <string name="privacy_dialog_revoke">Retirar</string>
-    <string name="privacy_dialog_text">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Wonderfic. Dejaremos de recopilar tu información personal. La información personal ya recopilada y retenida (incluida, entre otras, la información de la cuenta, la información de pago y los registros de compras) se eliminará dentro del período específico según lo requieran las leyes aplicables. <b>No podrás acceder a los libros que compraste después de retirar tu consentimiento, y se liquidará el saldo de tu cuenta.</b> Ya que Wonderfic necesita recopilar la información personal necesaria para brindarte sus servicios, tu retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar estos servicios.</string>
+    <string name="privacy_dialog_text">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Wonderfic. Dejaremos de recopilar tu información personal. La ya recopilada y retenida (incluida, entre otras, información de la cuenta, información de pago y registro de compras) se eliminará en el período específico según lo requieran las leyes aplicables. <b>No podrás acceder a los libros que compraste después de retirar tu consentimiento y se liquidará el saldo de tu cuenta.</b> Tu retirada de consentimiento a la Política de Privacidad de Wonderfic se considerará como una negativa a aceptar sus servicios.</string>
     <string name="privacy_dialog_text_next">"No podrás acceder a los libros que compraste después de retirar tu consentimiento y se liquidará el saldo de tu cuenta."</string>
     <string name="privacy_dialog_title">Retirada del consentimiento</string>
     <string name="privacy_disagree">"No aceptar"</string>
@@ -2670,7 +2682,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="reeading__reading_feedback_dialog_button_submit">Enviar</string>
     <string name="reeading__reading_feedback_dialog_input_empty_toast">Introduce los detalles del problema antes de enviar</string>
     <string name="reeading__reading_feedback_dialog_input_hint">Describe el problema aquí</string>
-    <string name="reeading__reading_feedback_dialog_input_submit_failed_toast">"No se pudo enviar. Espera unos minutos y vuelve a intentarlo."</string>
+    <string name="reeading__reading_feedback_dialog_input_submit_failed_toast">"No se pudo enviar. Espera unos minutos e inténtalo otra vez."</string>
     <string name="reeading__reading_feedback_dialog_input_submit_success_toast">Comentario enviado</string>
     <string name="reeading__reading_feedback_dialog_input_title">Detalles del problema</string>
     <string name="reeading__reading_feedback_dialog_issue_case1">Errores de gramática u ortografía</string>
@@ -2870,7 +2882,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="show_options_label">Mostrar Opciones</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_by_others">Otras formas de iniciar sesión</string>
-    <string name="sign_in_by_xiaommi">Iniciar sesión con Cuenta Xiaomi</string>
+    <string name="sign_in_by_xiaommi">Inicia sesión con la cuenta Xiaomi</string>
     <string name="sign_in_failed">"No se pudo iniciar sesión"</string>
     <string name="sign_in_progress">Iniciando sesión…</string>
     <string name="sign_in_title">Iniciar sesión con su Cuenta Mi</string>
@@ -2879,7 +2891,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="sign_out">Cerrar sesión</string>
     <string name="signin_tips_1">- Iniciar sesión te permite guardar tu progreso.</string>
     <string name="signin_tips_2">- Tus datos serán protegidos por tu cuenta.</string>
-    <string name="signin_tips_3">"- Podrás usar tus monedas en todos tus dispo- sitivos."</string>
+    <string name="signin_tips_3">"- Podrás usar tus monedas en todos tus dispositivos."</string>
     <string name="signin_with_facebook">Iniciar sesión con Facebook</string>
     <string name="signin_with_google">Iniciar sesión con Google</string>
     <string name="simple_page_toast">Puedes cambiar a la configuración predeterminada en Ajustes &gt; Página de Inicio</string>
@@ -3251,7 +3263,7 @@ Siempre puede inhabilitar en Ajustes &gt; Privacidad y Seguridad"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="v_code_title">Ingresar código de verificación</string>
-    <string name="verify_error_again_title">"No se pudo completar el pago. Si Google Pay cobró el monto de tu cuenta, actualiza el estado del pago en tu perfil."</string>
+    <string name="verify_error_again_title">"No se ha podido completar el pago. Si Google Pay ha cargado el importe en tu cuenta, actualiza el estado de pago en tu perfil."</string>
     <string name="verify_error_title">Parece que tienes un pedido pendiente. Actualiza la página para volver a intentarlo.</string>
     <string name="verify_subscription">Actualizando suscripción…</string>
     <string name="version_check_button_checking">Comprobando…</string>
@@ -3433,7 +3445,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
     <string name="welcome__privacy_policy">&lt;Data&gt;¡Te damos la bienvenida a Wonderfic! Esta aplicación te ofrece los siguientes servicios:&lt;br&gt;- Una biblioteca online con multitud de títulos para elegir.&lt;br&gt;- Un cómodo lector de libros electrónicos.&lt;br&gt;Wonderfic necesita recopilar información personal necesaria para proporcionar los servicios básicos. Puedes conocer cómo manejamos la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Siempre puedes retirar tu consentimiento a la Política de Privacidad de Wonderfic en privacidad y seguridad.&lt;br&gt;&lt;br&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Wonderfic.&lt;/Data&gt;</string>
-    <string name="welcome__privacy_policy_description">&lt;Data&gt;Wonderfic necesita recopilar información personal necesaria para brindarte los servicios básicos. Puedes conocer cómo manejar la información que recopilamos en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Siempre puedes retirar tu consentimiento a la Política de Privacidad de Wonderfic en Privacidad y seguridad.&lt;br&gt;&lt;br&gt;Lee y acepta nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Wonderfic.&lt;/Data&gt;</string>
+    <string name="welcome__privacy_policy_description"><Data>Wonderfic necesita recopilar información personal necesaria para proporcionar los servicios básicos. Puedes saber como manejamos la información recopilada en nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Siempre podrás retirar tu consentimiento en Privacidad y seguridad.&lt;br&gt;&lt;br&gt; Lee y acepta nuestro Acuerdo de Usuario &lt;a href=\"%2$s\"&gt;&lt;/a&gt; y la &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Wonderfic.</Data></string>
     <string name="welcome__privacy_policy_text1">¡Te damos la bienvenida a Wonderfic! Esta aplicación ofrece los siguientes servicios:</string>
     <string name="welcome__privacy_policy_text2">\u0009 Una biblioteca con multitud de títulos entre los que elegir.</string>
     <string name="welcome__privacy_policy_text3">\u0009 Un cómodo lector local de libros electrónicos</string>

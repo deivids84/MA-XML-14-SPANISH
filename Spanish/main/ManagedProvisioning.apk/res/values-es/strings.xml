@@ -33,8 +33,10 @@
     <string name="access_terms">Accede a condiciones</string>
     <string name="account_management_disclaimer_header">Tu cuenta esta administrada</string>
     <string name="account_management_disclaimer_subheader">Su administrador de TI utiliza la administración de dispositivos móviles para hacer cumplir las políticas de seguridad</string>
-    <string name="admin_has_ability_to_monitor_device">"Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este dispositivo, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br&gt;&lt;br&gt;Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización."</string>
-    <string name="admin_has_ability_to_monitor_profile">"Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este perfil, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br&gt;&lt;br&gt;Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización."</string>
+    <string name="admin_has_ability_to_monitor_device">"Tu administrador de TI puede supervisar y gestionar los ajustes, el acceso corporativo, las aplicaciones, los permisos y datos asociados con el dispositivo, la actividad de red, la ubicación, el historial de llamadas y el de búsqueda de contactos.
+
+Contacta con él para obtener más información y conocer la política de privacidad de tu organización."</string>
+    <string name="admin_has_ability_to_monitor_profile">"El administrador de TI puede revisar y administrar ajustes, acceso corporativo, aplicaciones, permisos, datos, y la actividad de red asociada con este perfil, así como el historial de llamadas y de búsqueda de contactos. Contacta con él para más información y la política de privacidad de la organización."</string>
     <string name="app_label">Configuración de trabajo</string>
     <string name="back">Atrás</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
@@ -51,18 +53,6 @@
     <string name="cant_replace_or_remove_work_profile">"No se ha podido reemplazar ni eliminar el perfil de trabajo"</string>
     <string name="cant_set_up_device">"No se ha podido configurar el dispositivo"</string>
     <string name="cant_set_up_profile">"No se ha podido configurar el perfil"</string>
-    <string name="car_ui_alert_dialog_default_button">Cerrar</string>
-    <string name="car_ui_preference_switch_off">Desactivado</string>
-    <string name="car_ui_preference_switch_on">Activado</string>
-    <string name="car_ui_restricted_while_driving">Función no disponible mientras se conduce</string>
-    <string name="car_ui_scrollbar_page_down_button">Desplazarse hacia abajo</string>
-    <string name="car_ui_scrollbar_page_up_button">Desplazarse hacia arriba</string>
-    <string name="car_ui_scrolling_limited_message">Desplazamiento limitado mientras conduce</string>
-    <string name="car_ui_toolbar_default_search_hint">Buscar...</string>
-    <string name="car_ui_toolbar_menu_item_overflow_title">Desbordamiento</string>
-    <string name="car_ui_toolbar_menu_item_search_title">Buscar</string>
-    <string name="car_ui_toolbar_menu_item_settings_title">Ajustes</string>
-    <string name="car_ui_toolbar_nav_icon_content_description">Atrás</string>
     <string name="change_device_launcher">Cambiar el launcher del dispositivo</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
@@ -83,7 +73,6 @@
     <string name="cope_provisioning_step_2_header">Las apps personales se mantienen separadas y ocultas de las de trabajo</string>
     <string name="cope_provisioning_step_3_header">Tu administrador de TI puede controlar este dispositivo y bloquear ciertas apps</string>
     <string name="cope_provisioning_summary">Las aplicaciones de trabajo se guardan en tu perfil de trabajo y las gestiona el administrador de TI. Las aplicaciones personales se mantienen separadas y ocultas de las aplicaciones de trabajo. El administrador de TI puede controlar este dispositivo y bloquear algunas aplicaciones.</string>
-    <string name="copy">Copiar</string>
     <string name="copying_certs">Configurando certificados de CA</string>
     <string name="couldnt_set_up_device">"No se ha podido configurar el dispositivo. Para obtener ayuda, ponte en contacto con tu administrador de TI."</string>
     <string name="default_managed_profile_name">Perfil de trabajo</string>
@@ -110,9 +99,11 @@
     <string name="error_icon_content_description">Error</string>
     <string name="error_installation_failed">"No se ha podido instalar la aplicación de administración"</string>
     <string name="error_package_invalid">"No se puede utilizar la aplicación de administración, ya que faltan componentes o está dañada. Para obtener ayuda, ponte en contacto con el administrador de TI."</string>
+    <string name="error_role_holder_download_install_failed">Inténtalo, otra vez, más tarde o pide ayuda al administrador de TI</string>
+    <string name="error_role_holder_hash_mismatch">"No se puede configurar el dispositivo. Contacta con el administrador de TI y comunica \"suma de verificación no válida\"."</string>
+    <string name="error_role_holder_package_invalid">"No se puede configurar el dispositivo. Contacta con el administrador de TI comunica \"Faltan componentes o están dañados\"."</string>
     <string name="error_wifi">"No se ha podido establecer conexión con la red Wi‑Fi"</string>
     <string name="expand">Mostrar</string>
-    <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="financed_device_screen_header">Dispositivo proporcionado por %s</string>
     <string name="financed_make_payments_subheader_description">%1$s puede instalar la %2$s para que pueda realizar pagos para este dispositivo.</string>
@@ -126,7 +117,7 @@
     <string name="fully_managed_device_provisioning_accept_header">"Vamos a configurar tu dispositivo de trabajo"</string>
     <string name="fully_managed_device_provisioning_permissions_header">Tu actividad &amp; datos</string>
     <string name="fully_managed_device_provisioning_permissions_secondary_header">Permisos de la aplicación</string>
-    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">Su administrador de TI puede establecer permisos para aplicaciones en este dispositivo, como permisos de micrófono, cámara y ubicación.</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">El administrador de TI puede establecer permisos para las aplicaciones del dispositivo, como permisos de micrófono, cámara y ubicación.</string>
     <string name="fully_managed_device_provisioning_privacy_body">Tu administrador de TI puede ver los datos y actividad de este dispositivo</string>
     <string name="fully_managed_device_provisioning_privacy_title">Recordatorio de privacidad</string>
     <string name="fully_managed_device_provisioning_progress_label">Configurando el dispositivo…</string>
@@ -135,9 +126,9 @@
     <string name="fully_managed_device_provisioning_step_1_header">Tener las aplicaciones de trabajo a tu alcance</string>
     <string name="fully_managed_device_provisioning_step_2_header">"Este dispositivo no es privado"</string>
     <string name="fully_managed_device_provisioning_step_2_subheader">Tu administrador de TI puede ver los datos y la actividad de este dispositivo.</string>
-    <string name="fully_managed_device_provisioning_summary">"Utiliza este dispositivo para acceder fácilmente a las aplicaciones de trabajo. Este dispositivo no es privado, por lo que tu administrador de TI puede ver tus datos y actividad. Para obtener más información, ponte en contacto con tu administrador de TI."</string>
+    <string name="fully_managed_device_provisioning_summary">"Usa el dispositivo para acceder a las aplicaciones de trabajo. El dispositivo no es privado y el administrador de TI puede ver tus datos y tu actividad. Para obtener más información, contacta con él."</string>
     <string name="fully_managed_device_reset_and_return_button">Restablecer &amp; dispositivo de retorno</string>
-    <string name="fully_managed_device_with_permission_control_provisioning_summary">Utilice este dispositivo para acceder fácilmente a sus aplicaciones de trabajo. Este dispositivo no es privado, por lo que su administrador de TI puede ver su actividad y sus datos. Su administrador de TI también puede establecer permisos para aplicaciones en este dispositivo, como permisos de micrófono, cámara y ubicación.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">Usa el dispositivo para acceder a las aplicaciones de trabajo. El dispositivo no es privado y el administrador de TI puede ver tus datos y tu actividad. También puede establecer permisos de aplicaciones, como permisos de micrófono, cámara y ubicación.</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="if_questions_contact_admin">Si tienes alguna pregunta, ponte en contacto con tu administrador de TI</string>
     <string name="info_anim_title_0">Cambia tu forma de trabajar</string>
@@ -172,6 +163,7 @@
     <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
     <string name="mtrl_picker_date_header_title">Seleccionar la fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
@@ -193,16 +185,15 @@
     <string name="mtrl_picker_toggle_to_day_selection">Pulsa para cambiar a la selección de un día</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de introducción Texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca para cambiar a la selección de un año</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="navigation_button_description">Navegar hacia arriba</string>
     <string name="next">Siguiente</string>
-    <string name="not_set">Sin definir</string>
     <string name="ok_setup">Aceptar</string>
     <string name="one_place_for_work_apps">Un único lugar para las aplicaciones de trabajo</string>
     <string name="opening_paragraph_delete_profile">"Ya tienes un perfil de trabajo administrado a través de la siguiente aplicación:"</string>
     <string name="organization_admin">Administrador de TI</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pick_launcher">Aceptar</string>
-    <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="profile_benefits_description">Si utilizas un perfil de trabajo, puedes mantener separados tus datos personales y los profesionales</string>
     <string name="profile_owner_cancel_cancel">No</string>
     <string name="profile_owner_cancel_message">¿Detener configuración?</string>
@@ -222,6 +213,7 @@
     <string name="section_content">Contenido de la sección %1$s: %2$s</string>
     <string name="section_heading">Título de la sección %1$s.</string>
     <string name="set_up_your_device">Configura el dispositivo</string>
+    <string name="setting_up">Configurando…</string>
     <string name="setting_up_workspace">Configurando el perfil de trabajo…</string>
     <string name="setup_device">Configura tu dispositivo</string>
     <string name="setup_device_encryption">Configura tu dispositivo. Cifrado</string>
@@ -249,8 +241,6 @@
     <string name="url_error">No se puede mostrar el enlace.</string>
     <string name="user_consent_msg">Estoy de acuerdo</string>
     <string name="user_setup_incomplete">Configuración de usuario incompleta</string>
-    <string name="v7_preference_off">DESACTIVADA</string>
-    <string name="v7_preference_on">ACTIVADO</string>
     <string name="view_terms">Ver condiciones</string>
     <string name="work_profile_cant_be_added_contact_admin">No se ha podido añadir un perfil de trabajo a este dispositivo. Si tienes alguna pregunta, ponte en contacto con tu administrador de TI.</string>
     <string name="work_profile_description">Tus aplicaciones de trabajo se guardarán en este perfil y las administrará tu organización</string>
@@ -260,7 +250,7 @@
     <string name="work_profile_provisioning_step_1_header">Las aplicaciones de trabajo se guardan en tu perfil de trabajo</string>
     <string name="work_profile_provisioning_step_2_header">"Pausa las aplicaciones de trabajo cuando haya acabado tu jornada laboral"</string>
     <string name="work_profile_provisioning_step_3_header">Tu administrador de TI puede ver los datos que hay en tu perfil de trabajo</string>
-    <string name="work_profile_provisioning_summary">Las aplicaciones de trabajo se guardan en tu perfil de trabajo. Puedes pausar tus aplicaciones de trabajo cuando termine tu jornada laboral. Tu administrador de TI puede ver los datos que hay en tu perfil de trabajo.</string>
+    <string name="work_profile_provisioning_summary">Las aplicaciones de trabajo se guardan en tu perfil de trabajo. Puedes pausarlas cuando termine tu jornada laboral. El administrador de TI puede ver los datos de tu perfil de trabajo.</string>
     <string name="work_profile_setup_later_message">"Puedes configurar tu perfil de trabajo más tarde con la aplicación de administración de dispositivos de tu organización"</string>
     <string name="work_profile_setup_later_title">¿Detener la configuración del perfil?</string>
     <string name="work_profile_setup_stop">Detener</string>

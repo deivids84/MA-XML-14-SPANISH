@@ -84,7 +84,7 @@
     <string name="catch_full_log_action_start">Generar registro</string>
     <string name="catch_full_log_add_original_photo">Añade una imagen original o un vídeo corto</string>
     <string name="catch_full_log_add_photo">Añadir foto</string>
-    <string name="catch_full_log_add_photo_dialog_content">"Si el problema que estás reportando está relacionado con la calidad de imagen de la cámara, añade un foto original como muestra (sin recortar) para ayudarnos a localizar el problema. ¿Añadir la foto ahora?"</string>
+    <string name="catch_full_log_add_photo_dialog_content">"Si el problema del que estás informando se relaciona con la calidad de imagen de la cámara, añade una foto original como muestra (sin recortar) para ayudar a localizar el problema. ¿Añadir la foto?"</string>
     <string name="catch_full_log_category">Tipos de registro</string>
     <string name="catch_full_log_dialog_confirm_text">Ir a la Pantalla de inicio</string>
     <string name="catch_full_log_dialog_content">"MIUI está generando un registro. Esto podría afectar al rendimiento general de tu dispositivo. Si no puedes reproducir el problema que quieres reportar, vuelve a los registros y pulsa \"Cancelar\"."</string>
@@ -181,6 +181,8 @@ Remite este código al supervisor."</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="facebook_login_btn_content_description">Iniciar sesión con Facebook</string>
     <string name="failed_to_fetch_fql">"No se pudo obtener la información de las preguntas frecuentes, revisa tu conexión de red"</string>
+    <string name="feedback_account_inconsistent_login_hint">Parece que cambiaste de cuenta. Inicia sesión en tu cuenta Xiaomi anterior.</string>
+    <string name="feedback_account_login_hint">Antes, inicia sesión en tu cuenta Xiaomi</string>
     <string name="feedback_answer_detail_feedback_resolved">Sí</string>
     <string name="feedback_answer_detail_feedback_result">¡Gracias por tu comentario!</string>
     <string name="feedback_answer_detail_feedback_title">¿Fue de ayuda?</string>
@@ -347,6 +349,7 @@ Remite este código al supervisor."</string>
     <string name="login_by_local_phone_long_text">Iniciar sesión ahora</string>
     <string name="login_by_local_phone_short_text">Iniciar sesión</string>
     <string name="login_other">Otra cuenta Xiaomi</string>
+    <string name="login_out">Cerrar sesión</string>
     <string name="login_register_by_local_phone_long_text">Crear una cuenta</string>
     <string name="login_with_sns">Otras formas de iniciar sesión</string>
     <string name="logo_title">Comentarios</string>
@@ -576,6 +579,7 @@ Remite este código al supervisor."</string>
     <string name="passport_user_id_hint">Correo/teléfono/ID de cuenta Xiaomi</string>
     <string name="passport_user_id_intro">Introduce la contraseña para %1$s</string>
     <string name="passport_user_password_hint">Contraseña</string>
+    <string name="passport_vcode_what_app_send_prompt">El código de verificación de WhatsApp se enviará a tu teléfono de recuperación (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Instala WeChat primero</string>
     <string name="passport_wrong_captcha">El código que has introducido es incorrecto</string>
     <string name="passport_wrong_phone_number_format">El formato de número de teléfono introducido es inválido</string>
@@ -779,24 +783,21 @@ Tamaño: %2$s"</string>
     <string name="update_email_address_dialog_message">Es necesario verificar tu identidad antes de actualizar el correo electrónico de recuperación.</string>
     <string name="update_email_address_dialog_title">Actualizar correo de recuperación</string>
     <string name="upload_log_failed">"No se ha podido enviar los registros"</string>
-    <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; y el Acuerdo de Usuario &lt;a href=\"%3$s\"&gt;&lt;/a&gt; y la &lt;a href=\"%4$s\"&gt;Política de Privacidad&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de cuenta de eSurfing&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_default"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; de mi cuenta Xiaomi.\"</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>Leer y aceptar el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad.&lt;/a&gt;</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;Política de Privacidad.&lt;/a&gt; El primer inicio de sesión creará automáticamente una cuenta Xiaomi\"</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.\"</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Lee y acepta el Acuerdo de Usuario &lt;a href=%1$s&gt;&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad.&lt;/a&gt;</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad.&lt;/a&gt; El primer inicio de sesión creará automáticamente una cuenta Xiaomi.\"</Data></string>
     <string name="user_agreement_hint_first_login">"Crearemos una cuenta automáticamente si está usando su número de teléfono por primera vez."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de 
-Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación&lt;/a&gt; de China Mobile.\"</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de 
-Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación de cuenta&lt;/a&gt; de eSurfing.\"</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de 
-Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condiciones de los Servicios de Verificación&lt;/a&gt; de China Unicom.\"</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como los &lt;a href=%3$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como los &lt;a href=%3$s&gt;Términos y condiciones de los servicios de verificación de eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como los &lt;a href=%3$s&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;.\"</Data></string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_must_known">Atención</string>
-    <string name="user_must_known_content">"No podrá seguir utilizando nuestros servicios a menos que esté de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="user_must_known_content">"No podrás seguir utilizando nuestros servicios si no estás de acuerdo con la nueva versión de nuestro %s. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="user_name_phone_number">Número de teléfono</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
@@ -810,7 +811,7 @@ Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como las &lt;a href=%3$s&gt;Condi
     <string name="withdraw_consent_failed">"No se pudo retirar el consentimiento"</string>
     <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="withdraw_consent_failed_hint_connect_net">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
-    <string name="withdraw_consent_hint">"Si continúa, retirará su consentimiento a la Política de privacidad de %1$s. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como %2$s proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar %3$s servicios. ¿Retirar el consentimiento ahora?"</string>
+    <string name="withdraw_consent_hint">"Si continúas, retirarás el consentimiento a la Política de Privacidad de %1$s. La información personal ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como %2$s proporciona sus servicios en base a la recopilación de la información personal necesaria, el retirrar el consentimiento se considerará como una negativa a aceptar los servicios de %3$s. ¿Retirar el consentimiento?"</string>
     <string name="withdrawing">Retirar el consentimiento…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Falló la conexion Download Manager, compruebe el estado de Download Manager en la Gestión de aplicaciones.eck the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentando la versión %1$s

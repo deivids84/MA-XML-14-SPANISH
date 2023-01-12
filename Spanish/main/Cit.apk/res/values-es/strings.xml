@@ -38,10 +38,16 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="auto_frontflash_description">Si todas las luces de flash frontal están encendidas pulsa Pasar, de lo contrario pulsa Fallar</string>
+    <string name="auto_frontflash_title">Prueba de flash de la cámara frontal</string>
+    <string name="auto_rearflash_description">Si todas las luces de flash trasero están encendidas pulsa Pasar, de lo contrario pulsa Fallar</string>
+    <string name="auto_rearflash_title">Prueba de flash de la cámara trasera</string>
     <string name="back_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte trasera del dispositivo</string>
+    <string name="battery_third_connector">Voltaje del conector de la batería</string>
     <string name="bottom_high_speaker_title">Prueba de tweeter inferior</string>
     <string name="bottom_low_speaker_title">Prueba de woofer inferior</string>
     <string name="bottom_right_low_speaker">Prueba de woofer inferior derecho</string>
+    <string name="bottom_speaker_title">Prueba del altavoz inferior</string>
     <string name="cit_accdata_second_sensor_check_title">Segundo acelerómetro</string>
     <string name="cit_accelermeter_second_cali_title">Segunda prueba de calibración del sensor de aceleración</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mover el dispositivo rápidamente en una dirección. Los valores de coordenadas X，Y，Z se muestran a continuación. (cuando el dispositivo está en movimiento: X representa la izquierda/derecha, y representa la parte delantera/atrás, z representa arriba y abajo).
@@ -86,6 +92,7 @@ No apague la pantalla durante la prueba"</string>
  Si el área de prueba inferior muestra un valor de 0.0 al acercarse, y un valor 5.0 se muestra cuando está lejos, la prueba es exitosa, de lo contrario la prueba falla."</string>
     <string name="cit_proximity_sensor_check_summary">"Cubra el sensor de proximidad (situado en la parte superior del dispositivo cerca del receptor) con su mano, luego mueva la mano. El valor debe aumentar a partir de 0.0 al mover la mano más lejos del dispositivo.
 Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejemplo, pantalla de protección o guantes)."</string>
+    <string name="cit_reverse_charge_check_summary">"Inserta el dispositivo de carga inversa OTG para cargar el otro dispositivo"</string>
     <string name="cit_reverse_wireless_charge_check_tips">Por favor, ponga el dispositivo a cargar según sea necesario y empiece a probar</string>
     <string name="cit_soft_light_check_title">Luz suave</string>
     <string name="cit_tool_current_size">Tamaño actual</string>
@@ -118,26 +125,18 @@ haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</s
     <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el dispositivo está conectado actualmente. Confirme que la información resaltada en verde es correcta.</string>
     <string name="close_third_color_led">cerrar led de tres colores</string>
     <string name="cold_light_title">Luz fría</string>
-    <string name="edittextdisplay">"
-\u0009\u0009\u0009Welcome to sar tool ! 
-\u0009\u0009\u0009All permissions have been turned on 
- 
-\u0009\u0009\u0009sar switch is off, please turn it on manually 
-\u0009\u0009\u0009sar locked, please set DSI value"</string>
-    <string name="edittextdisplayf">"
-\u0009\u0009\u0009Permissions have been limited 
-
-\u0009\u0009Make sure to pass in the xml file in the internal \u0009\u0009\u0009network and in the response path: 
-\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
+    <string name="edittextdisplay">¡Nuestra bienvenida a la herramienta sar!</string>
+    <string name="edittextdisplayf">¡Se han limitado los permisos!</string>
     <string name="fod_check_start_error">"No se puede iniciar el programa de verificación del sensor
 Prueba fallida!"</string>
     <string name="fod_check_summary">"Instrucciones de prueba:
 Prueba automática basada en el tipo de sensor
 Base el resultado de la prueba, haga clic en el botón de aprobar o suspender"</string>
     <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
+    <string name="headset_plug_check_tip">Ahora reproduce la grabación y escucha los auriculares. Retíralos cuando termine la prueba</string>
     <string name="main_mic_check_record_tip">Grabando, por favor diga algo al MIC en el principal del dispositivo</string>
     <string name="motor_calibration">Calibración del motor</string>
-    <string name="mtb_tool_modem_user_panel">Panel de usuario</string>
+    <string name="mtb_tool_modem_cdma_manager">Administrador de caudal de CDMA</string>
     <string name="open_third_color_led">abrir led de tres colores</string>
     <string name="pop_camera">Cámara pop</string>
     <string name="pop_push_camera_test_summary">"Haga clic en el botón de cámara emergente para ver si la cámara sale
@@ -146,6 +145,8 @@ Haga clic en el botón de cámara para ver si la cámara entra"</string>
     <string name="push_camera">Empuje la cámara</string>
     <string name="radio_info_data_connected">Conectado</string>
     <string name="radio_info_data_disconnected">Desconectado</string>
+    <string name="sar_algo_data_check_description">Recopilación de datos Sar Algo</string>
+    <string name="sar_mtk_test_title">Prueba de autenticación Sar Mtk</string>
     <string name="sar_sensor_collect_data_self_cali">Autocalibración</string>
     <string name="sar_sensor_collect_test_summary">"Rotar el dispositivo, ponlo en el dispositivo
 Haga clic en el botón Iniciar adquisición de datos
@@ -161,5 +162,6 @@ Después de calibrar con éxito, controle el dispositivo cerca y alejado del dis
     <string name="top_high_speaker_title">Prueba de tweeter superior</string>
     <string name="top_low_speaker_title">Prueba de woofer superior</string>
     <string name="top_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte superior del dispositivo</string>
+    <string name="top_speaker_title">Prueba del altavoz superior</string>
     <string name="warm_light_title">Luz cálida</string>
 </resources>

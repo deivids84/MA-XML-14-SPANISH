@@ -563,7 +563,7 @@ para mostrar widgets."</string>
     <string name="pa_setting_privacy_perm_not_granted">No concedido</string>
     <string name="pa_setting_privacy_perm_storage">Acceso al almacenamiento</string>
     <string name="pa_setting_privacy_policy">Política de privacidad</string>
-    <string name="pa_setting_privacy_policy_update_again_message">"No podrá seguir usando nuestros servicios a menos que acepte la nueva versión de %s. ¿Está de acuerdo con la política de privacidad actualizada ahora?"</string>
+    <string name="pa_setting_privacy_policy_update_again_message">"No podrás seguir usando nuestros servicios a menos que aceptes la nueva versión de %s. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="pa_setting_privacy_policy_update_again_title">Atención</string>
     <string name="pa_setting_privacy_policy_update_agree">Estar de acuerdo</string>
     <string name="pa_setting_privacy_policy_update_exit">Salir</string>
@@ -572,7 +572,7 @@ para mostrar widgets."</string>
 %sLea y acepte la nueva versión de %s antes de continuar."</string>
     <string name="pa_setting_privacy_policy_update_title">Política de privacidad actualizada</string>
     <string name="pa_setting_privacy_revoke_cta">Retiro del consentimiento</string>
-    <string name="pa_setting_privacy_revoke_cta_message">"Si continúa, retirará su consentimiento a la Política de privacidad de la bóveda de la aplicaciones. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables, a menos que se requiera lo contrario. Dado que la bóveda de la aplicaciones proporciona sus servicios en función de la recopilación de la información personal necesaria, la retirada de su consentimiento se considerará como una negativa a aceptar los servicios de la bóveda de la aplicaciones. ¿Retirar el consentimiento ahora?"</string>
+    <string name="pa_setting_privacy_revoke_cta_message">"Si continúas, retirarás el consentimiento a la Política de Privacidad de la Bóveda de Aplicaciones. La información personal ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables, a menos que se requiera lo contrario. Dado que esta aplicación proporciona sus servicios en función de la recopilación de la información personal necesaria, la retirada del consentimiento se considerará como una negativa a aceptar sus servicios. ¿Retirar el consentimiento?"</string>
     <string name="pa_setting_privacy_revoke_cta_negative">Puedes retirar el consentimiento en diez segundos</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Retirar</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Retirar (%ds)</string>
@@ -607,7 +607,10 @@ para mostrar widgets."</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Toca para permitir el uso de Compras</string>
     <string name="pa_shopping_widget_no_network_content_desc">"No es posible conectar a la red"</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Aceptar la Política de Privacidad de Compras para usar esta función. Pulsa para ver.</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Compras</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Concede permiso a este widget para obtener cupones y ofertas en tus plataformas de comercio electrónico favoritas</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Ajustes</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Conceder</string>
     <string name="pa_shopping_widget_title">Compras</string>
     <string name="pa_shortcut_accessibility_description">"La bóveda de la aplicaciones proporciona accesos directos para aplicaciones de terceros seleccionadas. Estos accesos directos no funcionarán si desactiva la función."</string>
     <string name="pa_shortcut_accessibility_service">Bóveda de aplicaciones</string>

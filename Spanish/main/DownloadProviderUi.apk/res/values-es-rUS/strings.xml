@@ -40,6 +40,7 @@
     <string name="all_share_files_content">Los archivos seleccionados ya están eliminados.</string>
     <string name="am">A.M.</string>
     <string name="app_label">Descargas</string>
+    <string name="app_name">MiuiSettingsCommonLib</string>
     <string name="bt_download">Descargar</string>
     <string name="bt_path_not_exit">"Esta ruta no existe"</string>
     <string name="bt_xunlei_open_info">¿Usar Xunlei Engine para abrir estos enlaces?</string>
@@ -157,9 +158,11 @@
     <string name="insufficient_space">No hay almacenamiento suficiente</string>
     <string name="invalid_address">La ruta de acceso del archivo no es válida</string>
     <string name="jump_rank_hint">"Echa un vistazo a la clasificación de descargas de hoy &gt;"</string>
+    <string name="jump_rank_hint2">Ver las principales descargas</string>
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">Puedes seguir mañana</string>
     <string name="loading">Un momento…</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_des_vip">Suscripción Xunlei</string>
     <string name="menu_title_fileexplore">Gestor de archivos</string>

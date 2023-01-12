@@ -243,6 +243,7 @@
     <string name="connecting_apk">Conectando…</string>
     <string name="content_failed_to_load">"No se pudo cargar el contenido"</string>
     <string name="copy">Copiar</string>
+    <string name="copy_toast_msg">Enlace copiado al portapapeles</string>
     <string name="create_playlist">Crear lista de reproducción</string>
     <string name="create_playlist_failure">"No se pudo crear la lista de reproducción"</string>
     <string name="create_playlist_input_hint">Introducir nombre de la lista de reproducción</string>
@@ -437,8 +438,6 @@ Remite este código al supervisor."</string>
     <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada a otra cuenta Xiaomi.</string>
     <string name="error_icon_content_description">Error</string>
     <string name="error_invalid_bind_address">La dirección de correo electrónico que ha introducido no es válido.</string>
-    <string name="error_message_no_internet_connection">No se pudo conectar a Internet. Comprueba tu conexión a Internet y vuelve a intentarlo.</string>
-    <string name="error_message_something_went_wrong">Algo salió mal. Por favor, vuelva a intentarlo.</string>
     <string name="error_not_support">No soportado</string>
     <string name="evening">Tarde</string>
     <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado a otra cuenta Xiaomi.</string>
@@ -502,6 +501,9 @@ Remite este código al supervisor."</string>
     <string name="failed_obtain_permissions">"No se pudo obtener permisos"</string>
     <string name="failed_to_connect_hint">Comprueba los ajustes de red e inténtalo otra vez</string>
     <string name="failed_to_connect_text">"No se pudo conectar a la red"</string>
+    <string name="fallback_menu_item_copy_link">Copiar enlace</string>
+    <string name="fallback_menu_item_open_in_browser">Abrir en el navegador</string>
+    <string name="fallback_menu_item_share_link">Compartir enlace</string>
     <string name="fans">Seguidores</string>
     <string name="fav_login_msg">Inicia sesión en tu cuenta Xiaomi para descargar canciones</string>
     <string name="favorite_canceled">Eliminado de favoritos</string>
@@ -629,7 +631,6 @@ Remite este código al supervisor."</string>
     <string name="input_hint_prefix">Introducir %1$s</string>
     <string name="installing_apk">Instalando…</string>
     <string name="insufficient_space">"No hay espacio libre en la memoria interna del dispositivo"</string>
-    <string name="invalid_number">Lo siento, el número no es válido</string>
     <string name="is_latest_version">La música está actualizada.</string>
     <string name="is_scanning">Comprobando almacenamiento…</string>
     <string name="is_scanning_support_online">"Comprobando almacenamiento…
@@ -813,12 +814,8 @@ Remite este código al supervisor."</string>
     <string name="modify_progress_helper">Desliza hacia arriba o abajo para ajustar el progreso de la letra.</string>
     <string name="modify_song_info">Editar información de canción</string>
     <string name="modify_song_info_success">La información de la canción ha sido actualizada</string>
-    <string name="moe_inbox_name">Centro de notificación</string>
-    <string name="moe_message_to_register">Haga clic en el botón de registro para registrarse para la validación de integración.</string>
-    <string name="moe_message_to_unregister">El dispositivo está registrado para la verificación de integración. Haga clic en el botón para darse de baja</string>
-    <string name="moe_notification_center_empty">Centro de notificaciones vacío</string>
-    <string name="moe_register">REGISTRARSE</string>
-    <string name="moe_unregister">NO REGISTRAR</string>
+    <string name="moe_core_rich_landing_title">Página destino enriquecida</string>
+    <string name="moe_rich_push_dismiss_button">Descartar</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -1010,7 +1007,7 @@ Remite este código al supervisor."</string>
     <string name="online_switch_message">Apagar servicios online afectará a los servicios VIP y recomendaciones. ¿Apagarlo de todas formas?</string>
     <string name="online_switch_setting">Servicios de contenido online</string>
     <string name="only_pro_can_choose_hd_sound_quality">El audio HD solo está disponible para miembros Gold</string>
-    <string name="open_online_service">Tienes que encender los servicios online para usar esta característica. ¿Encender ahora?</string>
+    <string name="open_online_service">Necesitas activar los servicios en línea para utilizar esta función. ¿Activarlos?</string>
     <string name="open_service">Activar</string>
     <string name="open_settings">Ajustes</string>
     <string name="operation_done_close">Cerrar</string>
@@ -1156,7 +1153,8 @@ Remite este código al supervisor."</string>
     <string name="please_download_first">Debes descargar esta canción antes de poder usarla como tono de llamada</string>
     <string name="please_select_song">Selecciona una canción primero</string>
     <string name="pm">PM</string>
-    <string name="power_save_mode_dialog_msg">El Ahorro de batería está encendido. ¿Comenzar a descargar ahora?</string>
+    <string name="power_save_mode_dialog_msg">Ahorro de batería activado. ¿Comenzar la descarga?</string>
+    <string name="pre_watched">Visto</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preset_music_playlist">Lista de reproducción de Mi Música</string>
     <string name="priority_storage">Usar SD externa</string>
@@ -1263,6 +1261,7 @@ Sea Feliz"</string>
     <string name="search_instant_online_music">En línea</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_more">Más</string>
+    <string name="search_recommend">Recomendado</string>
     <string name="search_result_local_songs">Local</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Buscar canciones</string>
@@ -1548,4 +1547,5 @@ Tamaño de actualización: %2$s"</string>
     <string name="you_can_switch_mode_in_settings">Puedes cambiar entre modos en Ajustes</string>
     <string name="you_may_like">También podría gustarte</string>
     <string name="youtube_play_history">Historial de reproducción</string>
+    <string name="youtube_share_guide_tip">Ahora puedes compartir vídeos con amigos</string>
 </resources>

@@ -142,6 +142,7 @@
     <string name="pm">PM</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="recovery_progress">Restaurando elementos (%1$d/%2$d)…</string>
+    <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_right_now">Restaurar</string>
     <string name="retry">Inténtalo otra vez</string>
     <string name="sar">Información de Exposición a RF</string>

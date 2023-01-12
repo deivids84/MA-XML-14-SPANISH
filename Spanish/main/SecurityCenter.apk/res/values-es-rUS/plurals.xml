@@ -104,6 +104,10 @@
         <item quantity="other">"Será notificado acerca de acciones delicadas realizadas por %1$d aplicaciones"</item>
         <item quantity="one">"Será notificado acerca de acciones delicadas realizadas por %1$d aplicación"</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Los registros de comportamiento se almacenan durante %d días. Si desactivas esta función, los registros nuevos ya no aparecerán y los antiguos se eliminarán. ¿Desactivar?</item>
+        <item quantity="one">Los registros de comportamiento se almacenan durante %d día. Si desactivas esta función, los registros nuevos ya no aparecerán y los antiguos se eliminarán. ¿Desactivar?</item>
+    </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s ejecutó %2$d aplicaciones</item>
         <item quantity="one">%1$1s ejecutó %2$d aplicación</item>

@@ -472,22 +472,6 @@
         <item quantity="other">Confiar o quitar certificados</item>
         <item quantity="one">Confiar o quitar certificado</item>
     </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s instaló autoridades de certificación para tu perfil de trabajo que permiten controlar la actividad de tu red de trabajo, lo que incluye los correos electrónicos, las apps y los sitios web seguros.
-
-Comunícate con el administrador para obtener más información sobre las certificaciones."</item>
-        <item quantity="one">"%s instaló una autoridad de certificación para tu perfil de trabajo que permite controlar la actividad de tu red de trabajo, lo que incluye los correos electrónicos, las apps y los sitios web seguros.
-
-Comunícate con el administrador para obtener más información sobre la certificación."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s instaló autoridades de certificación en tu dispositivo que permiten controlar la actividad de red en él, lo que incluye los correos electrónicos, las apps y los sitios web seguros.
-
-Comunícate con el administrador para obtener más información sobre las certificaciones."</item>
-        <item quantity="one">"%s instaló una autoridad de certificación en tu dispositivo que permite controlar la actividad de red en él, lo que incluye los correos electrónicos, las apps y los sitios web seguros.
-
-Comunícate con el administrador para obtener más información sobre la certificación."</item>
-    </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Revisar certificados</item>
         <item quantity="one">Revisar certificado</item>
@@ -635,26 +619,6 @@ Comunícate con el administrador para obtener más información sobre la certifi
     <plurals name="wrong_pin_code">
         <item quantity="other">El código PIN de la tarjeta SIM es incorrecto. Tienes %d intentos más.</item>
         <item quantity="one">El código PIN de la tarjeta SIM es incorrecto. Tienes %d intento más antes de que debas comunicarte con el proveedor para desbloquear el dispositivo.</item>
-    </plurals>
-    <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">%s pueden interrumpir</item>
-        <item quantity="one">%s puede interrumpir</item>
-    </plurals>
-    <plurals name="zen_mode_other_sounds_summary">
-        <item quantity="other">%s pueden interrumpir</item>
-        <item quantity="one">%s puede interrumpir</item>
-    </plurals>
-    <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">Se establecieron %d programas</item>
-        <item quantity="one">Se estableció 1 programa</item>
-    </plurals>
-    <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">%d programas se pueden actualizar automáticamente</item>
-        <item quantity="one">1 programa se puede actualizar automáticamente</item>
-    </plurals>
-    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
-        <item quantity="other">%d más</item>
-        <item quantity="one">1 más</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Cambiar a solo alarmas durante %1$d horas hasta la hora %2$s</item>

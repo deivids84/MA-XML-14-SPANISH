@@ -161,6 +161,7 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">Ubicación aproximada esta activada</string>
     <string name="blur_location_title">Ubicación aproximada</string>
+    <string name="carwith_grant_permission_tips_when_lock">Primero desbloquea tu dispositivo</string>
     <string name="cetus_invisible_mode_notice_audio">"Está incógnito. No puede usar el micrófono ahora."</string>
     <string name="cetus_invisible_mode_notice_camera">"Está incógnito. No puede usar la cámara ahora."</string>
     <string name="cetus_invisible_mode_notice_location">"Está incógnito. No puede usar los servicios de ubicación ahora."</string>
@@ -320,12 +321,13 @@
     <string name="permdesc_location_background">¿Permitir a %1$s acceder a la información de ubicación en segundo plano?</string>
     <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio?</string>
     <string name="permdesc_nearby_devices">¿Permitir a %1$s descubrir y conectarse a los dispositivos cercanos?</string>
-    <string name="permdesc_post_notification">¿Permitir que %1$s envíe notificaciones?</string>
+    <string name="permdesc_post_notification">¿Permitir a %1$s enviar notificaciones?</string>
     <string name="permdesc_process_outgoing_call">¿Permitir a %1$s responder y finalizar llamadas?</string>
     <string name="permdesc_read_calendar">¿Permitir a %1$s acceder y editar eventos del calendario?</string>
     <string name="permdesc_read_call_log">¿Permitir a %1$s acceder al historial de llamadas?</string>
     <string name="permdesc_read_contacts">¿Permitir a %1$s acceder a los contactos?</string>
     <string name="permdesc_read_mms">¿Permitir a %1$s leer mensajes multimedia?</string>
+    <string name="permdesc_read_phone_numbers">¿Permitir que %1$s lea números de teléfono en el dispositivo?</string>
     <string name="permdesc_read_phone_state">¿Permitir a %1$s acceder al estado del dispositivo y a la información de la red?</string>
     <string name="permdesc_read_sms">¿Permitir a %1$s leer mensajes de texto y multimedia?</string>
     <string name="permdesc_read_storage">¿Permitir a %1$s acceder a los archivos y fotos en este dispositivo?</string>

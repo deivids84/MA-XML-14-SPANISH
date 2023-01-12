@@ -181,6 +181,8 @@ Envíe este código al supervisor."</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="facebook_login_btn_content_description">Iniciar sesión con Facebook</string>
     <string name="failed_to_fetch_fql">"No se pudo obtener información de preguntas frecuentes, compruebe su conexión de red"</string>
+    <string name="feedback_account_inconsistent_login_hint">Parece que cambiaste de cuenta. Inicia sesión en tu cuenta Xiaomi anterior.</string>
+    <string name="feedback_account_login_hint">Antes, inicia sesión en tu cuenta Xiaomi</string>
     <string name="feedback_answer_detail_feedback_resolved">Sí</string>
     <string name="feedback_answer_detail_feedback_result">¡Gracias por sus comentarios!</string>
     <string name="feedback_answer_detail_feedback_title">¿Fue de ayuda?</string>
@@ -360,6 +362,7 @@ Envíe este código al supervisor."</string>
     <string name="login_by_local_phone_long_text">Iniciar sesión ahora</string>
     <string name="login_by_local_phone_short_text">Iniciar sesión</string>
     <string name="login_other">Otra cuenta Mi</string>
+    <string name="login_out">Cerrar sesión</string>
     <string name="login_register_by_local_phone_long_text">Crear una cuenta</string>
     <string name="login_with_sns">Otras formas de iniciar sesión</string>
     <string name="logo_title">Comentarios</string>
@@ -589,6 +592,7 @@ Envíe este código al supervisor."</string>
     <string name="passport_user_id_hint">Correo/teléfono/ID de cuenta Xiaomi</string>
     <string name="passport_user_id_intro">Ingresar contraseña para %1$s</string>
     <string name="passport_user_password_hint">Contraseña</string>
+    <string name="passport_vcode_what_app_send_prompt">El código de verificación de WhatsApp se enviará a tu teléfono de recuperación (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Instale WeChat primero</string>
     <string name="passport_wrong_captcha">El código ingresado es incorrecto</string>
     <string name="passport_wrong_phone_number_format">El formato de número telefónico ingresado es inválido</string>
@@ -792,17 +796,17 @@ Tamaño: %2$s"</string>
     <string name="update_email_address_dialog_message">Necesita verificar su identidad antes de poder actualizar el correo de recuperación.</string>
     <string name="update_email_address_dialog_title">Actualizar correo de recuperación</string>
     <string name="upload_log_failed">"No se ha podido enviar los registros"</string>
-    <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario &lt;a href=\"%3$s\"&gt;&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de cuenta de eSurfing&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Leí y acepté &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=\"%3$s\"&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%5$s\"&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_default"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;de Privacidad Política de&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>Leer y aceptar el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad.&lt;/a&gt;</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y la Política de privacidad &lt;a href=\"%2$s\"&gt;&lt;/a&gt; El primer inicio de sesión creará automáticamente una cuenta Xiaomi\"</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt;de la cuenta Xiaomi, así como los &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.\"</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Lee y acepta el Acuerdo de Usuario &lt;a href=%1$s&gt;&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad.&lt;/a&gt;</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad.&lt;/a&gt; El primer inicio de sesión creará automáticamente una cuenta Xiaomi.\"</Data></string>
     <string name="user_agreement_hint_first_login">"Crearemos una cuenta automáticamente si está usando su número de teléfono por primera vez."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%3$s\"&gt;Condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%3$s\"&gt;Condiciones de eSurfing servicios de verificación de cuenta de&lt;/a&gt;\".</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=\"%3$s\"&gt;Condiciones de China Unicom servicios de verificación de&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como los &lt;a href=%3$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como los &lt;a href=%3$s&gt;Términos y condiciones de los servicios de verificación de eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi, así como los &lt;a href=%3$s&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;.\"</Data></string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_must_known">Atención</string>

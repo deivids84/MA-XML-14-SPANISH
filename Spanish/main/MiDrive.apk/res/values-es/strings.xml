@@ -49,7 +49,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_mi_drive">Cancelar servicios</string>
     <string name="cancel_mi_drive_alert_description">"Elimina todos los elementos de Mi Drive para poder cancelar los servicios. Sigue estos pasos para eliminar artículos:&lt;br /&gt;1. En la página de inicio de Mi Drive, manténlo pulsado un elemento para que aparezca el botón \"Seleccionar todo\". Utiliza este botón para seleccionar hasta 200 archivos a la vez y eliminarlos.&lt;br /&gt;2. Una vez eliminados todos los elementos, borrar todos los archivos de los elementos eliminados recientemente."</string>
-    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Recomendamos hacer una copia de seguridad de tus elementos antes de eliminarlos. Para ello, visite i.mi.com, haz clic en Mi Drive y descarga tus elementos a un ordenador.&lt;br /&gt;2. Ten en cuenta que los elementos eliminados recientemente de tus elementos eliminados no se pueden recuperar después."</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Recomendamos hacer una copia de seguridad de tus elementos antes de eliminarlos. Para ello, visita i.mi.com, haz clic en Mi Drive y descargalos a un ordenador.&lt;br /&gt;2. Ten en cuenta que los elementos eliminados recientemente de tus elementos eliminados no se pueden recuperar después."</string>
     <string name="cancel_mi_drive_confirm_button">Cancelar servicios</string>
     <string name="cancel_mi_drive_confirm_description">"Si continúas, cancelarás los servicios de Mi Drive. Dejaremos de recopilar su información personal y la información personal ya recopilada y conservada será eliminada en el plazo especificado, de conformidad con las leyes y reglamentos aplicables, a menos que se exija lo contrario."</string>
     <string name="cancel_mi_drive_confirm_hint">"Cancelar servicios de Mi Drive no afectará el uso de otros productos y servicios de Xiaomi. Si desea eliminar su cuenta de Xiaomi, puede hacer eso &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;aquí&lt;/a&gt;&lt;/font&gt;."</string>
@@ -363,7 +363,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="operation_move">Mover</string>
     <string name="operation_rename">Renombrar</string>
     <string name="operation_save">Guardar</string>
-    <string name="operation_sure_to_delete">¿Eliminar ahora?</string>
+    <string name="operation_sure_to_delete">¿Eliminar?</string>
     <string name="operation_transport_success">Añadido a transferencias</string>
     <string name="operation_will_not_show_after_delete">El registro ya no aparecerá aquí si lo borra.</string>
     <string name="pause_all">Pausar todo</string>
@@ -404,7 +404,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="privacy_recall_confirm_button">Retirar consentimiento</string>
     <string name="privacy_recall_confirm_description">"Si continúas, retirarás tu consentimiento a la Política de Privacidad de Mi Drive. Dejaremos de recopilar tu información personal y la información personal ya recopilada y conservada será eliminada en el plazo especificado, de conformidad con las leyes y reglamentos aplicables, a menos que se exija lo contrario."</string>
     <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424&gt;Los siguientes elementos se eliminarán permanentemente después de la retirada del consentimiento:&lt;/font&gt;&lt;br /&gt;1. Todos los elementos en Mi Drive, incluyendo pero no limitado a documentos, archivos privados y elementos borrados.&lt;br /&gt;2. Permisos del dispositivo, ajustes y otros contenidos en caché.&lt;br /&gt;3. Historial de subida y descarga de Mi Drive.</string>
-    <string name="privacy_recall_dialog_msg">"Si continúa, retirará su consentimiento a la Política de privacidad de Mi Drive. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como Mi Drive proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar los servicios de Mi Drive. ¿Retirar el consentimiento ahora?"</string>
+    <string name="privacy_recall_dialog_msg">"Si continúas, retirarás el consentimiento a la Política de Privacidad de Mi Drive. La información personal ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como Mi Drive proporciona sus servicios en base a la recopilación de información personal necesaria, retirar el consentimiento se considerará como una negativa a aceptar los servicios de Mi Drive. ¿Retirar el consentimiento?"</string>
     <string name="privacy_recall_dialog_title">Retiro del consentimiento</string>
     <string name="privacy_recall_success">Se ha retirado el consentimiento</string>
     <string name="privacy_recall_title">Retirada de consentimiento</string>
@@ -412,7 +412,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="privacy_update_dialog_msg">Se actualizó la Política de privacidad de Mi Drive:&lt;br/&gt;%1$s&lt;br/&gt;Lea y acepte la nueva versión de &lt;a href=%2$s&gt;&lt;u&gt;Política de privacidad&lt;/u&gt;&lt;/a&gt; antes de continuar.</string>
     <string name="privacy_update_dialog_title">Política de privacidad actualizada</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Salir</string>
-    <string name="privacy_user_notice_dialog_msg">"No podrá seguir usando Mi Drive a menos que esté de acuerdo con la nueva versión de su &lt;a href=%1$s&gt;&lt;u&gt;Política de privacidad&lt;/u&gt;&lt;/a&gt;. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="privacy_user_notice_dialog_msg">"No podrás seguir usando Mi Drive a menos que estés de acuerdo con la nueva versión de su &lt;a href=%1$s&gt;&lt;u&gt;Política de Privacidad&lt;/u&gt;&lt;/a&gt;. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="privacy_user_notice_dialog_ok_btn_text">De acuerdo</string>
     <string name="privacy_user_notice_dialog_title">Atención</string>
     <string name="private_empty_desc">Aquí puede almacenar archivos de forma privada.</string>
@@ -479,6 +479,8 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="talkback_close">Cerrar</string>
+    <string name="talkback_close_open_picture">Cancelar</string>
     <string name="talkback_continue">Reanudar</string>
     <string name="talkback_doc_filter">Botón de filtro</string>
     <string name="talkback_list_play">Reproducir todo</string>

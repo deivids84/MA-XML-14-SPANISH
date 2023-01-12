@@ -45,35 +45,10 @@
     <string name="bluetooth_permission_grant_immediately">Permitir</string>
     <string name="bluetooth_permission_later">Ahora no</string>
     <string name="bluetooth_permission_title">Permisos requeridos</string>
-    <string name="callFailed_cb_enabled">"No puede realizar llamadas mientras el bloqueo de llamada esté activo."</string>
-    <string name="callFailed_congestion">Red ocupada</string>
-    <string name="callFailed_dialToDial">Petición de marcado modificada para marcar con un número diferente.</string>
-    <string name="callFailed_dialToSs">Petición de marcado modificada a petición de SS.</string>
-    <string name="callFailed_dialToUssd">Petición de marcado modificada a petición de USSD.</string>
-    <string name="callFailed_dsac_restricted">Todas las llamadas están siendo restringidas por el control de acceso.</string>
-    <string name="callFailed_dsac_restricted_emergency">Las llamadas de emergencia están siendo restringidas por el control de acceso.</string>
-    <string name="callFailed_dsac_restricted_normal">Las llamadas normales están siendo restringidas por el control de acceso.</string>
-    <string name="callFailed_fdn_only">Llamadas salientes restringidas por FDN.</string>
-    <string name="callFailed_incoming_cb_enabled">Las llamadas entrantes están siendo excluidas.</string>
-    <string name="callFailed_invalid_credentials">Usuario o contraseña incorrectos</string>
-    <string name="callFailed_limitExceeded">Se excedió el límite ACM</string>
-    <string name="callFailed_noSignal">Sin señal</string>
-    <string name="callFailed_number_unreachable">No se pudo contactar con el número</string>
-    <string name="callFailed_outOfService">Fuera del límite del área de servicio</string>
-    <string name="callFailed_out_of_network">Llamada fuera de red</string>
-    <string name="callFailed_powerOff">La antena está apagada</string>
-    <string name="callFailed_server_error">Error del servidor. Vuelva a intentarlo más tarde.</string>
-    <string name="callFailed_server_unreachable">"Sin acceso al servidor"</string>
-    <string name="callFailed_simError">Error de tarjeta SIM</string>
-    <string name="callFailed_timedOut">El servidor no responde</string>
-    <string name="callFailed_unobtainable_number">Número inválido</string>
-    <string name="callFailed_userBusy">Línea ocupada</string>
     <string name="call_button_conference_manager_text">Administrar</string>
     <string name="call_button_dialer_text">Teclado</string>
-    <string name="call_button_mute_text">Silenciar</string>
     <string name="call_button_tools_text">Características</string>
     <string name="call_contacts_deny_permission_msg">"Negó el permiso de lectura de contactos; no se puede mostrar la información de los contactos."</string>
-    <string name="call_description_recording">Grabando…</string>
     <string name="call_log_short_in">Este número llamó hace un momento</string>
     <string name="call_log_short_out">Llamaste a este número hace un momento</string>
     <string name="call_not_support_high_frequency_click">"No toque este botón tan frecuentemente"</string>
@@ -102,7 +77,10 @@
     <string name="call_recording_notification_title">Llamada grabada</string>
     <string name="call_recording_notification_title_error">"No se pudo grabar la llamada"</string>
     <string name="caller_info_name_delimiter">" o "</string>
-    <string name="caller_manage_header">Conferencia %s</string>
+    <string name="camera_on">La otra persona quiere encender tu cámara.</string>
+    <string name="camera_on_agree">Permitir</string>
+    <string name="camera_on_refuse">"No permitir"</string>
+    <string name="camera_on_title">Cámara</string>
     <string name="can_not_use">"No se puede usar"</string>
     <string name="cancel">Cancelar</string>
     <string name="card_title_answering">Contestando llamada</string>
@@ -114,7 +92,6 @@
     <string name="card_title_in_call_short">En llamada</string>
     <string name="card_title_in_crbt">Esperando respuesta…</string>
     <string name="card_title_in_video">Video </string>
-    <string name="card_title_incoming_conference_call">Llamada de Conferencia entrante</string>
     <string name="card_title_on_hold">"En espera "</string>
     <string name="card_title_threeway_call">Llamada de tres</string>
     <string name="card_title_upgrade_video_call_error">"No se pudo actualizar el video"</string>
@@ -206,7 +183,6 @@
     <string name="incoming_circle_text_video_answer">Suelte para responder con video</string>
     <string name="incoming_circle_text_video_answer_p">Deslice hacia arriba para responder con video</string>
     <string name="incoming_show_permission_msg">"No se pueden reproducir videos de perfil para llamadas entrantes sin permisos de almacenamiento"</string>
-    <string name="incoming_video_crs_call">Reproducción de vídeo de perfil…</string>
     <string name="manageConferenceLabel">Configurar llamada en conferencia</string>
     <string name="manager_conference_done">Listo</string>
     <string name="midnight">Noche</string>
@@ -291,14 +267,12 @@
     <string name="notification_action_speaker">Altavoz</string>
     <string name="notification_dialing">Marcando</string>
     <string name="notification_incoming_call">Llamada entrante</string>
-    <string name="notification_incoming_video_call">Video llamada entrante</string>
     <string name="notification_on_hold">En espera</string>
     <string name="notification_ongoing_call">Llamada en curso</string>
     <string name="notification_requesting_video_call">Solicitud de video entrante</string>
     <string name="ok">Aceptar</string>
     <string name="onscreenEndCallText">Terminar</string>
     <string name="onscreen_add_call_text">Agregar llamada</string>
-    <string name="onscreen_audio_mode_conference">Conferencia</string>
     <string name="onscreen_audio_mode_handset">Auricular</string>
     <string name="onscreen_audio_mode_headset">Auriculares</string>
     <string name="onscreen_audio_mode_speaker">Altavoz</string>
@@ -306,6 +280,10 @@
     <string name="onscreen_change_to_video">Video llamada</string>
     <string name="onscreen_change_to_voice">Llamada de voz</string>
     <string name="onscreen_close_preview_camera">Cerrar</string>
+    <string name="onscreen_collapsed">Contraer</string>
+    <string name="onscreen_collapsed_dialpad">Mostrar teclado de marcado</string>
+    <string name="onscreen_expand">Más</string>
+    <string name="onscreen_expand_dialpad">Ocultar teclado de marcado</string>
     <string name="onscreen_hold_text">Pausar</string>
     <string name="onscreen_merge_calls_text">Unir llamadas</string>
     <string name="onscreen_message_text">Mensajes</string>
@@ -320,7 +298,6 @@
     <string name="picking_participant">Obteniendo información del contacto…</string>
     <string name="pm">PM</string>
     <string name="private_num">Número privado</string>
-    <string name="prompt_no_volte_when_failed">"No puede realizar llamadas. Asegúrese de que su dispositivo está conectado a una red 4G que soporte VoLTE"</string>
     <string name="relay_cal_from_device_name">Desde %1$s</string>
     <string name="relay_call">Ataque</string>
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
@@ -344,6 +321,11 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
+    <string name="screen_share">Asistencia remota</string>
+    <string name="screen_share_agree">Permitir</string>
+    <string name="screen_share_connecting">Conectando…</string>
+    <string name="screen_share_message">¿Permitir que la otra persona vea tu pantalla en tiempo real?</string>
+    <string name="screen_share_refuse">Cancelar</string>
     <string name="search_menu_title">Buscar</string>
     <string name="select_audio_dialog_title">Seleccionar Modo de contestar</string>
     <string name="select_one_sim_title">Solo se puede usar la SIM %1$d</string>
@@ -384,7 +366,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="supp_service_notification_call_waiting">El número que marcó está ocupado. Un momento…</string>
-    <string name="suspect_info">Tenga cuidado con su información personal.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la Lucha Contra la Agresión</string>
     <string name="the_arbor_day">Día del Arbor</string>
@@ -443,7 +424,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="video_crbt_title">Reproduciendo vídeo de perfil…</string>
     <string name="voice_control_deny_permission_msg">"No pueden usar los controles de voz ahora. Permita que esta aplicación grabe audio primero."</string>
     <string name="voicemail">Buzón de Voz</string>
-    <string name="volte_call">Llamada VoLTE</string>
     <string name="volume_boost_text">Volumen aumentado con éxito</string>
     <string name="wait_prompt_str">"¿Enviar los tonos siguientes?
 "</string>
@@ -451,6 +431,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="wifi_call">Llamada VoWiFi</string>
+    <string name="xiaoai_assistant">Asistente de Llamada IA</string>
     <string name="yesterday">Ayer</string>
 </resources>

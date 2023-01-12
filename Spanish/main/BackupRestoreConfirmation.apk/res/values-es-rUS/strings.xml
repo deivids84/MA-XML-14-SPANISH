@@ -7,7 +7,6 @@
 Si tú no has solicitado la copia de seguridad, no permitas que se realice la operación."</string>
     <string name="backup_confirm_title">Realización de la copia de seguridad completa</string>
     <string name="backup_enc_password_optional">Si deseas encriptar los datos de la copia de seguridad completa, introduce una contraseña a continuación:</string>
-    <string name="backup_enc_password_required">Dado que el dispositivo está encriptado, es necesario que encriptes la copia de seguridad. Ingresa una contraseña a continuación:</string>
     <string name="backup_enc_password_text">Introduce una contraseña para encriptar los datos de la copia de seguridad completa. Si dejas este campo en blanco, se utilizará tu contraseña actual de copia de seguridad:</string>
     <string name="current_password_text">Introduce tu contraseña actual de copia de seguridad a continuación:</string>
     <string name="deny_backup_button_label">No realizar una copia de seguridad</string>

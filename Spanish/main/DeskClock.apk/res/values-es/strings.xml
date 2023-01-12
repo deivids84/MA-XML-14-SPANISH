@@ -193,6 +193,8 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'o''clock'"</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="force_start_permission_desc">"Permite que las alarmas funcionen normalmente, incluso si has cerrado la aplicación"</string>
+    <string name="force_start_permission_title">Inicio automático</string>
     <string name="force_touch_add_alarm">Añadir alarma</string>
     <string name="force_touch_enter_stopwatch">Cronómetro</string>
     <string name="force_touch_enter_timer">Temporizador</string>
@@ -258,6 +260,18 @@
     <string name="menu_item_sort_by_gmt_offset">Ordenar por hora</string>
     <string name="menu_item_sort_by_name">Ordenar por nombre</string>
     <string name="midnight">Noche</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Segundo reloj</string>
+    <string name="miui_lock_screen_date">EEE, dd MMMM</string>
+    <string name="miui_lock_screen_date_12">EEE, d MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -294,13 +308,13 @@
     <string name="module_download_data_msg_timer">Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se usarán sobre 20 MB de datos móviles para ello. ¿Descargar?</string>
     <string name="module_download_fail">"No se pudo descargar el audio adicional"</string>
     <string name="module_download_failure">"No se pudo descargar el audio. Comprueba los ajustes de la red e inténtalo otra vez."</string>
-    <string name="module_download_msg">Para que las alarmas inteligentes de MIUI estén disponibles, Reloj necesita descargar archivos de audio. Las alarmas inteligentes continen funciones de audio que permiten incluir la información actual del tiempo. ¿Descargar ahora?</string>
+    <string name="module_download_msg">Para que las alarmas inteligentes de MIUI estén disponibles, Reloj necesita descargar archivos de audio. Las alarmas inteligentes contienen funciones de audio que permiten incluir la información actual del tiempo. ¿Descargar?</string>
     <string name="module_download_msg_golbal">Reloj necesita descargar archivos de audio para las alarmas inteligentes de MIUI. ¿Descargar?</string>
     <string name="module_download_msg_replace">Actualización de audio para las alarmas inteligentes de MIUI disponible. ¿Descargar ahora?</string>
     <string name="module_download_msg_timer">Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar?</string>
     <string name="module_download_no_network">Reloj necesita conexión a Internet para descargar audios. Comprueba los ajustes de la red e inténtalo otra vez.</string>
     <string name="module_download_ok">Permitir</string>
-    <string name="module_download_success">Se ha de descargado el audio</string>
+    <string name="module_download_success">Se ha descargado el audio</string>
     <string name="module_download_title">Se necesita audio adicional</string>
     <string name="module_downloading">Descargando audio…</string>
     <string name="module_unzipping">Descomprimiendo audio…</string>
@@ -416,7 +430,7 @@
     <string name="ringtone_all">Todos los tonos de llamada</string>
     <string name="ringtone_dew">Rocío matutino</string>
     <string name="ringtone_digital_timer">Temporizador</string>
-    <string name="ringtone_dream">Sueño de día</string>
+    <string name="ringtone_dream">Ensueño</string>
     <string name="ringtone_firefly">Luciérnagas</string>
     <string name="ringtone_more">Otros</string>
     <string name="ringtone_other">Más tonos</string>

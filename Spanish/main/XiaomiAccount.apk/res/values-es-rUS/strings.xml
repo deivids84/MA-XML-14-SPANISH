@@ -190,6 +190,8 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="common_signin_button_text_long">Acceder con Google</string>
     <string name="completed">¡Todo listo!</string>
     <string name="confirm_activate_email">Verificado</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Confirmar</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Confirmar (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número telefónico asociado</string>
     <string name="confirm_new_pwd">Confirmar nueva contraseña</string>
     <string name="confirm_phone_number_dialog_message">El código de verificación se enviará a: %s.</string>
@@ -324,7 +326,7 @@ Enviar este código al supervisor."</string>
     <string name="login_with_other">Más opciones</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_failed">"No se pudo cerrar sesión"</string>
-    <string name="mi_account">Cuenta Xiaomi</string>
+    <string name="mi_account">Mi cuenta</string>
     <string name="mi_account_identity_title">Verifique su identidad</string>
     <string name="mi_finance">Finanzas Mi</string>
     <string name="mi_finance_info">Bonos para nuevos usuarios</string>
@@ -723,6 +725,11 @@ Enviar este código al supervisor."</string>
     <string name="push_notify_dialog_message">"Se ha usado un dispositivo desconocido para iniciar sesión en tu cuenta Xiaomi. Introduce este código de verificación en el dispositivo. Si no has sido tu, cambia la contraseña de tu cuenta Xiaomi de inmediato. No reveles el código de verificación a nadie."</string>
     <string name="push_notify_dialog_title">Verificación de cuenta</string>
     <string name="pwd_width_phone_number_or_mail_num">"La contraseña no puede contener tu número de teléfono, correo electrónico o ID de Xiaomi"</string>
+    <string name="qrcode_login_entry_text"><Data>¿Has iniciado sesión en otro dispositivo?. Usa &lt;a href=&gt;inicio de sesión rápido&lt;/a&gt;</Data></string>
+    <string name="qrcode_login_load_refresh"><Data>El código QR ha caducado. Pulsa para &lt;a href=&gt;actualizarlo&lt;/a&gt;.</Data></string>
+    <string name="qrcode_login_load_retry"><Data>\"No se pudo cargar. &lt;a href=&gt;Inténtalo otra vez&lt;/a&gt;.\"</Data></string>
+    <string name="qrcode_login_message">"Escanea con tu dispositivo Xiaomi o la aplicación Escáner de tu tablet, Mi Home, u otra aplicación Xiaomi para iniciar sesión"</string>
+    <string name="qrcode_login_title">Escanear para iniciar sesión</string>
     <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toque para actualizar.</string>
     <string name="recycle_phone_notification_title">Riesgo de seguridad de la cuenta Xiaomi</string>
     <string name="removing_account">Cerrando sesión…</string>
@@ -876,7 +883,7 @@ Enviar este código al supervisor."</string>
     <string name="two_factor_auth_need_code_summary">"Recibirá un código en los otros dispositivos Mi conectados. Ingrese este código en el nuevo dispositivo para iniciar sesión."</string>
     <string name="two_factor_auth_summary">"Será notificado en otros dispositivos conectados cuando intente iniciar sesión en un nuevo dispositivo o desde una nueva ubicación. Tendrá que confirmar si autoriza dichos inicios de sesión."</string>
     <string name="unbind_sns_description">"Después de desconectar esta cuenta, no podrás usar información de tu cuenta %s para iniciar sesión en tu cuenta Xiaomi."</string>
-    <string name="unit_gb">" GB"</string>
+    <string name="unit_gb">"  GB"</string>
     <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">Error desconocido</string>
     <string name="unlock_help_notice">"Ayuda:
@@ -904,23 +911,15 @@ Enviar este código al supervisor."</string>
     <string name="user_instruction_all_purpose">¡Bienvenido a la cuenta Xiaomi! Puedes utilizarla para acceder a los servicios de Xiaomi y sus empresas afiliadas, como Mi.com Xiaomi Cloud, y GetApps. Puedes obtener Mi Coins, comprar bienes virtuales y disfrutar de los servicios de valor añadido, incluyendo juegos, temas y ebooks.</string>
     <string name="user_instruction_tip">Para poder iniciar sesión, lea y acepte los términos y condiciones.</string>
     <string name="user_license_with_3rd_app"><Data>\"Al iniciar sesión con mi cuenta Xiaomi, confirmo que he leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario de la cuenta Xiaomi &lt;a href=%3$s&gt;&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación &lt;a href=%3$s&gt;, el Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%5$s&gt;Términos del Servicio de Autenticación&lt;/a&gt; de China Mobile.
-\"</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación y el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.
-\"</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%5$s&gt;Términos del Servicio de Autenticación&lt;/a&gt; de China Telecom.
-\"</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%5$s&gt;Términos del Servicio de Autenticación&lt;/a&gt; de China Unicom.
-\"</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>\"He leído y acepto el Acuerdo de Usuario &lt;a href=%1$s&gt;&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.
-\"</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%5$s&gt;Términos de Servicio de Autenticación de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación y el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.\"</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%5$s&gt;Términos de Servicio de Autenticación de China Telecom&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de esta aplicación, el &lt;a href=%3$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%4$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%5$s&gt;Términos de Servicio de Autenticación de China Unicom&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi.\"</Data></string>
     <string name="user_license_without_3rd_app"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;de la cuenta Xiaomi\".</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%3$s&gt;Términos del Servicio de Autenticación&lt;/a&gt; de China Mobile.
-\"</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%3$s&gt;Términos del Servicio de Autenticación&lt;/a&gt; de China Telecom.
-\"</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%3$s&gt;Términos del Servicio de Autenticación&lt;/a&gt; de China Unicom.
-\"</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%3$s&gt;Términos de Servicio de Autenticación de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%3$s&gt;Términos de Servicio de Autenticación de China Telecom&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>\"He leído y acepto el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de la cuenta Xiaomi y los &lt;a href=%3$s&gt;Términos de Servicio de Autenticación de China Unicom&lt;/a&gt;.\"</Data></string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="vip_account_settings">Ajustes VIP</string>

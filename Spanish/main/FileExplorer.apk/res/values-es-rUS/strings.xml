@@ -362,6 +362,9 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="image_loading_error">"No se pudo cargar la imagen"</string>
     <string name="imm_str_storage">Almacenamiento</string>
     <string name="import_files_from_old_phones">Importar desde dispositivo antiguo</string>
+    <string name="install_media_editor_button_text">Descargar</string>
+    <string name="install_media_editor_message">Para editar elementos, antes hay que descargar el plug-in. ¿Descargar?</string>
+    <string name="install_media_editor_title">Plug-in necesario</string>
     <string name="instruction">Introduzca la siguiente dirección en un cliente FTP: </string>
     <string name="instruction_pre_pad">Administrar archivos en este dispositivo usando una computadora</string>
     <string name="instruction_pre_phone">Administrar archivos en este dispositivo usando una computadora</string>

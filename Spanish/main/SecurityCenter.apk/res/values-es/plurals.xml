@@ -104,6 +104,10 @@
         <item quantity="other">"Serás notificado acerca de acciones delicadas realizadas por %1$d aplicaciones"</item>
         <item quantity="one">"Serás notificado acerca de acciones delicadas realizadas por %1$d aplicación"</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Los registros de comportamiento se almacenan durante %d días. Si desactivas esta función, los registros nuevos ya no aparecerán y los antiguos se eliminarán. ¿Desactivar?</item>
+        <item quantity="one">Los registros de comportamiento se almacenan durante %d día. Si desactivas esta función, los registros nuevos ya no aparecerán y los antiguos se eliminarán. ¿Desactivar?</item>
+    </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s ejecutó %2$d aplicaciones</item>
         <item quantity="one">%1$1s ejecutó %2$d aplicación</item>
@@ -201,8 +205,8 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="one">Hace %d día</item>
     </plurals>
     <plurals name="exit_dialog_scan_message_new">
-        <item quantity="other">"La puntuación de rendimiento de su dispositivo es inferior a %d puntos. ¿Optimiza ahora?"</item>
-        <item quantity="one">"La puntuación de rendimiento de su dispositivo es inferior a %d puntos. ¿Optimiza ahora?"</item>
+        <item quantity="other">"El rendimiento del dispositivo es inferior a %d puntos. ¿Optimizarlo ahora?"</item>
+        <item quantity="one">"El rendimiento del dispositivo es inferior a %d puntos. ¿Optimizarlo ahora?"</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avance rápido %d segundos</item>

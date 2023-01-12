@@ -64,6 +64,8 @@
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Uso para audífonos</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado al dispositivo de entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usar para entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Conectado a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Usar para LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Conectado al mapa</string>
     <string name="bluetooth_map_profile_summary_use_for">Usar para mapa</string>
     <string name="bluetooth_pairing">Vinculando…</string>
@@ -83,6 +85,7 @@
     <string name="bluetooth_profile_headset">Llamadas telefónicas</string>
     <string name="bluetooth_profile_hearing_aid">Audífonos</string>
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Mensajes de texto</string>
     <string name="bluetooth_profile_opp">Transferencia de archivos</string>
     <string name="bluetooth_profile_pan">Acceso a internet</string>
@@ -155,7 +158,7 @@ Consulte en Ajustes para obtener más detalles."</string>
     <string name="fast_connect_new_feture_title">"¿Qué hay de nuevo?"</string>
     <string name="fast_connect_nzbt_reset">Mantenga presionado el botón superior durante %1$s segundos mientras está apagado</string>
     <string name="fast_connect_reset_common">Reinicie este dispositivo para poder vincularlo</string>
-    <string name="fast_connect_same_account_content">Los dispositivos Bluetooth se pueden sincronizar con tu cuenta Xiaomi y conectarse sin emparejar con otros dispositivos.</string>
+    <string name="fast_connect_same_account_content">Los dispositivos Bluetooth se pueden sincronizar con la cuenta Xiaomi y conectar sin emparejarse con otros dispositivos.</string>
     <string name="fast_connect_same_accout_devices_connecting">Conexión a través de Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">"Has conectado %1$s a otros dispositivos"</string>
     <string name="fast_connect_same_accout_ok">Entendido</string>
@@ -266,6 +269,7 @@ Protocolo de conexión más rápido."</string>
     <string name="miheadset_notification_Disconnect">Desconectar</string>
     <string name="miheadset_notification_LeftEar">L</string>
     <string name="miheadset_notification_RightEar">R</string>
+    <string name="miheadset_spatial_audio_change_to_phone">Cambiado a audio dimensional</string>
     <string name="mihome_app_download">Instalar ahora</string>
     <string name="mihome_app_update">Update now</string>
     <string name="mihome_download_tips">Instale la aplicación Mi Home, inicie sesión y mantenga su teléfono cerca del dispositivo.</string>

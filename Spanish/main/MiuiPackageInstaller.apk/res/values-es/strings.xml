@@ -30,6 +30,7 @@
     <string name="abc_toolbar_collapse_description">Colapsar</string>
     <string name="about_pure_mode">Acerca del modo Seguro</string>
     <string name="about_safe_mode">Más información sobre el modo Seguro</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="ad_permissions">&lt;u&gt;Permisos&lt;u/&gt;</string>
     <string name="ad_privacy">&lt;u&gt;Privacidad&lt;u/&gt;</string>
@@ -240,7 +241,7 @@
     <string name="miui_install_fail_reason">Razón</string>
     <string name="miui_install_failed_reason">"Esta aplicación no es compatible con el dispositivo"</string>
     <string name="miui_install_failed_suggestion">Usa una versión de esta aplicación que sea compatible</string>
-    <string name="miui_install_source_unkown">Desconocido</string>
+    <string name="miui_install_source_unkown">desconocida</string>
     <string name="miui_install_success">Instalada correctamente</string>
     <string name="miui_no_perms">No se requieren permisos</string>
     <string name="miui_not_uninstall_system_app">"No se pueden desinstalar las apps del sistema"</string>
@@ -350,6 +351,8 @@
     <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="net_work_error_msg">"No se pudo conectar a la red para verificar la seguridad"</string>
     <string name="net_work_error_retry">Inténtalo otra vez</string>
+    <string name="network_error_info">Se ha producido un error de red. Comprueba los ajustes e inténtalo otra vez.</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo otra vez."</string>
     <string name="night">Tarde</string>
     <string name="no_check_risk">No se han detectado riesgos</string>
     <string name="no_install_permission_tip">"%1$s no tiene permiso para instalar"</string>
@@ -433,6 +436,7 @@
     <string name="pref_key_about_privacy_title">Política de Privacidad</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="prepare_install">Preparando la instalación…</string>
+    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="pure_function_introduction">Características del modo Seguro</string>
     <string name="pure_guarding">Activado</string>
     <string name="pure_introduction_des1">Verifica las aplicaciones de origen desconocido para detectar posibles riesgos de seguridad antes de instalar</string>
@@ -562,6 +566,7 @@
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sure_ok">Entendido</string>
+    <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la Lucha Contra la Agresión</string>
     <string name="the_arbor_day">Día del Arbor</string>
@@ -630,6 +635,7 @@
     <string name="uninstall_update_text_multiuser">¿Reemplazar esta app con la versión de fábrica? Se eliminarán todos los datos. Esto afecta a todos los usuarios de este dispositivo, incluidos aquellos con perfiles de trabajo.</string>
     <string name="uninstall_update_title">Desinstalar actualización</string>
     <string name="unknown_apps_admin_dlg_text">"Tu administrador no permite la instalación de apps obtenidas de fuentes desconocidas."</string>
+    <string name="unknown_error_info">Error desconocido</string>
     <string name="unknown_source_allow">Permitir</string>
     <string name="unknown_source_forbidden">Restringir</string>
     <string name="unlock_failed">Error interno</string>

@@ -30,8 +30,10 @@
     <string name="accessibility_airplane_mode">Modo avión.</string>
     <string name="accessibility_back">Atrás</string>
     <string name="accessibility_brightness">Brillo de la pantalla</string>
+    <string name="accessibility_desc_add">Añadir</string>
     <string name="accessibility_desc_close">Cerrar</string>
     <string name="accessibility_desc_edit">Editar</string>
+    <string name="accessibility_desc_remove">Eliminar</string>
     <string name="accessibility_description_hours">Horas</string>
     <string name="accessibility_description_minutes">Minutos</string>
     <string name="accessibility_description_seconds">Segundos</string>
@@ -73,10 +75,10 @@
     <string name="close_invisible_mode_dialog_ok">Ajustes</string>
     <string name="close_invisible_mode_dialog_title">"Estás en modo incógnito"</string>
     <string name="control_center_notification_switch_guide">Deslice para cambiar entre el centro de control y la pantalla de notificación</string>
-    <string name="controls_add_device_guide">Aún no hay dispositivos aquí</string>
-    <string name="controls_click_to_add_device">Añadir dispositivos</string>
+    <string name="controls_add_device_guide">"Aún no has añadido un dispositivo inteligente"</string>
+    <string name="controls_click_to_add_device">Añadir</string>
     <string name="controls_confirmation_message">Confirmar el cambio para %s</string>
-    <string name="controls_default_structure">Dispositivos inteligentes del hogar</string>
+    <string name="controls_default_structure">Hogar inteligente</string>
     <string name="controls_dialog_confirmation">Controles actualizados</string>
     <string name="controls_dialog_message">%s sugirió este control para añadirlo a tus favoritos.</string>
     <string name="controls_dialog_ok">Añadir a favoritos</string>
@@ -89,7 +91,7 @@
     <string name="controls_dismiss_dialog_message_international">"¿Quitar la tarjeta \"Hogar inteligente\"? Podrás restaurarla en Ajustes &gt; Centro de control."</string>
     <string name="controls_dismiss_dialog_title">Dispositivos inteligentes del hogar</string>
     <string name="controls_dismiss_dialog_title_international">Eliminar tarjeta</string>
-    <string name="controls_edit_add_device_guide">No hay dispositivos disponibles para añadir</string>
+    <string name="controls_edit_add_device_guide">Aún no hay dispositivos aquí</string>
     <string name="controls_edit_added_subtitle">Arrastra los elementos para reorganizarlos</string>
     <string name="controls_edit_added_title">Añadido</string>
     <string name="controls_edit_done_button">Hecho</string>
@@ -109,7 +111,7 @@
     <string name="controls_favorite_removed">Todos los controles eliminados</string>
     <string name="controls_favorite_subtitle">Selecciona los controles para acceder desde el menú de encendido</string>
     <string name="controls_favorite_toast_no_changes">No se han guardado los cambios</string>
-    <string name="controls_loading_device">Cambiando ubicaciones</string>
+    <string name="controls_loading_device">Cambiando ubicaciones…</string>
     <string name="controls_media_title">Multimedia</string>
     <string name="controls_menu_add">Añadir controles</string>
     <string name="controls_mijia_setup_subtitle">Selecciona aplicaciones para añadir dispositivos y gestiónalas aquí</string>
@@ -118,8 +120,8 @@
     <string name="controls_no_device_subtitle">Primero añade dispositivos en %s</string>
     <string name="controls_no_device_title">"No se pudo encontrar dispositivos"</string>
     <string name="controls_no_favorites_title">Selecciona aquí las aplicaciones para gestionar los dispositivos inteligentes del hogar</string>
-    <string name="controls_not_found_device_toast">Este elemento fue eliminado en la aplicación</string>
-    <string name="controls_not_found_device_toast_mihome">Este elemento fue eliminado en la aplicación</string>
+    <string name="controls_not_found_device_toast">Este elemento ya se ha eliminado en la aplicación</string>
+    <string name="controls_not_found_device_toast_mihome">Este elemento ya se ha eliminado en la aplicación</string>
     <string name="controls_offline_device_toast">Este dispositivo está desconectado. Mantén pulsado para abrir la aplicación.</string>
     <string name="controls_pin_instructions">Introducir PIN</string>
     <string name="controls_pin_instructions_retry">Prueba con otro PIN</string>
@@ -130,7 +132,7 @@
     <string name="controls_removed">eliminado</string>
     <string name="controls_seeding_in_progress">Cargando recomendaciones</string>
     <string name="controls_structure_tooltip">Desliza para ver más</string>
-    <string name="controls_unsupport_toggle_toast">"No puedes controlar el dispositivo desde aquí. Mantén pulsado para abrir la aplicación."</string>
+    <string name="controls_unsupport_toggle_toast">"El dispositivo no admite acciones rápidas. Mantén pulsado para abrir la aplicación."</string>
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
@@ -159,12 +161,12 @@
     <string name="friday_shortest">Vie</string>
     <string name="hearing_assist_bluetooth_enable_tips_cancle">Cancelar</string>
     <string name="hearing_assist_bluetooth_enable_tips_start">Activar</string>
-    <string name="hearing_assist_bluetooth_enable_tips_summary">El monitor live in-ear funciona cuando Bluetooth está activado. ¿Activar Bluetooth ahora?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">El monitor intraauricular en vivo funciona con Bluetooth activado. ¿Activarlo ahora?</string>
     <string name="hearing_assist_bluetooth_enable_tips_title">Activar Bluetooth</string>
     <string name="hearing_assist_transmission_label">Monitor live in-ear</string>
     <string name="hearing_assist_transmission_tips_cancel">Cancelar</string>
     <string name="hearing_assist_transmission_tips_continue">Activar</string>
-    <string name="hearing_assist_transmission_tips_summary">"El monitor live in-ear transmite la alimentación del micrófono de su teléfono a los auriculares Bluetooth conectados. ¿Activar ahora?"</string>
+    <string name="hearing_assist_transmission_tips_summary">"El monitor intraauricular en vivo transmite la señal del micrófono del dispositivo a los audífonos Bluetooth conectados. ¿Activarlo ahora?"</string>
     <string name="hearing_assist_transmission_tips_title">Monitor live in-ear</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="item_view_role_description">Lengüeta</string>
