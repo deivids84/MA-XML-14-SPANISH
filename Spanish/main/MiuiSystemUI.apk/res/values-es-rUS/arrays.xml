@@ -201,41 +201,6 @@
         <item>Natural</item>
         <item>Estándar</item>
     </string-array>
-    <string-array name="config_statusBarIcons">
-        <item>network_speed</item>
-        <item>micphone</item>
-        <item>headset</item>
-        <item>mikey</item>
-        <item>call_record</item>
-        <item>privacy_mode</item>
-        <item>ble_unlock_mode</item>
-        <item>nfc</item>
-        <item>zen</item>
-        <item>gps</item>
-        <item>missed_call</item>
-        <item>managed_profile</item>
-        <item>second_space</item>
-        <item>ime</item>
-        <item>cast</item>
-        <item>location</item>
-        <item>bluetooth</item>
-        <item>bluetooth_handsfree_battery</item>
-        <item>stealth</item>
-        <item>tty</item>
-        <item>speakerphone</item>
-        <item>volume</item>
-        <item>alarm_clock</item>
-        <item>vpn</item>
-        <item>ethernet</item>
-        <item>sin SIM</item>
-        <item>móvil</item>
-        <item>móvil demo</item>
-        <item>avión</item>
-        <item>punto de acceso</item>
-        <item>wifi auxiliar</item>
-        <item>Wi-Fi</item>
-        <item>Wi-Fi demo</item>
-    </string-array>
     <string-array name="config_xmsfNotificationChannel">
         <item>84</item>
         <item>61</item>

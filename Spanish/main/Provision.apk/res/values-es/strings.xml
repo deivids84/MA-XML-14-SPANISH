@@ -211,6 +211,7 @@ Las características están sujetas a cambios. Algunas pueden no estar disponibl
     <string name="midnight">Noche</string>
     <string name="mint_keyboard_oobe_checkbox">"He leído y acepto la Política de Privacidad del Teclado Mint"</string>
     <string name="mint_keyboard_oobe_terms">Política de Privacidad del Teclado Mint</string>
+    <string name="miui14_start_up_slogan">Listo. Continuo. Vivo.</string>
     <string name="miui_privacy_policy_no_network">"No tiene una conexión a internet. Vea los Términos de Servicio en %s."</string>
     <string name="miui_provision">Configuración inicial</string>
     <string name="miui_terms_no_network">"No tienes una conexión a internet. Mira el Acuerdo de Usuario en %s."</string>

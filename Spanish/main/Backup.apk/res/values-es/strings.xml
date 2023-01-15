@@ -986,9 +986,9 @@ Libera espacio o transfiere solo los elementos importantes."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="view_password_description">Mostrar contraseña</string>
-    <string name="wait_link">"Abrir Mi Mover en el dispositivo antiguo,
-pulsa \"Soy un emisor\" y selecciona un punto de acceso para conectar.
-No cierres la página antes de establecer la conexión."</string>
+    <string name="wait_link">"Abre Mi Mover en el dispositivo antiguo.
+Pulsa \"Soy un remitente\" y selecciona un punto de acceso para conectar.
+No cierres la página antes de que se establezca la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>

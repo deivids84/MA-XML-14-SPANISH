@@ -202,6 +202,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="copy">Copiar</string>
     <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado con éxito</string>
+    <string name="current_account_can_use_pwd_login">Escribe tu contraseña para continuar</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="delete_action">Eliminar</string>
@@ -307,6 +308,7 @@ Enviar este código al supervisor."</string>
     <string name="input_new_pwd">Ingresar nueva contraseña</string>
     <string name="io_error_title">Confirme su red</string>
     <string name="just_a_second">Un momento…</string>
+    <string name="keep_phone_ticket_login">Iniciar sesión con código de verificación</string>
     <string name="kr_license_desc">Debe aceptar el Acuerdo de usuario y la Política de privacidad antes de usar la cuenta Xiaomi y los servicios en la nube de Xiaomi.</string>
     <string name="kr_permission_contacts_desc">Para acceder a la información de contacto</string>
     <string name="kr_permission_desc">Se necesitan permisos</string>
@@ -326,6 +328,7 @@ Enviar este código al supervisor."</string>
     <string name="login_with_other">Más opciones</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_failed">"No se pudo cerrar sesión"</string>
+    <string name="messenger_send_button_text">Enviar</string>
     <string name="mi_account">Mi cuenta</string>
     <string name="mi_account_identity_title">Verifique su identidad</string>
     <string name="mi_finance">Finanzas Mi</string>
@@ -709,6 +712,8 @@ Enviar este código al supervisor."</string>
     <string name="personal_info_desc">Foto, apodo y más</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
     <string name="phone_register">Usar número de teléfono</string>
+    <string name="phone_ticket_login">Iniciar sesión con código de verificación</string>
+    <string name="phone_ticket_register">Crear cuenta usando el número de teléfono</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
@@ -896,6 +901,7 @@ Enviar este código al supervisor."</string>
     <string name="update_email_address_dialog_title">Actualizar correo</string>
     <string name="update_phone_notice">Cambiar ajustes de seguridad</string>
     <string name="update_phone_number_notice_message">Necesita verificar su identidad antes de poder actualizar el número de teléfono.</string>
+    <string name="use_google_account_login">Iniciar sesión con Google</string>
     <string name="used_cloud_storage_info">%s usados</string>
     <string name="user_agreement_device_permission_desc">Para garantizar la seguridad del entorno de inicio de sesión</string>
     <string name="user_agreement_device_permission_title">Acceder a la información del dispositivo</string>

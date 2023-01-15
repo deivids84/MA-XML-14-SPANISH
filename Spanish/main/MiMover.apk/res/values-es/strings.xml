@@ -444,7 +444,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="need_more_memory_title">No hay suficiente espacio de almacenamiento</string>
     <string name="new_app_name">Nueva versión</string>
     <string name="new_main_activity_label">Mi Mover</string>
-    <string name="new_trans_intro_desc_2">"No es necesario ingresar contraseña en la nueva versión de Mi Mover. Solo abre Mi Mover en tu dispositivo antiguo, toca \"Yo estoy enviando\", y toca el nombre del punto de acceso para conectarte."</string>
+    <string name="new_trans_intro_desc_2">"No es necesaria la contraseña en la nueva versión de Mi Mover. Tan solo abre Mi Mover en tu dispositivo antiguo, pulsa \"Soy un remitente\" y pulsa en el nombre del punto de acceso para conectar."</string>
     <string name="new_trans_intro_desc_3">Mo Mover necesita espacio de almacenamiento para crear un paquete de transferencia en tu dispositivo antiguo antes de enviarlo al nuevo. Libera espacio antes de continuar.</string>
     <string name="new_trans_intro_desc_4">Podría haber problemas de compatibilidad con el dispositivo, el sistema y la versión de la app que eviten que algunas apps se transfieran correctamente.</string>
     <string name="new_trans_intro_desc_5">"Algunas apps (por ejemplo, servicios financieros y herramientas de pago) no permiten la transferencia de contraseña por razones de seguridad."</string>
@@ -462,12 +462,12 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="new_trans_intro_question_6">"6. ¿Por qué los datos de apps no se pueden transferir desde un dispositivo de otros fabricantes?"</string>
     <string name="new_trans_intro_question_7">7. Si dejo Mi Mover en medio de una transferencia ¿tendré que iniciar desde cero la próxima vez?</string>
     <string name="new_trans_intro_question_8">8. ¿Por qué el historial de WeChat desapareció en mi nuevo dispositivo?</string>
-    <string name="new_wait_link_first">"1. Abre Mi Mover en tu dispositivo antiguo.
-2. Toca \"Yo estoy enviando\" y espera un momento.
+    <string name="new_wait_link_first">"1. Abre Mi Mover en el dispositivo antiguo.
+2. Toca \"Soy un remitente\" y espera un momento.
 3. Selecciona el siguiente punto de acceso en el dispositivo antiguo."</string>
     <string name="new_wait_link_message_2">"El botón \"Yo estoy enviando\" está en la página de inicio de Mi Mover."</string>
     <string name="new_wait_link_title_2">"2. Ingresa \"Mi Mover\" en la barra de búsqueda."</string>
-    <string name="new_wait_link_title_3">2. Seleccione el siguiente punto de acceso Wi-Fi en el dispositivo anterior.</string>
+    <string name="new_wait_link_title_3">2. Selecciona el siguiente punto de acceso Wi-Fi en el dispositivo antiguo.</string>
     <string name="next">Siguiente</string>
     <string name="night">Tarde</string>
     <string name="no_more_memory_title">"Mi Mover necesita crear un respaldo local en este dispositivo. No hay suficiente espacio de almacenamiento para crear un respaldo ahora. Libera algo de espacio primero."</string>
@@ -712,7 +712,7 @@ Libera al menos %s."</string>
     <string name="succ_description">Listo</string>
     <string name="summary_open_wlan">Mi Mover necesita este permiso para garantizar la estabilidad del proceso de transferencia.</string>
     <string name="summary_request_alert_window_prem">Mi Mover necesita este permiso para garantizar la estabilidad del proceso de transferencia.</string>
-    <string name="summary_request_write_settings_prem">Mi Mover necesita este permiso para encender Wi-Fi y crear un punto de acceso para transferir archivos.</string>
+    <string name="summary_request_write_settings_prem">Mi Mover necesita este permiso para activar Wi-Fi y crear un punto de acceso para transferir archivos.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

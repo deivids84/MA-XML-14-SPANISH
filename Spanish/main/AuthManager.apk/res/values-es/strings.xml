@@ -97,6 +97,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Adquirir número de teléfono de la compañía para iniciar sesión</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si no pudiste iniciar la sesión con un solo toque, vuelve a la página de inicio de sesión e inténtalo otra vez."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Esta aplicación quiere adquirir tu número de teléfono de la compañía para iniciar sesión. ¿Permitir?</string>
+    <string name="HIPS_Perm_operator_shake">Acceder a datos de acelerómetro</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Los datos del acelerómetro se utilizan para la orientación y el movimiento (por ejemplo, agitar, inclinar y rotar)</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">acceso al hardware NFC (Comunicación de Campo Cercano)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Acceso a la aplicación Teléfono</string>
@@ -324,6 +326,7 @@
     <string name="permdesc_recognition">¿Permitir a %1$s acceder a la información de tu actividad?</string>
     <string name="permdesc_send_sms">¿Permitir a %1$s enviar mensajes de texto?</string>
     <string name="permdesc_sensors">¿Permitir a %1$s acceder a los datos generados por los sensores corporales?</string>
+    <string name="permdesc_shake">¿Permitir que %1$s acceda a los datos del acelerómetro?</string>
     <string name="permdesc_use_sip">¿Permitir a %1$s usar el Protocolo de Inicio de Sesión (SIP) para transmitir vídeo?</string>
     <string name="permdesc_write_calendar">¿Permitir a %1$s crear y guardar eventos del calendario?</string>
     <string name="permdesc_write_call_log">¿Permitir a %1$s editar el historial de llamadas?</string>

@@ -65,7 +65,6 @@
     <string name="gb_game_macro_save">Guardar</string>
     <string name="gb_game_macro_save_exit">Guardar</string>
     <string name="gb_macro_floatview_noti">Permite a MiMacro mostrarse sobre otras aplicaciones</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="mtrl_chip_close_icon_content_description">Quitar %1$s</string>
     <string name="multiple_times">Velocidad</string>
     <string name="name_can_not_be_renamed">Ya existe un elemento con este nombre</string>

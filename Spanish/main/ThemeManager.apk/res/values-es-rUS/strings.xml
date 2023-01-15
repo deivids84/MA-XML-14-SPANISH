@@ -442,6 +442,7 @@
     <string name="hide_pull_down_negative">"No esconder"</string>
     <string name="hide_pull_down_positive">Esconder</string>
     <string name="hide_retract_button">Ocultar</string>
+    <string name="historical_wallpaper">Usado anteriormente</string>
     <string name="home_apply_failured">"No se pudo aplicar el fondo de pantalla de inicio"</string>
     <string name="home_apply_success">Fondo de pantalla de inicio aplicado</string>
     <string name="home_daily">Destacados diarios</string>

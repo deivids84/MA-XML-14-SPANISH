@@ -130,6 +130,10 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="other">Rebobinar %d segundos</item>
         <item quantity="one">Rebobinar %d segundo</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s visitas</item>
+        <item quantity="one">%s vista</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d descargas gratuitas restantes</item>
         <item quantity="one">%d descarga gratuita restante</item>

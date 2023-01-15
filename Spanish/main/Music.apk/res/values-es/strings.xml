@@ -171,6 +171,7 @@
     <string name="back">Atrás</string>
     <string name="back_confirm">Pulsa otra vez para pasar la aplicación a segundo plano</string>
     <string name="best_experience">Mejor experiencia</string>
+    <string name="billion_char">%sB</string>
     <string name="bluetooth_device">Dispositivo de audio Bluetooth</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
     <string name="btn_text_edit">Editar</string>
@@ -771,6 +772,7 @@ Remite este código al supervisor."</string>
     <string name="middle_sound_quality">Estándar</string>
     <string name="midnight">Noche</string>
     <string name="milink_unavaliable_please_update">"Mi Link no está disponible. Actualiza MIUI."</string>
+    <string name="million_char">%sM</string>
     <string name="millions_songs">Millones de canciones</string>
     <string name="min_sleep_time">%d</string>
     <string name="mishop_login_other">Otra cuenta</string>
@@ -1414,6 +1416,7 @@ Sea Feliz"</string>
     <string name="the_tw_youth_day">Día de la Juventud</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_water_lantern_festival">Festival de las Luces de Agua</string>
+    <string name="thousand_char">%sK</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
@@ -1546,6 +1549,16 @@ Tamaño de actualización: %2$s"</string>
     <string name="yesterday">Ayer</string>
     <string name="you_can_switch_mode_in_settings">Puedes cambiar entre modos en Ajustes</string>
     <string name="you_may_like">También podría gustarte</string>
+    <string name="youtube_download_canl">Cancelar</string>
+    <string name="youtube_download_fail_net">"No se pudo conectar ala red. Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="youtube_download_fail_source">Se ha producido un error. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="youtube_download_fail_space">"No se pudo descargar. No hay suficiente espacio de almacenamiento."</string>
+    <string name="youtube_download_fail_unknown">Se ha producido un error. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="youtube_download_hint">El audio de este video se almacenará en el dispositivo en formato MP3 con el título del video como nombre de archivo. ¿Descargar?</string>
+    <string name="youtube_download_ing">Un momento…</string>
+    <string name="youtube_download_start">Descargar</string>
+    <string name="youtube_download_suc">Descargado</string>
     <string name="youtube_play_history">Historial de reproducción</string>
     <string name="youtube_share_guide_tip">Ahora puedes compartir vídeos con amigos</string>
+    <string name="youtube_tab_explore">Descubrir</string>
 </resources>

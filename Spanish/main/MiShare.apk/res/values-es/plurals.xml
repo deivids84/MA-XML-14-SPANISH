@@ -37,8 +37,8 @@
         <item quantity="one">Hace 1 min</item>
     </plurals>
     <plurals name="file_received_successfully">
-        <item quantity="other">Se han recibido%2$d archivos de %1$s</item>
-        <item quantity="one">Se ha recibido%2$d archivo de %1$s</item>
+        <item quantity="other">Se han recibido %2$d archivos de %1$s</item>
+        <item quantity="one">Se ha recibido %2$d archivo de %1$s</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d archivos</item>
@@ -49,8 +49,8 @@
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="image_received_successfully">
-        <item quantity="other">Se han recibido%2$d imágenes de %1$s</item>
-        <item quantity="one">Se ha recibido%2$d imagen de %1$s</item>
+        <item quantity="other">Se han recibido %2$d imágenes de %1$s</item>
+        <item quantity="one">Se ha recibido %2$d imagen de %1$s</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">En 1 hora</item>

@@ -329,7 +329,7 @@ Remite este código al supervisor."</string>
     <string name="dialog_privacy_info_new4">"¡Te damos la bienvenida a Mi Vídeo! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Retransmisión en línea&lt;br&gt;&lt;/br&gt;- Reproducción de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necesita recopilar información personal para proporcionar los servicios básicos. Puedes conocer como manejamos la información recopilada leyendo nuestra Política de Privacidad. Podrás cambiar la configuración en Ajustes&gt; contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usarlo."</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
     <string name="dialog_privacy_revoke_count_down">Retirar (%1$d s)</string>
-    <string name="dialog_privacy_revoke_description">"Está a punto de retirar su consentimiento a la Política de privacidad de Mi Video. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico según lo requieran las leyes aplicables. Su retiro del consentimiento a la Política de privacidad se considerará como negarse a aceptar servicios en línea basados en la información personal recopilada."</string>
+    <string name="dialog_privacy_revoke_description">"Estás a punto de retirar el consentimiento a la Política de Privacidad de Mi Vídeo. Dejaremos de recopilar información personal. La ya recopilada y retenida se eliminará dentro del período específico según lo requieran las leyes aplicables. Retirar el consentimiento a la Política de Privacidad se considerará como una negativa a aceptar servicios en línea basados en la información personal recopilada."</string>
     <string name="dialog_privacy_revoke_fail">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="dialog_privacy_revoke_ok">Retirar</string>
     <string name="dialog_privacy_revoke_success">Se ha retirado</string>
@@ -781,6 +781,8 @@ para vídeos"</string>
     <string name="local_play_end_download_drag_up_guide">Pulsa o desliza para descargar</string>
     <string name="local_play_end_download_title">Intenta descargar tus vídeos favoritos</string>
     <string name="local_play_end_drag_up_guide">Pulsa o desliza hacia arriba para jugar Shorts</string>
+    <string name="local_play_recommend_guide_card_bottom">Más vídeos</string>
+    <string name="local_play_recommend_guide_card_title">Recomendado</string>
     <string name="local_play_tip">Reproduciendo vídeo local</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>

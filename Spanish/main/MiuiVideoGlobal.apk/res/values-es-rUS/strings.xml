@@ -781,6 +781,8 @@ para videos"</string>
     <string name="local_play_end_download_drag_up_guide">Pulsa o desliza para descargar</string>
     <string name="local_play_end_download_title">Intenta descargar tus vídeos favoritos</string>
     <string name="local_play_end_drag_up_guide">Pulsa o desliza hacia arriba para jugar Shorts</string>
+    <string name="local_play_recommend_guide_card_bottom">Más vídeos</string>
+    <string name="local_play_recommend_guide_card_title">Recomendado</string>
     <string name="local_play_tip">Reproduciendo vídeo local</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>

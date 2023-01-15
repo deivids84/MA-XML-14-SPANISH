@@ -851,7 +851,7 @@ Declinado:
     <string name="one_month">1 mes</string>
     <string name="one_week">1 semana</string>
     <string name="open_custom_folder">Mostrar subcarpetas</string>
-    <string name="open_notification_kingagent">Activar notificaciones de punto de entierro</string>
+    <string name="open_notification_kingagent">Activar notificaciones en punto muerto</string>
     <string name="open_pdf_error">"No se pudo abrir el PDF. Instale un lector de PDF y vuelva a intentarlo."</string>
     <string name="operation_settging">Acciones</string>
     <string name="optimization_suggestion">Sugerencias de optimización</string>

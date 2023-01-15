@@ -128,7 +128,7 @@ Remite este código al supervisor."</string>
     <string name="mibi_account_disable_dialog_btn_positive">Activar</string>
     <string name="mibi_account_disable_dialog_msg">Para usar MiCoin, necesitas iniciar sesión en tu cuenta Xiaomi. Activa el servicio de cuenta Xiaomi en los ajustes de la aplicación.</string>
     <string name="mibi_account_disable_dialog_title">Aviso</string>
-    <string name="mibi_all_license_message">"Está a punto de utilizar Mi Coin, que es un servicio proporcionado por Xiaomi Inc. Antes de poder utilizar este servicio, debe aceptar los Términos de servicio. Toque Aceptar si está de acuerdo con los términos y condiciones descritos en %1$s y %2$s. Debe conectarse a Internet, ubicar su dispositivo para usar Mi Coin."</string>
+    <string name="mibi_all_license_message">"Estás a punto de usarr Mi Coin, que es un servicio proporcionado por Xiaomi Inc. Antes de hacerlo, debes aceptar los Términos de Servicio. Pulsa Aceptar si estás de acuerdo con los Términos y Condiciones descritos en %1$s y %2$s. Debes conectar a Internet y ubicar el dispositivo para usar Mi Coin."</string>
     <string name="mibi_all_purpose">Te damos la bienvenida a MiCoin. Puedes usar esta aplicación para recargar MiCoin, revisar tus tarjetas de regalo, etc.</string>
     <string name="mibi_app_name">Mi moneda</string>
     <string name="mibi_applock_config">"No se puede configurar el bloqueo de la aplicación mientras se usa la pantalla dividida."</string>

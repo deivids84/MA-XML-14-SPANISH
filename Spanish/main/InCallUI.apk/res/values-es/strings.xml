@@ -164,6 +164,7 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
+    <string name="high_temperature_toast">En protección por temperatura excesiva. Función no disponible temporalmente</string>
     <string name="inCallLabel">Teléfono</string>
     <string name="incall_bubble_hangup_click_hint">Pulsa otra vez para volver a la llamada</string>
     <string name="incall_call_type_label_sip">Llamada por Internet</string>

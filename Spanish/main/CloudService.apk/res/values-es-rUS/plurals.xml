@@ -36,6 +36,10 @@
         <item quantity="other">hace %d mins</item>
         <item quantity="one">hace 1 min</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Almacenamiento insuficiente. No se pudo sincronizar %d fotos."</item>
+        <item quantity="one">"Almacenamiento insuficiente. No se pudo sincronizar %d foto."</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d entradas de la lista de bloqueo</item>
         <item quantity="one">%d entrada de la lista de bloqueo</item>
@@ -108,6 +112,10 @@
         <item quantity="other">Reintentar después de %d segundos</item>
         <item quantity="one">Reintentar después de %d segundo</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"No se pudo sincronizar &lt;font color=#F22424&gt;%s elementos&lt;/font&gt;"</item>
+        <item quantity="one">"No se pudo sincronizar &lt;font color=#F22424&gt;%s elemento&lt;/font&gt;"</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">"No se pudieron sincronizar %s elementos"</item>
         <item quantity="one">"No se pudo sincronizar %s elemento"</item>
@@ -155,6 +163,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"Almacenamiento lleno. No se pudo sincronizar &lt;font color=#F22424&gt;%d aplicaciones&lt;/font&gt;"</item>
+        <item quantity="one">"Almacenamiento lleno. No se pudo sincronizar &lt;font color=#F22424&gt;%d aplicación&lt;/font&gt;"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">hace %d minutos</item>

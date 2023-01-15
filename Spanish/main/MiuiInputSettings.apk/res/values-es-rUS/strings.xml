@@ -192,6 +192,11 @@ Puedes ver los registros generados en el Administrador de archivos."</string>
     <string name="ks_screenshot">Captura de pantalla</string>
     <string name="ks_search_summary">Buscar</string>
     <string name="ks_title">Atajos de teclado</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Detección del sonido ambiental</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Subtítulos de Mi Ditto</string>
+    <string name="launch_accessibility_talkback">TalkBack</string>
+    <string name="launch_accessibility_voice_control">Controles de voz</string>
     <string name="launch_ai_shortcut">Acceso directo a la IA de Mi</string>
     <string name="launch_alipay_health_code">Código de salud de Alipay</string>
     <string name="launch_alipay_health_code_auto_close">El acceso directo al código de salud de Alipay ya no está disponible. Puedes cambiar a uno diferente.</string>
@@ -349,6 +354,7 @@ Puedes ver los registros generados en el Administrador de archivos."</string>
     <string name="navigation_type_title">Navegación del sistema</string>
     <string name="night">Por la noche</string>
     <string name="no_media_button_receiver">No</string>
+    <string name="none">Ninguna</string>
     <string name="noon">Al mediodía</string>
     <string name="not_set">No establecido</string>
     <string name="other_advanced_settings">Ajustes adicionales</string>

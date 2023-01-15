@@ -1261,7 +1261,7 @@ notificaciones mejoradas pueden acceder al contenido de las notificaciones, incl
     <string name="permdesc_changeNetworkState">Permite que la aplicación modifique el estado de la conectividad de red.</string>
     <string name="permdesc_changeTetherState">Permite que la aplicación cambie el estado de la conectividad de red de anclaje.</string>
     <string name="permdesc_changeWifiMulticastState">Permite que la aplicación reciba paquetes enviados a todos los dispositivos de una red Wi-Fi que utilicen direcciones de multidifusión, no solo al teléfono. Utiliza más batería que el modo de no multidifusión.</string>
-    <string name="permdesc_changeWifiState">Permite que la aplicación se conecte a puntos de acceso Wi-Fi y se desconecte de ellos y que realice cambios en la configuración de redes Wi-Fi del dispositivo.</string>
+    <string name="permdesc_changeWifiState">Permite a la aplicación conectar y desconectar en puntos de acceso Wi-Fi y realizar cambios en los ajustes de redes Wi-Fi del dispositivo.</string>
     <string name="permdesc_changeWimaxState">Permite que la aplicación conecte el teléfono a redes WiMAX y lo desconecte de ellas.</string>
     <string name="permdesc_connection_manager">Permite que la aplicación administre las conexiones de telecomunicaciones.</string>
     <string name="permdesc_control_incall_experience">Permite que la aplicación proporcione una experiencia de usuario de llamada.</string>

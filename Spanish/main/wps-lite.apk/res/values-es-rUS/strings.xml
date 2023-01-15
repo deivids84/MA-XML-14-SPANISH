@@ -193,6 +193,7 @@
     <string name="public_cut">Cortar</string>
     <string name="public_decryptDocument">Descifrar</string>
     <string name="public_displayPasswd">mostrar contraseña</string>
+    <string name="public_display_privacy_policy">Ver Política de Privacidad</string>
     <string name="public_doc_end_preview_tip">Desarrollado por WPS Office</string>
     <string name="public_edit">Editar</string>
     <string name="public_enter_phonemode">Entrar en la vista móvil</string>
@@ -219,6 +220,7 @@
     <string name="public_lite_update_cloud_dialog_message">Actualice WPS Office, disfrute del servicio %s</string>
     <string name="public_lite_update_right_now">Actualizar ahora</string>
     <string name="public_lite_use_right_now">Usar ahora</string>
+    <string name="public_loadDocumentError">"El archivo no existe o no se puede abrir"</string>
     <string name="public_loadDocumentFormatError">"Error de formato de archivo, no se puede abrir el archivo."</string>
     <string name="public_loadDocumentLackOfStorageError">"No hay suficiente almacenamiento, no se puede abrir el archivo."</string>
     <string name="public_loadDocumentOutOfMemoryError">"No hay suficiente almacenamiento, no se puede abrir el archivo."</string>
@@ -256,6 +258,7 @@
     <string name="public_permission_storage_disallow_msg">"No podrá trabajar con documentos después de revocar la autorización."</string>
     <string name="public_play">Reproducir</string>
     <string name="public_ppt_label">Mi visor de presentaciones</string>
+    <string name="public_privacy_update">&lt;Data&gt;Para comprender completamente tus derechos de usuario, así como la forma en que usamos tus datos, lee y acepta la nueva versión de nuestra &lt;a href=\"%s\"&gt;Política de Privacidad&lt;/a&gt; antes de continuar.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Autorización de concesión</string>
     <string name="public_readOnlyMode">Solo lectura</string>
     <string name="public_recory_edit_not_save_tips">Ya se recuperó el contenido no guardado.</string>
@@ -264,6 +267,10 @@
     <string name="public_refuse_jurisdiction">Se necesitan permisos</string>
     <string name="public_replace">Reemplazar</string>
     <string name="public_request_senior_password">Ingrese la contraseña de mayor permiso</string>
+    <string name="public_revoke">Retirar %s</string>
+    <string name="public_revoke_privacy_content">"Si continúas, retirarás el consentimiento a la Política de Privacidad de Mi Doc Viewer (Powered by WPS). Dejaremos de recopilar información personal, y la ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables, a menos que se exija lo contrario. La retirada del consentimiento se considerará una negativa a aceptar los servicios proporcionados por Mi Doc Viewer (Powered by WPS)."</string>
+    <string name="public_revoke_privacy_desc">Retira tu consentimiento a la Política de Privacidad de Mi Doc Viewer (Powered by WPS)</string>
+    <string name="public_revoke_privacy_title">Retirada del consentimiento</string>
     <string name="public_ribbon_font">Fuente</string>
     <string name="public_save">Guardar</string>
     <string name="public_saveAs">Guardar como</string>
@@ -285,6 +292,7 @@
     <string name="public_sensor_ratation_land_tip">Orientación horizontal</string>
     <string name="public_sensor_ratation_port_tip">Orientación Vertical</string>
     <string name="public_service_disable_error_tips">"Esta función no se puede utilizar porque se ha desactivado el servicio relacionado."</string>
+    <string name="public_share">Compartir</string>
     <string name="public_share_no_network">"No se pudo conectar a la red"</string>
     <string name="public_share_retry">Inténtelo otra vez</string>
     <string name="public_shareplay_connect_fail">Verifique su conexión de red</string>

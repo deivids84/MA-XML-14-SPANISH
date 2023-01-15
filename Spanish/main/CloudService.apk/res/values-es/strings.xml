@@ -60,8 +60,12 @@
     <string name="cloud_find_device_off">Desactivado</string>
     <string name="cloud_find_device_on">Activado</string>
     <string name="cloud_lab_title">Laboratorio</string>
+    <string name="cloud_manage_storage_text">Administrar almacenamiento en la nube</string>
     <string name="cloud_service_open_authorization">"¡Te damos la bienvenida a los servicios de Xiaomi Cloud! Puedes usarlos para sincronizar tus notas, fotos y vídeos, grabaciones y otros elementos de las aplicaciones del sistema, en todos los dispositivos conectados. Las copias de seguridad del diseño de la pantalla de inicio también se almacenarán. Podrás ver todos los elementos sincronizados en i.mi.com."</string>
+    <string name="cloud_storage_almost_full_upgrade_text">El almacenamiento está casi lleno. Posiblemente no pueda sincronizar fotos.</string>
+    <string name="cloud_storage_common_functions_text">Usadas frecuentemente</string>
     <string name="cloud_storage_default_title">Almacenamiento en la nube</string>
+    <string name="cloud_storage_full_upgrade_default_text">"Almacenamiento insuficiente. No se pudo sincronizar las fotos."</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familia</string>
@@ -70,6 +74,10 @@
     <string name="cloud_storage_loading_data">Un momento…</string>
     <string name="cloud_storage_manage_title">Gestionar almacenamiento</string>
     <string name="cloud_storage_no_data">No hay elementos en la nube</string>
+    <string name="cloud_storage_sufficient_text">Actualiza para obtener hasta %d TB de almacenamiento</string>
+    <string name="cloud_storage_upgrade_text">Mejorar</string>
+    <string name="cloud_storage_upgrade_text_now">Mejorar</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Mejora tu plan gratuitamente</string>
     <string name="confirm_save">Mantener</string>
     <string name="connect_network">Conéctate a una red Wi-Fi o inserta tarjeta SIM</string>
     <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
@@ -79,6 +87,7 @@
     <string name="copy">Copiar</string>
     <string name="cta_notification_content_text">Permite a %s conectarse a internet para restaurar elementos</string>
     <string name="cta_notification_content_title">"No se puede restaurar los elementos de %s"</string>
+    <string name="customize_notification_btn_text">Mejorar</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Esta cuenta se usa en otro dispositivo. ¿Combinar los elementos de varias aplicaciones (incluyendo %1$s y %2$s) con los de este dispositivo?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta cuenta se usa en otro dispositivo. ¿Combinar los elementos de %s con los de este dispositivo?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Esta cuenta se usa en otro dispositivo. ¿Combinar los elementos de %1$s y %2$s con los de este dispositivo?</string>
@@ -92,6 +101,7 @@
     <string name="data_merge_dialog_title">Combinar elementos</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
+    <string name="default_noti_quota_full_title">El almacenamiento en la nube está lleno</string>
     <string name="detect_sim_card">Buscar tarjeta SIM</string>
     <string name="device_activation_card_cannot_get_yet">"No se pudo obtener información. Vuelve a intentarlo en 3-5 días."</string>
     <string name="device_activation_card_description">"La primera activación se registra al conectar el dispositivo a la red (incluidas redes Wi-Fi y móviles) por primera vez. Normalmente tardamos un poco en hacerlo, por lo que es mejor esperar de 3 a 5 días, trás la conexión, antes de comprobar el estado de activación.&lt;br&gt;&lt;br&gt;La activación del dispositivo es el factor principal para determinar el período de validez de nuestra garantía extendida. Consulta nuestra &lt;a href=%1$s&gt;Política de Devolución, Cambio y Reparación&lt;/a&gt; para obtener más detalles.&lt;br&gt;&lt;br&gt;No dudes en llamar a nuestra línea directa de atención al cliente si tienes alguna pregunta: 400-100-5678."</string>
@@ -531,11 +541,12 @@ vídeos que estén sincronizados, o visita i.mi.com para descargar todos a tu di
     <string name="noti_quota_button_text">Actualizar</string>
     <string name="noti_quota_full_sum">Actualice su plan de almacenamiento para continuar sincronizando elementos.</string>
     <string name="noti_quota_full_sum_without_button">Obtén más espacio de almacenamiento para seguir sincronizando elementos.</string>
-    <string name="noti_quota_full_title">El almacenamiento en la nube está lleno</string>
+    <string name="noti_quota_full_title">El almacenamiento en la nube está &lt;font color=#F22424&gt;lleno&lt;/font&gt;</string>
     <string name="noti_quota_full_title_without_button">El almacenamiento en la nube está lleno</string>
     <string name="noti_quota_low_sum">Actualiza tu plan de almacenamiento para seguir sincronizando.</string>
     <string name="noti_quota_low_sum_without_button">Obtén más espacio de almacenamiento para seguir sincronizando.</string>
     <string name="noti_quota_low_title">No hay suficiente almacenamiento en la nube</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424&gt;Queda menos de &lt;xliff:g id=remaining_storage_space example=0.5&gt;%s&lt;/xliff:g&gt; GB&lt;/font&gt; de almacenamiento disponible en la nube</string>
     <string name="noti_quota_low_title_without_button">No hay suficiente almacenamiento en la nube</string>
     <string name="notification_sync_fail_title">"No se pudieron sincronizar las contraseñas"</string>
     <string name="notification_update_key_text">La contraseña del gestor de contraseñas ha cambiado. Verifica el nuevo código de acceso.</string>
@@ -599,7 +610,7 @@ Puede que esta información no se envíe con una conexión de red deficiente."</
     <string name="privacy_runtime_perm_call_log_title">Acceder y editar registros de llamadas</string>
     <string name="privacy_runtime_perm_contacts_desc">Para sincronizar contactos</string>
     <string name="privacy_runtime_perm_contacts_title">Acceder y editar contactos</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de perfil de contacto y archivos adjuntos de mensajes</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de perfil del contacto</string>
     <string name="privacy_runtime_perm_external_storage_title">Acceso al almacenamiento</string>
     <string name="privacy_runtime_perm_phone_state_desc">Para acceder al número de teléfono y al estado del dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Acceder a la información del dispositivo</string>

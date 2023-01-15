@@ -3195,6 +3195,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="effect_preview">Vista previa</string>
     <string name="eighthours">8 horas</string>
     <string name="elastic_text">Aparecen avisos y menús desplegables con un pop elástico que enfoca más estos objetos</string>
+    <string name="embedded_window_guide_text">Cuando la pantalla está en horizontal, las aplicaciones se mostrarán paralelas entre sí. Se centrarán cuando esta función esté desactivada.</string>
     <string name="emergency_address_summary">Se usa como tu ubicación cuando haces una llamada de emergencia mediante Wi-Fi</string>
     <string name="emergency_address_title">Dirección de emergencia</string>
     <string name="emergency_dashboard_summary">SOS de emergencia, información médica, alertas</string>
@@ -5045,7 +5046,7 @@ Como mínimo conecta 4 puntos."</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
     <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta característica ahora</string>
-    <string name="magic_window_name_pad">Optimización de la vista horizontal</string>
+    <string name="magic_window_name_pad">Ventanas paralelas</string>
     <string name="main_clear_accounts">"
 
 Actualmente ha iniciado sesión en las siguientes cuentas:

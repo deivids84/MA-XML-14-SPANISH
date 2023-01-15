@@ -2647,7 +2647,7 @@ Como el uso de datos lo calcula el dispositivo y es posible que tu operador lo h
     <string name="data_usage_menu_sim_cards">Tarjetas SIM</string>
     <string name="data_usage_menu_split_4g">Dividir uso de 4G</string>
     <string name="data_usage_metered_auto">Automática</string>
-    <string name="data_usage_metered_body">Selecciona las redes Wi-Fi que sean puntos de acceso móviles. Se puede impedir que las aplicaciones usen estas redes cuando se ejecuten en segundo plano. Las aplicaciones también le notificarán antes de utilizar las redes para descargas pesadas.</string>
+    <string name="data_usage_metered_body">Indica las redes Wi-Fi que son puntos de acceso portátiles. Se puede impedir que las aplicaciones usen estas redes en segundo plano. Las aplicaciones también notificarán antes de utilizar estas redes para descargas pesadas.</string>
     <string name="data_usage_metered_mobile">Redes móviles</string>
     <string name="data_usage_metered_no">Sin uso medido</string>
     <string name="data_usage_metered_title">Restricciones de red</string>
@@ -2916,7 +2916,7 @@ Para solucionarlo, puedes desactivar la ubicación de esta aplicación."</string
     <string name="dialog_softbank_esime_title">Omitir activación de eSIM</string>
     <string name="dialog_speaker_auto_clean_button">Entendido</string>
     <string name="dialog_speaker_auto_clean_content">"El proceso dura 30 segundos. No abandones esta página. Optimiza el volumen del sonido para obtener un mejor efecto."</string>
-    <string name="dialog_speaker_auto_clean_content_new">"Estás a punto de reproducir el audio que limpiará el altavoz. Ajuste el volumen al máximo para obtener el mejor efecto."</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Estás a punto de reproducir audio para limpiar el altavoz. Ajusta el volumen al máximo para el mejor resultado."</string>
     <string name="dialog_speaker_auto_clean_title">Atención</string>
     <string name="dialog_speaker_auto_clean_title_new">Limpiar altavoz</string>
     <string name="dialog_stop_message">"Tu dispositivo no puede administrar el uso de la batería con normalidad porque %1$s lo mantiene activo.
@@ -3195,6 +3195,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="effect_preview">Previsualizar</string>
     <string name="eighthours">8 horas</string>
     <string name="elastic_text">Aparecen avisos y menús desplegables de forma emergente y estirable que te enfocan más en estos objetos</string>
+    <string name="embedded_window_guide_text">Cuando la pantalla está en horizontal, las aplicaciones se mostrarán paralelas entre sí. Se centrarán cuando esta función esté desactivada.</string>
     <string name="emergency_address_summary">Se utiliza como tu ubicación al hacer una llamada de emergencia por Wi‑Fi</string>
     <string name="emergency_address_title">Dirección de emergencia</string>
     <string name="emergency_dashboard_summary">SOS de emergencia, información médica, alertas</string>
@@ -5045,7 +5046,7 @@ Como mínimo conecta 4 puntos."</string>
     <string name="low_storage_summary">Queda poco espacio. %1$s usado - %2$s libre</string>
     <string name="macaddr_label">Dirección MAC:</string>
     <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta característica ahora</string>
-    <string name="magic_window_name_pad">Optimización de la vista horizontal</string>
+    <string name="magic_window_name_pad">Ventanas paralelas</string>
     <string name="main_clear_accounts">"
 
 Actualmente ha iniciado sesión en las siguientes cuentas:

@@ -19,7 +19,7 @@
     <string name="open_cta">Permite que esta aplicación se conecte a Internet en Seguridad.</string>
     <string name="permstep_description">Permite que esta aplicación acceda al recuento de pasos</string>
     <string name="permstep_label">Acceder al recuento de pasos</string>
-    <string name="restart_details">Activar o desactivar esta función requiere reiniciar su dispositivo. ¿Reinicie ahora?</string>
+    <string name="restart_details">Para activar o desactivar esta función es necesario reiniciar el dispositivo. ¿Reiniciar?</string>
     <string name="restart_later">Más tarde</string>
     <string name="restart_now">Reinicie ahora</string>
     <string name="resurged_content">¡Venga!</string>

@@ -759,7 +759,7 @@ No perderás datos de aplicaciones."</string>
     <string name="auto_task_default_add_to_task_list">Agregar a \"Mis tareas\"</string>
     <string name="auto_task_default_do_action">Entonces</string>
     <string name="auto_task_default_if_exclude">Si</string>
-    <string name="auto_task_default_task_summary_driver_car">Encienda el punto de acceso portátil cuando esté conectado al sistema del automóvil a través de Bluetooth</string>
+    <string name="auto_task_default_task_summary_driver_car">Activa el punto de acceso portátil cuando estés conectado al sistema del coche a través de Bluetooth</string>
     <string name="auto_task_default_task_summary_get_up">Desactive el modo DND y vuelva a activar Bluetooth, Wi-Fi y datos móviles</string>
     <string name="auto_task_default_task_summary_listen_music">Reproduce música y selecciona el tipo de auricular</string>
     <string name="auto_task_default_task_summary_meet">Programe la hora de la reunión y active el modo DND</string>

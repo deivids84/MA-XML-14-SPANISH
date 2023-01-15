@@ -509,7 +509,7 @@
     <string name="unit">Unidades</string>
     <string name="unit_temperature">Unidad de temperatura</string>
     <string name="unit_wind">Unidad de velocidad del viento</string>
-    <string name="update_night_setting_summary_text">Actualizar la información del tiempo entre %1$s y %1$s</string>
+    <string name="update_night_setting_summary_text">Actualizar la información del tiempo entre %1$s y %2$s</string>
     <string name="update_night_setting_title_text">Actualizar automáticamente por la noche</string>
     <string name="update_notification_info">Actualizando datos en segundo plano…</string>
     <string name="updated_a_moment_ago">Actualizado hace un momento</string>
