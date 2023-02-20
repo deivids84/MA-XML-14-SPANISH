@@ -75,25 +75,8 @@
         <item>Normal</item>
         <item>Baja</item>
     </string-array>
-    <string-array name="record_quality_summaries">
-        <item>MP3, ~192kbit/s, ~90MB/h</item>
-        <item>MP3, ~100kbit/s, ~45MB/h</item>
-        <item>MP3, ~75kbit/s, ~32MB/h</item>
-    </string-array>
     <string-array name="record_scenes_entries">
         <item>Música</item>
         <item>Voz</item>
-    </string-array>
-    <string-array name="record_scenes_summaries">
-        <item>Graba música con mejor calidad</item>
-        <item>Coloca el micrófono más cerca del origen de sonido para mejor calidad</item>
-        <item>Coloca el dispositivo entre dos personas para grabar su conversación con claridad</item>
-        <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
-    </string-array>
-    <string-array name="record_scenes_summaries_stereo">
-        <item>Grabación a través de 2 canales, escucha el estéreo con auriculares</item>
-        <item>Coloca el micrófono más cerca del origen de sonido para mejor calidad</item>
-        <item>Coloca el dispositivo entre dos personas para grabar su conversación con claridad</item>
-        <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
     </string-array>
 </resources>

@@ -139,6 +139,7 @@
     <string name="head_set_tip_dialog_msg">Desconecte sus auriculares para poder grabar sonido con preajustes específicos (por ejemplo, música, voz).</string>
     <string name="head_set_tip_dialog_ok">Entendido</string>
     <string name="head_set_tip_dialog_title">Usar el micrófono interno</string>
+    <string name="high_bit_rate">MP3, ~%1$d Kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">Icono del cuadro de diálogo</string>
     <string name="invalid_argument">Argumento inválido</string>
     <string name="invisible_mode_error_tip">Desactive el modo de incógnito en la Configuración para poder usar el micrófono</string>
@@ -157,10 +158,11 @@
     <string name="loading_more">Un momento…</string>
     <string name="loading_order_list">Un momento…</string>
     <string name="loading_order_list_empty">Aquí no hay pedidos.</string>
-    <string name="low_battery_error">"Menos del 5% de batería restante. Para y guarda la grabación para asegurar que no se pierde."</string>
+    <string name="low_battery_error">"Queda menos del %s de batería. Para y guarda la grabación para asegurar que no se pierda."</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">"Menos de %s de batería restante. Deténgalo y ahorre su grabación para asegurarse de que no se pierda."</string>
     <string name="low_battery_error_title">Batería baja</string>
+    <string name="low_bit_rate">MP3, ~%1$d Kbps, ~%2$d MB/h</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="manage_external_storage">Acceder a todos los archivos</string>
     <string name="mark_point_list_title">Marcas</string>
@@ -180,9 +182,9 @@
     <string name="material_timepicker_text_input_mode_description">Cambie al modo de entrada de texto para la entrada de tiempo.</string>
     <string name="menu">Menú</string>
     <string name="message_file_size_error">La grabación ha alcanzado el tamaño admitido de %s</string>
-    <string name="mi_account_msg">Inicia sesión con tu cuenta Xiaomi para transcribir archivos en la nube y obtén tus primeros 60 minutos gratis.</string>
     <string name="mi_account_ok">Iniciar sesión</string>
     <string name="mi_account_title">Inicia sesión con tu cuenta Xiaomi</string>
+    <string name="middle_bit_rate">MP3, ~%1$d Kbps, ~%2$d MB/h</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -317,7 +319,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="offline_recognize_transfer_format">Transcribiendo…</string>
     <string name="online_recognize_btn">Transcribir</string>
     <string name="online_recognize_desp">Tus grabaciones serán subidas al servidor por estimación del coste y transcripción.</string>
-    <string name="online_recognize_duration_limite">(Comenzando desde 10 minutos)</string>
     <string name="online_recognize_fail">"No se pudo transcribir"</string>
     <string name="online_recognize_login_fail">"No se pudo iniciar sesión"</string>
     <string name="online_recognize_order_create">Iniciar sesión</string>
@@ -351,6 +352,9 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="permission_desc">Detalles de permisos</string>
     <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Ajustes</string>
+    <string name="permission_notification_description">Para enviar alertas grabando, reproduciendo y descargando contenido</string>
+    <string name="permission_notification_dialog_description">"Para enviar alertas sobre el estado de la aplicación"</string>
+    <string name="permission_notification_title">Permisos necesarios</string>
     <string name="permission_read_phone_state">Acceder a la información del dispositivo</string>
     <string name="permission_read_phone_state_description">Para acceder al estado de la llamada para detener automáticamente la grabación al recibir llamadas</string>
     <string name="permission_record">Grabar audio</string>
@@ -390,7 +394,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="recognition_error_cancel">Cancelado</string>
     <string name="recognition_error_code">Código de error: %d</string>
     <string name="recognition_error_download_cancel">Más tarde</string>
-    <string name="recognition_error_download_data_msg">Descarga el motor de transcripción para disponer de este servicio. Esta descarga requiere aproximadamente 20MB de tus datos móviles.</string>
+    <string name="recognition_error_download_data_msg">Descarga el motor de transcripción para que este servicio esté disponible. Se necesitan unos %d MB de datos móviles para ello.</string>
     <string name="recognition_error_download_fail">"No se pudo descargar. Compruebe la conexión de red y vuelve a intentarlo."</string>
     <string name="recognition_error_download_msg">Descarga el motor de transcripción para que este servicio esté disponible.</string>
     <string name="recognition_error_download_ok">Descargar</string>
@@ -419,7 +423,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="recognize_choose_dialog_offline_desp">Transcribir grabaciones sin conectarse a internet</string>
     <string name="recognize_choose_dialog_online">Transcribir en la nube</string>
     <string name="recognize_choose_dialog_online_desp">Obtén transcripciones precisas rápidamente</string>
-    <string name="recognize_choose_dialog_online_free_duration">Obtén los primeros 60 minutos gratis</string>
     <string name="recognize_choose_dialog_online_price">%s CNY/hora</string>
     <string name="recognize_choose_dialog_service_desp">Servicios de transcripción proporcionados por iflyrec.com</string>
     <string name="recognize_choose_dialog_service_intruction">Términos de Servicio</string>
@@ -451,6 +454,14 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="record_permission_dialog_title">Se requieren permisos de micrófono</string>
     <string name="record_quliaty_preference_title">Calidad de grabación</string>
     <string name="record_resotre">Recuperar grabaciones</string>
+    <string name="record_scenes_summaries_HD">La tecnología de alto rango dinámico permite que el micrófono capture un sonido más detallado</string>
+    <string name="record_scenes_summaries_interview">Coloca el teléfono entre %d personas para grabar la conversación con claridad</string>
+    <string name="record_scenes_summaries_music">Graba música con mejor calidad</string>
+    <string name="record_scenes_summaries_stereo_HD">La tecnología de alto rango dinámico permite que el micrófono capture un sonido más detallado</string>
+    <string name="record_scenes_summaries_stereo_interview">Coloca el teléfono entre %d personas para grabar la conversación con claridad</string>
+    <string name="record_scenes_summaries_stereo_music">Graba a través de %d canales, escucha el sonido estéreo en los auriculares</string>
+    <string name="record_scenes_summaries_stereo_voice">Coloca el micrófono más cerca del origen del sonido para una mayor calidad</string>
+    <string name="record_scenes_summaries_voice">Coloca el micrófono más cerca del origen del sonido para una mayor calidad</string>
     <string name="recorder_record">Audio</string>
     <string name="recording">Grabando</string>
     <string name="recording_quality_high">Alta calidad</string>
@@ -461,7 +472,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="recovery_failed_dialog_button">Entendido</string>
     <string name="recovery_failed_dialog_title">Atención</string>
     <string name="reg_error_audio_exist">Este archivo ya existe.</string>
-    <string name="reg_error_audio_large">"Los archivos de audio no pueden ser mayores de 500MB."</string>
     <string name="reg_error_audio_short">El archivo de audio es demasiado pequeño.</string>
     <string name="reg_error_business">"No se pudo transcribir el archivo. Reporta este error y vuelve a intentarlo."</string>
     <string name="reg_error_client">Ha ocurrido un error de datos de aplicaciones. Repórtalo y vuelve a intentarlo.</string>
@@ -552,9 +562,9 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="tab_call">Llamadas</string>
     <string name="tab_fm">FM</string>
     <string name="tap_to_record">Toque el botón para comenzar a grabar</string>
-    <string name="text_btn_backward_3_seconds">3 segundos atrás</string>
+    <string name="text_btn_backward_3_seconds">%d segundos atrás</string>
     <string name="text_btn_complete">Detener</string>
-    <string name="text_btn_forward_3_seconds">3 segundos adelante</string>
+    <string name="text_btn_forward_3_seconds">%d segundos adelante</string>
     <string name="text_btn_list">Grabaciones</string>
     <string name="text_btn_mark">Marcar</string>
     <string name="text_btn_pause">Pausa</string>

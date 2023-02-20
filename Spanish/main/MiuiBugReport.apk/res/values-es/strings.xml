@@ -234,13 +234,13 @@ Remite este código al supervisor."</string>
     <string name="feedback_evaluation_success_dialog_content">¡Gracias por tu comentario!</string>
     <string name="feedback_evaluation_success_dialog_title">Valorado</string>
     <string name="feedback_guess">Nuestra conjetura:</string>
-    <string name="feedback_history_remind_login_desc">"Inicia sesión en tu cuenta Xiaomi para ver los detalles y el estado de tu informe"</string>
+    <string name="feedback_history_remind_login_desc">"Inicia sesión con tu cuenta Xiaomi para ver los detalles y el estado de tu informe"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Clave JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">Creando un Jira…</string>
     <string name="feedback_package_log_failed">"No se pudieron comprimir los registros"</string>
     <string name="feedback_remind_login_btn">Iniciar sesión</string>
-    <string name="feedback_report_remind_login_desc">Inicia sesión en tu cuenta Xiaomi para que nuestros ingenieros puedan contactar contigo.</string>
+    <string name="feedback_report_remind_login_desc">Inicia sesión con tu cuenta de Xiaomi para que nuestros ingenieros puedan contactarte.</string>
     <string name="feedback_report_remind_login_desc2">"También puedes ver el progreso de tu informe en Mis comentarios."</string>
     <string name="feedback_reproductivity_everytime">Siempre</string>
     <string name="feedback_reproductivity_occasionally">De vez en cuando</string>
@@ -668,7 +668,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="stop_full_log_dialog_title">Generando registros…</string>
     <string name="submit_dialog_cancel">"No aceptar"</string>
     <string name="submit_dialog_confirm">Aceptar</string>
-    <string name="submit_dialog_content"><Data>\"Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas que reportes así como los elementos que adjuntes (incluidos los registros que puedan contener información personal e información sobre tu dispositivo y red) serán enviados a los servidores de MIUI. Esto nos ayudará a localizar y resolver dichos problemas. Si informas de problemas relacionados con varios dispositivos, también se enviarán los registros de otros dispositivos en los que utilizas tu cuenta Xiaomi.\"</Data></string>
+    <string name="submit_dialog_content"><Data>\"Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas que reportes y los elementos que adjuntes (incluyendo registros que podrían contener información personal, del dispositivo y de la red) se cargarán en los servidores de MIUI. Esto ayudará a localizar y resolver los problemas de los que informas. Si éstos están relacionados con múltiples dispositivos, también se cargarán los registros de otros dispositivos en los que utilizas tu cuenta Xiaomi.\"</Data></string>
     <string name="submit_dialog_content_global">&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando \"Aceptar\" significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>\"Sus comentarios, junto con los archivos adjuntos (si los hay), los registros (puede desmarcar las casillas correspondientes de los elementos que no desea cargar), el número de teléfono o el correo electrónico se enviarán a los servidores de MIUI. Los registros pueden contener información personal y sus datos de ubicación. Si selecciona \"Acepto\", significa que ha leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;\".</Data></string>
     <string name="submit_dialog_not_show_again">"No mostrar otra vez"</string>

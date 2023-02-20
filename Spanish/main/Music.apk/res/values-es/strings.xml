@@ -1101,6 +1101,7 @@ Remite este código al supervisor."</string>
     <string name="passport_user_id_hint">Correo/teléfono/ID de cuenta Xiaomi</string>
     <string name="passport_user_id_intro">Ingresa la contraseña para %1$s</string>
     <string name="passport_user_password_hint">Contraseña</string>
+    <string name="passport_vcode_what_app_send_prompt">El código de verificación de WhatsApp se enviará a tu teléfono de recuperación (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Instalar WeChat primero</string>
     <string name="passport_wrong_captcha">El código que ingresaste es incorrecto</string>
     <string name="passport_wrong_phone_number_format">El formato del número de teléfono introducido no es válido</string>
@@ -1268,6 +1269,7 @@ Sea Feliz"</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Buscar canciones</string>
     <string name="search_songs_count">Canciones: %d</string>
+    <string name="see_more_videos">Más vídeos</string>
     <string name="select">Seleccionar</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="select_clip_desc">Selecciona una parte de la canción</string>
@@ -1360,6 +1362,7 @@ Sea Feliz"</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="supplementary_songs">Canciones adicionales</string>
+    <string name="swipe_for_more">Desliza hacia arriba para ver más videos musicales</string>
     <string name="switch_success">Cambiado</string>
     <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="tab_album">Álbumes</string>
@@ -1549,6 +1552,7 @@ Tamaño de actualización: %2$s"</string>
     <string name="yesterday">Ayer</string>
     <string name="you_can_switch_mode_in_settings">Puedes cambiar entre modos en Ajustes</string>
     <string name="you_may_like">También podría gustarte</string>
+    <string name="you_might_like_it">Te podría gustar</string>
     <string name="youtube_download_canl">Cancelar</string>
     <string name="youtube_download_fail_net">"No se pudo conectar ala red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="youtube_download_fail_source">Se ha producido un error. Espera un par de minutos e inténtalo otra vez.</string>

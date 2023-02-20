@@ -302,6 +302,7 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="pc_cooperate_guide_screenshot">Captura de pantalla</string>
     <string name="pc_cooperate_guide_task">Mostrar tareas</string>
     <string name="pc_cooperate_guide_undo">Deshacer (Ctrl+Z)</string>
+    <string name="pc_settings_current_device_tip">Conectar automáticamente a un ordenador con MIUI+ abierto y conectado a la misma cuenta Xiaomi</string>
     <string name="pcmode_not_support_multi_window">"El modo PC no admite la visualización de varias ventanas."</string>
     <string name="phone_pad_app_introduction_summary">Continúa en tu tablet la tarea en la misma aplicación</string>
     <string name="phone_pad_app_introduction_title">Aplicaciones</string>
@@ -383,6 +384,7 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_pad_handoff_title">Conexión automática</string>
     <string name="settings_pc">Ordenador</string>
+    <string name="settings_pc_handoff_title">Conectar al ordenador</string>
     <string name="settings_pc_use_tile">Acerca de esta característica</string>
     <string name="settings_permission_description">Detalles de permisos</string>
     <string name="settings_phone">Teléfono</string>

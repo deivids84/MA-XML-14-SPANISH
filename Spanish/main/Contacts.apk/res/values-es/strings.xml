@@ -97,6 +97,7 @@
     <string name="bh_card_order_name">Paquete de servicios</string>
     <string name="bh_card_order_pay_price">Cantidad pagada</string>
     <string name="bh_card_order_price">Precio</string>
+    <string name="bh_cbn">China Broadnet</string>
     <string name="bh_charge_confirm">¿Añadir %2$s CNY a %1$s?</string>
     <string name="bh_charge_continue">Recarga</string>
     <string name="bh_charge_number">Relleno %1$s</string>
@@ -126,6 +127,7 @@
     <string name="bh_funtion_desc">¡Te damos la bienvenida a los Servicios del Operador! Con esta aplicación puedes comprobar el saldo de su teléfono, comprar minutos de llamadas y datos móviles, y más. Esta aplicación necesita conexión a la red para funcionar con normalidad.</string>
     <string name="bh_get_balance_success">Se ha comprobado. Podría retrasarse la actualización aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccionar desde contactos</string>
+    <string name="bh_goto_granted">Conceder permisos</string>
     <string name="bh_goto_open">No concedido</string>
     <string name="bh_goto_set">Establecer</string>
     <string name="bh_i_got_it">Entendido</string>
@@ -256,6 +258,8 @@
     <string name="call_feature_vilte">ViLTE</string>
     <string name="call_home">Llamar a casa</string>
     <string name="call_isdn">Llamar a RDSI</string>
+    <string name="call_limit">Restricciones de llamada</string>
+    <string name="call_limit_content">"No se puede llamar a “%s”, solo a números que estén en la lista de contactos autorizados."</string>
     <string name="call_main">Llamar al teléfono principal</string>
     <string name="call_mms">Llamar a MMS</string>
     <string name="call_mobile">Llamar al móvil</string>
@@ -701,6 +705,7 @@ Motivo: \"%s\""</string>
     <string name="item_offical">Oficial</string>
     <string name="keep_local">"No sincronizar"</string>
     <string name="keep_local_btn">"Usar la memoria interna del dispositivo"</string>
+    <string name="know">Entendido</string>
     <string name="label_custom_type">Personalizado</string>
     <string name="label_no_duplicate_contacts">No se han encontrado duplicados</string>
     <string name="label_notes">Notas</string>

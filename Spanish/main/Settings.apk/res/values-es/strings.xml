@@ -2280,7 +2280,7 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="color_mode_option_boosted">Mejorados</string>
     <string name="color_mode_option_natural">Naturales</string>
     <string name="color_mode_option_saturated">Saturados</string>
-    <string name="color_mode_summary_automatic">Ajustar entre colores vívidos y reales</string>
+    <string name="color_mode_summary_automatic">Ajuste entre colores intensos y reales</string>
     <string name="color_mode_summary_natural">Usar solo colores reales</string>
     <string name="color_mode_title">Colores</string>
     <string name="color_none">Ninguno</string>
@@ -5045,7 +5045,7 @@ Como mínimo conecta 4 puntos."</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio. %1$s usado - %2$s libre</string>
     <string name="macaddr_label">Dirección MAC:</string>
-    <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta característica ahora</string>
+    <string name="magic_list_empty_text_pad">No se han encontrado aplicaciones que soporten ventanas paralelas</string>
     <string name="magic_window_name_pad">Ventanas paralelas</string>
     <string name="main_clear_accounts">"
 
@@ -5843,7 +5843,7 @@ Selecciona su sistema operativo:"</string>
     <string name="natural_haptic">Tacto natural</string>
     <string name="natural_haptic_summary">Los nuevos patrones de respuesta táctil aportan una dimensión adicional a todo lo que ves y tocas en la pantalla.</string>
     <string name="natural_scroll">Desplazamiento natural</string>
-    <string name="nature_color">Predeterminado</string>
+    <string name="nature_color">Normal</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Desliza hacia arriba desde la parte inferior de la pantalla, después desliza a la izquieda o derecha</string>
     <string name="navigation_guide_app_quick_switch_summary">Desliza a la izquierda o derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
     <string name="navigation_guide_app_quick_switch_title">Cambiar entre aplicaciones</string>

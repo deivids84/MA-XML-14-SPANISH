@@ -1883,9 +1883,9 @@ Si tienes preguntas, contacta con %2$s."</string>
     <string name="reboot_to_bootloader_title">Modo fastboot</string>
     <string name="reboot_to_recovery_title">Modo recovery</string>
     <string name="recent_conversations">Conversaciones recientes</string>
-    <string name="recent_used_camera">Esta aplicación usó la cámara</string>
-    <string name="recent_used_camera_and_microphone">Esta aplicación grabó audio y usó la cámara</string>
-    <string name="recent_used_microphone">Esta aplicación grabó audio</string>
+    <string name="recent_used_camera">Esta aplicación accedió a la cámara</string>
+    <string name="recent_used_camera_and_microphone">Esta aplicación accedió a la cámara y al micrófono</string>
+    <string name="recent_used_microphone">Esta aplicación accedió al micrófono</string>
     <string name="remaining_length_format">%1$s restante</string>
     <string name="remote_input_image_insertion_text">ha enviado una imagen</string>
     <string name="remove_from_settings">Quitar de Ajustes</string>
@@ -2334,9 +2334,9 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="user_setup_dialog_title">¿Configurar usuario ahora?</string>
     <string name="user_setup_profile_dialog_message">¿Configurar perfil ahora?</string>
     <string name="user_switch_to_user">Cambiar a %s</string>
-    <string name="using_camera">Esta aplicación está usando la cámara</string>
-    <string name="using_camera_and_microphone">Esta aplicación está grabando audio y usando la cámara</string>
-    <string name="using_microphone">Esta aplicación está grabando audio</string>
+    <string name="using_camera">Esta aplicación está accediendo a la cámara</string>
+    <string name="using_camera_and_microphone">Esta aplicación está accediendo a la cámara y al micrófono</string>
+    <string name="using_microphone">Esta aplicación está accediendo al micrófono</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="verify_apps_over_usb_summary">Comprueba si una aplicación instalada por ADB/ADT tiene contenido dañino.</string>

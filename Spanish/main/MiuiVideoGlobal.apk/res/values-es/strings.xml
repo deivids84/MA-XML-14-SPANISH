@@ -1718,6 +1718,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="share_ugc_content">¡Echa un vistazo a %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Unirse</string>
     <string name="share_ugc_waitting">Generando enlace…</string>
+    <string name="shorts_assemble_ad_recommend">Recomendado</string>
     <string name="show_options_label">Mostrar opciones</string>
     <string name="show_the_location">Tipos de notificaciones</string>
     <string name="sign_in">Iniciando sesión</string>
@@ -1862,6 +1863,8 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="talkback_voice_search">Búsqueda por voz</string>
     <string name="target_sdk_version_30_upgrade_tips">Es posible que algunos videos no se vean aquí debido a restricciones de Android. Toca \"Archivos\" para buscar otros videos.</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible"</string>
+    <string name="text_default_ad_description">Anuncio</string>
+    <string name="text_default_ad_title">Te puede interesar</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la Lucha Contra la Agresión</string>
     <string name="the_arbor_day">Día del Arbor</string>

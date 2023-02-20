@@ -31,6 +31,7 @@
     <string name="add_sound">Añadir preajuste personalizado</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
+    <string name="app_disable_description_title">¿Desactivar esta aplicación?</string>
     <string name="app_name">Auriculares</string>
     <string name="apply_sound">Aplicar</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>

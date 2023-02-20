@@ -36,6 +36,10 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"No has hecho una copia de seguridad en %s semanas. Pulsa para ver cómo se activan las copias de seguridad automáticas."</item>
+        <item quantity="one">"No has hecho una copia de seguridad en %s semana. Pulsa para ver cómo se activan las copias de seguridad automáticas."</item>
+    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">"Parece que no has realizado una copia de seguridad durante %s semanas. Crea copias de seguridad para no perder nada importante."</item>
         <item quantity="one">"Parece que no has realizado una copia de seguridad durante %s semana. Crea una copia de seguridad para no perder nada importante."</item>

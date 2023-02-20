@@ -965,7 +965,7 @@ disponibles"</string>
     <string name="filter_general_portrait">Retrato</string>
     <string name="filter_general_rise">Subida</string>
     <string name="filter_general_softdrink">Soda</string>
-    <string name="filter_general_vivid">Vívido</string>
+    <string name="filter_general_vivid">Intenso</string>
     <string name="filter_general_warm">Calidez</string>
     <string name="filter_master_hazy">Borroso</string>
     <string name="filter_master_mellow">Suave</string>
@@ -1115,7 +1115,7 @@ disponibles"</string>
     <string name="flash_on">Flash activado</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -1123,7 +1123,7 @@ disponibles"</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>

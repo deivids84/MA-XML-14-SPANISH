@@ -45,6 +45,7 @@
     <string name="backup_action_buy_cloud_space">Obtener más espacio de almacenamiento</string>
     <string name="backup_action_check_network">Comprueba los ajustes de red</string>
     <string name="backup_action_clean_disk_space">Liberar espacio</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Haz una copia de seguridad</string>
     <string name="backup_action_long_time_not_backup_action">Copia de seguridad</string>
     <string name="backup_action_long_time_not_backup_title">No hay copias de seguridad recientes</string>
     <string name="backup_action_no_space_with_wechat_off_content">No hay suficiente espacio de almacenamiento en la nube para realizar copias de seguridad de este dispositivo. Pulsa para ver las opciones de almacenamiento disponibles.</string>
@@ -152,6 +153,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">El dispositivo debe estar conectado a Wi-Fi, cargando y bloqueado</string>
     <string name="cloud_backup_detail_time">Última copia: %1$s</string>
     <string name="cloud_backup_detail_title">Copia de seguridad de elementos</string>
+    <string name="cloud_backup_get_installed_apps_summary">Para hacer copias de seguridad y restaurar aplicaciones de la pantalla de inicio</string>
+    <string name="cloud_backup_get_installed_apps_title">Acceder a la lista de aplicaciones instaladas en el dispositivo</string>
     <string name="cloud_backup_have_data">Se encontró una copia de seguridad en Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Cancelar</string>
     <string name="cloud_backup_in_process">Realizando copia de seguridad</string>
@@ -171,6 +174,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_summary">Tu pantalla de inicio volverá a inicarse. Las aplicaciones copiadas se descargarán automáticamente.</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
+    <string name="cta_dialog_all_purpose">"¡Te damos la bienvenida a la copia de seguridad en la nube! Con esta aplicación puedes hacer una copia de seguridad del diseño de la pantalla de inicio, las aplicaciones, la configuración del sistema y los datos de WeChat en la nube. Usa la última versión para aprovechar todas las funciones."</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Para hacer copias de seguridad y restaurar aplicaciones</string>
+    <string name="cta_dialog_permission_description_storage">Para hacer copias de seguridad y restaurar tu contenido</string>
     <string name="customization"><u>Personalizar</u></string>
     <string name="date_format">dd/MM/yyyy HH:mm:ss</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
@@ -189,6 +195,10 @@ Envía este código al técnico."</string>
     <string name="dialog_app_usage_consent_message">Esta función necesita acceder a los datos de uso de la aplicación para estimar el tamaño de la copias de seguridad de WeChat.</string>
     <string name="dialog_app_usage_consent_title">Permitir el acceso a los datos de uso de la aplicación</string>
     <string name="dialog_app_usage_denied">Otorga permiso de copia de seguridad \"Acceso de uso\" en la configuración para hacer copias de seguridad.</string>
+    <string name="dialog_auto_backup_condition_normal_content">Para hacer copias de seguridad periódicas de todos los elementos importantes automáticamente, debes tener suficiente espacio de almacenamiento en la nube y este dispositivo debe estar bloqueado, con más de %s batería y conectado a Wi-Fi por la noche. También puedes hacer una copia manual en cualquier momento.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Para hacer copias de seguridad periódicas de todos los elementos importantes automáticamente, debes tener suficiente espacio de almacenamiento en la nube y este dispositivo debe estar bloqueado, con más de %s batería y conectado a Wi-Fi por la noche. También puedes hacer una copia manual en cualquier momento.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Entendido</string>
+    <string name="dialog_auto_backup_condition_normal_title">Haz una copia de seguridad de tu contenido</string>
     <string name="dialog_backup_failed">"No se pudo realizar la copia de seguridad"</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
     <string name="dialog_btn_confirm2">Entendido</string>
@@ -214,6 +224,11 @@ Envía este código al técnico."</string>
     <string name="dialog_negative_btn_cancel_restore">Detener restauración</string>
     <string name="dialog_positive_btn_cancel_backup">"No cancelar"</string>
     <string name="dialog_positive_btn_cancel_restore">"No detener"</string>
+    <string name="dialog_recommend_wechat_backup_content">Puedes hacer una copia de seguridad de las conversaciones de WeChat y otros datos en Xiaomi Cloud. Para ello debes tener suficiente espacio de almacenamiento en la nube y el dispositivo bloqueado, con más de %s batería, y conectado a Wi-Fi por la noche. También puedes hacer una copia manual en cualquier momento.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Puedes hacer una copia de seguridad de las conversaciones de WeChat y otros datos en Xiaomi Cloud. Para ello debes tener suficiente espacio de almacenamiento en la nube y el dispositivo bloqueado, con más de %s batería, y conectado a Wi-Fi por la noche. También puedes hacer una copia manual en cualquier momento.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Entendido</string>
+    <string name="dialog_recommend_wechat_backup_positive">Saber más</string>
+    <string name="dialog_recommend_wechat_backup_title">Copia de seguridad de datos de WeChat</string>
     <string name="dialog_title_cancel_backup">Cancelar copia de seguridad</string>
     <string name="dialog_title_cancel_restore">Detener restauración</string>
     <string name="dialog_title_require_wlan">Conectar a Wi-Fi</string>
@@ -380,6 +395,8 @@ Envía este código al técnico."</string>
     <string name="remove_task_in_process">Eliminando…</string>
     <string name="remove_task_unfinished">No finalizó la eliminación</string>
     <string name="remove_unfinished">Eliminando, inténtalo otra vez</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Puede hacer una copia de seguridad de datos de WeChat. Pulsa para saber más.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Copia de seguridad de datos de WeChat</string>
     <string name="restore_app_order_finish">Listo</string>
     <string name="restore_app_order_loading">Un momento…</string>
     <string name="restore_app_order_retry">Inténtalo otra vez</string>
@@ -478,6 +495,8 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">La copia de aplicaciones de la pantalla de inicio está activada</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Copia de seguridad de datos de WeChat. Pulsa para detalles.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Copia de seguridad automática completada.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>

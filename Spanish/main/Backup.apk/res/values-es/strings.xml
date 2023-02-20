@@ -77,6 +77,7 @@
     <string name="backup_failed">"No se pudo realizar la copia"</string>
     <string name="backup_file_error">"No se pudo realizar la copia"</string>
     <string name="backup_finished">Copia completada</string>
+    <string name="backup_for_broken_screen">Copia de seguridad con la pantalla dañada</string>
     <string name="backup_hint">Mantener el dispositivo encendido</string>
     <string name="backup_hint_onpad">Mantener el dispositivo encendido</string>
     <string name="backup_hint_pad">Mantenga su dispositivo encendido</string>

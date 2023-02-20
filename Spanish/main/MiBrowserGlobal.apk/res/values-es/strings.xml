@@ -379,6 +379,7 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="branch_give_relevant_permissions">Otorga al Navegador Mi los permisos correspondientes en Ajustes</string>
     <string name="branch_grant_permission">Permisos requeridos</string>
     <string name="branch_local_search_settings">Ajustes de búsqueda local</string>
+    <string name="branch_search_bar_tips">Buscar aplicaciones y juegos</string>
     <string name="branch_search_guide_privacy">Esta función es proporcionada por Branch Metrics Inc. Compartiremos tu ubicación, búsquedas e ID de publicidad de Google con ellos. Lee y acepta sus <a href="http://url1"><font color="#B3000000">Términos y Condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de Privacidad</font></a> antes de continuar.</string>
     <string name="branch_search_in_browser">Busca \"%1$s\" en el Navegador</string>
     <string name="branch_setting">Ajustes</string>
@@ -388,6 +389,8 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="branch_terms_condition">Términos y Condiciones</string>
     <string name="branch_trending_google_news">Noticias de Google</string>
     <string name="branch_trending_youtube_news">YouTube</string>
+    <string name="branch_viewpage_title_app_recommend">Recomendada</string>
+    <string name="branch_viewpage_title_local">Instalado</string>
     <string name="browser">Naegador Mi</string>
     <string name="browserFrameFileErrorLabel">Error de archivo</string>
     <string name="browserFrameFormResubmitMessage">"La página que intentas visualizar contiene datos que ya se han enviado. Si reenvías los datos, acciones anteriores (por ejemplo, búsquedas o compras) se repetirán."</string>
@@ -2909,6 +2912,10 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"No se pudo guardar la página"</string>
     <string name="snapshot_successed">Abrir marcadores/Historial-&gt;LOCAL para ver la página</string>
+    <string name="sniff_ask_every_times">Preguntar cada vez</string>
+    <string name="sniff_detect_resource">Detectamos contenido descargable en esta página. ¿Verlo ahora?</string>
+    <string name="sniff_dialog">Contenido descargable</string>
+    <string name="sniff_no_resource">No se encuentra contenido descargable</string>
     <string name="sns_access_token_expired_warning">La sesión ha expirado. Inicia la sesión otra vez para conectar esta cuenta.</string>
     <string name="sns_bind_limit">Demasiados intentos. Prueba otras formas de iniciar sesión.</string>
     <string name="sns_sign_in">Otras formas de iniciar sesión</string>

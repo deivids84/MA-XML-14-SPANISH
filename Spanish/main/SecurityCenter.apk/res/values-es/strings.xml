@@ -3281,9 +3281,9 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="optmizingbar_ready">Optimizando…</string>
     <string name="optmizingbar_stop_optmize">Detener</string>
     <string name="optmizingbar_title_acceleration">Optimizando…</string>
-    <string name="optmizingbar_title_clear">Limpiar caché</string>
+    <string name="optmizingbar_title_clear">Caché</string>
     <string name="optmizingbar_title_security">Seguridad</string>
-    <string name="optmizingbar_title_system">Seguridad del sistema</string>
+    <string name="optmizingbar_title_system">Sistema</string>
     <string name="order_bh_net_error">Sin red</string>
     <string name="organization">Organización</string>
     <string name="other">Otros ajustes</string>

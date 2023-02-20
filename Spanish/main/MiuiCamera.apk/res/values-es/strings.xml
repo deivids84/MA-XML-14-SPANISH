@@ -513,7 +513,7 @@ y autoajustar las preferencias"</string>
     <string name="color_effect_entry_sibopenk">Ciberpunk</string>
     <string name="color_effect_entry_soda">Soda</string>
     <string name="color_effect_entry_travel">Viajes</string>
-    <string name="color_effect_entry_vivid">Vívido</string>
+    <string name="color_effect_entry_vivid">Intenso</string>
     <string name="color_effect_entry_warm">Sol</string>
     <string name="color_effect_live_blue">Orquídea</string>
     <string name="color_effect_live_contrast">Xpro</string>
@@ -1308,7 +1308,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_coloreffect_entry_none">Normal</string>
     <string name="pref_camera_coloreffect_entry_sketch">Boceto</string>
     <string name="pref_camera_coloreffect_entry_small_face">Apretado</string>
-    <string name="pref_camera_coloreffect_entry_vivid">Vívido</string>
+    <string name="pref_camera_coloreffect_entry_vivid">Intenso</string>
     <string name="pref_camera_coloreffect_entry_vsco_a4">Analógico</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Mate</string>
     <string name="pref_camera_coloreffect_title">Filtros</string>

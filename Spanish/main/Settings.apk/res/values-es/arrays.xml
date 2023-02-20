@@ -1203,7 +1203,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>El contraste permanecerá constante</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Vivid (recomendado)</item>
+        <item>Intenso (recomendado)</item>
         <item>Saturado</item>
         <item>Estándar</item>
     </string-array>
@@ -1357,7 +1357,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Restaurar el color estándar de la pantalla con calibrado del color</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Vivid (recomendado)</item>
+        <item>Intenso (recomendado)</item>
         <item>Saturado</item>
         <item>Color original</item>
     </string-array>
