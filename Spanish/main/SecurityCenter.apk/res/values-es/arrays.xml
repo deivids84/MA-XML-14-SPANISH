@@ -236,6 +236,10 @@
         <item>"Las aplicaciones de terceros que no son verificadas pueden causar multitud de problemas y disminuir la estabilidad del sistema."</item>
         <item>Algunas aplicaciones de terceros pueden contener malware que pone en riesgo tus datos personales.</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Predeterminado</item>
+        <item>Todo</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Almacenamiento interno</item>
         <item>Almacenamiento externo</item>

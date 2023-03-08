@@ -76,7 +76,7 @@ Para comprender plenamente sus derechos como usuario, así como las formas en qu
     <string name="account_settings_op_title">Administrar correos electrónicos</string>
     <string name="account_settings_param">Configuración de cuenta</string>
     <string name="account_settings_preference_att_save_path">Ubicación predeterminada para los archivos adjuntos</string>
-    <string name="account_settings_preference_head_icon">Foto de perfil</string>
+    <string name="account_settings_preference_head_icon">Foto del perfil</string>
     <string name="account_settings_preference_head_icon_summary">"La lista de correo muestra el avatar del remitente"</string>
     <string name="account_settings_receive_title">Correos electrónicos entrantes</string>
     <string name="account_settings_send_title">Correos electrónicos salientes</string>
@@ -669,6 +669,7 @@ Declinado:
     <string name="message_all_body">Mensaje completo</string>
     <string name="message_body_load_set_description">Cargar correos electrónicos al usar datos móviles</string>
     <string name="message_discarded">Borrador descartado</string>
+    <string name="message_forward_has_signature_pdf">¿Reenviar con archivos PDF adjuntos firmados?</string>
     <string name="message_invite_accept">Sí</string>
     <string name="message_invite_calendar_download_prompt">Descargar el calendario para usar esta función</string>
     <string name="message_invite_calendar_view">Ver en Calendario</string>

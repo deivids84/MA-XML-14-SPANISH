@@ -114,7 +114,7 @@ Con este permiso desactivado, las alarmas existentes y los eventos basados en el
     <string name="attaching_to_report">Adjuntando seguimiento al informe de errores</string>
     <string name="available_via_carrier">Disponible a través de %1$s</string>
     <string name="available_via_passpoint">Disponible a través de %1$s</string>
-    <string name="avatar_picker_title">Elige una foto de perfil</string>
+    <string name="avatar_picker_title">Elige una foto del perfil</string>
     <string name="back_navigation_animation">Animaciones de retroceso adaptativas</string>
     <string name="back_navigation_animation_dialog">Activar animaciones del sistema para los gestos predictivos. Necesita establecer enableOnBackInvokedCallback de la aplicación en el archivo de manifiesto.</string>
     <string name="back_navigation_animation_summary">Activa la animación de retroceso predictiva.</string>

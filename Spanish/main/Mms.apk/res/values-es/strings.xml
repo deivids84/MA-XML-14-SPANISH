@@ -819,7 +819,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_rcs_show_report_message">Recibir informes de entrega</string>
     <string name="pref_rcs_show_report_message_tip">Reciba informes cuando sus mensajes se entreguen a la otra persona</string>
     <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueados en la lista de conversaciones</string>
-    <string name="pref_show_list_avatar_summary">Mostrar en lista fotos de perfil e información de contacto</string>
+    <string name="pref_show_list_avatar_summary">Mostrar fotos del perfil e información de contacto en la lista</string>
     <string name="pref_show_photo_word_summary">Asignar automáticamente una imagen a los contactos sin una</string>
     <string name="pref_show_sms_template_entry_summary">Detectar contraseñas de una sola vez y mostrar menús rápidos</string>
     <string name="pref_show_sms_template_in_summary">Detectar automáticamente las contraseñas incluidas en sus mensajes SMS</string>
@@ -876,8 +876,11 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_title_perm_call">Hacer llamadas</string>
     <string name="pref_title_perm_camera">Usar la cámara</string>
     <string name="pref_title_perm_location">Ubicación</string>
+    <string name="pref_title_perm_read_audio">Acceder a archivos de audio</string>
     <string name="pref_title_perm_read_call_log">Acceder al historial de llamadas</string>
     <string name="pref_title_perm_read_contacts">Acceder a contactos</string>
+    <string name="pref_title_perm_read_files">Acceder a archivos y documentos</string>
+    <string name="pref_title_perm_read_images_video">Acceder a fotos y vídeos</string>
     <string name="pref_title_perm_read_mms">Leer SMS</string>
     <string name="pref_title_perm_send_mms">Enviar SMS</string>
     <string name="pref_title_perm_storage">Acceder al almacenamiento</string>
@@ -1465,7 +1468,7 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="system_permission_perm_send_mms">Enviar MMS</string>
     <string name="system_permission_perm_send_sms">Para enviar mensajes de texto</string>
     <string name="system_permission_perm_sms">Para ver y enviar mensajes</string>
-    <string name="system_permission_perm_storage">Para ver, enviar y almacenar archivos</string>
+    <string name="system_permission_perm_storage">Para guardar y cargar archivos SMS adjuntos</string>
     <string name="system_permission_perm_takephoto">Para tomar fotos y vídeos</string>
     <string name="system_permission_perm_write_contact">Para crear y editar contactos</string>
     <string name="system_permission_perm_write_mms">Permitir que la mensajería escriba MMS</string>
@@ -1535,7 +1538,7 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="title_not_show_read_mms_perm_req">Permisos necesarios</string>
     <string name="title_pref_cm_smart_sms">China SMS elegante móvil</string>
     <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
-    <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
+    <string name="title_show_list_avatar">Mostrar fotos del perfil</string>
     <string name="title_show_photo_word">Asignar fotos a contactos</string>
     <string name="title_show_sms_template">Mensajes Inteligentes</string>
     <string name="title_show_sms_template_in">Comprobar OTP en sus SMS</string>
@@ -1557,7 +1560,7 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="toast_not_show_microphone_perm_req">Permitir que Mensajería use el micrófono para usar esta función</string>
     <string name="toast_not_show_read_mms_perm_req">Para ver los mensajes recibidos, debes dar permiso a Mensajería para leer SMS y MMS. Puedes conceder este permiso en Ajustes.</string>
     <string name="toast_not_show_send_sms_perm_req">Para usar esta función, primero permite a esta aplicación enviar mensajes.</string>
-    <string name="toast_not_show_storage_perm_req">Permitir que Mensajería acceda al almacenamiento para usar esta función</string>
+    <string name="toast_not_show_storage_perm_req">Se necesita permiso para usar esta función. Puedes concederlo en Ajustes.</string>
     <string name="toast_not_show_write_contacts_perm_req">Permitir que Mensajería edite contactos para usar esta función</string>
     <string name="toast_pending_hangup_msg">Se enviará un mensaje después de terminar la llamada</string>
     <string name="today">Hoy</string>

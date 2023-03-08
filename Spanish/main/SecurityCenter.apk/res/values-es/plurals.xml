@@ -40,6 +40,10 @@
         <item quantity="other">%d juegos añadidos</item>
         <item quantity="one">%d juego añadido</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d aplicaciones añadidas</item>
+        <item quantity="one">%d aplicación añadida</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplicaciones</item>
         <item quantity="one">Aplicación %d</item>
@@ -215,6 +219,14 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundos</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Buscar entre %d aplicaciones</item>
@@ -508,6 +520,10 @@ para obtener un prueba gratuita de %d días!"</item>
         <item quantity="other">"El acceso a la red está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicaciones"</item>
         <item quantity="one">"El acceso a la red está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicación"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplicaciones no añadidas</item>
+        <item quantity="one">%d aplicación no añadida</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d días sin analizar seguridad</item>
         <item quantity="one">%d día sin analizar seguridad</item>
@@ -587,6 +603,10 @@ para obtener un prueba gratuita de %d días!"</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">El dispositivo está sin batería. Entrará en hibernación en %1$d segundos.</item>
+        <item quantity="one">El dispositivo está sin batería. Entrará en hibernación en %1$d segundo.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s días</item>

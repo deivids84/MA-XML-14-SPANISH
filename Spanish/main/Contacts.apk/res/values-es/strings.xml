@@ -323,6 +323,9 @@
     <string name="callrecordview_item_op_time_rejected">Rechazada</string>
     <string name="callrecordview_item_op_time_short_incoming">"Entrante: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Saliente: "</string>
+    <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Respuesta automática</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Asistente de llamada Mi IA</string>
+    <string name="callrecordview_item_op_time_xiaoai_manual_answer">Activación manual</string>
     <string name="callrecordview_item_op_video">Vídeo</string>
     <string name="callrecordview_menu_add_call_note">Añadir nota de llamada</string>
     <string name="callrecordview_menu_aiphone">Llamadas IA</string>
@@ -919,15 +922,15 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="permission_notice_desc_add_voicemail">Para usar la función de correo de voz y mensajes de audio</string>
     <string name="permission_notice_desc_call_phone">Para realizar llamadas a través de los atajos de la pantalla de inicio</string>
     <string name="permission_notice_desc_call_phone_for_pad">Para realizar llamadas en aplicaciones de terceros</string>
-    <string name="permission_notice_desc_camera">Para tomar fotos de perfil</string>
+    <string name="permission_notice_desc_camera">Para tomar fotos del perfil</string>
     <string name="permission_notice_desc_read_call_logs">Para ver el historial de llamadas</string>
     <string name="permission_notice_desc_read_contacts">Para ver contactos</string>
-    <string name="permission_notice_desc_read_external_storage">Para agregar fotos de perfil e importar vCards</string>
+    <string name="permission_notice_desc_read_external_storage">Para agregar fotos del perfil e importar vCards</string>
     <string name="permission_notice_desc_read_phone_state">Para acceder a la información de la SIM</string>
     <string name="permission_notice_desc_title">Permisos requeridos</string>
     <string name="permission_notice_desc_write_call_logs">Para editar el historial de llamadas</string>
     <string name="permission_notice_desc_write_contacts">Para administrar contactos</string>
-    <string name="permission_notice_desc_write_external_storage">Para agregar fotos de perfil e importar vCards</string>
+    <string name="permission_notice_desc_write_external_storage">Para agregar fotos del perfil e importar vCards</string>
     <string name="permission_record_audio_desc">Para usar su voz durante la verificación de identificación</string>
     <string name="permission_retry_deny">Cancelar</string>
     <string name="permission_retry_dialog_msg">Para usar la tarjeta SIM con esta aplicación, realizar llamadas a través de accesos directos en la pantalla de Inicio, administrar contactos y mantener actualizado el historial de llamadas, permite que esta aplicación acceda y edite tus contactos e historial de llamadas, haga llamadas y acceda a la información del dispositivo.</string>
@@ -1036,9 +1039,9 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="privacy_settings_read_phone_state">Acceder a la información del dispositivo</string>
     <string name="privacy_settings_read_phone_state_description">Para acceder a la información de la SIM</string>
     <string name="privacy_settings_read_write_phone">Acceder al almacenamiento</string>
-    <string name="privacy_settings_read_write_phone_description">Para agregar fotos de perfil e importar vCards</string>
+    <string name="privacy_settings_read_write_phone_description">Para agregar fotos del perfil e importar vCards</string>
     <string name="privacy_settings_take_photo_record_video">Toma fotos y graba videos</string>
-    <string name="privacy_settings_take_photo_record_video_description">Para tomar fotos de perfil</string>
+    <string name="privacy_settings_take_photo_record_video_description">Para tomar fotos del perfil</string>
     <string name="privacy_settings_view_policy">Ver política de privacidad</string>
     <string name="privacy_settings_write_call_log">Editar historial de llamadas</string>
     <string name="privacy_settings_write_call_log_description">Para editar el historial de llamadas</string>
@@ -1104,7 +1107,8 @@ Para empezar, pulsa el botón Combinar de la parte inferior de la pantalla."</st
     <string name="scan_business_card">Escanear tarjeta de visita</string>
     <string name="scan_bussiness_card_merge_tip">Los datos conflictivos han sido sustituidos</string>
     <string name="scan_merge">\"Buscando contactos duplicados…\"</string>
-    <string name="scan_not_installed">Instala el Escáner primero</string>
+    <string name="scan_not_installed_china">Instalar antes el escaner Mi IA</string>
+    <string name="scan_not_installed_global">Instalar antes el Escanner</string>
     <string name="scan_qrcode_card_hint1">Escanear el código QR superior</string>
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">"La memoria interna no pudo analizarse"</string>
@@ -1315,13 +1319,13 @@ Para empezar, pulsa el botón Combinar de la parte inferior de la pantalla."</st
     <string name="toast_for_saving_nickname">Apodo guardado</string>
     <string name="toast_join_with_empty_contact">Escribe el nombre del contacto antes de combinarlo con otro</string>
     <string name="toast_not_show_blue_scan_connect_perm_req">Permite que esta función conecte a dispositivos cercanos por Bluetooth para importar contactos de otros dispositivos.</string>
-    <string name="toast_not_show_camera_perm_req">Para usar la cámara y tomar fotos de perfil, permite primero a esta aplicación tomar fotos y grabar vídeos.</string>
+    <string name="toast_not_show_camera_perm_req">Para usar la cámara y tomar fotos del perfil, permite a esta aplicación tomar fotos y grabar vídeos.</string>
     <string name="toast_not_show_location_perm_req">Para importar contactos de otros dispositivos por Bluetooth, permite primero a esta aplicación acceder a tu ubicación.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Para ver el historial de llamadas, permite primero a esta aplicación acceder al historial de llamadas.</string>
     <string name="toast_not_show_read_contacts_perm_req">Para ver los contactos, permite primero a esta aplicación acceder a los contactos.</string>
     <string name="toast_not_show_read_phone_state_perm_req">Para usar esta aplicación con tu SIM, permite primero a esta aplicación acceder a la información del dispositivo.</string>
-    <string name="toast_not_show_storage_perm_req">Para agregar fotos de perfil e importar vCards, permite primero a esta aplicación acceder al almacenamiento.</string>
-    <string name="toast_not_show_storage_perm_req_for_pad">Para añadir fotos de perfil e importar vCards, permite primero a esta aplicación acceder al almacenamiento.</string>
+    <string name="toast_not_show_storage_perm_req">Para agregar fotos del perfil e importar vCards, permite a esta aplicación acceder al almacenamiento.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Para añadir fotos del perfil e importar vCards, permite a esta aplicación acceder al almacenamiento.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Para mantener actualizado el historial de llamadas, permite primero a esta aplicación editar el historial de llamadas.</string>
     <string name="toast_not_show_write_contacts_perm_req">Para ver los contactos, permite primero a esta aplicación editar los contactos.</string>
     <string name="toast_start_intent_failed">"No se pudo encontrar aplicación para está acción"</string>
@@ -1342,7 +1346,7 @@ Para empezar, pulsa el botón Combinar de la parte inferior de la pantalla."</st
     <string name="unknown_details_add_to_contact">Existente</string>
     <string name="unknown_details_new_contact">Nuevo</string>
     <string name="unshow_qr_code_in_narrow_screen_split">"No se pueden mostrar códigos QR usando la pantalla dividida"</string>
-    <string name="update_sim_contact_photo_toast">"No se puede establecer fotos de perfil para contactos de la tarjeta SIM"</string>
+    <string name="update_sim_contact_photo_toast">"No se puede establecer fotos del perfil en contactos de la tarjeta SIM"</string>
     <string name="upgrade_in_progress">La lista de contactos se está actualizando.</string>
     <string name="upgrade_out_of_memory">"Los contactos se están actualizando. 
 

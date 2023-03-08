@@ -44,7 +44,7 @@
     <string name="account_none_user_name">Ninguno</string>
     <string name="account_secure_info_pref_title">Información de cuenta</string>
     <string name="account_security_info_pref_title">Información de seguridad</string>
-    <string name="account_user_avatar">Foto de perfil</string>
+    <string name="account_user_avatar">Foto del perfil</string>
     <string name="account_user_avatar_from_album">Galería</string>
     <string name="account_user_avatar_from_camera">Cámara</string>
     <string name="account_user_base_info">Información básica</string>
@@ -826,7 +826,7 @@ Debido a que la prestación de los servicios de MiCoin se basa en la recopilaci�
     <string name="update_email_address_dialog_title">Actualizar correo de recuperación</string>
     <string name="update_phone_notice">Cambiar los ajustes de seguridad</string>
     <string name="upload_error_log">Cargar registro</string>
-    <string name="user_avatar_update_title">Cambiar foto de perfil</string>
+    <string name="user_avatar_update_title">Cambiar foto del perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_id_hint">Correo electrónico/Teléfono/ID de cuenta Xiaomi</string>
     <string name="v_code_title">Introduce código de verificación</string>

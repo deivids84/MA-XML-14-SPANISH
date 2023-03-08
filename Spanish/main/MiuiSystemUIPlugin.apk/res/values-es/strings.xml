@@ -101,7 +101,7 @@
     <string name="controls_edit_panel_save_button">Listo</string>
     <string name="controls_edit_panel_subtitle">Arrastra los elementos para reorganizar</string>
     <string name="controls_edit_panel_title">Dispositivos añadidos</string>
-    <string name="controls_error_failed">Se ha producido un error, vuelve a intentarlo</string>
+    <string name="controls_error_failed">Ha ocurrido un error. Inténtalo otra vez.</string>
     <string name="controls_error_generic">Error</string>
     <string name="controls_error_removed">Dispositivo eliminado</string>
     <string name="controls_favorite_default_title">Controles</string>
@@ -129,7 +129,6 @@
     <string name="controls_pin_verify">Verificar %s</string>
     <string name="controls_pin_wrong">PIN incorrecto</string>
     <string name="controls_providers_title">Selecciona la aplicación para añadir controles</string>
-    <string name="controls_removed">eliminado</string>
     <string name="controls_seeding_in_progress">Cargando recomendaciones</string>
     <string name="controls_structure_tooltip">Desliza para ver más</string>
     <string name="controls_unsupport_toggle_toast">"El dispositivo no admite acciones rápidas. Mantén pulsado para abrir la aplicación."</string>

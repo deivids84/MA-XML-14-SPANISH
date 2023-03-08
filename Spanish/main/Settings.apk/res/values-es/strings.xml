@@ -1004,7 +1004,7 @@ Widget: %2$s
     <string name="available_via_carrier">Disponible vía %1$s</string>
     <string name="available_via_passpoint">Disponible vía %1$s</string>
     <string name="available_virtual_keyboard_category">Teclado en pantalla disponible</string>
-    <string name="avatar_picker_title">Selecciona una foto de perfil</string>
+    <string name="avatar_picker_title">Selecciona una foto del perfil</string>
     <string name="average_memory_use">Uso medio de memoria</string>
     <string name="average_used">Uso medio (%)</string>
     <string name="avoid_ui">Bloquear respuesta táctil</string>

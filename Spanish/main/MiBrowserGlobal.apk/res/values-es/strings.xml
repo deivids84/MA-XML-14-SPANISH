@@ -49,7 +49,7 @@
     <string name="account_prifix">Cuenta:</string>
     <string name="account_secure_info_pref_title">Información de cuenta</string>
     <string name="account_security_info_pref_title">Información de seguridad</string>
-    <string name="account_user_avatar">Foto de perfil</string>
+    <string name="account_user_avatar">Foto del perfil</string>
     <string name="account_user_avatar_from_album">Galería</string>
     <string name="account_user_avatar_from_camera">Cámara</string>
     <string name="account_user_base_info">Información básica</string>
@@ -148,6 +148,10 @@
     <string name="already_add">Se añadió %s a tu Pantalla de inicio</string>
     <string name="am">AM</string>
     <string name="app_cache">Caché</string>
+    <string name="app_category_tag_daily_recommendation">"Selecciones de hoy"</string>
+    <string name="app_category_tag_editor_recommendation">"Selecciones del editor"</string>
+    <string name="app_category_tag_free">Gratis</string>
+    <string name="app_category_tag_hot">Popular</string>
     <string name="app_id">ID de aplicación de Firebase (haga clic para exportar)</string>
     <string name="app_library_category_entertainment">Entretenimiento</string>
     <string name="app_library_category_financial_management">Finanzas</string>
@@ -201,9 +205,10 @@
     <string name="autologin_bar_hide_text">Ocultar</string>
     <string name="autologin_bar_login_text">Iniciar sesión</string>
     <string name="autologin_bar_text">Iniciar sesión como</string>
-    <string name="avatar">Foto de perfil</string>
+    <string name="avatar">Foto del perfil</string>
     <string name="back_description">Atrás</string>
     <string name="back_home">Suelte para la página de inicio</string>
+    <string name="batch_download">Descargar</string>
     <string name="batch_download_tip">Parece que se están descargando varios elementos al mismo tiempo. ¿Bloquear estas descargas?</string>
     <string name="billing_unavailable_message">"- Asegúrate de haber iniciado sesión en la Play Store.
 - Actualiza el Marco de Servicios de Google a la última versión.
@@ -2798,8 +2803,10 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="search_bar_hint_content">Buscar aplicaciones y contenido</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Ir</string>
+    <string name="search_card_more">Más</string>
     <string name="search_card_online_rec_app">Tiendas de aplicaciones</string>
     <string name="search_card_online_rec_app_install">Instalar</string>
+    <string name="search_card_online_rec_app_installed">Instalado</string>
     <string name="search_card_online_rec_app_open">Abrir</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
@@ -3259,7 +3266,7 @@ No muestra nada."</string>
     <string name="use_cellular_network_alert_message">"Wi-Fi no disponible, ¿Quieres usar la red móvil?"</string>
     <string name="use_cellular_network_alert_title">Uso de datos</string>
     <string name="user_account_sign_in_toast">Iniciando sesión…</string>
-    <string name="user_avatar_update_title">Cambiar foto de perfil</string>
+    <string name="user_avatar_update_title">Cambiar foto del perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_defined_webpage">Añadir a la página de inicio</string>
     <string name="user_defined_webpage_title">Añadir a la página de inicio</string>

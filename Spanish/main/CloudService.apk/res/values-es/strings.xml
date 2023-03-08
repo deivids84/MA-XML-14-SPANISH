@@ -420,7 +420,7 @@ vídeos que estén sincronizados, o visita i.mi.com para descargar todos a tu di
     <string name="micloud_setting_browser_summary">Marcadores, historial y pestañas</string>
     <string name="micloud_setting_calendar_summary">Eventos</string>
     <string name="micloud_setting_calllog_summary">Historial de llamadas</string>
-    <string name="micloud_setting_contact_summary">Contactos y fotos de perfil</string>
+    <string name="micloud_setting_contact_summary">Contactos y fotos del perfil</string>
     <string name="micloud_setting_gallery_summary">Fotos y vídeos</string>
     <string name="micloud_setting_notes_summary">Notas</string>
     <string name="micloud_setting_notes_summary_v2">Notas</string>
@@ -610,7 +610,7 @@ Puede que esta información no se envíe con una conexión de red deficiente."</
     <string name="privacy_runtime_perm_call_log_title">Acceder y editar registros de llamadas</string>
     <string name="privacy_runtime_perm_contacts_desc">Para sincronizar contactos</string>
     <string name="privacy_runtime_perm_contacts_title">Acceder y editar contactos</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de perfil del contacto</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos del perfil del contacto</string>
     <string name="privacy_runtime_perm_external_storage_title">Acceso al almacenamiento</string>
     <string name="privacy_runtime_perm_phone_state_desc">Para acceder al número de teléfono y al estado del dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Acceder a la información del dispositivo</string>

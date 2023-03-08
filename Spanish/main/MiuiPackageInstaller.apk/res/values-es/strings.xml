@@ -60,7 +60,6 @@
     <string name="app_install_safe_check">Comprobar las aplicaciones antes de la instalación</string>
     <string name="app_installing_not_allow">"Has bloqueado la instalación de %1$s. "</string>
     <string name="app_name">Instalador de paquetes</string>
-    <string name="app_non_put_on_the_shelf">No disponible</string>
     <string name="app_not_found_dlg_text">"La app no fue encontrada en la lista de apps instaladas."</string>
     <string name="app_not_found_dlg_title">App no encontrada</string>
     <string name="app_safe_check_tip">Método de verificación para instalación de aplicaciones con riesgos detectados:</string>
@@ -139,7 +138,6 @@
     <string name="dev_complaint_tiptext">"Contactaremos contigo en unos %d días hábiles después de presentar la apelación"</string>
     <string name="device_pad">Tablet</string>
     <string name="device_phone">Teléfono</string>
-    <string name="dialog_install_confirm_default">Instalar</string>
     <string name="dialog_install_source">Origen: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Entendido</string>
     <string name="dialog_security_mode_guide_cancel">Cancelar</string>
@@ -172,7 +170,6 @@
     <string name="face_authrioze_tips">De frente a la pantalla</string>
     <string name="face_unlock_be_on_the_screen">Mantén el dispositivo frente a tu cara</string>
     <string name="face_unlock_check_failed">"No se te reconoce"</string>
-    <string name="face_unlock_face_start_title">Verificando datos faciales…</string>
     <string name="face_unlock_not_found">"No se te reconoce"</string>
     <string name="face_unlock_open_eye">Abre los ojos un poco más</string>
     <string name="face_unlock_reveal_eye">Tus ojos deben ser visibles</string>
@@ -209,13 +206,11 @@
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="ignore_virus_install_text">Entiendo los riesgos posibles. %1$s</string>
     <string name="ignore_virus_install_text_clickable">Instalar de todos modos</string>
-    <string name="install">Instalar</string>
     <string name="install_abi_error">"Esta aplicación no es compatible con la arquitectura de 32 bits"</string>
     <string name="install_abi_error_des">Instala la versión de 32 bits de esta aplicación en su lugar</string>
     <string name="install_abi_error_des_market">Descarga la versión de 32 bits de esta aplicación desde GetApps</string>
     <string name="install_app_loading">Comprobando paquete de instalación…</string>
     <string name="install_completed_pure_open_tip_title">Activa Mi Protect para bloquear aplicaciones de riesgo y garantizar tu seguridad.</string>
-    <string name="install_package_description">&gt;Detalles del paquete de instalación</string>
     <string name="install_package_error">"Esta aplicación no es compatible con el dispositivo"</string>
     <string name="install_package_error_des">Contacta con el desarrollador o instala una versión compatible desde GetApps.</string>
     <string name="install_package_error_four">Instalar esta aplicación puede provocar riesgos de seguridad</string>
@@ -233,6 +228,8 @@
     <string name="item_view_role_description">Pestaña</string>
     <string name="label">Etiqueta</string>
     <string name="learn_more">Más información</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite de Android basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="lock_finger">Verifica la huella dactilar para instalar</string>
     <string name="lock_screen_authrioze_subtitle_password">Autorizar con bloqueo de pantalla</string>
     <string name="lock_screen_password_authrioze">Verifica el bloqueo de pantalla para instalar</string>
@@ -240,9 +237,6 @@
     <string name="lockscreen_access_pattern_cell_added">Celda añadida al patrón</string>
     <string name="lockscreen_access_pattern_cleared">Patrón eliminado</string>
     <string name="lockscreen_access_pattern_start">Patrón añadido</string>
-    <string name="login_to_install">Iniciar sesión para instalar</string>
-    <string name="login_to_install_des">Inicia sesión en tu cuenta Xiaomi para continuar con la instalación. También puedes cambiar tus preferencias de instalación en Ajustes &gt; Instalar aplicaciones de riesgo.</string>
-    <string name="login_xiaomi_account">Iniciar sesión</string>
     <string name="manage_device_administrators">Gestionar administradores del dispositivo</string>
     <string name="manage_users">Gestionar usuarios</string>
     <string name="material_clock_toggle_content_description">Selecciona AM o MP</string>
@@ -425,8 +419,6 @@
     <string name="open_app_install_safe_des">Verifica las aplicaciones para detectar posibles riesgos y problemas de seguridad antes de instalar</string>
     <string name="open_now">Activar</string>
     <string name="open_pure_mode_continue_install">Continuar</string>
-    <string name="open_pure_mode_sucess_toast">El modo Seguro activado. Los cambios se aplicarán durante la próxima instalación.</string>
-    <string name="open_to_pure_mode">Activar</string>
     <string name="passed_security_test">Ha pasado las pruebas de seguridad de Xiaomi</string>
     <string name="password_toggle_content_description">Mostrar la contraseña</string>
     <string name="password_wrong_msg">"No se pudo verificar. Inténtalo otra vez."</string>
@@ -517,7 +509,6 @@
     <string name="pure_introduction_title5">Protección antifraude</string>
     <string name="pure_mode_des">El modo Seguro se encarga de que cada aplicación instalada en el dispositivo haya superado las pruebas de seguridad de Xiaomi.</string>
     <string name="pure_mode_elderly_recommend_title">"Activar la protección para personas mayores de Mi Protect"</string>
-    <string name="pure_mode_give_up_protect">No, gracias</string>
     <string name="pure_mode_open_toast">Modo Seguro activado</string>
     <string name="pure_mode_tip_dialog_des">¿Permitir que complete la instalación?</string>
     <string name="pure_mode_tip_dialog_elderly_des">Para proteger tu privacidad y seguridad, Mi Protect está bloqueando la instalación de aplicaciones peligrosas o de orígenes desconocidos.</string>
@@ -558,7 +549,6 @@
     <string name="risk_close_tip_des">"Si desactivas esta función las aplicaciones que intentes instalar ya no se verificarán buscando problemas de seguridad y las aplicaciones de riesgo se instalarán directamente sin tu autorización. Tendremos que comprobar tu bloqueo de pantalla o tu huella dactilar si están configurados."</string>
     <string name="risk_install_already_open">Activado</string>
     <string name="risk_install_no_open">Desactivado</string>
-    <string name="rist_app_introduce">Sobre las aplicaciones de riesgo</string>
     <string name="safe_guard_title_text">Activa Mi Protect para tu seguridad y tranquilidad.</string>
     <string name="safe_guarding">"Estás protegido"</string>
     <string name="safe_guarding_close">Puedes desactivar Mi Protect aquí</string>
@@ -568,7 +558,6 @@
     <string name="safe_install_mode_settings_old">Modo seguro</string>
     <string name="safe_mode">Modo seguro</string>
     <string name="safe_mode_already_authorize">Permitido</string>
-    <string name="safe_mode_authorize_name">Instalada recientemente: %1$s</string>
     <string name="safe_mode_authorize_once_install">Permitir una vez</string>
     <string name="safe_mode_close_tip">Desactiva el modo seguro</string>
     <string name="safe_mode_close_tip_des">"Después de desactivar el modo seguro, no podrás saber si las aplicaciones que instalaste pasaron nuestras pruebas de seguridad. ¿Desactivalo?"</string>
@@ -592,16 +581,13 @@
     <string name="secure_verify_close_tip_des">"Si desactivas esta función, no se realizarán comprobaciones de seguridad en las aplicaciones y todas las aplicaciones se podrán descargar sin autorización. Verifica tu identidad para desactivarla."</string>
     <string name="secure_verify_close_title">Desactivando la verificación de seguridad</string>
     <string name="security_auth">Verifica tu identidad</string>
-    <string name="security_auth_msg">Verifica tu identidad</string>
     <string name="security_mode_close_feedback">Gracias por usar el modo Seguro</string>
     <string name="security_mode_close_tips_service_list_title">Mi Protect te ayuda:</string>
     <string name="security_mode_feedback_commit">Enviar</string>
     <string name="security_mode_feedback_multiple_choice">" (Selecciona todo lo que corresponda.)"</string>
     <string name="security_mode_feedback_reason">¿Por qué desactivas el modo Seguro?</string>
-    <string name="security_mode_feedback_reason_annoying">"Es irritante"</string>
     <string name="security_mode_feedback_reason_input_hint">Dinos lo que piensas</string>
     <string name="security_mode_feedback_reason_install">"No puedo instalar aplicaciones cuando está activado"</string>
-    <string name="security_mode_feedback_reason_invalid">"No hay diferencia entre activado y desactivado"</string>
     <string name="security_mode_feedback_reason_other">Otra</string>
     <string name="security_mode_feedback_submit_toast">Gracias por tu comentario</string>
     <string name="security_mode_feedback_tips">Dinos cómo podemos mejorar nuestros servicios</string>
@@ -800,9 +786,8 @@
     <string name="verify_account_default_title">Verifica tu identidad</string>
     <string name="verify_account_title">Verifica tu identidad</string>
     <string name="verify_and_install">Instalar</string>
+    <string name="verify_failed">La verificación ha fallado</string>
     <string name="verify_to_sure_close">Desactivado</string>
-    <string name="virus_install_confirm_cancel">Cancelar</string>
-    <string name="virus_install_confirm_install">Instalar</string>
     <string name="virus_safe_install_mode_security_tips">Si confías en esta aplicación, puedes autorizar su instalación en Ajustes &gt; Aplicaciones &gt; Modo Seguro.</string>
     <string name="virus_safe_install_mode_security_tips_pi">Si confía en esta aplicación, pulsa en Ajustes y selecciona \"Modo Seguro\" para autorizar su instalación.</string>
     <string name="virus_scanning">Comprobando…</string>
@@ -817,7 +802,6 @@
     <string name="welcome_to_security_mody">Te damos la bienvenida al modo Seguro</string>
     <string name="what_is_security_mode">¿Qué es el modo seguro?</string>
     <string name="xiaomi_account_risk">Contraseña de la cuenta Xiaomi</string>
-    <string name="xiaomi_account_verify">Inicia sesión en tu cuenta Xiaomi para continuar con la instalación.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>

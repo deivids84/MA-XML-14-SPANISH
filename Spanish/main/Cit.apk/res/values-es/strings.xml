@@ -48,6 +48,21 @@
     <string name="bottom_low_speaker_title">Prueba de woofer inferior</string>
     <string name="bottom_right_low_speaker">Prueba de woofer inferior derecho</string>
     <string name="bottom_speaker_title">Prueba del altavoz inferior</string>
+    <string name="cit_DP_check_summary">El cable tipo C a DP debe estar conectado durante el proceso de prueba</string>
+    <string name="cit_DP_in_start_test">Inserta el cable tipo C a DP para iniciar la prueba</string>
+    <string name="cit_DP_plug_err">"Cambio de conexión del dispositivo de detección 
+ Error de lectura del valor del nodo subyacente 
+ No se ha obtenido el valor"</string>
+    <string name="cit_DP_plug_fail">"Cambio de conexión del dispositivo de detección 
+ Error de lectura del valor del nodo subyacente 
+ Inserta el cable tipo C a DP para iniciar la prueba"</string>
+    <string name="cit_DP_plug_out_fail">"Cambio de conexión del dispositivo de detección 
+ Error de lectura del valor del nodo subyacente 
+ La prueba ha fallado
+"</string>
+    <string name="cit_DP_plug_pass">"Cambio de conexión del dispositivo de detección 
+ Lectura correcta del valor del nodo subyacente 
+ Observa si la pantalla es correcta y pulsa el botón correspondiente"</string>
     <string name="cit_accdata_second_sensor_check_title">Segundo acelerómetro</string>
     <string name="cit_accelermeter_second_cali_title">Segunda prueba de calibración del sensor de aceleración</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mover el dispositivo rápidamente en una dirección. Los valores de coordenadas X，Y，Z se muestran a continuación. (cuando el dispositivo está en movimiento: X representa la izquierda/derecha, y representa la parte delantera/atrás, z representa arriba y abajo).

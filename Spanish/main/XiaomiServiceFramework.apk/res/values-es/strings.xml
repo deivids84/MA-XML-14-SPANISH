@@ -39,12 +39,11 @@
 El ID del dispositivo debe ser un IMEI válido o una dirección MAC. Sin un ID de dispositivo, algunas de las funciones de la cuenta Xiaomi y Xiaomi Cloud no estarán disponibles."</string>
     <string name="error_device_id_title">"No se puede obtener un ID de dispositivo válido"</string>
     <string name="explain_send_sms_permission_button">Verificar</string>
-    <string name="explain_send_sms_permission_msg">Para activar %s, el Marco de Servicios Xiaomi enviará un SMS para verificar tu número de teléfono. Tu operador cobrará un SMS normal.</string>
+    <string name="explain_send_sms_permission_msg">Para activar %s, el Marco de Servicios Xiaomi enviará un SMS para verificar tu número de teléfono. El operador te cobrará un SMS normal.</string>
     <string name="explain_send_sms_permission_title">Verificar número de teléfono</string>
     <string name="pop_up_allow_notify_dialog">Permitir</string>
     <string name="pop_up_deny_notify_dialog">Denegar</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="size_unit_byte">%1$sB</string>
     <string name="size_unit_gigabyte">%1$sGB</string>
     <string name="size_unit_kilobyte">%1$sKB</string>
     <string name="size_unit_megabyte">%1$sMB</string>

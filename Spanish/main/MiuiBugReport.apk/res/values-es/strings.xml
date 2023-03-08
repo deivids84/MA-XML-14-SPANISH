@@ -43,7 +43,7 @@
     <string name="account_none_user_name">Ninguno</string>
     <string name="account_secure_info_pref_title">Información de cuenta</string>
     <string name="account_security_info_pref_title">Información de seguridad</string>
-    <string name="account_user_avatar">Foto de perfil</string>
+    <string name="account_user_avatar">Foto del perfil</string>
     <string name="account_user_avatar_from_album">Galería</string>
     <string name="account_user_avatar_from_camera">Cámara</string>
     <string name="account_user_base_info">Información básica</string>
@@ -612,7 +612,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="reply_successful">Contestó correctamente</string>
     <string name="report_miui">Notificar error</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Protegeremos su información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar su foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no acepta otorgar dichos permisos, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puede restringir los permisos o revocar su autorización en la Configuración."</string>
+    <string name="request_camera_permission_message">"Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar tu foto del perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no aceptas otorgar estos permisos, no podrás usar algunas funciones de la aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes cambiar los permisos y autorizacion en Ajustes."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"No se pudo verificar"</string>
     <string name="request_error_network">Ocurrió un error de red. Comprueba los ajustes de red e inténtalo otra vez.</string>

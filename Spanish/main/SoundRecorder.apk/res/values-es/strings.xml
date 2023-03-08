@@ -395,7 +395,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="recognition_error_code">Código de error: %d</string>
     <string name="recognition_error_download_cancel">Más tarde</string>
     <string name="recognition_error_download_data_msg">Descarga el motor de transcripción para que este servicio esté disponible. Se necesitan unos %d MB de datos móviles para ello.</string>
-    <string name="recognition_error_download_fail">"No se pudo descargar. Compruebe la conexión de red y vuelve a intentarlo."</string>
+    <string name="recognition_error_download_fail">"No se pudo descargar. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="recognition_error_download_msg">Descarga el motor de transcripción para que este servicio esté disponible.</string>
     <string name="recognition_error_download_ok">Descargar</string>
     <string name="recognition_error_download_title">No hay motor de transcripción</string>
@@ -462,6 +462,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="record_scenes_summaries_stereo_music">Graba a través de %d canales, escucha el sonido estéreo en los auriculares</string>
     <string name="record_scenes_summaries_stereo_voice">Coloca el micrófono más cerca del origen del sonido para una mayor calidad</string>
     <string name="record_scenes_summaries_voice">Coloca el micrófono más cerca del origen del sonido para una mayor calidad</string>
+    <string name="record_while_in_call_tip">"No se puede grabar durante una llamada"</string>
     <string name="recorder_record">Audio</string>
     <string name="recording">Grabando</string>
     <string name="recording_quality_high">Alta calidad</string>
@@ -475,12 +476,12 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="reg_error_audio_short">El archivo de audio es demasiado pequeño.</string>
     <string name="reg_error_business">"No se pudo transcribir el archivo. Reporta este error y vuelve a intentarlo."</string>
     <string name="reg_error_client">Ha ocurrido un error de datos de aplicaciones. Repórtalo y vuelve a intentarlo.</string>
-    <string name="reg_error_create_order">"No se pudo crear el pedido, inténtalo otra vez."</string>
-    <string name="reg_error_ifly_account">Ha ocurrido un error de cuenta, inténtalo otra vez.</string>
+    <string name="reg_error_create_order">"No se pudo crear el pedido. Inténtalo otra vez."</string>
+    <string name="reg_error_ifly_account">Ha ocurrido un error de cuenta. Inténtalo otra vez.</string>
     <string name="reg_error_price">Ha ocurrido un error en la estimación del precio. Repórtalo y vuelve a intentarlo.</string>
     <string name="reg_error_server">Ha ocurrido un error de servidor. Repórtalo y vuelve a intentarlo.</string>
-    <string name="reg_error_upload_audio">"No se pudo subir el archivo, inténtalo otra vez."</string>
-    <string name="reg_error_upload_order">"No se pudo subir, inténtalo otra vez."</string>
+    <string name="reg_error_upload_audio">"No se pudo subir el archivo. Inténtalo otra vez."</string>
+    <string name="reg_error_upload_order">"No se pudo subir. Inténtalo otra vez."</string>
     <string name="remind_settings_pref_title">Notificaciones</string>
     <string name="remove_icon_description_content">"Grabadora es una aplicación de sistema. No podrá administrar las grabaciones después de eliminar el acceso directo de la pantalla de inicio."</string>
     <string name="remove_icon_description_title">¿Eliminar \"Grabadora\" de la pantalla de inicio?</string>

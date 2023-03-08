@@ -46,7 +46,7 @@
     <string name="account_none_user_name">Ninguno</string>
     <string name="account_secure_info_pref_title">Información de cuenta</string>
     <string name="account_security_info_pref_title">Información de seguridad</string>
-    <string name="account_user_avatar">Foto de perfil</string>
+    <string name="account_user_avatar">Foto del perfil</string>
     <string name="account_user_avatar_from_album">Galería</string>
     <string name="account_user_avatar_from_camera">Cámara</string>
     <string name="account_user_base_info">Información básica</string>
@@ -1346,7 +1346,7 @@ Remite este código al supervisor."</string>
     <string name="upgrade_music_message">Las actualizaciones están listas. Reinicia para aplicarlas.</string>
     <string name="upload_error_log">Cargar registro</string>
     <string name="use_again">"No cancele"</string>
-    <string name="user_avatar_update_title">Cambiar foto de perfil</string>
+    <string name="user_avatar_update_title">Cambiar foto del perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_id_hint">Correo electrónico/Teléfono</string>
     <string name="usercenter_store_button_text">Canjear</string>

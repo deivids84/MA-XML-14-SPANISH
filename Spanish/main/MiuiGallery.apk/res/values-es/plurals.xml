@@ -252,10 +252,6 @@
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
     </plurals>
-    <plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d elementos</item>
-        <item quantity="one">%1$d elemento</item>
-    </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>

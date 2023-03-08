@@ -133,6 +133,8 @@
     <string name="cloud_drive_settings">Ajustes de Mi Drive</string>
     <string name="cloud_empty_hint_text">"Aquí aún no hay nada.
 Intenta mover archivos de tu dispositivo a Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"Aquí aún no hay nada.
+Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="cloud_guide_summary_text">Sincronizar automáticamente tus elementos con todos tus dispositivos</string>
     <string name="cloud_guide_title_text">Sincronizar con Mi Drive</string>
     <string name="cloud_permission_storage_desc">Para guardar fotos y documentos en tu dispositivo</string>
@@ -256,6 +258,9 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="exit">Salir</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string name="extend_service_setting">Servicios adicionales</string>
+    <string name="extend_service_summary">"Si desactivas este servicio, no podrás usar las funciones relacionadas con Mi Drive"</string>
+    <string name="extend_service_title">Administrar archivos de Mi Drive</string>
     <string name="extended_storage_file_can_not_open">"No se puede abrir el archivo. Cópialo al almacenamiento interno."</string>
     <string name="extract">Extraer</string>
     <string name="fab_menu_ball">Acciones rápidas</string>
@@ -828,6 +833,9 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="start_server">Iniciar</string>
     <string name="stay_awake_summary">"No permitir que la pantalla se suspenda mientras se use el FTP"</string>
     <string name="stay_awake_title">Mantener la pantalla activa</string>
+    <string name="stop_extend_service_dialog_confirm">Desactivar</string>
+    <string name="stop_extend_service_dialog_summary">"Si desactivas esta función, no podrás administrar los archivos almacenados en Mi Drive. ¿Desactivar?"</string>
+    <string name="stop_extend_service_dialog_tilte">Servicios adicionales</string>
     <string name="stop_server">Detener</string>
     <string name="storage_cloned_app">Almacenamiento para aplicaciones duales</string>
     <string name="storage_info_detail">Disponible: %1$s Total: %2$s</string>

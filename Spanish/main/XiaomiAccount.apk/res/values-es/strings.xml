@@ -65,7 +65,7 @@
     <string name="account_token_expired_msg">"El código de verificación ha caducado. Empieza otra vez o cierra la sesión.
  Tu ID de cuenta: %s"</string>
     <string name="account_token_expired_title">"No se pudo autentificar"</string>
-    <string name="account_user_avatar">Foto de perfil</string>
+    <string name="account_user_avatar">Foto del perfil</string>
     <string name="account_user_avatar_activity_not_found">"No se pudo abrir Galería"</string>
     <string name="account_user_avatar_from_album">Seleccione una foto</string>
     <string name="account_user_avatar_from_camera">Hacer una foto</string>
@@ -912,7 +912,7 @@ Remite este código al supervisor."</string>
     <string name="user_agreement_wifi_permission_title">Activar y desactivar Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Para comprobar el entorno de inicio de sesión en caso de problemas de seguridad</string>
     <string name="user_agreement_wlan_permission_title_china">Activar y desactivar Wi-Fi</string>
-    <string name="user_avatar_update_title">Cambiar foto de perfil</string>
+    <string name="user_avatar_update_title">Cambiar foto del perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_instruction_all_purpose">¡Te damos la bienvenida a la cuenta Xiaomi! Puedes usarla para acceder a los servicios de Xiaomi y sus empresas afiliadas, como Mi.com Xiaomi Cloud, y GetApps. Puedes obtener Mi Coins (monedas Mi), comprar bienes virtuales y disfrutar de los servicios de valor añadido, incluyendo juegos, temas y ebooks.</string>
     <string name="user_instruction_tip">Para poder iniciar sesión, lea y acepte los términos y condiciones.</string>

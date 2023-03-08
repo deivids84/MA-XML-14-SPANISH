@@ -118,7 +118,7 @@ Con este permiso desactivado, las alarmas existentes y los eventos basados en el
     <string name="app_process_limit_title">Límite de proceso en segundo plano</string>
     <string name="available_via_carrier">Disponible a través de %1$s</string>
     <string name="available_via_passpoint">Disponible a través de %1$s</string>
-    <string name="avatar_picker_title">Elige una foto de perfil</string>
+    <string name="avatar_picker_title">Elige una foto del perfil</string>
     <string name="b_negative">B negativo</string>
     <string name="b_positive">B positivo</string>
     <string name="back_navigation_animation">Animaciones de retroceso predictivas</string>

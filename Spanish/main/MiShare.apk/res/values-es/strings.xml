@@ -307,6 +307,7 @@ Antes de usar Mi Share, debes conceder los siguientes permisos, así como permit
     <string name="start_scan">INICIAR ESCANEO</string>
     <string name="stop_advertise">DEJAR DE PUBLICIDAD</string>
     <string name="stop_scan">PARAR ESCANEO</string>
+    <string name="sub_title_mishare_switch">Esta función se desactivará automáticamente después de %d minutos</string>
     <string name="success_receive_much_file_from_pc">Recibidos más de %2$d archivos de %1$s. Pulsa para verlos.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -365,15 +366,17 @@ Antes de usar Mi Share, debes conceder los siguientes permisos, así como permit
     <string name="tips_p2p_support_use5g_china">Para los mejores resultados, usa una red Wi-Fi de 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Reportar</string>
+    <string name="toast_auto_close_in_minutes">Mi Share finalizará después de %d minutos</string>
+    <string name="toast_transfering">Transferencia de elementos. Inténtalo, otra vez, más tarde.</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="transfer_intercept_to_remote">"No se pudo enviar: %1$s"</string>
     <string name="transfer_to_pc_summary">"La última versión del software AIoT instalada en Mi Notebooks es compatible con Mi Share. Puedes consultar la lista de modelos de portátiles soportados en el sitio web de MIUI. Si tu portátil está en la lista pero no tiene instalada AIoT, actualiza la BIOS y el adaptador de red. Después, descarga e instala AIoT."</string>
     <string name="transfer_to_pc_summary_new"><Data>La última versión de MIUI+ instalada en los Mi Notebooks es compatible con Mi Share. Puedes comprobar la lista de modelos portátiles soportados en la página web de MIUI+ (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Si tu portátil está en la lista, pero no tiene MIUI+ instalado, actualiza su BIOS y el adaptador de red. Después, descarga e instala MIUI+.</Data></string>
     <string name="transfer_to_pc_title">Enviar archivos a un ordenador</string>
-    <string name="transfer_to_phone_summary">"Activa Mi Share usando el interruptor en la Barra de notificaciones. Después de esto, podrás ver los dispositivos cercanos cuando comiences a compartir una foto o un archivo. Toca el dispositivo del destinatario para enviar el elemento que estás compartiendo."</string>
+    <string name="transfer_to_phone_summary_new">Activa Mi Share en el centro de control para enviar y recibir elementos fácilmente. Una vez activado, puedes compartirlos con dispositivos cercanos durante %d minutos antes de que se cierre automáticamente.</string>
     <string name="transfer_to_phone_title">Enviar archivos a teléfonos</string>
-    <string name="transfer_to_summary">"Activa Mi Share con el interruptor de la barra de Notificaciones. Después, podrás ver los dispositivos cercanos cuando comiences a compartir fotos o archivos. Pulsa en el dispositivo de destino para enviarle el elemento compartido."</string>
+    <string name="transfer_to_summary_new">Activa Mi Share en el centro de control para enviar y recibir elementos fácilmente. Una vez activado, puedes compartirlos con dispositivos cercanos durante %d minutos antes de que se cierre automáticamente.</string>
     <string name="transfer_to_title">Enviar archivos a un dispositivo móvil</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>

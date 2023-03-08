@@ -112,7 +112,7 @@
     <string name="delete_file_success">Borrado</string>
     <string name="delete_operation_record">¿Eliminar este registro?</string>
     <string name="delete_operation_record_timeout">"No se pudo borrar el registro. Espera un par de minutos e inténtalo otra vez."</string>
-    <string name="delete_record_only">"Los elementos a los que se refieren los registros seleccionados no serán eliminados."</string>
+    <string name="delete_record_only">Solo se eliminarán los registros seleccionados. No se eliminará ningún archivo.</string>
     <string name="delete_success">Eliminado correctamente</string>
     <string name="detail_download_path">"Ubicación: "</string>
     <string name="detail_download_time">"Descargado: "</string>
@@ -178,7 +178,7 @@
     <string name="exception_move_file_exist">"El elemento que estás moviendo ya está en la carpeta de destino"</string>
     <string name="exception_move_sub_path">"No se pueden mover elementos dentro de la misma carpeta"</string>
     <string name="exception_net_not_available">"No se pudo conectar a la red"</string>
-    <string name="exception_not_support_modify_for_overseas_user">"Esta función no está disponible fuera de China continental"</string>
+    <string name="exception_not_support_modify_for_overseas_user">"Esta opción solo está disponible en China continental"</string>
     <string name="exception_param_error">Ocurrió un error. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="exception_rename_conflict">"No se pudo cambiar el nombre. Ya existe un elemento con este nombre."</string>
     <string name="exception_rename_illegal_char">"Los nombres de archivo no pueden contener caracteres especiales"</string>
@@ -236,6 +236,7 @@
     <string name="load_metered_network_dialog_ok">Cargar</string>
     <string name="load_metered_network_dialog_title">Usando datos móviles</string>
     <string name="loading">Un momento…</string>
+    <string name="member_menu_vipname_extend_package">Añadir almacenamiento en la nube</string>
     <string name="member_menu_vipname_free">Gratuito</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Prima</string>
@@ -244,8 +245,8 @@
     <string name="micloud_space_duokan_detail">"Inicia Libro Electrónico en tu dispositivo y accede a Estantería &gt; Almacenamiento en la nube para administrar el espacio de almacenamiento.
 Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI."</string>
     <string name="micloud_space_duokan_title">Espacio de almacenamiento Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Inicia la Grabadora en tu dispositivo y selecciona la carpeta con los elementos almacenados en la nube.
-Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema MIUI."</string>
+    <string name="micloud_space_soundrecorder_detail">"Abre la aplicación Grabadora en tu dispositivo y selecciona la carpeta con los elementos almacenados en la nube.
+Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Grabaciones de audio</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
@@ -341,7 +342,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="no_recent_activity">No hay elementos recientes aquí</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">No establecido</string>
-    <string name="not_support_upload_file_for_overseas_users">"La carga no está disponible fuera de China continental"</string>
+    <string name="not_support_upload_file_for_overseas_users">"Esta opción solo está disponible en China continental"</string>
     <string name="notification_channel_remind">Recordatorios</string>
     <string name="notification_channel_service">Servicios</string>
     <string name="operation_copy">Copiar</string>
@@ -363,7 +364,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="operation_move">Mover</string>
     <string name="operation_rename">Renombrar</string>
     <string name="operation_save">Guardar</string>
-    <string name="operation_sure_to_delete">¿Eliminar?</string>
+    <string name="operation_sure_to_delete">¿Eliminar el historial?</string>
     <string name="operation_transport_success">Añadido a transferencias</string>
     <string name="operation_will_not_show_after_delete">El registro ya no aparecerá aquí si lo borra.</string>
     <string name="pause_all">Pausar todo</string>
@@ -435,7 +436,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="rename_success">Renombrado</string>
     <string name="request_permission_confirm">Entendido</string>
     <string name="request_permission_content">Mi Drive necesita acceso a las cuentas en este dispositivo para usar tu cuenta Xiaomi para iniciar sesión. El permiso para acceder y guardar archivos en tu dispositivo permitirá a Mi Drive obtener una vista previa, subir, descargar y sincronizar elementos.</string>
-    <string name="request_permission_content_with_phone_state">Para que pueda iniciar sesión con Mi Account, obtener una vista previa, cargar, descargar y sincronizar archivos, y buscar actualizaciones, Mi Drive requiere permisos para acceder a sus cuentas, fotos, archivos e IMEI.</string>
+    <string name="request_permission_content_with_phone_state">Para iniciar sesión con la cuenta Xiaomi, previsualizar, cargar, descargar y sincronizar archivos y para comprobar si hay actualizaciones, Mi Drive necesita permisos para acceder a tus cuentas, fotos, archivos e IMEI del dispositivo.</string>
     <string name="request_permission_title">Permisos requeridos</string>
     <string name="root_page_name">Mi unidad</string>
     <string name="saturday">Sábado</string>
@@ -467,7 +468,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="start_download">Comenzando a descargar…</string>
     <string name="start_upload">Comenzando a subir…</string>
     <string name="stay_tuned">Manténganse al tanto</string>
-    <string name="stay_tuned_sub_desc">Este servicio está disponible actualmente solo en China continental</string>
+    <string name="stay_tuned_sub_desc">Esta opción solo está disponible en China continental</string>
     <string name="storage_internal">Almacenamiento interno</string>
     <string name="storage_manage_list_title">Xiaomi Cloud</string>
     <string name="storage_manage_list_title_action">Más</string>

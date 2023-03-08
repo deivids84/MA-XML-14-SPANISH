@@ -159,7 +159,7 @@
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Información de cuenta</item>
-        <item>Ver tu foto de perfil y administrar la información de la cuenta</item>
+        <item>Ver la foto de tu perfil y administrar la información de la cuenta</item>
         <item>Información personal;foto de perfil;apodo;información de cuenta;Mi ID;ID;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_user_protocol">

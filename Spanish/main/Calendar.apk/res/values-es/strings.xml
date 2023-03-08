@@ -569,6 +569,7 @@ Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="partner_compatibility">Compatibilidad con tu pareja</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_calendar_settings">Aplicaciones del sistema/Calendario/Ajustes</string>
+    <string name="permission_denial">Conceder permisos para usar esta función</string>
     <string name="permission_description">Detalles de los permisos</string>
     <string name="picker_day">Día seleccionado: %1$d. Desliza verticalmente para seleccionar.</string>
     <string name="picker_month">Mes seleccionado: %1$d. Desliza verticalmente para seleccionar.</string>
@@ -603,6 +604,7 @@ Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="preferences_week_start_day_title">Inicio de la semana</string>
     <string name="prefsx_notify_sound_none">Silenciar</string>
     <string name="premission_description_log">Para guardar registros</string>
+    <string name="premission_description_notice">Para enviar notificaciones sobre eventos y festivos</string>
     <string name="premission_description_ringtone">Para configurar tonos de llamada</string>
     <string name="privacy_and_permissions">Privacidad y permisos</string>
     <string name="privacy_card_description">Acepta nuestra Política de Privacidad para acceder a todas las funciones.</string>
