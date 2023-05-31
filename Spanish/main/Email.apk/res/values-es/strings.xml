@@ -182,7 +182,6 @@ Prefijo de ruta"</string>
     <string name="allow_notify">Permitir notificaciones</string>
     <string name="always_bcc_myself">Siempre CCO auto</string>
     <string name="am">AM</string>
-    <string name="app_loading">Cargando…</string>
     <string name="app_name">Correo</string>
     <string name="appraise_des">¿Te gusta nuestra aplicación?</string>
     <string name="appraise_good">Sí</string>
@@ -243,12 +242,6 @@ Prefijo de ruta"</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">Exportar PDF</string>
     <string name="bottom_bar_more_pdf_exporting">Exportando…</string>
-    <string name="broker_helper_manifest">Filtro de intentos para AndroidManifest.xml</string>
-    <string name="broker_helper_package">Nombre del paquete para ingresar al registrar la aplicación</string>
-    <string name="broker_helper_redirect">Redirigir URI para el archivo json de configuración</string>
-    <string name="broker_helper_signature">Firma para ingresar al registrar la aplicación</string>
-    <string name="broker_helper_title">Información de URI de redireccionamiento de MSAL</string>
-    <string name="broker_processing">Broker está procesando</string>
     <string name="calendar_remind_dialog_title">Añadir al calendario</string>
     <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
     <string name="cancel">Cancelar</string>
@@ -550,11 +543,6 @@ Prefijo de ruta"</string>
     <string name="hide_password">Ocultar contraseña</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="how_to_login_icloud">Cómo iniciar la sesión en el correo iCloud</string>
-    <string name="http_auth_dialog_cancel">Cancelar</string>
-    <string name="http_auth_dialog_login">Iniciar sesión</string>
-    <string name="http_auth_dialog_password">Contraseña</string>
-    <string name="http_auth_dialog_title">Ingrese sus credenciales</string>
-    <string name="http_auth_dialog_username">Nombre de usuario</string>
     <string name="icloud_login_tips">Puedes crear una contraseña para tu correo iCloud aquí: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icon_content_description">Icono de diálogo</string>
@@ -900,8 +888,6 @@ Declinado:
     <string name="pdf_signature_manager_max_count">"No se pueden agregar más firmas. Elimine firmas antiguas para agregar nuevas."</string>
     <string name="pdf_signature_manager_title">Gestionar firmas</string>
     <string name="pdf_signature_select">Seleccionar firma</string>
-    <string name="pdf_viewer_actionbar_more_other">Otras aplicaciones</string>
-    <string name="pdf_viewer_actionbar_more_wps">Abrir en WPS</string>
     <string name="pdf_viewer_file_damage_toast">El archivo PDF está dañado. Verifique este archivo y vuelva a intentarlo.</string>
     <string name="pdf_viewer_new_email">Enviar</string>
     <string name="pdf_viewer_reply">Responder</string>

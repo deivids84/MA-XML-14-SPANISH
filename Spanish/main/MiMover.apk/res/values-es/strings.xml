@@ -97,6 +97,7 @@
     <string name="cancel_moving_dialog_message">¿Detener la importación ahora?</string>
     <string name="cancel_moving_dialog_title">Detener importación</string>
     <string name="cancel_tranfer">Cancelar</string>
+    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"Parece que el servicio de copia de seguridad del sistema es QQ Downloader. Desinstálalo y reinicia el dispositivo para usar Mi Mover."</string>
     <string name="cannot_use_mi_huanji_button">De acuerdo</string>
     <string name="cannot_use_mi_huanji_summary">Parece que MIUI está respaldando elementos ahora. Detén los respaldos en curso o reinicia tu dispositivo para que Mi Mover pueda iniciar la transferencia.</string>
     <string name="cannot_use_mi_huanji_title">"No se puede transferir ahora"</string>
@@ -165,8 +166,8 @@ https://appleid.apple.com/#!&amp;page=signin para apagar"</string>
     <string name="dialog_request_permission_message_buttom_content">Permitir a esta app conectarse a Internet y otorgar los permisos obligatorios listados arriba.</string>
     <string name="dialog_request_permission_message_extra_summary">Estos permisos son necesarios para realizar tareas y funciones básicas en la app.</string>
     <string name="dialog_request_permission_message_extra_title">Permisos obligatorios</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>Al mismo tiempo, para entender por completo tus derechos como usuario al igual de las maneras en las cuales nosotros usamos tus datos, lee y acepta nuestro <a href="%1s">Acuerdo de Usuario</a> y <a href="%2s">Política de Privacidad</a>.</Data></string>
-    <string name="dialog_request_permission_message_provision_link">Al mismo tiempo, para entender por completo tus derechos como usuario al igual de las maneras en las cuales nosotros usamos tus datos, lee y acepta nuestro %1$s y %2$s.</string>
+    <string name="dialog_request_permission_message_link" formatted="false"><Data>\"Permite que esta aplicación conecte a Internet y concede los permisos mencionados anteriormente. Además, para conocer tus derechos como usuario y la manera en que usamos tus datos, lee y acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.\"</Data></string>
+    <string name="dialog_request_permission_message_provision_link">Permite que esta aplicación conecte a Internet y concede los permisos mencionados anteriormente. Además, para conocer tus derechos como usuario, así como la manera en que usamos tus datos, lee y acepta nuestros %1$s y %2$s.</string>
     <string name="dialog_request_permission_title">Atención</string>
     <string name="dialog_tip_upgrade_summary">Parece que esta versión de Mi Mover es antigua. Actualiza Mi Mover a la versión más reciente para poder transferir archivos.</string>
     <string name="dialog_tip_upgrade_title">Actualizar Mi Mover</string>

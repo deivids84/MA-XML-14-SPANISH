@@ -612,6 +612,8 @@ Puede que esta información no se envíe con una conexión de red deficiente."</
     <string name="privacy_runtime_perm_contacts_title">Acceder y editar contactos</string>
     <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos del perfil del contacto</string>
     <string name="privacy_runtime_perm_external_storage_title">Acceso al almacenamiento</string>
+    <string name="privacy_runtime_perm_notification_desc">Para enviar notificaciones de Xiaomi Cloud</string>
+    <string name="privacy_runtime_perm_notification_title">Notificaciones</string>
     <string name="privacy_runtime_perm_phone_state_desc">Para acceder al número de teléfono y al estado del dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Acceder a la información del dispositivo</string>
     <string name="privacy_runtime_perm_sms_desc">Para sincronizar mensajes</string>

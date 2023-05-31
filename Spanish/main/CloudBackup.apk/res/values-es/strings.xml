@@ -57,6 +57,7 @@
     <string name="backup_failed_reason_app_usage_denied">Conceder los permisos necesarios para copias de seguridad</string>
     <string name="backup_failed_reason_cloud_space_not_enough">No queda suficiente almacenamiento en la nube para esta copia de seguridad. Actualiza tu plan o libera espacio de almacenamiento en la nube.</string>
     <string name="backup_failed_reason_disk_space_not_enough">No hay suficiente espacio de almacenamiento. Libera espacio primero.</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Conceder los permisos necesarios para copias de seguridad</string>
     <string name="backup_failed_reason_network_error">Comprueba los ajustes de la red e inténtalo otra vez</string>
     <string name="backup_finished_notification_content">Hacer copia de aplicaciones del escritorio, ajustes del sistema, etc.</string>
     <string name="backup_now">Hacer copia de seguridad ahora</string>
@@ -208,6 +209,8 @@ Envía este código al técnico."</string>
     <string name="dialog_btn_restore_skip">Restaurar más tarde</string>
     <string name="dialog_button_agree">Permitir</string>
     <string name="dialog_button_disagree">"No permitir"</string>
+    <string name="dialog_button_get_installed_apps_agree">Ajustes</string>
+    <string name="dialog_button_get_installed_apps_disagree">Cancelar</string>
     <string name="dialog_buy_cloud_space">Actualizar</string>
     <string name="dialog_cancel_backup_cancel">Cancelar</string>
     <string name="dialog_cancel_backup_confirm">Aceptar</string>
@@ -216,6 +219,8 @@ Envía este código al técnico."</string>
     <string name="dialog_cloud_space_not_enough">La copia de seguridad necesita %1$s de espacio libre en la nube. Actualiza tu plan de almacenamiento para poder hacer las copias.</string>
     <string name="dialog_content_cancel_backup">Los datos ya cargados se perderán si cancelas la copia de seguridad. ¿Cancelar de todos modos?</string>
     <string name="dialog_content_cancel_restore">Los datos ya restaurados se conservarán si cancelas la restauración. ¿Cancelar ahora?</string>
+    <string name="dialog_get_installed_apps_consent_message">Para hacer una copia de seguridad automática, concede permiso a esta aplicación, en Ajustes, para acceder a la lista de aplicaciones instaladas en el dispositivo y selecciona \"Permitir siempre\".</string>
+    <string name="dialog_get_installed_apps_consent_title">Permisos necesarios</string>
     <string name="dialog_msg_overwrite_backup">La copia de seguridad local es diferente a la realizada en Xiaomi Cloud. Si continúas, la copia actual borrará la anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Restaurar copias de seguridad requiere conectarse a Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
@@ -282,6 +287,10 @@ Envía este código al técnico."</string>
     <string name="loading_progress_num">Cargado %s%%</string>
     <string name="loading_user_backup">Cargando copias de seguridad…</string>
     <string name="managespace_delete_backup">Eliminar</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Cerrar</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Ajustes</string>
+    <string name="manual_request_permissions_dialog_description">"Si no concedes permisos para \"%s\", no recibirás notificaciones sobre copias de seguridad fallidas y otras acciones importantes. Puedes conceder este permiso en Ajustes."</string>
+    <string name="manual_request_permissions_dialog_title">Permisos necesarios</string>
     <string name="menu_item_managespace">Administrar espacio</string>
     <string name="menu_item_sort">Ordenar por</string>
     <string name="menu_item_sort_name">Nombre</string>
@@ -397,6 +406,11 @@ Envía este código al técnico."</string>
     <string name="remove_unfinished">Eliminando, inténtalo otra vez</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Puede hacer una copia de seguridad de datos de WeChat. Pulsa para saber más.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">Copia de seguridad de datos de WeChat</string>
+    <string name="request_notification_permission_dialog_confirm">De acuerdo</string>
+    <string name="request_permission_post_notification">Para enviar notificaciones sobre copias de seguridad en la nube</string>
+    <string name="request_permission_post_notification_title">Notificaciones</string>
+    <string name="request_permissions_dialog_description">Concede permisos para enviar notificaciones y recordatorios, para disfrutar de todos los servicios ofrecidos por la copia de seguridad de la nube.</string>
+    <string name="request_permissions_dialog_title">Permisos necesarios</string>
     <string name="restore_app_order_finish">Listo</string>
     <string name="restore_app_order_loading">Un momento…</string>
     <string name="restore_app_order_retry">Inténtalo otra vez</string>
@@ -466,6 +480,8 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="session_failed_disk_no_space_restore_detail">Se necesitan al menos %s para restaurar elementos.</string>
     <string name="session_failed_disk_no_space_title">Almacenamiento interno insuficiente. Borra el almacenamiento y vuelve a intentarlo.</string>
     <string name="session_failed_dist_no_space_btn_text">Limpiar almacenamiento</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Para hacer una copia de seguridad automática, concede permiso a esta aplicación, en Ajustes, para acceder a la lista de aplicaciones instaladas en el dispositivo y selecciona \"Permitir siempre\".</string>
+    <string name="session_failed_get_installed_apps_denied_title">Permisos necesarios</string>
     <string name="session_failed_no_server_response_title">"No se pudo conectar al servidor."</string>
     <string name="session_failed_override_detail">La copia de seguridad local es distinta a la de Xiaomi Cloud. Si continúas, la copia de seguridad actual sobrescribirá la anterior. ¿Sobrescribir?</string>
     <string name="session_failed_override_title">Sobrescribir copia de seguridad</string>

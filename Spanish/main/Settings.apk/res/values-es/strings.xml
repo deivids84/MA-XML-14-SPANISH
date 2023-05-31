@@ -6536,7 +6536,6 @@ Read and agree to %s before using this service."</string>
     <string name="picture_in_picture_title">Imagen en Imagen</string>
     <string name="pin_failed">Error al intentar desbloquear la tarjeta SIM con el código PIN</string>
     <string name="ping_test_label">Ejecutar prueba de ping</string>
-    <string name="placeholder_activity">*Esta es una actividad alternativa de marcador de posición temporal.</string>
     <string name="platform_compat_dashboard_summary">Activa o desactiva el cambio de compatibilidad de la aplicación</string>
     <string name="platform_compat_dashboard_title">Compatibilidad de aplicaciones</string>
     <string name="platform_compat_default_disabled_title">Cambios inhabilitados de manera predeterminada</string>
@@ -8456,6 +8455,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_app_enable_keyguard">Pantalla de bloqueo</string>
     <string name="status_bar_app_enable_message">Iconos</string>
     <string name="status_bar_carrier_settings_no_sim_card">No hay tarjeta SIM</string>
+    <string name="status_bar_icons_title">Iconos de la barra de estado</string>
     <string name="status_bar_settings">Notificaciones y barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Un momento…</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>

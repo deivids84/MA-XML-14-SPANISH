@@ -184,6 +184,9 @@
     <string name="noon">Mediodía</string>
     <string name="ok">OK</string>
     <string name="open">Activar</string>
+    <string name="operation_original">Comparar</string>
+    <string name="operation_redo">Rehacer</string>
+    <string name="operation_undo">Deshacer</string>
     <string name="pm">PM</string>
     <string name="refocus_discard_confirm_message">¿Guardar los cambios?</string>
     <string name="refocus_discard_negative_btn">Descartar</string>

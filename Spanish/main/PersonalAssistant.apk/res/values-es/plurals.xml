@@ -196,6 +196,10 @@
         <item quantity="other">%d paquetes entregados</item>
         <item quantity="one">%d paquete entregado</item>
     </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s monedas Mi</item>
+        <item quantity="one">%s moneda Mi</item>
+    </plurals>
     <plurals name="pa_shopping_page_product_delete_dialog_message">
         <item quantity="other">¿Eliminar %d elementos seleccionados?</item>
         <item quantity="one">¿Eliminar %d elemento seleccionado?</item>

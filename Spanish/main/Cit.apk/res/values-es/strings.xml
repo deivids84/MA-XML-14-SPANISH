@@ -48,6 +48,10 @@
     <string name="bottom_low_speaker_title">Prueba de woofer inferior</string>
     <string name="bottom_right_low_speaker">Prueba de woofer inferior derecho</string>
     <string name="bottom_speaker_title">Prueba del altavoz inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir hasta la mitad</string>
+    <string name="character_counter_content_description">Caracteres escritos %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido (%1$d de %2$d)</string>
+    <string name="chip_text">Ficha de texto</string>
     <string name="cit_DP_check_summary">El cable tipo C a DP debe estar conectado durante el proceso de prueba</string>
     <string name="cit_DP_in_start_test">Inserta el cable tipo C a DP para iniciar la prueba</string>
     <string name="cit_DP_plug_err">"Cambio de conexión del dispositivo de detección 
@@ -63,6 +67,16 @@
     <string name="cit_DP_plug_pass">"Cambio de conexión del dispositivo de detección 
  Lectura correcta del valor del nodo subyacente 
  Observa si la pantalla es correcta y pulsa el botón correspondiente"</string>
+    <string name="cit_USB3_2GEN1_check_summary">Los dispositivos compatibles USB3.2 GEN1 han de insertarse durante la prueba</string>
+    <string name="cit_USB3_2GEN1_check_title">USB3.2 GEN1</string>
+    <string name="cit_USB3_2_check_summary">Los dispositivos compatibles USB3.2 GEN1 han de insertarse durante la prueba</string>
+    <string name="cit_USB3_2_check_title">USB3.2</string>
+    <string name="cit_USB3_in_start_test">Inserta los dispositivos compatibles con %1$s e inicia la prueba</string>
+    <string name="cit_USB3_plug_fail">El dispositivo no soporta %1$s y la prueba ha fallado</string>
+    <string name="cit_USB3_plug_out_test_fail">"El dispositivo se ha retirado. La prueba ha fallado
+Puede que el equipo de prueba no admita %1$s. Se recomienda probar el equipo de sustitución"</string>
+    <string name="cit_USB3_plug_pass">%1$s pasada, retira los dispositivos</string>
+    <string name="cit_USB3_plug_re_plugin">"La prueba %1$s ha terminado. No la repitas"</string>
     <string name="cit_accdata_second_sensor_check_title">Segundo acelerómetro</string>
     <string name="cit_accelermeter_second_cali_title">Segunda prueba de calibración del sensor de aceleración</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mover el dispositivo rápidamente en una dirección. Los valores de coordenadas X，Y，Z se muestran a continuación. (cuando el dispositivo está en movimiento: X representa la izquierda/derecha, y representa la parte delantera/atrás, z representa arriba y abajo).
@@ -81,6 +95,7 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
 2. Pulsa el botón del obturador para hacer una foto
 3. El sistema guardará la foto automáticamente después de la captura
 4. La foto tomada debe aparecer en la pantalla. Pulsa Pass para completar la prueba."</string>
+    <string name="cit_camera_hardware_check">Detectando funciones del hardware de la cámara. Espera...</string>
     <string name="cit_camera_otp_download_title">Prueba de descarga de cámara OTP</string>
     <string name="cit_camera_rearsub">Prueba de subcámara en curso, espera....</string>
     <string name="cit_charger_test_tips_pd">El dispositivo actual necesita probar USB_PD</string>
@@ -102,6 +117,7 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
     <string name="cit_nfc_check_summary">"Por favor, haga clic en el botón para iniciar NFC y, a continuación, coloque la tarjeta en la parte superior de la parte posterior del dispositivo. 
 No apague la pantalla durante la prueba"</string>
     <string name="cit_nfc_check_tip">pon la tarjeta en la parte superior de la parte trasera del dispositivo</string>
+    <string name="cit_pixeworks_chip_check_title">Prueba de chip Pixeworks Iris 7</string>
     <string name="cit_proximity_data_check_summary">"Sensor de distancia infrarrojo: Cubra el sensor de distancia con la mano y, a continuación, deje libre el sensor. 
  Sensor de distancia ultrasónico: Por favor simule la acción de responder el dispositivo 
  Si el área de prueba inferior muestra un valor de 0.0 al acercarse, y un valor 5.0 se muestra cuando está lejos, la prueba es exitosa, de lo contrario la prueba falla."</string>
@@ -138,10 +154,14 @@ haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</s
     <string name="cit_uwb_calibrate_summary">Esta prueba está dedicada a los ingenieros de mantenimiento, por favor úsalo con precaución</string>
     <string name="cit_uwb_calibrate_title">Prueba de calibración UWB</string>
     <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el dispositivo está conectado actualmente. Confirme que la información resaltada en verde es correcta.</string>
+    <string name="clear_text_end_icon_content_description">Borrar el texto</string>
     <string name="close_third_color_led">cerrar led de tres colores</string>
     <string name="cold_light_title">Luz fría</string>
     <string name="edittextdisplay">¡Nuestra bienvenida a la herramienta sar!</string>
     <string name="edittextdisplayf">¡Se han limitado los permisos!</string>
+    <string name="enrollment_error_tip">Se activa la estrategia de control de huellas dactilares. Comprueba que las huellas estén claras y limpias, o sal de la prueba y empieza otra vez.</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar el menú desplegable</string>
     <string name="fod_check_start_error">"No se puede iniciar el programa de verificación del sensor
 Prueba fallida!"</string>
     <string name="fod_check_summary">"Instrucciones de prueba:
@@ -149,10 +169,57 @@ Prueba automática basada en el tipo de sensor
 Base el resultado de la prueba, haga clic en el botón de aprobar o suspender"</string>
     <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
     <string name="headset_plug_check_tip">Ahora reproduce la grabación y escucha los auriculares. Retíralos cuando termine la prueba</string>
+    <string name="icon_content_description">Icono del cuadro de diálogo</string>
+    <string name="item_view_role_description">Pestaña</string>
+    <string name="label">Etiqueta</string>
     <string name="main_mic_check_record_tip">Grabando, por favor diga algo al MIC en el principal del dispositivo</string>
+    <string name="material_clock_toggle_content_description">Selecciona AM o MP</string>
+    <string name="material_hour_selection">Selecciona la hora</string>
+    <string name="material_hour_suffix">"%1$s en punto"</string>
+    <string name="material_minute_selection">Selecciona los minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_slider_range_end">Final de intervalo,</string>
+    <string name="material_slider_range_start">Inicio de intervalo,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Cambia al modo reloj para establecer la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecciona la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia al modo texto para establecer la hora.</string>
     <string name="motor_calibration">Calibración del motor</string>
     <string name="mtb_tool_modem_cdma_manager">Administrador de caudal de CDMA</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
+    <string name="mtrl_chip_close_icon_content_description">Elimina %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
+    <string name="mtrl_picker_date_header_title">Seleccionar fecha</string>
+    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato no válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Desplazar al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera del intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha inicial – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Fecha final</string>
+    <string name="mtrl_picker_range_header_title">Seleccionar intervalo</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha de inicio – Fecha de final</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha final</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha inicial</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pulsa para cambiar a seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pulsa para cambiar a seleccionar un año</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="open_third_color_led">abrir led de tres colores</string>
+    <string name="password_toggle_content_description">Mostrar la contraseña</string>
     <string name="pop_camera">Cámara pop</string>
     <string name="pop_push_camera_test_summary">"Haga clic en el botón de cámara emergente para ver si la cámara sale
 Haga clic en el botón de cámara para ver si la cámara entra"</string>

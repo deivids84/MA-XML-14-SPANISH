@@ -259,14 +259,13 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="app_summary_2">Almacenar, administrar y editar fotos y videos en este dispositivo</string>
     <string name="apply">Aplicar</string>
     <string name="art_still_download_failed_for_notwork">"No se pudo descargar. Comprueba los ajustes de red e inténtalo otra vez."</string>
-    <string name="art_still_download_sdk_without_wifi_msg">"Parece que tu dispositivo no está conectado al Wi-Fi. ¿Descargar el plug-in utilizando datos móviles?"</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">"Looks like your device isn't connected to WLAN. Download the plug-in using mobile data?"</string>
     <string name="art_still_download_sdk_without_wifi_title">Descargar el plug-in \"Arte\"</string>
     <string name="art_still_load_data_fail">"No se pudo cargar los datos"</string>
     <string name="art_still_module_finish">Se ha descargado el plug-in \"Arte\"</string>
     <string name="art_still_module_loading">Descargando el plug-in \"Arte\"…</string>
     <string name="assistant_page_community">Comunidad</string>
     <string name="assistant_page_discovery">Descubrir</string>
+    <string name="assistant_page_image_printing">Imprimir</string>
     <string name="assistant_page_label">Recuerdos</string>
     <string name="assistant_page_server_error">Comprueba los ajustes de red</string>
     <string name="assistant_today_of_year_function_closed_tip">Activar</string>
@@ -490,7 +489,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cleaner_empty">Borrar todo</string>
     <string name="cleaner_empty_value_description">Todo parece estar bien</string>
     <string name="cleaner_photo_pick_delete_selected">Eliminar fotos seleccionadas</string>
-    <string name="cleaner_raw_action">Ver detalles</string>
+    <string name="cleaner_raw_action">Vista</string>
     <string name="cleaner_raw_description">Libera espacio de almacenamiento eliminando imágenes RAW de gran tamaño</string>
     <string name="cleaner_raw_title">Borrar archivos RAW</string>
     <string name="cleaner_scan_description">Optimizar elementos libera espacio de almacenamiento</string>
@@ -504,7 +503,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cleaner_screen_shot_action">Ver</string>
     <string name="cleaner_screen_shot_description">Elimina las capturas de pantalla que ya no necesites.</string>
     <string name="cleaner_screen_shot_title">Eliminar capturas de pantalla</string>
-    <string name="cleaner_similar_action">Ver detalles</string>
+    <string name="cleaner_similar_action">Vista</string>
     <string name="cleaner_similar_description">Eliminar fotos duplicadas</string>
     <string name="cleaner_similar_title">Fotos duplicadas</string>
     <string name="cleaner_size">Borrar elementos eliminados recientemente (%s)</string>
@@ -517,7 +516,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cleaner_stop_scan">Detener escaneo</string>
     <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s ocupado</string>
     <string name="cleaner_title">Limpiador</string>
-    <string name="cleaner_video_action">Ver detalles</string>
+    <string name="cleaner_video_action">Vista</string>
     <string name="cleaner_video_description">Eliminar vídeos que ocupan espacio de almacenamiento</string>
     <string name="cleaner_video_pick_delete_selected">Eliminar vídeos seleccionados</string>
     <string name="cleaner_video_title">Eliminar vídeos</string>
@@ -1224,6 +1223,7 @@ disponibles"</string>
     <string name="home_menu_camera">Mostrar solo elementos de la cámara</string>
     <string name="home_menu_cleaner">Liberar espacio</string>
     <string name="home_menu_collage">Collage</string>
+    <string name="home_menu_image_printing">@string/assistant_page_image_printing</string>
     <string name="home_menu_macarons">Viñeta mágica</string>
     <string name="home_menu_magic_matting">Recorte</string>
     <string name="home_menu_photo_movie">Clip</string>
@@ -1365,7 +1365,7 @@ disponibles"</string>
     <string name="loading_video_fail_sync_without_network">Conéctate a la red para descargar los metadatos</string>
     <string name="loading_video_fail_syncing">Espera hasta la descarga completa de los metadatos e inténtalo otra vez</string>
     <string name="loading_video_thumbnail">Descargando portada del vídeo…</string>
-    <string name="local_secret_tip">Con esta función activada, los elementos privados se sincronizan con la nube. Puedes cambiar tus preferencias en Ajustes &gt; Sincronizar con la nube &gt; Administrar álbumes sincronizados &gt; Álbumes privados.</string>
+    <string name="local_secret_tip">Puedes mantener los elementos privados del dispositivo no sincronizados con la nube. Cambia tus preferencias en Ajustes &gt; Sincronizar con la nube &gt; Administrar álbumes sincronizados.</string>
     <string name="login_and_enable_service">Iniciar sesión con la cuenta Xiaomi</string>
     <string name="login_by_local_phone_long_text">Iniciar sesión ahora</string>
     <string name="login_by_local_phone_short_text">Iniciar sesión</string>
@@ -1559,15 +1559,16 @@ para personalizar la Galería"</string>
     <string name="mishop_login_other">Otra cuenta</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -1648,7 +1649,7 @@ para personalizar la Galería"</string>
     <string name="mosaic_item_talkback_eraser">Eraser</string>
     <string name="motion_photo_enter">Disparo dinámico</string>
     <string name="motion_photo_play">Play</string>
-    <string name="move_to_other_albums_tip">¿Mover este álbum a Otros álbumes?</string>
+    <string name="move_to_other_albums_tip">¿Mover este álbum a \"Otros álbumes\"?</string>
     <string name="move_to_rubbish_albums_tip">¿Mover los elementos seleccionados a álbumes redundantes?</string>
     <string name="movie_add_disable">Puedes seleccionar hasta %d fotos</string>
     <string name="movie_audio_antiquity">Retro</string>
@@ -1715,6 +1716,7 @@ para personalizar la Galería"</string>
     <string name="multi_view_tip_sub_title">Separa o junta dos dedos para ajustar el tamaño de los elementos mostrados.</string>
     <string name="multi_view_tip_title">Acercarse y alejarse</string>
     <string name="must_pick_file">Seleccionar foto</string>
+    <string name="my_family">Mi casa</string>
     <string name="name_split">, </string>
     <string name="national_day">Día Nacional</string>
     <string name="nearby_share">Compartir con Nearby</string>
@@ -1822,7 +1824,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="operation_hide_time">Ocultar fechas</string>
     <string name="operation_in_process">Procesando…</string>
     <string name="operation_move">Mover</string>
-    <string name="operation_move_to_other_albums">Mover a otros álbumes</string>
+    <string name="operation_move_to_other_albums">Mover a \"Otros álbumes\"</string>
     <string name="operation_move_to_rubbish_albums">Mover a álbumes redundantes</string>
     <string name="operation_not_show_in_photos_tab">"No mostrar en Fotos"</string>
     <string name="operation_photo_rename">Renombrar</string>
@@ -1831,7 +1833,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="operation_projection">Proyectar</string>
     <string name="operation_remove_face">Eliminar</string>
     <string name="operation_remove_from_face_album">Eliminar del álbum</string>
-    <string name="operation_remove_from_other_albums">Mover desde otros álbumes</string>
+    <string name="operation_remove_from_other_albums">Eliminar de \"Otros álbumes\"</string>
     <string name="operation_remove_from_rubbish_albums">Restaurar</string>
     <string name="operation_remove_rubbish">Restaurar</string>
     <string name="operation_remove_secret">Eliminar del álbum privado</string>
@@ -1868,7 +1870,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="origin_video_name">vídeo</string>
     <string name="other_album">Otros álbumes</string>
     <string name="other_album_operation_move_to_rubbish_albums">Mover a álbumes redundantes</string>
-    <string name="other_album_operation_remove_from_other_albums">Eliminar de álbumes redundantes</string>
+    <string name="other_album_operation_remove_from_other_albums">Eliminar de \"Otros álbumes\"</string>
     <string name="other_settings">Ajustes adicionales</string>
     <string name="owner_album_subtitle">Compartido con %1$s personas</string>
     <string name="passport_access_denied">Acceso denegado</string>
@@ -2236,7 +2238,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="privacy_rejected_map_new">Retirada del consentimiento a la Declaración de intercambio de datos de terceros de Gallery Map</string>
     <string name="privacy_rejected_pos_btn">Retirar</string>
     <string name="privacy_share_album_confirm">Términos y condiciones</string>
-    <string name="privacy_share_album_confirm_detail">Los álbumes compartidos se mantienen mediante Xiaomi Cloud. Antes de usar esta característica, lee y acepta nuestro &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Acuerdo de Usuario&gt;&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="privacy_share_album_confirm_detail">Los álbumes compartidos funcionan a través de Xiaomi Cloud. Antes de usar esta función, lee y acepta nuestro &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="private_entry_lock_state_activated_text">Suelta para abrir la carpeta privada</string>
     <string name="private_entry_lock_state_enterd_text">Arrastra hacia abajo para abrir la carpeta privada</string>
     <string name="problem_feedback">Comentarios</string>
@@ -2297,7 +2299,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="remove_from_album_title">Eliminar de este álbum</string>
     <string name="remove_from_current_album">Eliminar de este álbum</string>
     <string name="remove_from_favorites_failed">"No se pudo eliminar de los favoritos"</string>
-    <string name="remove_from_other_albums_tip">¿Mover este álbum desde Otros álbumes?</string>
+    <string name="remove_from_other_albums_tip">¿Eliminar este álbum de \"Otros álbumes\"?</string>
     <string name="remove_from_secret_fail">"No se pudo eliminar del álbum privado"</string>
     <string name="remove_from_secret_failed_with_reason">"No se puede eliminar del álbum privado. %1$s."</string>
     <string name="remove_from_secret_successful">Eliminado del álbum privado</string>
@@ -2628,8 +2630,8 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="show_cloud_albumlist_summary">"Los nuevos elementos de los álbumes seleccionados no se cargarán en la nube después de que desactive la sincronización."</string>
     <string name="show_hidden_album_summary">Ver y gestionar álbumes ocultos</string>
     <string name="show_hidden_album_title">Ver álbumes ocultos</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Movido. Ir a otros álbumes para verlo</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido. Ir a álbumes para verlo</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Eliminado. Ahora puedes verlo entre \"Álbumes\".</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido. Ahora puedes verlo en \"Otros álbumes\".</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Se ha movido a los álbumes redundantes</string>
     <string name="show_nearby_photos">Mostrar fotos y vídeos cercanos</string>
     <string name="signature_dialog_clear">Borrar</string>
@@ -3185,6 +3187,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="user_alias_self">Yo mismo</string>
     <string name="user_avatar_update_title">Cambiar foto del perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
+    <string name="user_family">"La casa de %1$s"</string>
     <string name="user_name_phone_number">Número de teléfono</string>
     <string name="user_notice_identify_summary_format">&lt;Data&gt;Al usar este servicio, aceptas los &lt;a href=\"%1$s\"&gt;\"Términos de Servicio\"&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;\"Política de Privacidad\"&lt;/a&gt; de Xiaomi.&lt;/Data&gt;</string>
     <string name="user_notice_title">Términos y Condiciones</string>

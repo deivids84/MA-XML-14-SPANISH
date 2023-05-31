@@ -52,10 +52,6 @@
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundo</item>
     </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">Mira %s segundos más de vídeo para ganar puntos y canjear recompensas</item>
-        <item quantity="one">Mira %s segundo más de vídeo para ganar puntos y canjear recompensas</item>
-    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Volviendo a la página de inicio en %1$d segundos…</item>
         <item quantity="one">Volviendo a la página de inicio en %1$d segundo…</item>
@@ -142,14 +138,6 @@ Disponible solo hoy"</item>
         <item quantity="other">Mira %1$1d segundos de vídeo para ganar %2$2d puntos</item>
         <item quantity="one">Mira %1$1d segundos de vídeo para ganar %2$2d punto</item>
     </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">Has ganado %d puntoa. Sigue compartiendo para ganar más.</item>
-        <item quantity="one">Has ganado %d punto. Sigue compartiendo para ganar más.</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">Has ganado %d puntos. Mantén la suscripción para ganar más.</item>
-        <item quantity="one">Has ganado %d punto. Mantén la suscripción para ganar más.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
@@ -182,10 +170,6 @@ Disponible solo hoy"</item>
         <item quantity="other">Tamaño: %.2fKB</item>
         <item quantity="one">Tamaño: %.2fKB</item>
     </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
-    </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">%1$1d de %2$2d episodios disponibles</item>
         <item quantity="one">%1$1d de %2$2d episodio disponible</item>
@@ -214,14 +198,6 @@ Disponible solo hoy"</item>
         <item quantity="other">%d canciones</item>
         <item quantity="one">%d canción</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">"Compartido correctamente. Has ganado %d puntos. Reclámalos en el Centro de Puntos."</item>
-        <item quantity="one">"Compartido correctamente. Has ganado %d punto. Reclámalo en el Centro de Puntos."</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">"Suscrito correctamente. Has ganado %d puntos. Reclámalos en el Centro de Puntos."</item>
-        <item quantity="one">"Suscrito correctamente. Has ganado %d punto. Reclámalo en el Centro de Puntos."</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Tu contenido contiene elementos (%1$s) que violan los estándares de nuestra comunidad. Tu cuenta estará suspendida durante %2$d días hasta el %3$s.</item>
         <item quantity="one">Tu contenido contiene elementos (%1$s) que violan los estándares de nuestra comunidad. Tu cuenta estará suspendida durante %2$d día hasta el %3$s.</item>
@@ -233,14 +209,6 @@ Disponible solo hoy"</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">¿Eliminar ahora %s elementos?</item>
@@ -297,10 +265,6 @@ Disponible solo hoy"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Agregar hasta %d marcadores</item>
         <item quantity="one">Agregar hasta %d marcador</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">¿Ocultar %d archivos seleccionados?</item>
-        <item quantity="one">¿Ocultar %d archivo seleccionado?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s me gusta</item>

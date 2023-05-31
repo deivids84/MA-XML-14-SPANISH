@@ -245,7 +245,7 @@
     <string name="micloud_space_duokan_detail">"Inicia Libro Electrónico en tu dispositivo y accede a Estantería &gt; Almacenamiento en la nube para administrar el espacio de almacenamiento.
 Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI."</string>
     <string name="micloud_space_duokan_title">Espacio de almacenamiento Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Abre la aplicación Grabadora en tu dispositivo y selecciona la carpeta con los elementos almacenados en la nube.
+    <string name="micloud_space_soundrecorder_detail">"Abre la grabadora del dispositivo y selecciona la carpeta con los elementos almacenados en la nube.
 Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Grabaciones de audio</string>
     <string name="midnight">Noche</string>
@@ -370,10 +370,10 @@ Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI
     <string name="pause_all">Pausar todo</string>
     <string name="pause_download">En pausa</string>
     <string name="pause_upload">En pausa</string>
-    <string name="permission_account_desc">Acceder a todas las cuentas almacenadas en este dispositivo</string>
-    <string name="permission_account_desc_pad">Acceder a todas las cuentas almacenadas en el dispositivo</string>
-    <string name="permission_account_title">Cuentas</string>
-    <string name="permission_account_title_pad">Acceder a las cuentas</string>
+    <string name="permission_account_desc">Para acceder a la información de cuenta almacenada en el dispositivo</string>
+    <string name="permission_account_desc_pad">Para acceder a la información de cuenta almacenada en el dispositivo</string>
+    <string name="permission_account_title">Acceder a las cuentas del dispositivo</string>
+    <string name="permission_account_title_pad">Acceder a las cuentas del dispositivo</string>
     <string name="permission_accpeted">Concedido</string>
     <string name="permission_camera_desc">Tomar fotos y hacer videos</string>
     <string name="permission_camera_title">Cámara</string>
@@ -434,9 +434,26 @@ Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI
     <string name="rename_ext_confirm_dialog_desc">Cambiar el tipo de archivo puede hacer el archivo inutilizable</string>
     <string name="rename_file_select_error">"No se puede cambiar el nombre de varios elementos"</string>
     <string name="rename_success">Renombrado</string>
+    <string name="request_permission_account_state">Para proporcionar un inicio de sesión rápido a la cuenta Xiaomi</string>
     <string name="request_permission_confirm">Entendido</string>
-    <string name="request_permission_content">Mi Drive necesita acceso a las cuentas en este dispositivo para usar tu cuenta Xiaomi para iniciar sesión. El permiso para acceder y guardar archivos en tu dispositivo permitirá a Mi Drive obtener una vista previa, subir, descargar y sincronizar elementos.</string>
+    <string name="request_permission_content">Mi Drive necesita permiso para acceder a cuentas, fotos y archivos en el dispositivo y enviar notificaciones. Estos permisos se usarán para proporcionar un inicio de sesión rápido en la cuenta Xiaomi y previsualizar, cargar, descargar y sincronizar elementos.</string>
     <string name="request_permission_content_with_phone_state">Para iniciar sesión con la cuenta Xiaomi, previsualizar, cargar, descargar y sincronizar archivos y para comprobar si hay actualizaciones, Mi Drive necesita permisos para acceder a tus cuentas, fotos, archivos e IMEI del dispositivo.</string>
+    <string name="request_permission_external_storage">Acceso al almacenamiento del dispositivo</string>
+    <string name="request_permission_external_storage_desc">Para previsualizar, cargar, descargar y sincronizar elementos</string>
+    <string name="request_permission_manual_authorized">Ajustes</string>
+    <string name="request_permission_manual_desc">Se necesita el permiso: %s para usar algunas funciones. Puedes concederlo en Ajustes.</string>
+    <string name="request_permission_manual_title">Permisos necesarios</string>
+    <string name="request_permission_manual_unauthorized">Cancelar</string>
+    <string name="request_permission_post_notification">Notificaciones</string>
+    <string name="request_permission_post_notification_desc">Para enviar notificaciones de las cargas y descargas en Mi Drive</string>
+    <string name="request_permission_read_media_audio">Acceder a archivos de audio</string>
+    <string name="request_permission_read_media_audio_desc">Para previsualizar, cargar, descargar y sincronizar archivos de audio</string>
+    <string name="request_permission_read_media_aural">Para previsualizar, cargar, descargar y sincronizar archivos de audio</string>
+    <string name="request_permission_read_media_image">Acceder a las fotos</string>
+    <string name="request_permission_read_media_image_desc">Para previsualizar, cargar, descargar y sincronizar fotos</string>
+    <string name="request_permission_read_media_video">Acceder a los vídeos</string>
+    <string name="request_permission_read_media_video_desc">Para previsualizar, cargar, descargar y sincronizar vídeos</string>
+    <string name="request_permission_read_media_visual">Para previsualizar, cargar, descargar y sincronizar fotos y vídeos</string>
     <string name="request_permission_title">Permisos requeridos</string>
     <string name="root_page_name">Mi unidad</string>
     <string name="saturday">Sábado</string>

@@ -591,6 +591,8 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="operation_compress">Comprimir</string>
     <string name="operation_compressing">Comprimiendo…</string>
     <string name="operation_copy">Copiar</string>
+    <string name="operation_copy_clipboard">Copiar al portapapeles</string>
+    <string name="operation_copy_local">Copiar a carpeta</string>
     <string name="operation_create_folder">Crear carpeta</string>
     <string name="operation_create_folder_message">Introduce el nombre de la carpeta</string>
     <string name="operation_create_folder_name_conflict">"No se pudo crear la carpeta. Ya existe una con este nombre."</string>
@@ -662,6 +664,9 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="otg_data_transferring">"Transferencia de archivos… No desconecte el almacenamiento externo."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" ya existe. Pulsa para reemplazarlo con el nuevo archivo.</string>
+    <string name="pad">Tablet</string>
+    <string name="pad_homepage_tab_file_view_phone">Tablet</string>
+    <string name="pad_start_phone">Almacenamiento</string>
     <string name="partial_cancel_successful">"No se pudieron eliminar algunos archivos. El resto de los archivos han sido movidos a %s."</string>
     <string name="partial_delete_failure">"No se eliminaron algunos archivos. Inténtalo otra vez."</string>
     <string name="partial_encrypt_success">"Algunos archivos no se pudieron hacer privados. Inténtalo otra vez."</string>
@@ -911,6 +916,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="title_select_volume">Seleccionar carpeta</string>
     <string name="to_open">Ajustes</string>
     <string name="to_setting">Ajustes</string>
+    <string name="toast_copy_clipboard">Añadido al portapapeles</string>
     <string name="toast_file_not_can_read">No se ha encontrado ninguna aplicación para esta acción.</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>

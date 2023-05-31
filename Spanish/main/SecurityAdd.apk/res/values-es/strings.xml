@@ -308,6 +308,7 @@
     <string name="net_booster_expire_notification">La sesión de aumento de velocidad de red está a punto de terminar</string>
     <string name="net_booster_overdue_notification">La sesión de aumento de velocidad de red está a punto de terminar</string>
     <string name="net_booster_overdue_notification_tip">Ha finalizado la sesión de aumento de velocidad de red. Es posible que comiences a notar lentitud. ¿Renovar ahora?</string>
+    <string name="network_error">Se ha producido un error de la red.</string>
     <string name="network_not_available">"No se puede conectar a la red"</string>
     <string name="night">Tarde-noche</string>
     <string name="no_network">"No se puede conectar a la red"</string>
@@ -316,8 +317,20 @@
     <string name="not_set">Sin definir</string>
     <string name="ok_button">OK </string>
     <string name="open_browser">Abrir en el navegador</string>
+    <string name="page_load_failed">"No se puede abrir la página"</string>
     <string name="password_toggle_content_description">Cambiar la visibilidad de la contraseña</string>
     <string name="pc_activity_title">Optimizar batería</string>
+    <string name="pc_entered_extreme_mode">El modo hibernación está activado</string>
+    <string name="pc_entered_extreme_mode_summary">"El dispositivo está sin batería y ha entrado en hibernación. Las aplicaciones se ejecutarán en segundo plano y no enviarán notificaciones."</string>
+    <string name="pc_extreme_exit_and_power_off">Salir</string>
+    <string name="pc_extreme_mode_bg_toast">"En modo hibernación, las aplicaciones se ejecutan en segundo plano y no envían notificaciones"</string>
+    <string name="pc_extreme_mode_exit_risk_title">Atención</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">El dispositivo está sin batería. Si sales de la hibernación, se apagará.</string>
+    <string name="pc_extreme_mode_find_charger">Carga la batería lo antes posible.</string>
+    <string name="pc_extreme_mode_runtime">El modo hibernación ha estado activo durante %1$s %2$s.</string>
+    <string name="pc_extreme_mode_title">Modo hibernación</string>
+    <string name="pc_going_to_exit_extreme_mode">Saliendo del modo hibernación</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">La batería se está cargando. El modo hibernación está desactivado.</string>
     <string name="pm">PM</string>
     <string name="pm_lable_name">Acerca del acceso raíz</string>
     <string name="power_center_battery_duration_screen_on">Tiempo de pantalla restante</string>
@@ -326,6 +339,7 @@
     <string name="privacy_declare_dialog_title">Términos de Servicio</string>
     <string name="privacy_prompt_traffic_purchase_message">"Su número de teléfono y los detalles del operador serán cifrados y enviados a los servidores Mi para obtener más información acerca de las opciones de compra de datos."</string>
     <string name="renew_now">Renovar</string>
+    <string name="retry_action">Inténtalo otra vez</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -374,6 +388,7 @@
     <string name="superpower_date">EEEE, dd MMMM</string>
     <string name="superpower_dialog_app_select_content">Las aplicaciones de terceros normalmente consumen más energía que las aplicaciones del sistema. ¿Añadir de todas formas?</string>
     <string name="superpower_dialog_app_select_title">Atención</string>
+    <string name="superpower_dialog_button_ok">Aceptar</string>
     <string name="superpower_exit_hint">Desactivando el Ahorro de batería extremo…</string>
     <string name="superpower_incharging">Cargando</string>
     <string name="superpower_progress_battery_last">%s restante</string>

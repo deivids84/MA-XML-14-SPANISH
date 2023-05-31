@@ -107,6 +107,7 @@
     <string name="close">Cerrar</string>
     <string name="close_camera_failed">"No se pudo desactivar la cámara…"</string>
     <string name="close_camera_requesting">Desactivando cámara…</string>
+    <string name="cloud_video_conference">Videoconferencia en la nube</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
     <string name="conference_call_recorder_title">Llamada de conferencia</string>
     <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
@@ -164,7 +165,7 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
-    <string name="high_temperature_toast">En protección por temperatura excesiva. Función no disponible temporalmente</string>
+    <string name="high_temperature_toast">"El dispositivo está muy caliente. Ahora no puedes usar esta función."</string>
     <string name="inCallLabel">Teléfono</string>
     <string name="incall_bubble_hangup_click_hint">Pulsa otra vez para volver a la llamada</string>
     <string name="incall_call_type_label_sip">Llamada por Internet</string>

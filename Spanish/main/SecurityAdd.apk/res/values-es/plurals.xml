@@ -36,6 +36,14 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>

@@ -60,14 +60,6 @@
         <item quantity="other">Sonó %1$d veces</item>
         <item quantity="one">Sonó %1$d vez</item>
     </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d números de teléfono</item>
-        <item quantity="one">%d número de teléfono</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">¿Eliminar %d números de teléfono?</item>
-        <item quantity="one">¿Eliminar %d número de teléfono?</item>
-    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$d contactos o fotos no se han sincronizado"</item>
         <item quantity="one">"%1$d contacto o foto no se ha sincronizado"</item>
@@ -124,13 +116,13 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">"El SMS no puede tener más de %d destinatarios."</item>
+        <item quantity="one">"El SMS no puede tener más de %d destinatario."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d elementos</item>
-        <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactos</item>
@@ -215,10 +207,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d encontrados</item>
         <item quantity="one">%d encontrado</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s resultados</item>
-        <item quantity="one">%s resultado</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Selecciona no más de %1$d, no puedes seleccionar todos"</item>
