@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
-        <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d horas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,8 +25,8 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace 1 minuto</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d juegos añadidos</item>
@@ -307,6 +307,13 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Entendido (%ds)</item>
         <item quantity="one">Entendido (%ds)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"· Las imágenes mejoradas no estarán disponibles con el ahorro de batería activado o el dispositivo esté muy caliente.
+· La velocidad de fotogramas obtiene mejores resultados con el juego configurado para mostrar al menos %d fotogramas por segundo."</item>
+        <item quantity="one">"Nota:
+· Las imágenes mejoradas no estarán disponibles con el ahorro de batería activado o el dispositivo esté muy caliente.
+· La velocidad de fotogramas obtiene mejores resultados con el juego configurado para mostrar al menos %d fotograma por segundo."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"¡Prueba ahora el Modificador de voz
@@ -592,6 +599,10 @@ para obtener un prueba gratuita de %d días!"</item>
         <item quantity="other">%d aplicaciones</item>
         <item quantity="one">%d aplicación</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplicaciones, incluyendo %1$s, podrían ser maliciosas</item>
+        <item quantity="one">%2$d aplicación, incluyendo %1$s, podría ser maliciosa</item>
+    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d aplicaciones están drenando la batería</item>
         <item quantity="one">%d aplicación está drenando la batería</item>
@@ -707,6 +718,10 @@ para obtener un prueba gratuita de %d días!"</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimiza el uso de batería en %d escenarios</item>
+        <item quantity="one">Optimiza el uso de batería en %d escenario</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Solucionar %d problemas de uso de la batería</item>

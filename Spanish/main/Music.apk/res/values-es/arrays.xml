@@ -65,6 +65,15 @@
         <item>mujer</item>
         <item>grupo</item>
     </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0,50 x</item>
+        <item>0,75 x</item>
+        <item>1,00 x</item>
+        <item>1,25 x</item>
+        <item>1,50 x</item>
+        <item>2,00 x</item>
+    </string-array>
     <string-array name="passport_account_user_gender_name">
         <item>Hombre</item>
         <item>Mujer</item>

@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="about_to_recover">Un momento…</string>
-    <string name="access_denied_info">Demasiados intentos. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
@@ -45,7 +44,6 @@
     <string name="backup_action_buy_cloud_space">Obtener más espacio de almacenamiento</string>
     <string name="backup_action_check_network">Comprueba los ajustes de red</string>
     <string name="backup_action_clean_disk_space">Liberar espacio</string>
-    <string name="backup_action_long_time_not_auto_backup_title">Haz una copia de seguridad</string>
     <string name="backup_action_long_time_not_backup_action">Copia de seguridad</string>
     <string name="backup_action_long_time_not_backup_title">No hay copias de seguridad recientes</string>
     <string name="backup_action_no_space_with_wechat_off_content">No hay suficiente espacio de almacenamiento en la nube para realizar copias de seguridad de este dispositivo. Pulsa para ver las opciones de almacenamiento disponibles.</string>
@@ -169,7 +167,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_restore_from_other_device">"¿Detener la restauración de %s y eliminar esta copia de seguridad? Esta acción no se puede revertir."</string>
     <string name="cloud_restore_task">Restaurando…</string>
     <string name="cloud_task_in_process">"¿Detener %s y eliminar esta copia de seguridad? Esta acción no se puede revertir."</string>
-    <string name="collect_diagnosis_log">Recopilar diagnósticos</string>
     <string name="confirm_restore">Restaurar</string>
     <string name="confirm_restore_app_data">"WeChat ya está instalado. No es posible restaurar sus datos."</string>
     <string name="confirm_restore_summary">Tu pantalla de inicio volverá a inicarse. Las aplicaciones copiadas se descargarán automáticamente.</string>
@@ -189,17 +186,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">Esperando…</string>
     <string name="desktop_waiting">Esperando</string>
     <string name="device_delete_prompt">¿Eliminar la copia de seguridad de %s?</string>
-    <string name="diagnosis_log_send_failed">Error al enviar diagnósticos.</string>
-    <string name="diagnosis_log_sent_format">"Se han enviado los diagnósticos.
-ID:%s
-Envía este código al técnico."</string>
     <string name="dialog_app_usage_consent_message">Esta función necesita acceder a los datos de uso de la aplicación para estimar el tamaño de la copias de seguridad de WeChat.</string>
     <string name="dialog_app_usage_consent_title">Permitir el acceso a los datos de uso de la aplicación</string>
     <string name="dialog_app_usage_denied">Otorga permiso de copia de seguridad \"Acceso de uso\" en la configuración para hacer copias de seguridad.</string>
-    <string name="dialog_auto_backup_condition_normal_content">Para hacer copias de seguridad periódicas de todos los elementos importantes automáticamente, debes tener suficiente espacio de almacenamiento en la nube y este dispositivo debe estar bloqueado, con más de %s batería y conectado a Wi-Fi por la noche. También puedes hacer una copia manual en cualquier momento.</string>
-    <string name="dialog_auto_backup_condition_normal_content_china">Para hacer copias de seguridad periódicas de todos los elementos importantes automáticamente, debes tener suficiente espacio de almacenamiento en la nube y este dispositivo debe estar bloqueado, con más de %s batería y conectado a Wi-Fi por la noche. También puedes hacer una copia manual en cualquier momento.</string>
-    <string name="dialog_auto_backup_condition_normal_positive">Entendido</string>
-    <string name="dialog_auto_backup_condition_normal_title">Haz una copia de seguridad de tu contenido</string>
     <string name="dialog_backup_failed">"No se pudo realizar la copia de seguridad"</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
     <string name="dialog_btn_confirm2">Entendido</string>
@@ -271,7 +260,6 @@ Envía este código al técnico."</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
-    <string name="for_diagnosis_usage_only">Usa esta información solo para diagnóstico.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -369,8 +357,6 @@ Envía este código al técnico."</string>
     <string name="msg_restore_with_metered_network_hint">Si restauras estos elementos, se usarán datos móviles.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de archivos serán descargados."</string>
     <string name="network_error">Conectarse a la red</string>
-    <string name="network_error_info">Se ha producido un error de red. Comprueba los ajustes e inténtalo otra vez.</string>
-    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo otra vez."</string>
     <string name="night">Tarde-noche</string>
     <string name="no_account">No has iniciado sesión en tu cuenta Xiaomi.</string>
     <string name="no_backup">No hay copias de seguridad en Xiaomi Cloud.</string>
@@ -378,7 +364,6 @@ Envía este código al técnico."</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_channel_remind">Recordatorio</string>
     <string name="notification_channel_service">Servicio</string>
-    <string name="ok">Aceptar </string>
     <string name="open_backup_switch">Alternar el interruptor de copia de seguridad</string>
     <string name="other_device_main_space">Primer espacio</string>
     <string name="other_device_second_space">Segundo espacio</string>
@@ -387,7 +372,6 @@ Envía este código al técnico."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="process_whole_recovery">Restaurando \"%s\"</string>
-    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="provision_back">Atrás</string>
     <string name="provision_background_restore_more_data">Restaurar más elementos en segundo plano</string>
     <string name="provision_error_connect_msg">"Prueba la red e inténtalo otra vez. Las copias de seguridad no están disponibles si el dispositivo no está conectado."</string>
@@ -465,8 +449,6 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="self_device_main_space">Primer espacio</string>
     <string name="self_device_second_space">Segundo espacio</string>
     <string name="send">Enviar</string>
-    <string name="send_diagnosis_log">Enviar diagnósticos</string>
-    <string name="sending">Enviando…</string>
     <string name="session_action_btn_text_return_home">Pantalla de inicio</string>
     <string name="session_backup_apk_data_text">Copia de seguridad de los datos de WeChat…</string>
     <string name="session_backup_apk_text">Copia de seguridad del diseño de la pantalla de inicio y la configuración del sistema…</string>
@@ -517,8 +499,6 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="system_error_info">El sistema está ocupado. Espera un par de minutos e inténtalo otra vez.</string>
-    <string name="temporary_not_available">Temporalmente no disponible</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>
@@ -573,7 +553,6 @@ Comprueba la configuración e inténtalo otra vez."</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="unknown_error_info">Error desconocido</string>
     <string name="unselected">No seleccionado</string>
     <string name="unsupported_home">Actualizar MIUI a la última versión.</string>
     <string name="v7_preference_off">DESACTIVADA</string>

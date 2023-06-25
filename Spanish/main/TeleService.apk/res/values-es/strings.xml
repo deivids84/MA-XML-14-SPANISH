@@ -1550,8 +1550,10 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="preferred_network_type_pref_entries_4g_preferred">Preferir 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferir 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferir 4G</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_dtag">2G/3G/4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferir 5G</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_dtag">2G/3G/4G/5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G automático</string>
     <string name="preferred_network_type_pref_entries_auto">Automático</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>

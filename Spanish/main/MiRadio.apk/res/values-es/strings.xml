@@ -388,7 +388,7 @@ Remite este código al supervisor."</string>
     <string name="download_wait_connect">Esperando a conectarse</string>
     <string name="download_when_network_connected">Descargar cuando esté conectado a Internet</string>
     <string name="downloaded_empty">Vacío</string>
-    <string name="downloading_apk">Descargardo… Mira el progreso en el Panel de notificaciones.</string>
+    <string name="downloading_apk">Descargando… Comprueba el progreso en el panel de notificación.</string>
     <string name="downloading_apk_black_shark">Descargando… Vea el progreso en los archivos.</string>
     <string name="downloading_empty">Vacío</string>
     <string name="downloading_pause_apk">Pausado. Reanuda la descarga en el Panel de notificaciones.</string>

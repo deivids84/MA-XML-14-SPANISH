@@ -48,6 +48,10 @@
         <item quantity="other">"No se pudieron descargar %1$d elementos"</item>
         <item quantity="one">"No se pudo descargar %1$d elemento"</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Esperando para descargar. %1$s archivos restantes.</item>
+        <item quantity="one">Esperando para descargar. %1$s archivo restante.</item>
+    </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Descargando… quedan %1$d elementos (%2$s%%)</item>
         <item quantity="one">Descargando… queda %1$d elemento (%2$s%%)</item>
@@ -123,6 +127,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"No se pudieron subir %1$d elementos"</item>
         <item quantity="one">"No se pudo subir %1$d elemento"</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Esperando para subir. %1$s archivos restantes.</item>
+        <item quantity="one">Esperando para subir. %1$s archivo restante.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Subiendo... quedan %1$d elementos (%2$s%%)</item>

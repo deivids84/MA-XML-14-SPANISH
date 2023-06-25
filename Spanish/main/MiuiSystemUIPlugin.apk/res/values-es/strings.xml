@@ -95,7 +95,7 @@
     <string name="controls_edit_added_subtitle">Arrastra los elementos para reorganizarlos</string>
     <string name="controls_edit_added_title">Añadido</string>
     <string name="controls_edit_done_button">Hecho</string>
-    <string name="controls_edit_go_to_app_guide">Abrir</string>
+    <string name="controls_edit_go_to_app_guide">Abrir %s</string>
     <string name="controls_edit_not_added_title">Disponible</string>
     <string name="controls_edit_panel_not_added_title">Dispositivos disponibles</string>
     <string name="controls_edit_panel_save_button">Listo</string>
@@ -141,6 +141,7 @@
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="drag_to_add_tiles">Mantén presionado para agregar o reorganizar elementos</string>
     <string name="early_morning">Mañana</string>
+    <string name="emergency_call">Llamada de emergencia</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Error</string>
@@ -363,15 +364,6 @@
     <string name="quick_settings_mute_label">Silenciar</string>
     <string name="quick_settings_nightmode_label">Modo oscuro</string>
     <string name="quick_settings_papermode_label">Modo lectura</string>
-    <string name="quick_settings_pcmode_cancel_button">Cancelar</string>
-    <string name="quick_settings_pcmode_dialog_message_turnoff">Desactivar Modo PC</string>
-    <string name="quick_settings_pcmode_dialog_message_turnon">Activar Modo PC</string>
-    <string name="quick_settings_pcmode_dialog_remember_text">"No mostrar otra vez"</string>
-    <string name="quick_settings_pcmode_error">"No se pudo encontrar esta aplicación. Instálelo primero."</string>
-    <string name="quick_settings_pcmode_label">Modo PC</string>
-    <string name="quick_settings_pcmode_ok_button">OK</string>
-    <string name="quick_settings_pcmode_turn_off_description">"La pantalla de tu dispositivo se mostrará en el monitor externo. ¿Desactivar el Modo PC?"</string>
-    <string name="quick_settings_pcmode_turn_on_description">"La pantalla de tu ordenador se mostrará en el monitor externo. ¿Activar el Modo PC?"</string>
     <string name="quick_settings_powermode_label">Modo rendimiento</string>
     <string name="quick_settings_quietmode_label">No molestar</string>
     <string name="quick_settings_rotationlock_label">Desactivar rotación</string>
@@ -445,6 +437,7 @@ La exposición prolongada a sonidos fuertes puede causar problemas de audición.
     <string name="sunday_shortest">Dom</string>
     <string name="switch_bar_off">Desactivado</string>
     <string name="switch_bar_on">Activado</string>
+    <string name="system_update">Actualización del sistema</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>

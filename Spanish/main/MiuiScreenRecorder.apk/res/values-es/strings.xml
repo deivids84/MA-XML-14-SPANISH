@@ -32,7 +32,7 @@
     <string name="am">AM</string>
     <string name="app_name">Grabadora de pantalla</string>
     <string name="app_notification_channel_record_complete">Notificaciones sobre grabaciones terminadas</string>
-    <string name="app_notification_info">Grabadora de pantalla se está ejecutando en segundo plano</string>
+    <string name="app_notification_info">Grabando la pantalla…</string>
     <string name="app_notification_record_saved">"La grabación se ha guardado
 Pulsa para verla"</string>
     <string name="app_notification_title">Grabadora de pantalla</string>

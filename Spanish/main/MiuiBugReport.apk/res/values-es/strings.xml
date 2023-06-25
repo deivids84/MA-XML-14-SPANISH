@@ -469,6 +469,7 @@ Remite este código al supervisor."</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
+    <string name="net_daig_network_repair">Reparación de red</string>
     <string name="net_diag_cancel">Cancelar</string>
     <string name="net_diag_continue">Continuar</string>
     <string name="net_diag_dialog_msg">Probar la red te ayudará a detectar problemas y mejorar tu conexión.</string>
@@ -483,9 +484,15 @@ Remite este código al supervisor."</string>
     <string name="net_diag_entry_network_protocol">Protocolo de la red</string>
     <string name="net_diag_entry_network_rssi">Calidad de la señal</string>
     <string name="net_diag_entry_router_topology">Enrutado de la red</string>
+    <string name="net_diag_fix_guide_window_msg">Ocurrió un error de la red. Pulsa para intentarlo otra vez.</string>
+    <string name="net_diag_fixing">Reparando la red. Puede tardar un minuto.</string>
     <string name="net_diag_header_internet">Internet</string>
     <string name="net_diag_header_router">Router</string>
     <string name="net_diag_header_this_device">Este dispositivo</string>
+    <string name="net_diag_repair_msg">Durante el proceso, se desconectará el Wi-Fi y se volverá a conectar. ¿Reparar?</string>
+    <string name="net_diag_repair_msg_china">Durante el proceso, se desconectará el Wi-Fi y se volverá a conectar. ¿Reparar?</string>
+    <string name="net_diag_repair_static_ip_msg">Los ajustes de la red pueden restablecerse durante el proceso. ¿Reparar?</string>
+    <string name="net_diag_repair_title">¿Reparar la red?</string>
     <string name="net_diag_title">Probar la red</string>
     <string name="net_diag_toast_cellular_data">Para probar la red, desactiva los datos móviles.</string>
     <string name="net_diag_toast_other_networks">Para probar la red, conecta a Wi-Fi y desconecta de cualquier otra red.</string>

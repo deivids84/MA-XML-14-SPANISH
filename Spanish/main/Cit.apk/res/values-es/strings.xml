@@ -42,16 +42,13 @@
     <string name="auto_frontflash_title">Prueba de flash de la cámara frontal</string>
     <string name="auto_rearflash_description">Si todas las luces de flash trasero están encendidas pulsa Pasar, de lo contrario pulsa Fallar</string>
     <string name="auto_rearflash_title">Prueba de flash de la cámara trasera</string>
+    <string name="aux_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="back_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte trasera del dispositivo</string>
     <string name="battery_third_connector">Voltaje del conector de la batería</string>
     <string name="bottom_high_speaker_title">Prueba de tweeter inferior</string>
     <string name="bottom_low_speaker_title">Prueba de woofer inferior</string>
     <string name="bottom_right_low_speaker">Prueba de woofer inferior derecho</string>
     <string name="bottom_speaker_title">Prueba del altavoz inferior</string>
-    <string name="bottomsheet_action_expand_halfway">Expandir hasta la mitad</string>
-    <string name="character_counter_content_description">Caracteres escritos %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido (%1$d de %2$d)</string>
-    <string name="chip_text">Ficha de texto</string>
     <string name="cit_DP_check_summary">El cable tipo C a DP debe estar conectado durante el proceso de prueba</string>
     <string name="cit_DP_in_start_test">Inserta el cable tipo C a DP para iniciar la prueba</string>
     <string name="cit_DP_plug_err">"Cambio de conexión del dispositivo de detección 
@@ -84,9 +81,17 @@ Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
     <string name="cit_audio_hw_check_summary">Prueba de verificación del hardware de audio</string>
     <string name="cit_audio_hw_check_tips">Ejecutando prueba</string>
     <string name="cit_audio_hw_check_title">Probar el hardware de audio</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">Prueba de retroalimentación del micrófono posterior</string>
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Prueba de retroalimentación del micrófono posterior al receptor.
+
+Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prueba de retroalimentación del micrófono principal al receptor.
 
 Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micrófono principal, debería escuchar la voz del receptor"</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Prueba de retroalimentación del micrófono superior al receptor.
+
+Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Prueba de retroalimentación del microfono superior</string>
     <string name="cit_batterylight_rgb_all">Todos los efectos de luz</string>
     <string name="cit_calibration_finish">Calibración de datos completada</string>
     <string name="cit_camera_check_summary">"Intrucciones para la prueba:
@@ -107,6 +112,16 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
     <string name="cit_digital_hall_sensor_check_title">Prueba de Digital Hall</string>
     <string name="cit_emergencycall_check_summary">Haga clic en el botón Marcar 112 para marcar el 112 y comprobar si se puede colocar el 112.</string>
     <string name="cit_emergencycall_check_title">Llamada de emergencia</string>
+    <string name="cit_esim_check_summary">A continuación se muestra el estado de eSIM. La visualización correcta de su estado indica que la prueba ha pasado</string>
+    <string name="cit_esim_check_title">Tarjeta eSIM</string>
+    <string name="cit_esim_eid_error">No se cumple el eID</string>
+    <string name="cit_esim_eid_number">eID:</string>
+    <string name="cit_esim_mode_general_summary">Soporte de conmutación eSIM / SIM2</string>
+    <string name="cit_esim_mode_number">Modo eSIM:</string>
+    <string name="cit_esim_mode_single_summary">No hay soporte de conmutación eSIM / SIM2</string>
+    <string name="cit_esim_serial_number">Tarjeta eSIM :</string>
+    <string name="cit_esim_state_absent">Tarjeta eSIM no activada</string>
+    <string name="cit_esim_state_ready">Tarjeta eSIM activada</string>
     <string name="cit_front_camera_motor_cali_fail">Falló la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_success">Éxito en la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_tips">No bloquee la cámara durante el proceso de calibración del motor de la cámara emergente</string>
@@ -114,6 +129,7 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
     <string name="cit_gyroscope_second_cali_title">Segunda prueba de calibración del sensor del giroscopio</string>
     <string name="cit_ispv3_test">Prueba ISPv3</string>
     <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, por favor pruebe el sensor de luz</string>
+    <string name="cit_modem_hardware_title">Prueba de hardware del módem</string>
     <string name="cit_nfc_check_summary">"Por favor, haga clic en el botón para iniciar NFC y, a continuación, coloque la tarjeta en la parte superior de la parte posterior del dispositivo. 
 No apague la pantalla durante la prueba"</string>
     <string name="cit_nfc_check_tip">pon la tarjeta en la parte superior de la parte trasera del dispositivo</string>
@@ -134,6 +150,9 @@ Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejempl
     <string name="cit_tool_wlan_circular_capture">Captura circular</string>
     <string name="cit_tool_wlan_clear">limpiar</string>
     <string name="cit_tool_wlan_export">Exportar</string>
+    <string name="cit_tool_wlan_rxbe_test">Rx: está</string>
+    <string name="cit_tool_wlan_tx_be">Tx: está</string>
+    <string name="cit_tool_wlan_tx_be_gI">Intervalo de guardia:</string>
     <string name="cit_tool_wlan_update_ap_list">Actualizar Lista AP</string>
     <string name="cit_touch_auto_main_tips">Autoprueba de la pantalla de inicio en curso, no toque la pantalla</string>
     <string name="cit_touch_auto_operate_expand_screen_tips">Primero expanda la pantalla y luego realice la autocomprobación de la pantalla principal</string>
@@ -154,14 +173,11 @@ haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</s
     <string name="cit_uwb_calibrate_summary">Esta prueba está dedicada a los ingenieros de mantenimiento, por favor úsalo con precaución</string>
     <string name="cit_uwb_calibrate_title">Prueba de calibración UWB</string>
     <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el dispositivo está conectado actualmente. Confirme que la información resaltada en verde es correcta.</string>
-    <string name="clear_text_end_icon_content_description">Borrar el texto</string>
     <string name="close_third_color_led">cerrar led de tres colores</string>
     <string name="cold_light_title">Luz fría</string>
     <string name="edittextdisplay">¡Nuestra bienvenida a la herramienta sar!</string>
     <string name="edittextdisplayf">¡Se han limitado los permisos!</string>
     <string name="enrollment_error_tip">Se activa la estrategia de control de huellas dactilares. Comprueba que las huellas estén claras y limpias, o sal de la prueba y empieza otra vez.</string>
-    <string name="error_icon_content_description">Error</string>
-    <string name="exposed_dropdown_menu_content_description">Mostrar el menú desplegable</string>
     <string name="fod_check_start_error">"No se puede iniciar el programa de verificación del sensor
 Prueba fallida!"</string>
     <string name="fod_check_summary">"Instrucciones de prueba:
@@ -169,57 +185,11 @@ Prueba automática basada en el tipo de sensor
 Base el resultado de la prueba, haga clic en el botón de aprobar o suspender"</string>
     <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
     <string name="headset_plug_check_tip">Ahora reproduce la grabación y escucha los auriculares. Retíralos cuando termine la prueba</string>
-    <string name="icon_content_description">Icono del cuadro de diálogo</string>
-    <string name="item_view_role_description">Pestaña</string>
-    <string name="label">Etiqueta</string>
-    <string name="main_mic_check_record_tip">Grabando, por favor diga algo al MIC en el principal del dispositivo</string>
-    <string name="material_clock_toggle_content_description">Selecciona AM o MP</string>
-    <string name="material_hour_selection">Selecciona la hora</string>
-    <string name="material_hour_suffix">"%1$s en punto"</string>
-    <string name="material_minute_selection">Selecciona los minutos</string>
-    <string name="material_minute_suffix">%1$s minutos</string>
-    <string name="material_slider_range_end">Final de intervalo,</string>
-    <string name="material_slider_range_start">Inicio de intervalo,</string>
-    <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">Cambia al modo reloj para establecer la hora.</string>
-    <string name="material_timepicker_hour">Hora</string>
-    <string name="material_timepicker_minute">Minuto</string>
-    <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">Selecciona la hora</string>
-    <string name="material_timepicker_text_input_mode_description">Cambia al modo texto para establecer la hora.</string>
+    <string name="main_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="motor_calibration">Calibración del motor</string>
     <string name="mtb_tool_modem_cdma_manager">Administrador de caudal de CDMA</string>
-    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
-    <string name="mtrl_chip_close_icon_content_description">Elimina %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
-    <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
-    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
-    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
-    <string name="mtrl_picker_confirm">Aceptar</string>
-    <string name="mtrl_picker_date_header_title">Seleccionar fecha</string>
-    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
-    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
-    <string name="mtrl_picker_invalid_format">Formato no válido.</string>
-    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Desplazar al año %1$s</string>
-    <string name="mtrl_picker_out_of_range">Fuera del intervalo: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Fecha inicial – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Fecha final</string>
-    <string name="mtrl_picker_range_header_title">Seleccionar intervalo</string>
-    <string name="mtrl_picker_range_header_unselected">Fecha de inicio – Fecha de final</string>
-    <string name="mtrl_picker_save">Guardar</string>
-    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha final</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha inicial</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo calendario</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Pulsa para cambiar a seleccionar un día</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo entrada de texto</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Pulsa para cambiar a seleccionar un año</string>
-    <string name="mtrl_timepicker_confirm">Aceptar</string>
     <string name="open_third_color_led">abrir led de tres colores</string>
-    <string name="password_toggle_content_description">Mostrar la contraseña</string>
+    <string name="password_enroll_error">El dispositivo tiene contraseña. No puede registrar información de huella digital</string>
     <string name="pop_camera">Cámara pop</string>
     <string name="pop_push_camera_test_summary">"Haga clic en el botón de cámara emergente para ver si la cámara sale
 Haga clic en el botón de cámara para ver si la cámara entra"</string>
@@ -227,6 +197,7 @@ Haga clic en el botón de cámara para ver si la cámara entra"</string>
     <string name="push_camera">Empuje la cámara</string>
     <string name="radio_info_data_connected">Conectado</string>
     <string name="radio_info_data_disconnected">Desconectado</string>
+    <string name="remove_finger">Eliminar el dedo de prueba</string>
     <string name="sar_algo_data_check_description">Recopilación de datos Sar Algo</string>
     <string name="sar_mtk_test_title">Prueba de autenticación Sar Mtk</string>
     <string name="sar_sensor_collect_data_self_cali">Autocalibración</string>
@@ -242,6 +213,7 @@ Después de calibrar con éxito, controle el dispositivo cerca y alejado del dis
     <string name="sidebottom_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="sidetop_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte superior del dispositivo</string>
     <string name="soft_light_title">Luz suave</string>
+    <string name="test_aux_mic">MICRÓFONO AUXILIAR</string>
     <string name="test_sidebottom_mic">Micrófono inferior</string>
     <string name="test_sidetop_mic">Micrófono superior</string>
     <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>

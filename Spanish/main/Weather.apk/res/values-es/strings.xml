@@ -34,7 +34,7 @@
     <string name="abrupt_weather_settings_title">Aviso de tiempo inusual</string>
     <string name="act_find_city_hint">Introducir ubicación</string>
     <string name="act_find_city_hot_city_title">Ciudades populares</string>
-    <string name="act_location_error_to_find_city">"No se pudo obtener información de ubicación. Puedes añadir una ciudad manualmente."</string>
+    <string name="act_location_error_to_find_city">"No se pudo obtener la información de ubicación. Puedes añadir una ubicación manualmente."</string>
     <string name="act_set_city_find_side">Ubicando</string>
     <string name="act_set_city_find_side_error">"No puede localizarse el dispositivo"</string>
     <string name="act_weather_find_city_added">Añadido</string>
@@ -200,7 +200,7 @@
     <string name="feedback_result_fail_no_choice">Elige las condiciones del tiempo actuales</string>
     <string name="feedback_result_fail_no_reason">¡Gracias por tu comentario!</string>
     <string name="feedback_result_fail_same_type">"Parece que tu informe es diferente del tiempo actual. Vuelve a intentarlo."</string>
-    <string name="feedback_result_success">Enviado, gracias por tu comentario.</string>
+    <string name="feedback_result_success">Enviado. Gracias por tu comentario.</string>
     <string name="feedback_sandy">Con arena</string>
     <string name="feedback_sunny">Despejado</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>

@@ -311,16 +311,6 @@
     <string name="relay_network_error_msg">"No se pueden recibir llamadas en este dispositivo por un error de red. Deja el dispositivo en su sitio."</string>
     <string name="remind_unlock_message">Tu dispositivo está bloqueado. \"%s\" estará disponible al desbloquear. ¿Desbloquear dispositivo ahora?</string>
     <string name="respond_via_sms_custom_message">Personalizar SMS</string>
-    <string name="saf_permission_content">"Se actualizaron los permisos del sistema. Para poder grabar llamadas, otorga tu permiso primero.
-
-Cómo otorgar permiso
-Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
-    <string name="saf_permission_grant_permission_immediately">Siguiente</string>
-    <string name="saf_permission_later">Ahora no</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Para guardar grabaciones, antes desbloquea el dispositivo. ¿Desbloquear?</string>
-    <string name="saf_permission_refused">"No se pueden grabar llamadas debido a la falta de permisos"</string>
-    <string name="saf_permission_title">Permisos requeridos</string>
-    <string name="saf_permission_use_this_folder">Usar esta carpeta</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

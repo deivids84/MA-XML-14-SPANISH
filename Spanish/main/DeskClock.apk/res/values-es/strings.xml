@@ -42,6 +42,7 @@
     <string name="add_timezone_title">Añadir zona horaria</string>
     <string name="afternoon">Tarde</string>
     <string name="agree">De acuerdo</string>
+    <string name="alarm_alert">La alarma está sonando</string>
     <string name="alarm_alert_alert_silenced">La alarma se silenciará después de %1$s.</string>
     <string name="alarm_alert_close_entrance">Desactivar</string>
     <string name="alarm_alert_disabled">Desactivado</string>
@@ -164,7 +165,7 @@
     <string name="delete_selected_timer_item">¿Eliminar la tarea seleccionada del temporizador?</string>
     <string name="delete_timer_item_title">Eliminar tarea de temporizador</string>
     <string name="delete_timezone_title">Eliminar zona horaria</string>
-    <string name="deskclock_sleep_no_disturbance">Reloj - Hora de acostarte - Modo no molestar</string>
+    <string name="deskclock_sleep_no_disturbance">Reloj &gt; Hora de acostarse &gt; Modo no molestar</string>
     <string name="device_sounds">Sonidos del dispositivo</string>
     <string name="dialog_confirm_abort">¿Descartar cambios?</string>
     <string name="dialog_legal_off_day">&lt;Data&gt;Parece que estás usando alarmas de festivos. Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
@@ -519,7 +520,7 @@ d/M"</string>
     <string name="sleep_notification_title">Hora de irse a la cama</string>
     <string name="sleep_record">Seguimiento del sueño</string>
     <string name="sleep_record_desc">Activar para comenzar a registrar datos de sueño</string>
-    <string name="sleep_record_desc_detailed">La funcionalidad de seguimiento del sueño la proporciona Xiaomi Salud. Una vez activada, Xiaomi Salud registra automáticamente tu sueño en función del uso del dispositivo, las estadísticas de actividad así como la hora en la que te duermes y te despiertas, y te muestra estadísticas en forma de gráficos. Para hacer un seguimiento con mayor precisión, permite que Xiaomi Salud se inicie automáticamente. Todos los datos se almacenarán localmente en el dispositivo, lo que te permite administrarlos fácilmente.</string>
+    <string name="sleep_record_desc_detailed">La funcionalidad de seguimiento del sueño la proporciona Xiaomi Salud. Una vez activada, Xiaomi Salud registra automáticamente tu sueño en función del uso del dispositivo, las estadísticas de actividad así como la hora en la que te duermes y te despiertas, y te muestra estadísticas en forma de gráficos. Para hacer un seguimiento con mayor precisión, permite que Xiaomi Salud se inicie automáticamente. Todos los datos se almacenarán localmente en el dispositivo.</string>
     <string name="sleep_record_desc_detailed_new">El seguimiento del sueño lo proporciona Mi Fitness Sleep. Si lo activas recopilará y mostrará automáticamente datos sobre tu sueño en función del uso del dispositivo, la actividad y la hora de acostarse y despertarse que establezcas. Para hacer un seguimiento del sueño con mayor precisión, permite que Mi Fitness se inicie automáticamente.</string>
     <string name="sleep_record_no_data">Tus estadísticas aparecerán después de que Xiaomi Salud analice los suficientes datos</string>
     <string name="sleep_remind">Recordatorio para acostarte</string>
@@ -527,6 +528,7 @@ d/M"</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Desliza hacia arriba para desactivar</string>
     <string name="slider_text_new">Desliza hacia arriba para detener</string>
+    <string name="snooze_alarm_alert">Pospuesto hasta %s</string>
     <string name="snooze_confirm_cancel">Descartar alarma</string>
     <string name="snooze_duration">Posponer</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -632,6 +634,8 @@ d/M"</string>
     <string name="timer_alert_mute_on">"La alarma no sonará cuando el temporizador se detenga"</string>
     <string name="timer_alert_mute_remind">Pulsa para silenciar la alarma</string>
     <string name="timer_alert_mute_switch">Interruptor para silenciar temporizador de alarmas</string>
+    <string name="timer_alert_pause">Temporizador en pausa</string>
+    <string name="timer_alert_running">Temporizador en ejecución</string>
     <string name="timer_alert_type_beach">Playa</string>
     <string name="timer_alert_type_forest">Bosque</string>
     <string name="timer_alert_type_mute">Predeterminado</string>

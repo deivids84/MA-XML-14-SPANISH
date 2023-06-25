@@ -81,6 +81,8 @@
     <string name="ew_detail_receive_time_title">Hora de inicio</string>
     <string name="ew_detail_receive_warn_time_message">%s s</string>
     <string name="ew_detail_receive_warn_time_title">Tiempo antes del comienzo</string>
+    <string name="ew_monitor_slogan">"Únete a nuestro programa de
+seguimiento de terremotos"</string>
     <string name="ew_save_title">Save</string>
     <string name="ew_share_logo_title">Aviso de terremoto</string>
     <string name="ew_share_save_tips">Guardado en %s</string>
@@ -91,7 +93,7 @@
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="fastboot_locked_answer_1">Fastboot es el método tradicional para flashear dispositivos Mi. Cuando el dispositivo está en modo Fastboot, se puede acceder y borrar directamente todos los datos guardados en éste. Bloqueamos Fastboot para asegurarnos de que tus datos se mantienen protegidos en caso de perder el dispositivo, así como para garantizar la fiabilidad de la función Encontrar dispositivo.</string>
     <string name="fastboot_locked_answer_2">"En caso de perder el dispositivo, Fastboot garantiza la seguridad de los elementos almacenados. Si desbloquea Fastboot, ya no podrá bloquear su dispositivo de forma remota o eliminar los datos usando Encontrar dispositivo. Por eso, no recomendamos desbloquear Fastboot en su dispositivo."</string>
-    <string name="fastboot_locked_answer_3">"Debes usar la herramienta de desbloqueo en la web MIUI. Para desbloquear el dispositivo, necesitamos comprobar que es tu dispositivo. Por eso, debes iniciar sesión con tu cuenta Xiaomi y activar Localizar dispositivo."</string>
+    <string name="fastboot_locked_answer_3">"Debes utilizar la herramienta de desbloqueo de la web de MIUI. Para desbloquear el dispositivo, hemos de asegurarnos de que el dispositivo te pertenece. Por eso debes iniciar sesión con tu cuenta Xiaomi y activar Encontrar Dispositivo."</string>
     <string name="fastboot_locked_question_1">¿Por qué debería Fastboot estar bloqueado?</string>
     <string name="fastboot_locked_question_2">¿Hay riesgos relacionados con el desbloqueo de Fastboot?</string>
     <string name="fastboot_locked_question_3">Conozco los riesgos, pero aún necesito desbloquear mi dispositivo. ¿Qué debo hacer?</string>
@@ -195,12 +197,15 @@
     <string name="gb_pannel_control_mode_high_quality">Alta calidad</string>
     <string name="gb_pannel_control_mode_normal">Predeterminado</string>
     <string name="gb_pannel_control_mode_power_saving">Ahorrar energía</string>
+    <string name="gb_web_panel_failure_retry">"No se pudieron cargar elementos. Inténtalo otra vez."</string>
+    <string name="gb_web_panel_game_loading">Un momento…</string>
+    <string name="gb_web_panel_network_exception">"No se puede recomendar juegos por un error de la red. Comprueba la configuración de red e inténtalo otra vez."</string>
     <string name="gb_webwindow_schemedialog_accept">Abrir</string>
     <string name="gb_webwindow_schemedialog_cancel">Cancelar</string>
     <string name="gb_webwindow_schemedialog_title">¿Abrir juegos ahora?</string>
     <string name="gb_weixinpay_can_not_complete">"No se puede completar el pago. Instalar para continuar."</string>
     <string name="gdpr_msg">&lt;Data&gt;Para utilizar las funciones básicas de Seguridad, debes aceptar que Xiaomi recopile, procese y use tus datos personales, incluida información sobre las formas en que usas las funciones de seguridad (por ejemplo, estadísticas de uso de datos móviles, información sobre malware, así como información básica sobre tu dispositivo) y otros tipos de información especificados en nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará tu ID de Xiaomi para registrar la duración de tu suscripción."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará tu ID de cuenta Xiaomi para registrar la duración de tu suscripción."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Optimizador de juegos Xunyou</string>
     <string name="hybrid_provider">Proporcionado por %1$s</string>
@@ -214,15 +219,16 @@
     <string name="miuishare_wechat_timeline_title">Momentos de WeChat</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -322,6 +328,7 @@
     <string name="pc_activity_title">Optimizar batería</string>
     <string name="pc_entered_extreme_mode">El modo hibernación está activado</string>
     <string name="pc_entered_extreme_mode_summary">"El dispositivo está sin batería y ha entrado en hibernación. Las aplicaciones se ejecutarán en segundo plano y no enviarán notificaciones."</string>
+    <string name="pc_entered_extreme_mode_summary2">"Tu dispositivo está casi sin batería. En el modo Hibernación, no recibirás notificaciones de las aplicaciones que funcionan en segundo plano."</string>
     <string name="pc_extreme_exit_and_power_off">Salir</string>
     <string name="pc_extreme_mode_bg_toast">"En modo hibernación, las aplicaciones se ejecutan en segundo plano y no envían notificaciones"</string>
     <string name="pc_extreme_mode_exit_risk_title">Atención</string>

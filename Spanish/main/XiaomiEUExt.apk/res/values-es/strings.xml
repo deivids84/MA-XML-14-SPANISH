@@ -64,6 +64,8 @@
     <string name="loading">Un momento…</string>
     <string name="lockscreen_side_apps">Accesos directos del panel lateral</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -78,6 +80,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -129,6 +133,7 @@
     <string name="morning">Mañana</string>
     <string name="night">Noche</string>
     <string name="no_apps">No hay aplicaciones</string>
+    <string name="no_icons">Sin iconos</string>
     <string name="noon">Mediodía</string>
     <string name="pm">PM</string>
     <string name="reset">Restablecer</string>
@@ -139,6 +144,7 @@
     <string name="select_app">Selecciona una aplicación</string>
     <string name="select_apps">Seleccionar aplicaciones</string>
     <string name="send">Enviar</string>
+    <string name="status_bar_icons">Iconos de la barra de estado</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

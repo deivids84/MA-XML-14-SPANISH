@@ -136,6 +136,15 @@
         <item>Cada día</item>
         <item>Días laborables</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Lunes a Viernes</item>
+        <item>Cada día</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Cada día</item>
+        <item>Lunes a Viernes</item>
+        <item>Personalizada</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Cada día</item>
         <item>Lunes a viernes</item>

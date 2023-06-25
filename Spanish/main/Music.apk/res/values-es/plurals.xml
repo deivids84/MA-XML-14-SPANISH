@@ -234,4 +234,12 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="other">%d días restantes</item>
         <item quantity="one">%d día restante</item>
     </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">Añadidos %d archivos</item>
+        <item quantity="one">Añadido %d archivo</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d archivos ya estaban añadidos</item>
+        <item quantity="one">%d archivo ya estaba añadido</item>
+    </plurals>
 </resources>

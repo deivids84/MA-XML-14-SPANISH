@@ -55,6 +55,7 @@ tus dispositivos?"</string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Buscando dispositivos cercanos…</string>
     <string name="appcirculate_toast_busy">Parece que el otro dispositivo está transfiriendo archivos ahora. Espera hasta que termine e inténtalo otra vez.</string>
     <string name="appcirculate_toast_cancel">Cancelado</string>
+    <string name="appcirculate_toast_connected">Emisión iniciada</string>
     <string name="appcirculate_toast_fail">"No se pudo cambiar a otro dispositivo"</string>
     <string name="appcirculate_toast_loading">Cambiando a otro dispositivo…</string>
     <string name="appcirculate_toast_not_support_device_pad">"Esta aplicación no se puede usar en una tablet"</string>
@@ -91,8 +92,7 @@ Inicia sesión en tu cuenta Xiaomi para sincronizar los permisos."</string>
     <string name="circulate_card_mirror_device_title_pad">Tablet</string>
     <string name="circulate_card_mirror_device_title_television">Televisor</string>
     <string name="circulate_card_mirror_help"><u>Dispositivos compatibles</u></string>
-    <string name="circulate_card_mirror_pad_subtitle">"Arrastra la pantalla del tablet a un 
-televisor para duplicar su imagen"</string>
+    <string name="circulate_card_mirror_pad_subtitle">"Arrastra la \"pantalla de la tablet\" a un televisor para duplicar la pantalla"</string>
     <string name="circulate_card_mirror_pad_title">"Pantalla de la tablet"</string>
     <string name="circulate_card_mirror_phone_subtitle">"Arrastra la pantalla del dispositivo
 al otro para duplicar la imagen"</string>
@@ -130,6 +130,8 @@ duplicar la pantalla de esta tablet"</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Bajar volumen</string>
     <string name="circulate_card_sticker_selected">Seleccionado</string>
     <string name="circulate_common_retry_later">Espera un par de minutos e inténtalo otra vez</string>
+    <string name="circulate_controlphone_button_hint">Ver pantalla</string>
+    <string name="circulate_controlphone_title">Administrar el dispositivo</string>
     <string name="circulate_cta_agree">Acepto</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">¡Te damos la bienvenida a Mi Smart Hub! Esta aplicación te permite hacer difusión, usar Mi Smart Play y transferir la reproducción multimedia de un dispositivo a otro. Se necesita conexión a Internet y los siguientes permisos para funcionar normalmente:</string>
@@ -152,6 +154,8 @@ duplicar la pantalla de esta tablet"</string>
 2. Mantén pulsado el botón en el estuche.
 3. Completa el emparejamiento en el dispositivo de destino."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Para transferir la reproducción entre dispositivos, empareja antes los auriculares con el televisor.</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Pulsa el botón de encendido en el mando remoto del televisor para desconectar los altavoces.
+2. Intenta conectar otra vez los auriculares una vez que se encienda la pantalla."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Coloca ambos auriculares en su estuche.
 2. Mantén pulsado el botón en el estuche.
 3. Completa el emparejamiento en los ajustes de Bluetooth o usa el diálogo emergente en este dispositivo."</string>
@@ -164,9 +168,18 @@ duplicar la pantalla de esta tablet"</string>
     <string name="circulate_headset_back_to_box_subtitle">"Estos auriculares no se emparejan automáticamente. Hazlo manualmente en el dispositivo de destino."</string>
     <string name="circulate_headset_back_to_box_title">Emparejar los auriculares</string>
     <string name="circulate_headset_back_to_box_title_err_308">Emparejar los auriculares</string>
+    <string name="circulate_headset_back_to_box_title_err_310">Antes desconecta los altavoces del televisor</string>
     <string name="circulate_headset_back_to_box_title_pad">Emparejar auriculares con el dispositivo</string>
     <string name="circulate_headset_back_to_box_title_phone">Emparejar auriculares con el dispositivo</string>
     <string name="circulate_headset_back_to_box_title_tv">Emparejar los auriculares</string>
+    <string name="circulate_headset_control_anc_clear">Transparencia</string>
+    <string name="circulate_headset_control_anc_disable_hint">Los auriculares están conectados a dos dispositivos. Solo puedes ajustar el volumen de este.</string>
+    <string name="circulate_headset_control_anc_noise_cancel">Cancelación de ruido</string>
+    <string name="circulate_headset_control_anc_off">Desactivado</string>
+    <string name="circulate_headset_control_battery_case">Estuche</string>
+    <string name="circulate_headset_control_battery_left">Izq</string>
+    <string name="circulate_headset_control_battery_right">Der</string>
+    <string name="circulate_headset_control_more_settings">Ajustes adicionales</string>
     <string name="circulate_headset_duplicate_cancel">Cancelar</string>
     <string name="circulate_headset_duplicate_dialog_message">Parece que otros auriculares están conectado a tu %1$s. ¿Sustituirlos con estos?</string>
     <string name="circulate_headset_duplicate_dialog_title">Sustituir auriculares conectados a %1$s</string>
@@ -176,6 +189,8 @@ duplicar la pantalla de esta tablet"</string>
     <string name="circulate_headset_error_default">Tiempo de conexión agotado</string>
     <string name="circulate_headset_error_device_not_support">"No se puede conectar los auriculares a este dispositivo"</string>
     <string name="circulate_headset_error_headset_not_support">"No se puede conectar los auriculares a este ordenador"</string>
+    <string name="circulate_headset_error_headset_not_worn">Ponte ambos auriculares e inténtalo otra vez</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Ponte ambos auriculares e inténtalo otra vez</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Activa el Bluetooth del televisor e
 inicia la sesión en tu cuenta Xiaomi"</string>
     <string name="circulate_headset_error_self_upgrade">"No se pudo completar esta acción. Actualiza Mi Smart Hub."</string>
@@ -190,6 +205,13 @@ tus dispositivos?"</string>
     <string name="circulate_help_feedback_button">Comentarios</string>
     <string name="circulate_local_pad_name">Mi tablet</string>
     <string name="circulate_local_phone_name">Mi teléfono</string>
+    <string name="circulate_ringfind_button_hint_play">Reproducir sonido</string>
+    <string name="circulate_ringfind_button_hint_stop">Parar la reproducción de sonido</string>
+    <string name="circulate_ringfind_error_hint_ringing">El sonido ya se está reproduciendo</string>
+    <string name="circulate_ringfind_error_hint_start">"No se pudo reproducir el sonido. Inténtalo otra vez."</string>
+    <string name="circulate_ringfind_error_hint_stop">"No se pudo detener la reproducción del sonido. Inténtalo otra vez."</string>
+    <string name="circulate_ringfind_title">Reproducir sonido</string>
+    <string name="circulate_ringfind_title_stop">Parar la reproducción de sonido</string>
     <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">"Has configurado el televisor para que se apague o que apague su pantalla. El control remoto y el televisor desaparecerán de aquí cuando se apague el televisor."</string>
     <string name="circulate_tv_power_alter_title">Atención</string>
@@ -219,6 +241,8 @@ tus dispositivos?"</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="device_desc_trust">Dispositivos de confianza</string>
+    <string name="device_type_name_pad">Tablet</string>
+    <string name="device_type_name_phone">Teléfono</string>
     <string name="dialog_can_not_find_device">"No se pudo encontrar dispositivos cercanos"</string>
     <string name="dialog_cancle">Cancelar</string>
     <string name="dialog_connect_fail">"No se pudo conectar"</string>
@@ -232,6 +256,8 @@ tus dispositivos?"</string>
     <string name="dialog_miplay_permission_message">Permite que Emitir grabe audio, acceda a archivos en el almacenamiento interno y acceda a tu ubicación para poder usar esta función con normalidad. Pulsa sobre \"Ajustes\" y selecciona \"Permisos de aplicaciones\" para continuar.</string>
     <string name="dialog_miplay_permission_positive">Ajustes</string>
     <string name="dialog_miplay_permission_title">Permisos requeridos</string>
+    <string name="dialog_nearbydevice_permission_message">Permite que el dispositivo acceda a los dispositivos cercanos para usar las funciones de transmisión.</string>
+    <string name="dialog_nearbydevice_permission_title">Permisos necesarios</string>
     <string name="dialog_nfc_cast_wifi_off">Activa el Wi-Fi para poder emitir usando el NFC. ¿Activar ahora?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecta tu dispositivo y el televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos televisores, esta función solo está disponible cuando la duplicación de pantalla está activada. Lee &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para más información.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecta tu dispositivo y el televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos televisores, esta función solo está disponible cuando la duplicación de pantalla está activada. Lee &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para más información.</Data></string>
@@ -276,6 +302,16 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar el menú desplegable</string>
     <string name="file_read_des">Para mostrar fotos y otros archivos en monitores externos</string>
+    <string name="find_device_close">Entendido</string>
+    <string name="find_device_notification_content_phone">%1$s está buscando este dispositivo usando %2$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_notification_content_single_phone">Se está buscando este dispositivo usando %1$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_notification_content_single_tablet">Se está buscando este dispositivo usando %1$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_notification_content_tablet">%1$s está buscando este dispositivo usando %2$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_popup_content_phone">%1$s está buscando este dispositivo usando %2$s.</string>
+    <string name="find_device_popup_content_single_phone">Se está buscando este dispositivo usando %1$s.</string>
+    <string name="find_device_popup_content_single_tablet">Se está buscando este dispositivo usando %1$s.</string>
+    <string name="find_device_popup_content_tablet">%1$s está buscando este dispositivo usando %2$s.</string>
+    <string name="find_device_title">Reproduciendo sonido en el dispositivo</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -310,6 +346,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="guide_page_subtitle_2">"Arrastra la tarjeta con la pantalla del dispositivo a una tablet, ordenador o televisor para reproducir la misma imagen allí."</string>
     <string name="guide_page_subtitle_2_pad">"Arrastra la tarjeta con la pantalla del dispositivo a un televisor para reproducir la misma imagen en él."</string>
     <string name="guide_page_subtitle_3">"Arrastra la aplicación a Mi Smart Hub y selecciona el dispositivo en el que deseas continuar la tarea actual."</string>
+    <string name="guide_page_subtitle_earphones">"Arrastra tus audífonos entre el teléfono, tablet y TV para cambiar su conexión entre dispositivos"</string>
     <string name="guide_page_title_0">¡Te damos la bienvenida a Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">¡Te damos la bienvenida a Mi Smart Hub!</string>
     <string name="guide_page_title_1">Reproducción de audio</string>
@@ -317,6 +354,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="guide_page_title_2">Pantalla duplicada</string>
     <string name="guide_page_title_2_pad">Pantalla duplicada</string>
     <string name="guide_page_title_3">Aplicaciones</string>
+    <string name="guide_page_title_earphones">Cambio rápido</string>
     <string name="hang_up">Emitir con la pantalla apagada</string>
     <string name="hang_up_alert_dialog_content">Sigue emitiendo contenido con la pantalla de tu dispositivo apagada. Esta función reduce el consumo de energía. Presiona el botón de Encendido para activar la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
@@ -582,6 +620,10 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="notify_wifiap_dialog_msg">Para escanear el código y configurar la red, primero apague el punto de acceso portátil.</string>
     <string name="notify_wifiap_dialog_negative">Entendido</string>
     <string name="notify_wifiap_dialog_title">Configurar red</string>
+    <string name="onehop_mirror_guide_message_button">Entendido</string>
+    <string name="onehop_mirror_guide_message_text_1">Transmite la pantalla del dispositivo al ordenador con solo un toque.</string>
+    <string name="onehop_mirror_guide_message_text_2">Selecciona fotos, vídeos y otros archivos de la Galería o administrador de archivos para transferir al ordenador.</string>
+    <string name="onehop_mirror_guide_message_title">Smart Hub Mi</string>
     <string name="open_game_accelerate">Activar Game Turbo</string>
     <string name="p2p_location_des">Para conectar su dispositivo móvil a monitores externos</string>
     <string name="paipai_connect_btn_text">Listo</string>
@@ -690,16 +732,6 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="show_result_on_tv">Ver resultados en la TV</string>
     <string name="small_window">Minimizar ventana</string>
     <string name="small_window_not_supported">"No se puede minimizar esta aplicación mientras se está emitiendo"</string>
-    <string name="stat_cancel">cancelar</string>
-    <string name="stat_confirm">confirmar</string>
-    <string name="stat_failed">fallar</string>
-    <string name="stat_pad">tablet</string>
-    <string name="stat_phone">teléfono</string>
-    <string name="stat_src_click">pulsar</string>
-    <string name="stat_src_pull">tirar</string>
-    <string name="stat_src_push">empujar</string>
-    <string name="stat_success">correcto</string>
-    <string name="stat_unit_ms">ms</string>
     <string name="status_bar_in_casting">Emitiendo…</string>
     <string name="status_bar_in_casting_long">Toca para ver más funciones de emisión</string>
     <string name="sunday">Domingo</string>
@@ -761,6 +793,7 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="toast_msg_for_multi_window">"No puede usar esta función con la Pantalla dividida"</string>
     <string name="toast_msg_for_small_window">"Puedes minimizar la ventana que se está emitiendo para usar otras funciones de tu dispositivo, sin interrumpir la emisión."</string>
     <string name="toast_nfc_dont_move">"No alejes tu dispositivo"</string>
+    <string name="toast_nfc_same_wifi">Conecta el televisor y este dispositivo a la misma red</string>
     <string name="toast_title_for_small_window">Selecciona \"Minimizar ventana\" en la aplicación</string>
     <string name="toast_turn_off_hotspot_before_cast">Desactiva el punto de acceso portátil antes de emitir</string>
     <string name="today">Hoy</string>

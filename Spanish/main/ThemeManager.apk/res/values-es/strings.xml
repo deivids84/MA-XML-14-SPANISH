@@ -60,6 +60,7 @@
     <string name="ad_downloading_tip">Este elemento se está descargando. Puede ver el progreso en la notificación.</string>
     <string name="ad_experience_now">Abrir</string>
     <string name="add">Agregar</string>
+    <string name="add_home_icon_success">Añadido</string>
     <string name="add_resource_detail_fail">"No se pudo añadir el recurso"</string>
     <string name="afternoon">Tarde</string>
     <string name="all_resources">Todo</string>
@@ -99,6 +100,7 @@
     <string name="apply_not_support_aod">"La pantalla siempre encendida no es compatible con este dispositivo"</string>
     <string name="apply_not_support_in_second_space">"No se puede aplicar este elemento en el Segundo espacio"</string>
     <string name="apply_not_support_maml_aod">"No se puede combinar la pantalla siempre activa con temas en este dispositivo"</string>
+    <string name="apply_not_support_video_wallpaper_warning">"Los vídeos 4K, 8K, y Dolby no se pueden establecer como fondos de pantalla de vídeo."</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">Este fondo se aplicará a las pantallas de bloqueo interior y exterior y a las pantallas de inicio.</string>
     <string name="apply_succeed">Aplicado</string>
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
@@ -162,14 +164,13 @@
     <string name="common_downloading">Descargando…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Saltar</string>
-    <string name="community_community_message_trigger_summary">Recibe notificaciones, usando tu ID de cuenta, desde la Comunidad Mi sobre respuestas y \"likes\"</string>
+    <string name="community_community_message_trigger_summary">Recibe notificaciones de respuestas, \"me gusta\" y actualizaciones de estado de la Comunidad Mi usando tu ID de cuenta Xiaomi</string>
     <string name="community_community_message_trigger_title">Notificar sobre actividad</string>
     <string name="community_cta_dialog_cancel">No, gracias</string>
     <string name="community_cta_dialog_des">Los temas de terceros ahora soportan el widget de la Comunidad Xiaomi. Permite que Temas acceda a tu ID de cuenta Xiaomi y a los estados de la Comunidad asociados con tu cuenta para verlos aquí.</string>
     <string name="community_cta_dialog_ok">Permitir</string>
     <string name="community_cta_dialog_title">Solicitud de permiso</string>
-    <string name="community_entrance_summary">Encuentra contenido relacionado con el tema en Mi Community. Esta función es compatible con temas seleccionados.</string>
-    <string name="community_entrance_title">Widget de reloj de Mi Community</string>
+    <string name="community_entrance_title">Widget de reloj de la Comunidad Xiaomi</string>
     <string name="community_message_trigger_disabled">Desactivado</string>
     <string name="community_message_trigger_triggered">Activado</string>
     <string name="component_backup_preference_title">Hacer copia del tema</string>
@@ -574,13 +575,13 @@ dd/MM"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuishare_account_activate_confirmation">Activar cuenta Xiaomi</string>
+    <string name="miuishare_account_activate_confirmation">Activar la cuenta Xiaomi</string>
     <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
-    <string name="miuishare_account_login_confirmation">Iniciar sesión en la cuenta Xiaomi</string>
+    <string name="miuishare_account_login_confirmation">Inicia sesión en tu cuenta Xiaomi</string>
     <string name="miuishare_account_login_ok">Iniciar sesión</string>
-    <string name="miuishare_account_need_activate">Compartir con Weibo necesita la cuenta Xiaomi asociada. Activa tu cuenta Xiaomi para continuar.</string>
-    <string name="miuishare_account_need_login">Compartir con Weibo necesita la cuenta Xiaomi asociada. Inicia sesión en tu cuenta Xiaomi para continuar.</string>
+    <string name="miuishare_account_need_activate">Compartir con Weibo necesita que la cuenta Weibo esté asociada con tu cuenta Xiaomi. Activa tu cuenta para continuar.</string>
+    <string name="miuishare_account_need_login">Compartir con Weibo necesita la cuenta Weibo que está asociada con tu cuenta Xiaomi. Inicia sesión para continuar.</string>
     <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_mini_program_title">¡Mira el fondo de pantalla que he encontrado!</string>
     <string name="miuishare_no_network">"No se pudo conectar a la red."</string>
@@ -595,15 +596,16 @@ mm"</string>
     <string name="miuishare_title_share">Compartir</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Borrar</string>
-    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -888,8 +890,8 @@ Todos los elementos de personalización utilizados actualmente en el dispositivo
     <string name="privacy_remind_user_mode_content"><Data>Acepte nuestra Política de privacidad para utilizar esta función. Lea nuestra &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt; para saber cómo recopilamos, usamos, divulgamos, procesamos y almacenamos la información personal que nos proporciona cuando utiliza Temas.</Data></string>
     <string name="privacy_remind_user_mode_title">Atención</string>
     <string name="privacy_revoke_agree_content">Retiro del consentimiento</string>
-    <string name="privacy_revoke_agree_content_1">1. Todos los pedidos (incluidos los pedidos pagados) realizados en los dispositivos Xiaomi en los que utilizó su Mi Cuenta. Ya no podrá utilizar los artículos que compró.</string>
-    <string name="privacy_revoke_agree_content_2">2. Toda la información sobre tus Me gusta, comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi donde usaste tu Mi Cuenta.</string>
+    <string name="privacy_revoke_agree_content_1">1. Todos los pedidos (incluidos los pagados) realizados en los dispositivos Xiaomi usando tu cuenta Xiaomi. Ya no podrás usar los artículos comprados.</string>
+    <string name="privacy_revoke_agree_content_2">2. Toda la información de tus \"me gusta\", comentarios, calificaciones y seguidores generados en los dispositivos donde has usado tu cuenta Xiaomi.</string>
     <string name="privacy_revoke_agree_content_5">5. Todos los elementos de personalización que se utilizan actualmente en este dispositivo. Se restaurarán las preferencias de personalización predeterminadas.</string>
     <string name="privacy_revoke_agree_data_warning">Los siguientes datos se eliminarán permanentemente o se anonimizarán después de retirar el consentimiento (salvo que las leyes y reglamentos establezcan lo contrario, o que las autoridades reguladoras lo requieran):</string>
     <string name="privacy_revoke_succeed">Se ha retirado el consentimiento</string>
@@ -901,11 +903,11 @@ Todos los elementos de personalización utilizados actualmente en el dispositivo
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Asegúrese de tener derecho a retirar el consentimiento antes de continuar.
 2. El hecho de que retire su consentimiento a la Política de privacidad del papel tapiz y la personalización no afectará el uso normal de otros productos Xiaomi.
 3. La revocación del consentimiento es una acción irreversible. Haga una copia de seguridad de todos los elementos importantes antes de continuar, ya que podrían eliminarse de forma permanente. Recuerde que no podrá reconsiderar su decisión una vez que retire su consentimiento. Los siguientes datos se eliminarán permanentemente o se anonimizarán después de retirar el consentimiento (salvo que las leyes y reglamentos establezcan lo contrario, o que las autoridades reguladoras lo requieran):"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Todos los pedidos (incluidos los pedidos pagados) realizados en los dispositivos Xiaomi en los que utilizó su Mi Cuenta. Ya no podrá utilizar los artículos que compró.
-Toda la información sobre tus Me gusta, comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi donde usaste tu Mi Cuenta.
-Todos los fondos de pantalla, fuentes y tonos de llamada descargados en este dispositivo.
-Todas las preferencias de permisos, configuraciones y elementos en caché generados en este dispositivo.
-Todos los elementos de personalización que se utilizan actualmente en este dispositivo. Se restaurarán las preferencias de personalización predeterminadas."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Todos los pedidos (incluidos los pagados) realizados en dispositivos con tu cuenta Xiaomi. Ya no podrás usar los artículos comprados.
+Toda la información de tus \"Me gusta\", comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi.
+Todos los temas, fondos de pantalla normales y dinámicos, fuentes, iconos y tonos de llamada descargados en el dispositivo.
+Todos los registros del historial de búsqueda, preferencias de permisos, ajustes y elementos en caché generados en el dispositivo.
+Todos los elementos de personalización utilizados actualmente en el dispositivo. Se restaurarán los ajustes predeterminados."</string>
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Después de que retire su consentimiento a la Política de privacidad del fondo de pantalla y la personalización, dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. 
 5. La retirada del consentimiento no implica exención o mitigación de las responsabilidades derivadas de las acciones realizadas antes de la retirada del consentimiento."</string>
     <string name="provision_default_theme_title">Por defecto</string>
@@ -918,7 +920,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="pull_down_view_refresh">Refrescar</string>
     <string name="pull_down_view_title">"Novedades"</string>
     <string name="purchased">Órdenes</string>
-    <string name="read_and_agree_account_privacy"><Data>\"He leído y acepto el Acuerdo de usuario de &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;\".</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>\"He leido y acepto el &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Política de Priacidad&lt;/a&gt;&lt;/font&gt; de la cuenta Xiaomi.\"</Data></string>
     <string name="recently_used">Usado recientemente</string>
     <string name="recommend_trigger">Recomendaciones personalizadas</string>
     <string name="recommend_trigger_summary">Actívelo para recibir recomendaciones basadas en sus preferencias</string>
@@ -1104,6 +1106,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="resource_search_color_hint_red">Rojo</string>
     <string name="resource_search_color_hint_yellow">Amarillo</string>
     <string name="resource_search_history">Historial de búsquedas</string>
+    <string name="resource_search_hot_tag">Popular</string>
     <string name="resource_search_list_empty">"No se ha encontrado nada."</string>
     <string name="resource_see_more">Ver más</string>
     <string name="resource_select">Seleccionar</string>
@@ -1209,7 +1212,6 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="share_save_success">Guardada</string>
     <string name="share_save_to_photo">Galería</string>
     <string name="share_theme_content_text">"Puede descargar un tema increíble \"%1$s\" aquí: %2$s. Desde "</string>
-    <string name="share_vipaccount">Mi comunidad</string>
     <string name="share_wallpaper_content_text">"Puede descargar un increíble fondo de pantalla \"%1$s\" aquí: %2$s. Desde "</string>
     <string name="shortcut_add">Añadir</string>
     <string name="shortcut_cancel">No, gracias</string>
@@ -1405,7 +1407,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="title_system_audio_notification_resource">Notificaciones</string>
     <string name="title_system_audio_resource">Tonos de llamada del sistema</string>
     <string name="title_system_wallpaper_resource">Fondos de pantalla del sistema</string>
-    <string name="to_activate_the_account">Activar la cuenta Xiaomi ahora</string>
+    <string name="to_activate_the_account">Activar la cuenta Xiaomi</string>
     <string name="toast_both_all_apply_failured">"No se pudo aplicar a la pantalla de inicio o de bloqueo"</string>
     <string name="toast_both_all_apply_success">Aplicado a las pantallas de inicio y de bloqueo</string>
     <string name="toast_home_apply_failured">"No se pudo aplicar a la pantalla de inicio"</string>
@@ -1461,7 +1463,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="update_btn">ACTUALIZAR AHORA</string>
     <string name="update_check">Buscar actualizaciones</string>
     <string name="update_checking">Buscando actualizaciones…</string>
-    <string name="update_community_tip">Actualiza Mi Community para poder usar esta función</string>
+    <string name="update_community_tip">Actualiza Comunidad Mi para usar esta función</string>
     <string name="update_downloading">Descargando actualizaciones…</string>
     <string name="update_fail">"No se pudo obtener la información. Vuelve a intentarlo."</string>
     <string name="update_flag">Actualizar</string>
