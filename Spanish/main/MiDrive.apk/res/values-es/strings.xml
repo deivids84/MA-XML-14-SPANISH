@@ -89,7 +89,7 @@
     <string name="cloud_storage_already_used">Ocupado: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Almacenamiento en la nube</string>
     <string name="cloud_storage_full">El almacenamiento en la nube está lleno. Actualiza tu plan para obtener más espacio de almacenamiento.</string>
-    <string name="cloud_storage_info_type_backup">Copias de seguridad</string>
+    <string name="cloud_storage_info_type_backup">Copias de seguridad en la nube</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familia</string>

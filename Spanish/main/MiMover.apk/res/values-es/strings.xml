@@ -97,7 +97,7 @@
     <string name="cancel_moving_dialog_message">¿Detener la importación ahora?</string>
     <string name="cancel_moving_dialog_title">Detener importación</string>
     <string name="cancel_tranfer">Cancelar</string>
-    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"Parece que el servicio de copia de seguridad del sistema es QQ Downloader. Desinstálalo y reinicia el dispositivo para usar Mi Mover."</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" ya proporciona servicios de copia de seguridad del sistema. Desinstálalo y reinicia el dispositivo para usar Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">De acuerdo</string>
     <string name="cannot_use_mi_huanji_summary">Parece que MIUI está respaldando elementos ahora. Detén los respaldos en curso o reinicia tu dispositivo para que Mi Mover pueda iniciar la transferencia.</string>
     <string name="cannot_use_mi_huanji_title">"No se puede transferir ahora"</string>
@@ -480,7 +480,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="not_support_data_content3">3. Datos del segundo espacio</string>
     <string name="not_support_data_content4">4. Aplicaciones duales</string>
     <string name="not_support_data_link">"Elementos que no se pueden transferir"</string>
-    <string name="not_support_data_summary1">"Los temas, fondos de pantalla, tarjetas de transporte y tarjetas de acceso no se pueden transferir con Mi Mover."</string>
+    <string name="not_support_data_summary1">"Las tarjetas de transporte y acceso no se pueden transferir. Los temas y fondos de pantalla solo en algunos modelos"</string>
     <string name="not_support_data_summary2">Algunas aplicaciones establecen estrictas medidas de seguridad para evitar que se transfieran los datos de la aplicación. Estas aplicaciones pueden incluir aplicaciones bancarias o servicios financieros.</string>
     <string name="not_support_data_summary3">"Debido a restricciones del sistema, los elementos del segundo espacio no se pueden transferir usando Mi Mover."</string>
     <string name="not_support_data_summary4">"Las aplicaciones duales y sus datos tampoco se pueden transferir. Sin embargo, puede transferir las aplicaciones principales correspondientes."</string>
@@ -593,7 +593,9 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="receiver_finish_detail_button">Vista del informe</string>
     <string name="receiver_finish_detail_fail">"No se pudo transferir"</string>
     <string name="receiver_finish_detail_success">Elementos transferidos</string>
+    <string name="receiver_finish_not_transferred">No transferido</string>
     <string name="receiver_finish_title">"¡Ya está todo listo!"</string>
+    <string name="receiver_finish_transferred">Transferido</string>
     <string name="receiver_video_summary">Desbloquee su antiguo dispositivo, toque \"Transferir\" y escanee esta imagen</string>
     <string name="receiver_video_title">Transferir desde dispositivo antiguo</string>
     <string name="recent_one_year">Último año</string>
@@ -669,6 +671,7 @@ Libera al menos %s."</string>
     <string name="sender_finish_title">Transferencia realizada</string>
     <string name="sender_scanning_code">Coloca la imagen en el marco</string>
     <string name="sender_scanning_connecting">Conectando con nuevo dispositivo…</string>
+    <string name="set_app_suspend">Haciendo backup de esta aplicación ahora. Espera a que se complete e inténtalo otra vez.</string>
     <string name="set_new_device_account">Sincronizar con la cuenta Xiaomi</string>
     <string name="set_new_device_lock">Establecer bloqueo de pantalla</string>
     <string name="set_new_device_more">Más configuraciones del sistema…</string>

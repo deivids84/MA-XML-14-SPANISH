@@ -146,7 +146,7 @@
     <string name="avoid_to_use_traffic_summary">"No usar redes móviles para escuchar música online"</string>
     <string name="avoid_to_use_traffic_title">Preguntar cuando se utilizan datos móviles para reproducir canciones</string>
     <string name="back">Atrás</string>
-    <string name="back_confirm">Pulsa otra vez para pasar la aplicación a segundo plano</string>
+    <string name="back_confirm">Pulsa otra vez para salir</string>
     <string name="best_experience">Mejor experiencia</string>
     <string name="billion_char">%sB</string>
     <string name="bluetooth_device">Dispositivo de audio Bluetooth</string>
@@ -654,6 +654,10 @@
     <string name="joox_search_subtitle_prefix_song">seguir</string>
     <string name="joox_vip_check_to_pay">Comprar</string>
     <string name="joox_vip_expired_hint">Tu suscripción VIP ha finalizado. Las canciones descargadas de JOOX solo se mostrarán en tus descargas.</string>
+    <string name="jump_to_ytb_dialog_cancel">Cancelar</string>
+    <string name="jump_to_ytb_dialog_desc">"Estás a punto de salir de Música y abrir YouTube. ¿Abrir YouTube?"</string>
+    <string name="jump_to_ytb_dialog_ok">Confirmar</string>
+    <string name="jump_to_ytb_dialog_title">Abandonando Música</string>
     <string name="just_hit_next">Solo presiona siguiente</string>
     <string name="keep_queued_download">Mantener</string>
     <string name="ktv_playlist">Lista de reproducción KTV</string>
@@ -668,7 +672,6 @@
     <string name="listen_anywhere">Escucha en cualquier lugar</string>
     <string name="load_shuffle">Cargando…</string>
     <string name="loadercontainer_loading">Un momento…</string>
-    <string name="loading">Solo un segundo…</string>
     <string name="loading_hint">Un momento…</string>
     <string name="loading_reached_the_bottom">"Eso es todo por ahora."</string>
     <string name="loading_text">Un momento…</string>
@@ -748,15 +751,16 @@
     <string name="miuishare_title_share">Compartir</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>

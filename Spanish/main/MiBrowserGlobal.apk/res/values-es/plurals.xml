@@ -48,6 +48,10 @@
         <item quantity="other">%d anuncios bloqueados hasta ahora</item>
         <item quantity="one">%d anuncio bloqueado hasta ahora</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">"No he escaneado durante %d días"</item>
+        <item quantity="one">"No he escaneado durante %d día"</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Comprobar %1$d artículos nuevos</item>
         <item quantity="one">Comprobar %1$d artículo nuevo</item>

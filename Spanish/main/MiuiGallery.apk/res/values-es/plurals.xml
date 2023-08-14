@@ -476,6 +476,10 @@
         <item quantity="other">"No se pudo compartir. Todavía se están procesando %d fotos…"</item>
         <item quantity="one">"No se pudo compartir. Todavía se está procesando %d foto…"</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Selecciona hasta %d elementos para enviar</item>
+        <item quantity="one">Selecciona hasta %d elemento para enviar</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d vídeos de %1$s</item>
         <item quantity="one">%2$d vídeo de %1$s</item>

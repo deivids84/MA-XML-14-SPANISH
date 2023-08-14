@@ -165,6 +165,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="create_folder">Crear</string>
     <string name="create_shortcut_success">Acceso directo creado correctamente</string>
     <string name="cta_function_account_operation">Para iniciar rápidamente la sesión en tu cuenta Xiaomi</string>
+    <string name="cta_use_sync_midrive_file">Para sincronizar archivos en Mi Drive</string>
     <string name="data_consume_dialog_message">"Estás usando datos móviles ahora. Si continúas, se utilizarán %s de datos."</string>
     <string name="data_consume_dialog_title">¿Usar datos móviles?</string>
     <string name="data_consume_dialog_upload_title">Descargar usando datos móviles</string>
@@ -785,6 +786,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="select_dest_folder">Seleccionar carpeta</string>
     <string name="select_image">Imágenes</string>
     <string name="select_music">Archivos de audio</string>
+    <string name="select_pdf">Seleccionar PDF</string>
     <string name="select_video">Archivos de vídeo</string>
     <string name="select_volume">Seleccionar almacenamiento</string>
     <string name="send">Enviar</string>

@@ -157,7 +157,7 @@
     <string name="album_favorites_name">Favoritos</string>
     <string name="album_from_format">De %s</string>
     <string name="album_hidden_item_button_title">Mostrar</string>
-    <string name="album_hidden_page_title">Ocultar</string>
+    <string name="album_hidden_page_title">Álbumes ocultos</string>
     <string name="album_homepage_show_all_photos">Mostrar todas las fotos</string>
     <string name="album_jump_failed">Espera a que los álbumes se sincronicen con la nube y prueba otra vez</string>
     <string name="album_lockscreen_wallpapers">Fondos de pantalla de la Pantalla de bloqueo</string>
@@ -1210,7 +1210,7 @@ disponibles"</string>
     <string name="hdr_show_hint">Ajusta la pantalla para mostrar más detalles de luces y sombras en los elementos con alto rango dinámico</string>
     <string name="hdr_show_title">Mostrar HDR</string>
     <string name="hdr_switch_show_hint">Usa HDR para mostrar más detalles de luces y sombras</string>
-    <string name="hdr_switch_show_title">Mostrar rango dinámico alto</string>
+    <string name="hdr_switch_show_title">Pantalla HDR profesional</string>
     <string name="header_help">Ayuda</string>
     <string name="hello_blank_fragment">Hola fragmento en blanco</string>
     <string name="help">"¿No puedes encontrar dispositivos?"</string>
@@ -1363,7 +1363,7 @@ disponibles"</string>
     <string name="loading_image_thumbnail">Descargando miniatura…</string>
     <string name="loading_members">Cargando miembros…</string>
     <string name="loading_suspend">Descarga pausada. Continuará cuando una red Wi-Fi esté disponible.</string>
-    <string name="loading_text_format" formatted="false">Eliminando información privada de fotos (%d/%d)…</string>
+    <string name="loading_text_format">Eliminando información privada…</string>
     <string name="loading_video">Descargando vídeo…</string>
     <string name="loading_video_compress_lib">Descargando el plug-in de compresión de vídeo…</string>
     <string name="loading_video_fail_sync_without_network">Conéctate a la red para descargar los metadatos</string>
@@ -1965,6 +1965,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="passport_user_id_hint">Correo/teléfono/ID de cuenta Xiaomi</string>
     <string name="passport_user_id_intro">Contraseña para %1$s</string>
     <string name="passport_user_password_hint">Contraseña</string>
+    <string name="passport_vcode_what_app_send_prompt">El código de verificación de WhatsApp se enviará a tu teléfono de recuperación (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Antes, instala WeChat</string>
     <string name="passport_wrong_captcha">El código no es correcto</string>
     <string name="passport_wrong_phone_number_format">El formato del número de teléfono no es válido</string>
@@ -2465,6 +2466,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="search_syncing">Sincronizando datos, vuelve en un rato</string>
     <string name="search_title_album">Álbum</string>
     <string name="search_title_app_screenshot">Capturas de pantallas de aplicaciones</string>
+    <string name="search_title_daily">Hora</string>
     <string name="search_title_history">Historial de búsqueda</string>
     <string name="search_title_location">Ubicaciones</string>
     <string name="search_title_more">Más</string>
@@ -2519,7 +2521,6 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="send_public_url">Enviar URL del álbum</string>
     <string name="send_secret_file_failed">"No se pudo compartir"</string>
     <string name="send_secret_file_space_low">No hay suficiente espacio de almacenamiento</string>
-    <string name="send_too_many_files_error">Se pueden enviar hasta %d elementos a la vez</string>
     <string name="service_error">Error del servidor</string>
     <string name="service_is_provided_by_miui_cloud_service">Este servicio es proporcionado por Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Establecer como fondo de Pantalla de bloqueo</string>

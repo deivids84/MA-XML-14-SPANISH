@@ -51,6 +51,7 @@
     <string name="confirm_cancel_task_files">¿Cancelar el envío de archivos a %1$s?</string>
     <string name="confirm_cancel_task_images">¿Cancelar el envío de imágenes a %1$s?</string>
     <string name="copy">Copiar</string>
+    <string name="copy_success_toast">Copiado</string>
     <string name="cta_agree_desc">Permita que esta aplicación se conecte a Internet y conceda los permisos obligatorios enumerados anteriormente.</string>
     <string name="cta_btn_agree">Aceptar</string>
     <string name="cta_btn_disagree">"No estoy de acuerdo"</string>
@@ -222,6 +223,8 @@
     <string name="privacy_mosaic_result_fail">"No se pudo bloquear la información privada. Inténtalo otra vez."</string>
     <string name="privacy_mosaic_result_none">No se encontró información privada</string>
     <string name="privacy_mosaic_tip">Pulsa para bloquear la información privada</string>
+    <string name="privacy_mosaic_tip_long">"Capturas de pantalla con desplazamiento no soportadas"</string>
+    <string name="privacy_mosaic_tip_partial">"Capturas de pantalla parciales no soportadas"</string>
     <string name="remover_menu_processing">Procesando</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -257,6 +260,8 @@
     <string name="screen_talkback_shape">Forma</string>
     <string name="screen_talkback_small">Extra Pequeño</string>
     <string name="screen_talkback_text">Texto</string>
+    <string name="screenshot_detected_multiple_template">Varias aplicaciones, incluyendo %1$s, han detectado esta captura de pantalla</string>
+    <string name="screenshot_detected_template">%1$s ha detectado esta captura de pantalla</string>
     <string name="screenshot_edit">Editar</string>
     <string name="screenshot_failed_in_landscape_mode">"No puedes realizar capturas de pantalla desplazables en el modo paisaje"</string>
     <string name="screenshot_feedback_txt">Comentarios</string>

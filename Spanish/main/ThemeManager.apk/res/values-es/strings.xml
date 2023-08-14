@@ -59,6 +59,8 @@
     <string name="ad_download_resume">Continuar</string>
     <string name="ad_downloading_tip">Este elemento se está descargando. Puede ver el progreso en la notificación.</string>
     <string name="ad_experience_now">Abrir</string>
+    <string name="ad_in_downloading">Descargando</string>
+    <string name="ad_in_installing">Instalando</string>
     <string name="add">Agregar</string>
     <string name="add_home_icon_success">Añadido</string>
     <string name="add_resource_detail_fail">"No se pudo añadir el recurso"</string>
@@ -364,6 +366,7 @@
     <string name="favorite_list">Favoritos</string>
     <string name="favorite_list_format">%1$s favoritos</string>
     <string name="find_more_font">Encontrar más</string>
+    <string name="find_more_free_theme">Ver más</string>
     <string name="find_more_theme">Encontrar más</string>
     <string name="find_more_wallpapers">Encontrar más</string>
     <string name="first_page_recommend">Recomendado</string>

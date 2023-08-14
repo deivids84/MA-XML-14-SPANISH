@@ -122,6 +122,7 @@
     <string name="invisible_mode_dialog_title">"Estas en modo incógnito"</string>
     <string name="keywords_search_compass">Brújula;Calibrar brújula;Presión;Altitud;Latitud;Longitud;Verificar longitud;Verificar latitud;MIUI Compass;Aplicación Brújula;Aplicación MIUI Brújula;Dónde está Brújula;Descargar Brújula;Presión atmosférica;Verificar altitud;Cuales la altitud</string>
     <string name="latitude">LAT</string>
+    <string name="live_action">Vista previa en vivo</string>
     <string name="location_east">LE</string>
     <string name="location_enable">Permitir</string>
     <string name="location_enable_later">Más tarde</string>
@@ -130,6 +131,8 @@
     <string name="location_not_enabled_summary">La brújula necesita acceder a tu ubicación para mostrar las coordenadas y la altitud.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">La Brújula necesita acceder a tu ubicación para mostrar tus coordenadas actuales.</string>
     <string name="location_not_enabled_title">Servicios de ubicación</string>
+    <string name="location_permission_tip_one">Pulsa para otorgar permisos de ubicación y ver la latitud, la longitud, la presión del aire y la altitud.</string>
+    <string name="location_permission_tip_two">Pulsa para otorgar permisos de ubicación y ver la latitud, la longitud.</string>
     <string name="location_south">LS</string>
     <string name="location_west">LO</string>
     <string name="longitude">LON</string>
@@ -204,7 +207,13 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
+    <string name="network_dialog_message">Brújula necesita conexión a Internet para obtener datos de altitud más precisos. ¿Permitir?</string>
+    <string name="network_dialog_negative">"No permitir"</string>
+    <string name="network_dialog_positive">Permitir</string>
+    <string name="network_dialog_title">Permisos necesarios</string>
     <string name="new_cta_app_purpose">ver direcciones y coordenadas</string>
+    <string name="new_cta_app_purpose_one">¡Te damos la bienvenida a Brújula! Con esta aplicación puedes localizar direcciones cardinales, latitud, longitud, presión de aire y altitud. Necesita conexión a internet para proporcionar sus servicios.</string>
+    <string name="new_cta_app_purpose_two">¡Te damos la bienvenida a Brújula! Con esta aplicación puedes localizar direcciones cardinales, latitud y longitud. Necesita conexión a internet para proporcionar sus servicios.</string>
     <string name="new_cta_v2_app_purpose">Mostrando direcciones, coordenadas, presión atmosférica y altitud actual</string>
     <string name="new_permission_camera_desc">Para mostrar vistas previas en directo</string>
     <string name="new_permission_location_desc">Para mostrar coordenadas</string>
@@ -315,6 +324,8 @@
     <string name="unit_degree">Grados</string>
     <string name="using_camera_confirm_cancel">Salir</string>
     <string name="using_camera_confirm_ok">De acuerdo</string>
+    <string name="v2_permission_location_desc_one">Para mostrar latitud, longitud, altitud y presión atmosférica</string>
+    <string name="v2_permission_location_desc_two">Para mostrar latitud y longitud</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="wednesday">Miércoles</string>

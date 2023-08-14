@@ -81,7 +81,11 @@ Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
     <string name="cit_audio_hw_check_summary">Prueba de verificación del hardware de audio</string>
     <string name="cit_audio_hw_check_tips">Ejecutando prueba</string>
     <string name="cit_audio_hw_check_title">Probar el hardware de audio</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Prueba de retroalimentación del micrófono auxiliar</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Prueba de retroalimentación del micrófono posterior</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Prueba de retroalimentación del micrófono posterior al receptor.
+
+Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
     <string name="cit_audio_lb_summary_backmic_to_earpiece">"Prueba de retroalimentación del micrófono posterior al receptor.
 
 Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
@@ -127,6 +131,7 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
     <string name="cit_front_camera_motor_cali_tips">No bloquee la cámara durante el proceso de calibración del motor de la cámara emergente</string>
     <string name="cit_gyrodata_second_sensor_check_title">Segundo giroscopio</string>
     <string name="cit_gyroscope_second_cali_title">Segunda prueba de calibración del sensor del giroscopio</string>
+    <string name="cit_horn_motor_test">Prueba del motor de sonido de llamada</string>
     <string name="cit_ispv3_test">Prueba ISPv3</string>
     <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, por favor pruebe el sensor de luz</string>
     <string name="cit_modem_hardware_title">Prueba de hardware del módem</string>
@@ -151,6 +156,7 @@ Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejempl
     <string name="cit_tool_wlan_clear">limpiar</string>
     <string name="cit_tool_wlan_export">Exportar</string>
     <string name="cit_tool_wlan_rxbe_test">Rx: está</string>
+    <string name="cit_tool_wlan_sar_test_title">Herramienta Wifi-SAR</string>
     <string name="cit_tool_wlan_tx_be">Tx: está</string>
     <string name="cit_tool_wlan_tx_be_gI">Intervalo de guardia:</string>
     <string name="cit_tool_wlan_update_ap_list">Actualizar Lista AP</string>
@@ -214,6 +220,9 @@ Después de calibrar con éxito, controle el dispositivo cerca y alejado del dis
     <string name="sidetop_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte superior del dispositivo</string>
     <string name="soft_light_title">Luz suave</string>
     <string name="test_aux_mic">MICRÓFONO AUXILIAR</string>
+    <string name="test_horn_motor_summary">"Escucharás dos números aleatorios
+Pulsa el botón apropiado según el número que oigas
+Selecciona el botón correcto con las diferentes condiciones de vibración"</string>
     <string name="test_sidebottom_mic">Micrófono inferior</string>
     <string name="test_sidetop_mic">Micrófono superior</string>
     <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>
