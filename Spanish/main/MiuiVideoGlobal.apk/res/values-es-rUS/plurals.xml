@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
-        <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d horas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,8 +25,8 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace 1 minuto</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">Ver %d respuestas</item>
@@ -51,10 +51,6 @@
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundo</item>
-    </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">Mira %s segundos más de vídeo para ganar puntos y canjear recompensas</item>
-        <item quantity="one">Mira %s segundo más de vídeo para ganar puntos y canjear recompensas</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Regresando a la página de inicio en %1$d segundos…</item>
@@ -84,36 +80,6 @@
         <item quantity="other">en %d minutos</item>
         <item quantity="one">en 1 minuto</item>
     </plurals>
-    <plurals name="incentive_dialog_congratulation_get_credits_title">
-        <item quantity="other">"¡Has ganado %d puntos!"</item>
-        <item quantity="one">"¡Has ganado %d punto!"</item>
-    </plurals>
-    <plurals name="incentive_dialog_credits">
-        <item quantity="other">%d puntos</item>
-        <item quantity="one">%d punto</item>
-    </plurals>
-    <plurals name="incentive_dialog_login_and_get_credits_message">
-        <item quantity="other">Inicia sesión para ganar y reclamar %d puntos extra</item>
-        <item quantity="one">Inicia sesión para ganar y reclamar %d punto extra</item>
-    </plurals>
-    <plurals name="incentive_dialog_seconds">
-        <item quantity="other">%d segundos</item>
-        <item quantity="one">%d segundo</item>
-    </plurals>
-    <plurals name="incentive_guide_all_time_tip">
-        <item quantity="other">¡Mira %d minutos en total para ganar puntos! ¿Completar la tarea ahora?</item>
-        <item quantity="one">¡Mira %d minuto en total para ganar puntos! ¿Completar la tarea ahora?</item>
-    </plurals>
-    <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"Tienes %d puntos que reclamar
-Disponible solo hoy"</item>
-        <item quantity="one">"Tienes %d punto que reclamar
-Disponible solo hoy"</item>
-    </plurals>
-    <plurals name="incentive_guide_current_time_tip">
-        <item quantity="other">"Hoy has visto %d minutos"</item>
-        <item quantity="one">"Hoy has visto %d minuto"</item>
-    </plurals>
     <plurals name="incentive_popup_window_share_success">
         <item quantity="other">Compartido. Has ganado %d puntos.</item>
         <item quantity="one">Compartido. Has ganado %d punto.</item>
@@ -122,34 +88,6 @@ Disponible solo hoy"</item>
         <item quantity="other">Suscrito. Has ganado %d puntos.</item>
         <item quantity="one">Suscrito. Has ganado %d punto.</item>
     </plurals>
-    <plurals name="incentive_task_watchvideo_begin">
-        <item quantity="other">¡Gana %d puntos!</item>
-        <item quantity="one">¡Gana %d punto!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_finish">
-        <item quantity="other">"¡Tareas de hoy completadas! Has ganado %d puntos."</item>
-        <item quantity="one">"¡Tareas de hoy completadas! Has ganado %d punto."</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_of_one">
-        <item quantity="other">¡Has visto %1$1d s y ganado %2$2d puntos!</item>
-        <item quantity="one">¡Has visto %1$1d s y ganado %2$2d punto!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip1">
-        <item quantity="other">Mira un vídeo aleatorio para ganar %d puntos</item>
-        <item quantity="one">Mira un vídeo aleatorio para ganar %d punto</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip2">
-        <item quantity="other">Mira %1$1d segundos de vídeo para ganar %2$2d puntos</item>
-        <item quantity="one">Mira %1$1d segundos de vídeo para ganar %2$2d punto</item>
-    </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">Has ganado %d puntoa. Sigue compartiendo para ganar más.</item>
-        <item quantity="one">Has ganado %d punto. Sigue compartiendo para ganar más.</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">Has ganado %d puntos. Mantén la suscripción para ganar más.</item>
-        <item quantity="one">Has ganado %d punto. Mantén la suscripción para ganar más.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
         <item quantity="other">Justo ahora</item>
@@ -157,6 +95,10 @@ Disponible solo hoy"</item>
     <plurals name="local_diversion_video_number">
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Jugando a velocidad %sX. Suelta para jugar a velocidad normal.</item>
+        <item quantity="one">Jugando a velocidad %sX. Suelta para jugar a velocidad normal.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d carpetas</item>
@@ -181,10 +123,6 @@ Disponible solo hoy"</item>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
         <item quantity="other">Tamaño: %.2f kB</item>
         <item quantity="one">Tamaño: %.2f kB</item>
-    </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">%1$1d de %2$2d episodios disponibles</item>
@@ -214,14 +152,6 @@ Disponible solo hoy"</item>
         <item quantity="other">%d canciones</item>
         <item quantity="one">%d canción</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">"Compartido correctamente. Has ganado %d puntos. Reclámalos en el Centro de Puntos."</item>
-        <item quantity="one">"Compartido correctamente. Has ganado %d punto. Reclámalo en el Centro de Puntos."</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">"Suscrito correctamente. Has ganado %d puntos. Reclámalos en el Centro de Puntos."</item>
-        <item quantity="one">"Suscrito correctamente. Has ganado %d punto. Reclámalo en el Centro de Puntos."</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Su contenido contiene elementos (%1$s) que violan los estándares de nuestra comunidad. Su cuenta estará suspendida por %2$d días hasta %3$s.</item>
         <item quantity="one">Su contenido contiene elementos (%1$s) que violan los estándares de nuestra comunidad. Su cuenta estará suspendida por %2$d día hasta %3$s.</item>
@@ -233,14 +163,6 @@ Disponible solo hoy"</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">¿Eliminar %s elementos?</item>
@@ -297,10 +219,6 @@ Disponible solo hoy"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Agregar hasta %d marcadores</item>
         <item quantity="one">Agregar hasta %d marcador</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">¿Ocultar %d archivos seleccionados?</item>
-        <item quantity="one">¿Ocultar %d archivo seleccionado?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s me gusta</item>

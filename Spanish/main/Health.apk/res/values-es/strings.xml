@@ -103,7 +103,7 @@ Si no quieres acceder a las actividades recomendadas, puedes continuar usando lo
     <string name="auto_start_fail">"No se pudo conceder el permiso"</string>
     <string name="auto_start_success">Permisos concedidos</string>
     <string name="auto_start_tips">Pulsa \"Ajustes\" para configurar Salud Xiaomi y otorgar los permisos necesarios.</string>
-    <string name="avatar">Foto de perfil</string>
+    <string name="avatar">Foto del perfil</string>
     <string name="avatar_upload_failure">"No se pudo cargar. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="average_cycle_days">Ciclo medio</string>
     <string name="average_menstruation_days">Duración media del periodo</string>
@@ -185,8 +185,8 @@ Si no quieres acceder a las actividades recomendadas, puedes continuar usando lo
     <string name="button_record_menstruation">Grabar</string>
     <string name="buy">Comprar</string>
     <string name="calories">calorías</string>
-    <string name="camera_permission_desc">Para configurar fotos de perfil</string>
-    <string name="camera_permission_subtitle">Para obtener cambios del flujo sanguíneo para detección del ritmo cardiaco y configurar fotos de perfil</string>
+    <string name="camera_permission_desc">Para configurar fotos del perfil</string>
+    <string name="camera_permission_subtitle">Para obtener cambios del flujo sanguíneo para detección del ritmo cardiaco y configurar fotos del perfil</string>
     <string name="camera_permission_title">Usar cámara</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_edit">Descartar cambios</string>
@@ -488,7 +488,7 @@ Si tu dispositivo es uno de estos, puedes añadir fuentes de datos en Salud Xiao
     <string name="expand_all">Show all</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
-    <string name="external_storage_permission_subtitle">Para configurar fotos de perfil</string>
+    <string name="external_storage_permission_subtitle">Para configurar fotos del perfil</string>
     <string name="external_storage_permission_title">Acceda y guarde elementos en el almacenamiento</string>
     <string name="fall_sleep_hard">Trouble falling asleep</string>
     <string name="falling_duration">Falling asleep</string>
@@ -1144,7 +1144,7 @@ Si no deseas compartir esa información, puedes desactivar esta función."</stri
     <string name="sending">Enviando…</string>
     <string name="set_emergency_contact">Contacto de emergencia</string>
     <string name="setting">Ajustes</string>
-    <string name="setting_avatar">Foto de perfil</string>
+    <string name="setting_avatar">Foto del perfil</string>
     <string name="setting_birthday">Establecer fecha de nacimiento</string>
     <string name="setting_blood_type">Establecer tipo de sangre</string>
     <string name="setting_cycling_goals">Establecer objetivos de ciclismo</string>

@@ -192,7 +192,6 @@ vídeos que estén sincronizados, o visita i.mi.com para descargar todos a tu di
     <string name="gallery_service_termination_btn_continue">Continuar</string>
     <string name="gallery_service_termination_more_info">Para más detalles, consulta \"%s\"</string>
     <string name="help_and_feedback">Ayuda y comentarios</string>
-    <string name="hybrid_provider">Proporcionado por %1$s</string>
     <string name="i_know">Aceptar</string>
     <string name="input_password_hint">Escribe contraseña</string>
     <string name="keybag_create_by_new_passcode_prompt">"Este código de acceso protege tus contraseñas almacenadas en la nube. No podrás acceder si lo pierdes u olvidas."</string>
@@ -477,15 +476,16 @@ Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI
     <string name="midrive_guide_btn_installing">Instalando…</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -535,7 +535,6 @@ Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
     <string name="night">Tarde</string>
-    <string name="no_network">"No puedo conectarme a la red"</string>
     <string name="no_sim">"No se pudo encontrar la tarjeta SIM"</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
@@ -870,9 +869,11 @@ Puede que esta información no se envíe con una conexión de red deficiente."</
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="waiting_for_sync">Esperando…</string>
-    <string name="web_sso_login_fail">Debes iniciar la sesión otra vez</string>
-    <string name="web_sso_login_message">Iniciando sesión…</string>
-    <string name="webview_reload">Inténtalo otra vez</string>
+    <string name="web_view_auto_login_fail">"No se ha podido iniciar la sesión. Inténtalo otra vez."</string>
+    <string name="web_view_login_text">Iniciando sesión…</string>
+    <string name="web_view_reload_btn_text">Inténtalo otra vez</string>
+    <string name="web_view_reload_description_text">"No se pudo conectar a la red.
+Comprueba la configuración e inténtalo otra vez."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>

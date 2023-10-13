@@ -96,6 +96,10 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Jugando a velocidad %sX. Suelta para jugar a velocidad normal.</item>
+        <item quantity="one">Jugando a velocidad %sX. Suelta para jugar a velocidad normal.</item>
+    </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d carpetas</item>
         <item quantity="one">%d carpeta</item>

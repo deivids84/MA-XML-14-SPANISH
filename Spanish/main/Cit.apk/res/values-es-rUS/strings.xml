@@ -42,12 +42,38 @@
     <string name="auto_frontflash_title">Prueba de flash de la cámara frontal</string>
     <string name="auto_rearflash_description">Si todas las luces de flash trasero están encendidas pulsa Pasar, de lo contrario pulsa Fallar</string>
     <string name="auto_rearflash_title">Prueba de flash de la cámara trasera</string>
+    <string name="aux_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="back_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte trasera del dispositivo</string>
     <string name="battery_third_connector">Voltaje del conector de la batería</string>
     <string name="bottom_high_speaker_title">Prueba de tweeter inferior</string>
     <string name="bottom_low_speaker_title">Prueba de woofer inferior</string>
     <string name="bottom_right_low_speaker">Prueba de woofer inferior derecho</string>
     <string name="bottom_speaker_title">Prueba del altavoz inferior</string>
+    <string name="cit_DP_check_summary">El cable tipo C a DP debe estar conectado durante el proceso de prueba</string>
+    <string name="cit_DP_in_start_test">Inserta el cable tipo C a DP para iniciar la prueba</string>
+    <string name="cit_DP_plug_err">"Cambio de conexión del dispositivo de detección 
+ Error de lectura del valor del nodo subyacente 
+ No se ha obtenido el valor"</string>
+    <string name="cit_DP_plug_fail">"Cambio de conexión del dispositivo de detección 
+ Error de lectura del valor del nodo subyacente 
+ Inserta el cable tipo C a DP para iniciar la prueba"</string>
+    <string name="cit_DP_plug_out_fail">"Cambio de conexión del dispositivo de detección 
+ Error de lectura del valor del nodo subyacente 
+ La prueba ha fallado
+"</string>
+    <string name="cit_DP_plug_pass">"Cambio de conexión del dispositivo de detección 
+ Lectura correcta del valor del nodo subyacente 
+ Observa si la pantalla es correcta y pulsa el botón correspondiente"</string>
+    <string name="cit_USB3_2GEN1_check_summary">Los dispositivos compatibles USB3.2 GEN1 han de insertarse durante la prueba</string>
+    <string name="cit_USB3_2GEN1_check_title">USB3.2 GEN1</string>
+    <string name="cit_USB3_2_check_summary">Los dispositivos compatibles USB3.2 GEN1 han de insertarse durante la prueba</string>
+    <string name="cit_USB3_2_check_title">USB3.2</string>
+    <string name="cit_USB3_in_start_test">Inserta los dispositivos compatibles con %1$s e inicia la prueba</string>
+    <string name="cit_USB3_plug_fail">El dispositivo no soporta %1$s y la prueba ha fallado</string>
+    <string name="cit_USB3_plug_out_test_fail">"El dispositivo se ha retirado. La prueba ha fallado
+Puede que el equipo de prueba no admita %1$s. Se recomienda probar el equipo de sustitución"</string>
+    <string name="cit_USB3_plug_pass">%1$s pasada, retira los dispositivos</string>
+    <string name="cit_USB3_plug_re_plugin">"La prueba %1$s ha terminado. No la repitas"</string>
     <string name="cit_accdata_second_sensor_check_title">Segundo acelerómetro</string>
     <string name="cit_accelermeter_second_cali_title">Segunda prueba de calibración del sensor de aceleración</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mover el dispositivo rápidamente en una dirección. Los valores de coordenadas X，Y，Z se muestran a continuación. (cuando el dispositivo está en movimiento: X representa la izquierda/derecha, y representa la parte delantera/atrás, z representa arriba y abajo).
@@ -55,9 +81,21 @@ Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
     <string name="cit_audio_hw_check_summary">Prueba de verificación del hardware de audio</string>
     <string name="cit_audio_hw_check_tips">Ejecutando prueba</string>
     <string name="cit_audio_hw_check_title">Probar el hardware de audio</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Prueba de retroalimentación del micrófono auxiliar</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">Prueba de retroalimentación del micrófono posterior</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Prueba de retroalimentación del micrófono posterior al receptor.
+
+Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Prueba de retroalimentación del micrófono posterior al receptor.
+
+Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prueba de retroalimentación del micrófono principal al receptor.
 
 Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micrófono principal, debería escuchar la voz del receptor"</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Prueba de retroalimentación del micrófono superior al receptor.
+
+Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Prueba de retroalimentación del microfono superior</string>
     <string name="cit_batterylight_rgb_all">Todos los efectos de luz</string>
     <string name="cit_calibration_finish">Calibración de datos completada</string>
     <string name="cit_camera_check_summary">"Instrucciones de prueba:
@@ -66,6 +104,7 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
 2. Toca el botón del obturador
 3. El sistema guardará la foto automáticamente después de la captura
 4. La foto que tomó debe mostrarse en la pantalla, toque Pase para completar la prueba."</string>
+    <string name="cit_camera_hardware_check">Detectando funciones del hardware de la cámara. Espera...</string>
     <string name="cit_camera_otp_download_title">Prueba de descarga de cámara OTP</string>
     <string name="cit_camera_rearsub">Prueba de subcámara en curso, espera....</string>
     <string name="cit_charger_test_tips_pd">El dispositivo actual necesita probar USB_PD</string>
@@ -77,16 +116,30 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
     <string name="cit_digital_hall_sensor_check_title">Prueba de Digital Hall</string>
     <string name="cit_emergencycall_check_summary">Haga clic en el botón Marcar 112 para marcar el 112 y comprobar si se puede colocar el 112.</string>
     <string name="cit_emergencycall_check_title">Llamada de emergencia</string>
+    <string name="cit_esim_check_summary">A continuación se muestra el estado de eSIM. La visualización correcta de su estado indica que la prueba ha pasado</string>
+    <string name="cit_esim_check_title">Tarjeta eSIM</string>
+    <string name="cit_esim_eid_error">No se cumple el eID</string>
+    <string name="cit_esim_eid_number">eID:</string>
+    <string name="cit_esim_mode_general_summary">Soporte de conmutación eSIM / SIM2</string>
+    <string name="cit_esim_mode_number">Modo eSIM:</string>
+    <string name="cit_esim_mode_single_summary">No hay soporte de conmutación eSIM / SIM2</string>
+    <string name="cit_esim_serial_number">Tarjeta eSIM :</string>
+    <string name="cit_esim_state_absent">Tarjeta eSIM no activada</string>
+    <string name="cit_esim_state_ready">Tarjeta eSIM activada</string>
     <string name="cit_front_camera_motor_cali_fail">Falló la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_success">Éxito en la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_tips">No bloquee la cámara durante el proceso de calibración del motor de la cámara emergente</string>
+    <string name="cit_front_sub_camera_check_title_fold">Cámara frontal de subpantalla</string>
     <string name="cit_gyrodata_second_sensor_check_title">Segundo giroscopio</string>
     <string name="cit_gyroscope_second_cali_title">Segunda prueba de calibración del sensor del giroscopio</string>
+    <string name="cit_horn_motor_test">Prueba del motor de sonido de llamada</string>
     <string name="cit_ispv3_test">Prueba ISPv3</string>
     <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, por favor pruebe el sensor de luz</string>
+    <string name="cit_modem_hardware_title">Prueba de hardware del módem</string>
     <string name="cit_nfc_check_summary">"Por favor, haga clic en el botón para iniciar NFC y, a continuación, coloque la tarjeta en la parte superior de la parte posterior del dispositivo. 
 No apague la pantalla durante la prueba"</string>
     <string name="cit_nfc_check_tip">pon la tarjeta en la parte superior de la parte trasera del dispositivo</string>
+    <string name="cit_pixeworks_chip_check_title">Prueba de chip Pixeworks Iris 7</string>
     <string name="cit_proximity_data_check_summary">"Sensor de distancia infrarrojo: Cubra el sensor de distancia con la mano y, a continuación, deje libre el sensor. 
  Sensor de distancia ultrasónico: Por favor simule la acción de responder el dispositivo 
  Si el área de prueba inferior muestra un valor de 0.0 al acercarse, y un valor 5.0 se muestra cuando está lejos, la prueba es exitosa, de lo contrario la prueba falla."</string>
@@ -103,6 +156,10 @@ Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejempl
     <string name="cit_tool_wlan_circular_capture">Captura circular</string>
     <string name="cit_tool_wlan_clear">limpiar</string>
     <string name="cit_tool_wlan_export">Exportar</string>
+    <string name="cit_tool_wlan_rxbe_test">Rx: está</string>
+    <string name="cit_tool_wlan_sar_test_title">Herramienta Wifi-SAR</string>
+    <string name="cit_tool_wlan_tx_be">Tx: está</string>
+    <string name="cit_tool_wlan_tx_be_gI">Intervalo de guardia:</string>
     <string name="cit_tool_wlan_update_ap_list">Actualizar Lista AP</string>
     <string name="cit_touch_auto_main_tips">Autoprueba de la pantalla de inicio en curso, no toque la pantalla</string>
     <string name="cit_touch_auto_operate_expand_screen_tips">Primero expanda la pantalla y luego realice la autocomprobación de la pantalla principal</string>
@@ -127,6 +184,7 @@ haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</s
     <string name="cold_light_title">Luz fría</string>
     <string name="edittextdisplay">¡Nuestra bienvenida a la herramienta sar!</string>
     <string name="edittextdisplayf">¡Se han limitado los permisos!</string>
+    <string name="enrollment_error_tip">Se activa la estrategia de control de huellas dactilares. Comprueba que las huellas estén claras y limpias, o sal de la prueba y empieza otra vez.</string>
     <string name="fod_check_start_error">"No se puede iniciar el programa de verificación del sensor
 Prueba fallida!"</string>
     <string name="fod_check_summary">"Instrucciones de prueba:
@@ -134,10 +192,11 @@ Prueba automática basada en el tipo de sensor
 Base el resultado de la prueba, haga clic en el botón de aprobar o suspender"</string>
     <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
     <string name="headset_plug_check_tip">Ahora reproduce la grabación y escucha los auriculares. Retíralos cuando termine la prueba</string>
-    <string name="main_mic_check_record_tip">Grabando, por favor diga algo al MIC en el principal del dispositivo</string>
+    <string name="main_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="motor_calibration">Calibración del motor</string>
     <string name="mtb_tool_modem_cdma_manager">Administrador de caudal de CDMA</string>
     <string name="open_third_color_led">abrir led de tres colores</string>
+    <string name="password_enroll_error">El dispositivo tiene contraseña. No puede registrar información de huella digital</string>
     <string name="pop_camera">Cámara pop</string>
     <string name="pop_push_camera_test_summary">"Haga clic en el botón de cámara emergente para ver si la cámara sale
 Haga clic en el botón de cámara para ver si la cámara entra"</string>
@@ -145,6 +204,7 @@ Haga clic en el botón de cámara para ver si la cámara entra"</string>
     <string name="push_camera">Empuje la cámara</string>
     <string name="radio_info_data_connected">Conectado</string>
     <string name="radio_info_data_disconnected">Desconectado</string>
+    <string name="remove_finger">Eliminar el dedo de prueba</string>
     <string name="sar_algo_data_check_description">Recopilación de datos Sar Algo</string>
     <string name="sar_mtk_test_title">Prueba de autenticación Sar Mtk</string>
     <string name="sar_sensor_collect_data_self_cali">Autocalibración</string>
@@ -160,12 +220,18 @@ Después de calibrar con éxito, controle el dispositivo cerca y alejado del dis
     <string name="sidebottom_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="sidetop_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte superior del dispositivo</string>
     <string name="soft_light_title">Luz suave</string>
+    <string name="test_aux_mic">MICRÓFONO AUXILIAR</string>
+    <string name="test_horn_motor_summary">"Escucharás dos números aleatorios
+Pulsa el botón apropiado según el número que oigas
+Selecciona el botón correcto con las diferentes condiciones de vibración"</string>
     <string name="test_sidebottom_mic">Micrófono inferior</string>
     <string name="test_sidetop_mic">Micrófono superior</string>
+    <string name="test_sub_front_camera">Cámara frontal de subpantalla</string>
     <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>
     <string name="top_high_speaker_title">Prueba de tweeter superior</string>
     <string name="top_low_speaker_title">Prueba de woofer superior</string>
     <string name="top_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte superior del dispositivo</string>
     <string name="top_speaker_title">Prueba del altavoz superior</string>
     <string name="warm_light_title">Luz cálida</string>
+    <string name="wifi_power_test_testing">Prueba de potencia Wifi...</string>
 </resources>

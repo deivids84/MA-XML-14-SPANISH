@@ -1004,7 +1004,7 @@ Widget: %2$s
     <string name="available_via_carrier">Disponible vía %1$s</string>
     <string name="available_via_passpoint">Disponible vía %1$s</string>
     <string name="available_virtual_keyboard_category">Teclado en pantalla disponible</string>
-    <string name="avatar_picker_title">Selecciona una foto de perfil</string>
+    <string name="avatar_picker_title">Selecciona una foto del perfil</string>
     <string name="average_memory_use">Uso promedio de la memoria</string>
     <string name="average_used">Uso promedio (%)</string>
     <string name="avoid_ui">Bloquear respuesta táctil</string>
@@ -5045,7 +5045,7 @@ Como mínimo conecta 4 puntos."</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
-    <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta característica ahora</string>
+    <string name="magic_list_empty_text_pad">No se han encontrado aplicaciones que soporten ventanas paralelas</string>
     <string name="magic_window_name_pad">Ventanas paralelas</string>
     <string name="main_clear_accounts">"
 
@@ -6536,7 +6536,6 @@ Read and agree to %s before using this service."</string>
     <string name="picture_in_picture_title">Pantalla en pantalla</string>
     <string name="pin_failed">Error al desbloquear la tarjeta SIM con el PIN</string>
     <string name="ping_test_label">Ejecutar prueba de ping</string>
-    <string name="placeholder_activity">*Esta es una actividad alternativa de marcador de posición temporal.</string>
     <string name="platform_compat_dashboard_summary">Activar o desactivar los cambios de compatibilidad de la app</string>
     <string name="platform_compat_dashboard_title">Cambios en la compatibilidad de la app</string>
     <string name="platform_compat_default_disabled_title">Cambios inhabilitados de manera predeterminada</string>
@@ -8456,6 +8455,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
     <string name="status_bar_app_enable_keyguard">Pantalla de bloqueo</string>
     <string name="status_bar_app_enable_message">Íconos</string>
     <string name="status_bar_carrier_settings_no_sim_card">No hay tarjeta SIM</string>
+    <string name="status_bar_icons_title">Iconos de la barra de estado</string>
     <string name="status_bar_settings">Notificaciones y barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Un momento…</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>

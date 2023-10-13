@@ -107,6 +107,7 @@
     <string name="close">Cerrar</string>
     <string name="close_camera_failed">"No se pudo cerrar la cámara…"</string>
     <string name="close_camera_requesting">Cerrando cámara…</string>
+    <string name="cloud_video_conference">Videoconferencia en la nube</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_recorder_title">Conferencia</string>
     <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
@@ -164,7 +165,7 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
-    <string name="high_temperature_toast">En protección por temperatura excesiva. Función no disponible temporalmente</string>
+    <string name="high_temperature_toast">"El dispositivo está muy caliente. Ahora no puedes usar esta función."</string>
     <string name="inCallLabel">Teléfono</string>
     <string name="incall_bubble_hangup_click_hint">Vuelva a tocar para volver a la llamada</string>
     <string name="incall_call_type_label_sip">Llamada por internet</string>
@@ -276,6 +277,7 @@
     <string name="onscreen_add_call_text">Agregar llamada</string>
     <string name="onscreen_audio_mode_handset">Auricular</string>
     <string name="onscreen_audio_mode_headset">Auriculares</string>
+    <string name="onscreen_audio_mode_mirror">Tablet</string>
     <string name="onscreen_audio_mode_speaker">Altavoz</string>
     <string name="onscreen_call_record">Grabar</string>
     <string name="onscreen_change_to_video">Video llamada</string>
@@ -309,16 +311,6 @@
     <string name="relay_network_error_msg">"No puedo recibir llamadas en este dispositivo debido a un error de red. Regresa tu teléfono a su lugar."</string>
     <string name="remind_unlock_message">Su dispositivo está bloqueado. \"%s\" estará disponible al desbloquearlo. ¿Desbloquear dispositivo ahora?</string>
     <string name="respond_via_sms_custom_message">Personalizar SMS</string>
-    <string name="saf_permission_content">"Se actualizaron los permisos del sistema. Para poder grabar llamadas, otorga tu permiso primero.
-
-Cómo otorgar permiso
-Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
-    <string name="saf_permission_grant_permission_immediately">Siguiente</string>
-    <string name="saf_permission_later">Ahora no</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Para poder guardar grabaciones, desbloquea tu dispositivo primero. ¿Desbloquear ahora?</string>
-    <string name="saf_permission_refused">"No se pueden grabar llamadas debido a la falta de permisos"</string>
-    <string name="saf_permission_title">Permisos requeridos</string>
-    <string name="saf_permission_use_this_folder">Usar esta carpeta</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

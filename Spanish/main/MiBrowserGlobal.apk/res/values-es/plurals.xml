@@ -60,6 +60,18 @@
         <item quantity="other">Reproduciendo el siguiente vídeo en %d segundos</item>
         <item quantity="one">Reproduciendo el siguiente vídeo en %d segundo</item>
     </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">"No has escaneado el dispositivo en %d días. ¿Hacerlo ahora?"</item>
+        <item quantity="one">"No has escaneado el dispositivo en %d día. ¿Hacerlo ahora?"</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">días</item>
+        <item quantity="one">día</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">"No has optimizado el dispositivo en %d días. ¿Hacerlo ahora?"</item>
+        <item quantity="one">"No has optimizado el dispositivo en %d día. ¿Hacerlo ahora?"</item>
+    </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s \"me gusta\"</item>
         <item quantity="one">%s \"me gusta\"</item>

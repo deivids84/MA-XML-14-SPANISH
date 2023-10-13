@@ -328,6 +328,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="backup_automatically_title">Sincronizar automáticamente</string>
     <string name="backup_battery_low_desc">Puedes reanudar la sincronización cuando la batería es baja</string>
     <string name="backup_battery_low_title">Copia pausada por batería baja</string>
+    <string name="backup_category_title">COPIA DE SEGURIDAD</string>
     <string name="backup_close">Cerrar copia de seguridad</string>
     <string name="backup_cloud_space_low_btn_text">Obtener más</string>
     <string name="backup_cloud_space_low_desc">%1$s en Xiaomi Cloud | Disponible %2$s</string>
@@ -343,7 +344,10 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="backup_dirty_num">Total: %s</string>
     <string name="backup_dirty_tip">Fotos y videos no respaldados</string>
     <string name="backup_disable_message">La galería debe borrar la caché de la aplicación porque desactivó la sincronización con la nube.</string>
+    <string name="backup_display">Recordatorios del almacenamiento</string>
     <string name="backup_file_over_size_desc">"Las fotos mayores de %1$s y los vídeos mayores de %2$s no pueden ser copiados."</string>
+    <string name="backup_google_description">Mantén tus fotos seguras haciendo copia de seguridad en tu cuenta Google</string>
+    <string name="backup_google_name">Fotos de Google</string>
     <string name="backup_immediately">Copia de seguridad</string>
     <string name="backup_need_sync_desc">Toca para continuar con la copia de seguridad</string>
     <string name="backup_need_sync_title">Copia detenida</string>
@@ -353,6 +357,10 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="backup_no_wifi_btn_text">Usar datos</string>
     <string name="backup_no_wifi_desc">Puedes reanudar la sincronización mientras usas datos móviles</string>
     <string name="backup_no_wifi_title">La sincronización se reanudará después de que se conecte a una red Wi-Fi</string>
+    <string name="backup_off_des">Activar la sincronización con la nube para respaldar automáticamente fotos y vídeos</string>
+    <string name="backup_onedrive_description">Protege tus fotos en la nube y accede a ellas desde cualquier dispositivo</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Solo usar Wi-Fi para sincronizar fotos y vídeos</string>
     <string name="backup_only_in_wifi_summary">Nunca usar datos móviles para sincronizar fotos o vídeos</string>
     <string name="backup_only_wifi_dialog_message">¿Utilizar datos móviles para sincronizar fotos y vídeos?</string>
@@ -663,6 +671,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="creativity_title">Creatividad</string>
     <string name="crop_label">Fotos recortadas</string>
     <string name="cta_agreement_declare"><Data>Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar esta aplicación.</Data></string>
+    <string name="cta_hybrid_feedback_network_declare">Para ver soluciones a los problemas más comunes, permite conexión a la red de esta aplicación.</string>
     <string name="cta_network_declare">Para sincronizar fotos y videos con Xiaomi Cloud, esta aplicación debe conectarse a Internet.</string>
     <string name="cta_screenthrow_declare">"Para transmitir la pantalla de este dispositivo a monitores externos, esta aplicación necesita conectarse a Internet."</string>
     <string name="custom_select_title_deselect_all">Deseleccionar</string>
@@ -1182,6 +1191,8 @@ disponibles"</string>
     <string name="get_user_info_top_hint_text">Invita a través de la cuenta Xiaomi</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_cloud_action_upgrade_onedrive">Actualizar OneDrive</string>
+    <string name="global_cloud_full_space_tip_message">Actualiza tu plan de almacenamiento en la nube para hacer copias de seguridad de todas tus fotos y vídeos.</string>
     <string name="global_pad">Mi tablet</string>
     <string name="global_pc">Mi laptop</string>
     <string name="global_phone">Mi teléfono</string>
@@ -1482,6 +1493,7 @@ disponibles"</string>
     <string name="main_save_compress">Comprimir y guardar</string>
     <string name="main_save_error_msg">"No se pudieron guardar los cambios debido a un error"</string>
     <string name="main_save_origin">Guardar archivos originales</string>
+    <string name="manager_backup">Administrar</string>
     <string name="manual_hide_manage">Añadir archivos \".nomedia\"</string>
     <string name="manual_hide_state">Añadidos los archivos \".nomedia\"</string>
     <string name="map_album">Mapa</string>
@@ -1800,6 +1812,7 @@ para personalizar la Galería"</string>
     <string name="online_video_vip_transcoding">"A punto de comenzar la retransmisión VIP…
 La transcodificación puede llevar algo de tiempo cuando utilizas esta función por primera vez."</string>
     <string name="open">Activar</string>
+    <string name="open_backup">Activar</string>
     <string name="open_public_message">Crear una URL para compartir con tus amigos</string>
     <string name="open_public_title">Compartir</string>
     <string name="open_settings">Ajustes</string>
@@ -2190,6 +2203,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="picker_title_specify_format">Selecciona %d fotos</string>
     <string name="picker_title_specify_format_one">Selecciona %d foto</string>
     <string name="picker_title_unlimit">Seleccionar fotos</string>
+    <string name="picture_not_support_privacy_watermark">"No se puede añadir una marca de agua. Imagen demasiado pequeña."</string>
     <string name="places_album_empty_title">Las fotos pueden ordenarse por ubicación</string>
     <string name="play_gif_desc">Reproducir GIF</string>
     <string name="play_video_desc">Reproducir vídeo</string>
@@ -2423,6 +2437,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="search_clear_histories">Eliminar el historial de búsqueda</string>
     <string name="search_connection_error">"No es posible conectarse a la red"</string>
     <string name="search_connection_error_and_set">Toca para revisar los ajustes de red</string>
+    <string name="search_domestic_edit_hint">Buscar fotos y vídeos</string>
     <string name="search_edit_hint">Buscar archivos o álbumes</string>
     <string name="search_empty_title">Encontrar fotos con personas, lugares y objetos en la Galería</string>
     <string name="search_error">Ha ocurrido un error</string>
@@ -2504,6 +2519,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="see_ignore_faces">"Ver las personas ignoradas"</string>
     <string name="see_more_settings">Ajustes adicionales</string>
     <string name="select_all">Seleccionar todo</string>
+    <string name="select_backup">Seleccionar copia de seguridad</string>
     <string name="select_image_operation">Añadiendo fotos</string>
     <string name="select_item_face">"¿Es esta persona '%s'?"</string>
     <string name="select_origin_tip">Archivo original (%s)</string>

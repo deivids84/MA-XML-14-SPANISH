@@ -290,6 +290,7 @@
     <string name="full_scorecard">Todas las puntuaciones</string>
     <string name="gadget_no_events">No hay eventos próximos</string>
     <string name="gadget_title">Calendario</string>
+    <string name="glance_card_sub_title">Obtén historias emocionantes en la pantalla de bloqueo</string>
     <string name="global_action_text_card_manager">Personaliza tu calendario</string>
     <string name="global_cricket_no_match">Hoy no hay partidos de críquet. Mira otros días.</string>
     <string name="global_football_final">FINAL</string>

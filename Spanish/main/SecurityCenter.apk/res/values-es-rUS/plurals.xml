@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
-        <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d horas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,20 +25,24 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d mins</item>
-        <item quantity="one">Hace 1 minuto</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d juegos añadidos</item>
         <item quantity="one">%d juego añadido</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d aplicaciones añadidas</item>
+        <item quantity="one">%d aplicación añadida</item>
     </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplicaciones</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d aplicaciones desinstaladas</item>
         <item quantity="one">%d aplicación desinstalada</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Actualizar %d aplicaciones</item>
+        <item quantity="one">Actualizar %d aplicación</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Usado hace %d días</item>
         <item quantity="one">Usado hace %d día</item>
@@ -216,6 +224,14 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundos</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Buscar entre %d aplicaciones</item>
         <item quantity="one">Buscar entre %d aplicación</item>
@@ -296,6 +312,13 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Entendido (%ds)</item>
         <item quantity="one">Entendido (%ds)</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"· Las imágenes mejoradas no estarán disponibles con el ahorro de batería activado o el dispositivo esté muy caliente.
+· La velocidad de fotogramas obtiene mejores resultados con el juego configurado para mostrar al menos %d fotogramas por segundo."</item>
+        <item quantity="one">"Nota:
+· Las imágenes mejoradas no estarán disponibles con el ahorro de batería activado o el dispositivo esté muy caliente.
+· La velocidad de fotogramas obtiene mejores resultados con el juego configurado para mostrar al menos %d fotograma por segundo."</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Prueba Voice Changer ahora 
 para obtener una prueba gratuita de %d día."</item>
@@ -356,9 +379,17 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="other">"%d aplicaciones no pueden iniciarse automáticamente"</item>
         <item quantity="one">"%d aplicación no puede iniciarse automáticamente"</item>
     </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">"%d aplicaciones no pueden iniciarse en segundo plano"</item>
+        <item quantity="one">"%d aplicación no puede iniciarse en segundo plano"</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicaciones pueden iniciarse automáticamente</item>
         <item quantity="one">%d aplicación puede iniciarse automáticamente</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d aplicaciones pueden iniciarse en segundo plano</item>
+        <item quantity="one">%d aplicación puede iniciarse en segundo plano</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">"%d aplicaciones no tienen acceso a la raíz"</item>
@@ -508,6 +539,10 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="other">"El acceso a la red está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicaciones"</item>
         <item quantity="one">"El acceso a la red está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicación"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplicaciones no añadidas</item>
+        <item quantity="one">%d aplicación no añadida</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d días sin análisis de seguridad</item>
         <item quantity="one">%d día sin análisis de seguridad</item>
@@ -576,6 +611,10 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="other">%d aplicaciones</item>
         <item quantity="one">%d aplicación</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplicaciones, incluyendo %1$s, podrían ser maliciosas</item>
+        <item quantity="one">%2$d aplicación, incluyendo %1$s, podría ser maliciosa</item>
+    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d aplicaciones están vaciando la batería</item>
         <item quantity="one">%d aplicación está vaciando la batería</item>
@@ -587,6 +626,10 @@ para obtener una prueba gratuita de %d días."</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" mins"</item>
         <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">El dispositivo está sin batería. Entrará en hibernación en %1$d segundos.</item>
+        <item quantity="one">El dispositivo está sin batería. Entrará en hibernación en %1$d segundo.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s días</item>
@@ -687,6 +730,10 @@ para obtener una prueba gratuita de %d días."</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d mins "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimiza el uso de batería en %d escenarios</item>
+        <item quantity="one">Optimiza el uso de batería en %d escenario</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Solucionar %d problemas de uso de la batería</item>

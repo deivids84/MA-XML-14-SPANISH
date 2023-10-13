@@ -219,6 +219,7 @@
     <string name="common_home_search_delete_confirm">Eliminar</string>
     <string name="common_home_search_delete_content">"No podrás usar la búsqueda rápida si eliminas la barra en la pantalla de inicio. ¿Eliminarla?"</string>
     <string name="confirm_btn_label">OK </string>
+    <string name="content_center">Centro de contenido</string>
     <string name="content_description_button_add">Pulsa para añadir a las aplicaciones actuales</string>
     <string name="content_description_button_disable">"No se pueden añadir más aplicaciones actuales"</string>
     <string name="content_description_button_remove">Pulsa para eliminar de las aplicaciones actuales</string>
@@ -340,6 +341,11 @@
     <string name="in_app_result_by">Resultados en la aplicación por</string>
     <string name="install">Instalar</string>
     <string name="intelligent_exposed_button_summary_text">Usa sugerencias inteligentes, con base en el uso de la aplicación, para resaltar aplicaciones en carpetas ampliadas</string>
+    <string name="international_home_pull_down_content">Desliza hacia abajo en la pantalla inicio para buscar en el dispositivo y en Internet.</string>
+    <string name="international_home_pull_down_sub_content">Puedes cambiar el gesto para abrir el Centro de control en Ajustes &gt; Pantalla de inicio &gt; Desliza hacia abajo en la pantalla inicio.</string>
+    <string name="international_home_pull_down_up_btn_get">Entendido</string>
+    <string name="international_home_pull_up_content">Desliza hacia arriba en la pantalla inicio para abrir el Centro de Contenido.</string>
+    <string name="international_home_pull_up_sub_content">Para abrir la búsqueda, desliza hacia abajo desde el centro en la pantalla inicio.</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="jeejen_description">"Elementos de la interfaz más grandes.
 Llamadas más accesibles.
@@ -709,6 +715,7 @@ Seguridad mejorada."</string>
     <string name="switch_personal_assistant_app_vault">Bóveda de aplicaciones</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Nada</string>
+    <string name="switch_personal_assistant_summary">Desliza a la derecha, en la pantalla de Inicio, para abrir Google Discover</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir botones de Atrás y Menú</string>
     <string name="system_shortcuts_edit">Editar</string>
@@ -727,7 +734,7 @@ Seguridad mejorada."</string>
     <string name="title_jeejen">Pantalla de inicio Jeejen</string>
     <string name="toast_drag_to_assistant_reject">Inicializando App Vault…</string>
     <string name="toast_screen_icons_misplaced">Restaurado desde otra fuente, algunos iconos podrían estar en otro lugar.</string>
-    <string name="toast_split_app_unsupported">La aplicación no admite pantalla dividida.</string>
+    <string name="toast_split_app_unsupported">La aplicación no admite pantalla dividida</string>
     <string name="toast_split_select_app">Pulsa en otra aplicación para pantalla dividida</string>
     <string name="today">Hoy</string>
     <string name="toggle_title">Interruptores</string>
@@ -749,7 +756,7 @@ Seguridad mejorada."</string>
     <string name="uninstall_xspace_dialog_message">Desinstalar una aplicación dual eliminará todos los datos de la aplicación.</string>
     <string name="uninstall_xspace_dialog_title_format">¿Desinstalar aplicación dual de %s?</string>
     <string name="unnamed_folder_name">Carpeta</string>
-    <string name="unstable_dialog_message">Este dispositivo está inscrito en el Programa de Previsualización para Desarrolladores de Android 13. El programa permite a los desarrolladores y entusiastas de Android probar versiones preliminares de Android 13. Estas versiones preliminares pueden contener errores y defectos que afecten al funcionamiento normal del dispositivo.</string>
+    <string name="unstable_dialog_message">El dispositivo está inscrito en el Programa de Previsualización para Desarrolladores de Android 14. Esto permite a los desarrolladores y entusiastas de Android probar versiones preliminares de Android 14. Estas versiones pueden contener errores y defectos que afecten al normal funcionamiento del dispositivo.</string>
     <string name="unstable_dialog_title">Programa de Previsualización para Desarrolladores de Android</string>
     <string name="upgrade_remove_small_window_in_recents">Puedes usar la barra lateral para abrir aplicaciones en ventanas flotantes</string>
     <string name="v7_preference_off">DESACTIVADA</string>

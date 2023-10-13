@@ -107,6 +107,9 @@
     <string name="auth_fail_warning">La sesión ha finalizado. Iníciala otra vez.</string>
     <string name="auto_play_next_off">Reproducción automática desactivada</string>
     <string name="auto_play_next_on">Reproducción automática activada</string>
+    <string name="back_recommend_exchange">Visualización</string>
+    <string name="back_recommend_exit">Salir</string>
+    <string name="back_recommend_title">Echa un vistazo a los vídeos más populares</string>
     <string name="back_to_mainpage">Descubrir</string>
     <string name="background_playback_enabled">Reproducción en segundo plano activada</string>
     <string name="before_yestoday_new">Hace %d días</string>
@@ -303,6 +306,10 @@ Remite este código al supervisor."</string>
     <string name="dialog_open_internet_btn">Conectar a la red</string>
     <string name="dialog_privacy_change_info">"Hemos actualizado la Política de Privacidad de Mi Vídeo debido a ajustes en los servicios que ofrecemos. Para comprender completamente tus derechos como usuario, así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar la aplicación."</string>
     <string name="dialog_privacy_change_title">Actualización de la Política de Privacidad</string>
+    <string name="dialog_privacy_info">"¡Te damos la bienvenida a Mi Video! Esta aplicación proporciona los siguientes servicios:
+- Transmisión en línea
+- Reproductor de video local
+Necesita recopilar información personal necesaria para los servicios básicos. Puedes ver cómo manejamos la información recopilada en nuestra Política de Privacidad y cambiar la configuración en los ajustes del perfil."</string>
     <string name="dialog_privacy_info_new4">"¡Te damos la bienvenida a Mi Vídeo! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Retransmisión en línea&lt;br&gt;&lt;/br&gt;- Reproducción de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necesita recopilar información personal para proporcionar los servicios básicos. Puedes conocer como manejamos la información recopilada leyendo nuestra Política de Privacidad. Podrás cambiar la configuración en Ajustes&gt; contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usarlo."</string>
     <string name="dialog_privacy_info_new5">¡Te damos la bienvenida a Mi Vídeo! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Retransmisión en línea&lt;br&gt;&lt;/br&gt;- Reproducción de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necesita recopilar información personal para proporcionar los servicios básicos. Puedes conocer como manejamos la información recopilada leyendo nuestra Política de Privacidad. Podrás cambiar la configuración en Ajustes&gt; contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usarlo.</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
@@ -622,6 +629,7 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="have_learned">Entendido</string>
     <string name="hidden_channels">"Los siguientes canales no se mostrarán en la Página de inicio."</string>
     <string name="hide">Ocultar</string>
+    <string name="hide_video_toast">Este elemento está oculto. Puedes encontrar y administrar elementos ocultos en Locales &gt; Carpetas &gt; Elementos ocultos.</string>
     <string name="hint_icon_ad_title">Recomendado</string>
     <string name="hint_in_mivideo">Puede consultar el panel lateral para ver funciones adicionales ahora</string>
     <string name="history">Historial</string>
@@ -726,6 +734,7 @@ para vídeos"</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Ajustes</string>
     <string name="local_hide_folder_setting_tip">Puedes administrar tus videos ocultos en Perfil &gt; Configuración &gt; Administrar videos ocultos.</string>
+    <string name="local_new_user_speed_guide">Mantén pulsado y desliza para ajustar la velocidad de reproducción</string>
     <string name="local_play_end_camera_title">Ver más vídeos</string>
     <string name="local_play_end_close_tip">"Las recomendaciones no se verán otra vez hoy"</string>
     <string name="local_play_end_download_drag_up_guide">Pulsa o desliza para descargar</string>
@@ -736,6 +745,14 @@ para vídeos"</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>
     <string name="local_push_video_title">Buscar nuevos videos locales</string>
+    <string name="local_reset_confirm">Entrar otra vez</string>
+    <string name="local_reset_error_dif_info">"El nuevo PIN no puede ser el mismo que el antiguo"</string>
+    <string name="local_reset_error_wrong_info">"Los números PIN no coinciden. Inténtalo otra vez."</string>
+    <string name="local_reset_new_password">Escribe el nuevo PIN</string>
+    <string name="local_reset_old_password">Escribe el PIN actual</string>
+    <string name="local_reset_password_done">Se ha cambiado el PIN</string>
+    <string name="local_reset_password_title">Cambiar el PIN</string>
+    <string name="local_reset_tips">Escribe un PIN de %d dígitos</string>
     <string name="local_stretch_zoom_mode">La imagen está estirada</string>
     <string name="local_subtitle_choose_language_text">Idioma</string>
     <string name="local_subtitle_exemption_hint">Buscar subtítulos en opensubtitle.org</string>
@@ -869,6 +886,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="material_timepicker_text_input_mode_description">Cambia al modo de entrada de texto para la entrada de tiempo.</string>
     <string name="mediation_ad">ANUNCIO</string>
     <string name="mediation_ad_can_not_share">"No se puede compartir este vídeo"</string>
+    <string name="mediation_russian_ad">Anuncios</string>
     <string name="member">VIP</string>
     <string name="message_notify">Notificación de nuevo mensaje</string>
     <string name="mgmi_ad_mid_wait">Haz una pausa ahora y continua más tarde.</string>
@@ -1071,6 +1089,9 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="music_new_user_dialog_tip">¡Te damos la bienvenida a Mi Vídeo! Esta aplicación proporciona un reproductor de vídeo local y servicios de transmisión de música y vídeo en línea.</string>
     <string name="my_favorite_channels">Mis canales favoritos</string>
     <string name="my_feedback_title">Mis comentarios</string>
+    <string name="native_body">Contenido</string>
+    <string name="native_headline">Título</string>
+    <string name="native_media_view">Vista multimedia</string>
     <string name="need_update_app">Actualiza Mi Vídeo para usar todas sus funciones</string>
     <string name="network_connect_info">"No se pudo conectar a la red."</string>
     <string name="network_error_and_retry_tip">"No se pudo conectar. Comprueba los ajustes de red e inténtalo otra vez."</string>
@@ -1268,16 +1289,9 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Actualice MIUI para poder usar picture-in-picture.</string>
-    <string name="play_list_delete_title">¿Eliminar esta lista de reproducción ahora?</string>
-    <string name="play_list_detial_add">Añadir vídeos</string>
-    <string name="play_list_detial_delete">Eliminar</string>
-    <string name="play_list_detial_play">Reproducir</string>
-    <string name="play_list_detial_rename">Renombrar</string>
     <string name="play_list_save_dialog_create">Crear lista de reproducción</string>
     <string name="play_list_save_dialog_title">Añadir a la lista de reproducción</string>
     <string name="play_list_sign_in_dialog_message">Inicia sesión con tu cuenta de Google para ver todas tus listas de reproducción.</string>
-    <string name="play_list_user_local">Local</string>
-    <string name="play_list_user_online">Conectado</string>
     <string name="playlist_create">Crear</string>
     <string name="playlist_detail_recomm_title">Listas de reproducción recomendadas</string>
     <string name="playlist_finish">Listo</string>
@@ -1525,6 +1539,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="sign_in_mi_account">Iniciar sesión con la cuenta Xiaomi</string>
     <string name="sign_in_progress">Iniciando sesión…</string>
     <string name="sign_in_title">Inica sesión con tu Mi Account</string>
+    <string name="skip_ad">Saltar</string>
     <string name="slid_fail_message">"No se pudo guardar"</string>
     <string name="slide_save_message">Generando vídeo…</string>
     <string name="small_video_load_more_hint">Desliza hacia arriba para reproducir más videos</string>
@@ -1782,7 +1797,6 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="v_save">Guardar</string>
     <string name="v_search">Buscar</string>
     <string name="v_set_password">Establecer contraseña</string>
-    <string name="v_txt_login">Inicia sesión para sincronizar tus favoritos</string>
     <string name="version_update_install_apk_fail">La instalación ha fallado</string>
     <string name="video_already_download_tip">"Ya has descargado este elemento"</string>
     <string name="video_download_btn">Descargar</string>
@@ -1820,6 +1834,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="vp_replay">Volver a reproducir</string>
     <string name="vp_upcoming_auto_play">Reproducción automática</string>
     <string name="vp_upcoming_title">Siguiente</string>
+    <string name="watermark_label_prefix">"Publicidad - "</string>
     <string name="website_button_add_bookmarks">Añadir marcador</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>

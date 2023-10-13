@@ -80,8 +80,9 @@
     <string name="effect_3dsurround_summary_headphone">Mejora la profundidad de reproducción del sonido para auriculares</string>
     <string name="effect_dolby">Dolby</string>
     <string name="effect_misound">Misound</string>
-    <string name="effect_none">Ninguno</string>
+    <string name="effect_none">Original</string>
     <string name="effect_selection">Efectos de sonido</string>
+    <string name="effect_selection_headset">Efectos de auriculares</string>
     <string name="effect_virtual_surround">Sonido inmersivo virtual</string>
     <string name="effect_virtual_surround_summary">"Enriquezca la profundidad del sonido para la reproducción de audio y video en los auriculares (esta función no funcionará cuando se reproduzca %.1f audio)"</string>
     <string name="effect_virtual_surround_summary_spk">Mejora la profundidad de sonido al reproducir audio y vídeo en auriculares</string>

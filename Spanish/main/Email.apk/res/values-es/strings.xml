@@ -230,6 +230,7 @@ Prefijo de ruta"</string>
     <string name="attendee_needed">Añadir al menos un invitado</string>
     <string name="auto_login_fail">"No se pudo iniciar sesión automáticamente"</string>
     <string name="auto_login_fail_to_retry">"No se ha podido iniciar sesión automáticamente, inténtalo otra vez."</string>
+    <string name="auto_start_open_prompt">Permitir que la aplicación se inicie automáticamente para sincronizar los correos electrónicos. Puedes conceder este permiso en Ajustes.</string>
     <string name="bContact_list_search_hint">Buscar contactos bloqueados</string>
     <string name="b_contacts">Lista negra</string>
     <string name="b_contacts_remove">Eliminar de la lista negra</string>
@@ -246,6 +247,7 @@ Prefijo de ruta"</string>
     <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_action">Cancelar</string>
+    <string name="cancel_edit">Terminar edición</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">CC/CCO</string>
     <string name="cc_heading">"CC: "</string>
@@ -391,6 +393,7 @@ Prefijo de ruta"</string>
     <string name="drive_card_code">"Código de acceso: "</string>
     <string name="drive_card_tips">%s compartió contigo un elemento almacenado en la nube.</string>
     <string name="drive_card_title">URL de almacenamiento en la nube</string>
+    <string name="drop_sign_operation">¿Terminar la edición y descartar los cambios?</string>
     <string name="dtend">Finaliza</string>
     <string name="dtstart">Comienza</string>
     <string name="early_morning">Mañana</string>
@@ -844,6 +847,7 @@ Declinado:
     <string name="open_pdf_error">"No se pudo abrir el PDF. Instale un lector de PDF y vuelva a intentarlo."</string>
     <string name="operation_settging">Acciones</string>
     <string name="optimization_suggestion">Sugerencias de optimización</string>
+    <string name="other_pdf_open">Abrir con…</string>
     <string name="others_mail">Otro</string>
     <string name="outbox_alert_button_no_resend">"No enviar"</string>
     <string name="outbox_alert_button_resend">Reenviar</string>
@@ -880,6 +884,7 @@ Declinado:
     <string name="pdf_has_signature_prompt_confirm">Copia firmada</string>
     <string name="pdf_has_signature_prompt_message">Parece que este archivo adjunto tiene una copia firmada. ¿Abrirlo en su lugar?</string>
     <string name="pdf_save_error">"No se puede convertir a PDF. Este mensaje es demasiado largo."</string>
+    <string name="pdf_save_local">"Guardado en el dispositivo: "</string>
     <string name="pdf_save_no_body">Espere hasta que el mensaje esté completamente cargado antes de convertir a PDF</string>
     <string name="pdf_save_to">"Guardado en "</string>
     <string name="pdf_signature_add">Agregar una nueva firma</string>
@@ -917,6 +922,7 @@ Declinado:
     <string name="personal_data_collection_summary">Cuando activas el interruptor, aceptas que recojamos tus datos personales. Puedes desactivar el interruptor, revocar tu autorización y eliminar tus datos de nuestros servidores en cualquier momento.</string>
     <string name="personal_data_collection_title">Permitir recoger datos personales</string>
     <string name="pl_select_age">Seleccionar edad</string>
+    <string name="please_save_sign_first">Guardar la firma antes</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preferences_signature_dialog_title">Firma</string>
@@ -996,6 +1002,7 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="save_draft_failed">Fallo al guardar borrador</string>
+    <string name="save_sign_pdf">Guardar en el dispositivo</string>
     <string name="search_bar_text">Buscar remitentes o contactos</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_remote_again">"No se pudo conectar a la red. Pulsa para volver a intentarlo."</string>
@@ -1189,6 +1196,7 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="train_card_title_change">Reserva modificada</string>
     <string name="train_card_title_change_arrival">Destino cambiado</string>
     <string name="train_card_title_refund">Boleto cancelado</string>
+    <string name="translated_text_too_long">Selecciona menos texto para copiar e inténtalo otra vez</string>
     <string name="translation_loading">Un momento…</string>
     <string name="translation_no_result">No hay resultados</string>
     <string name="translation_pronunciation_am">AmE</string>

@@ -65,6 +65,7 @@
     <string name="australian_magpie">Australian magpie</string>
     <string name="authorization_btn_text">Iniciar</string>
     <string name="authorization_tips">Permisos necesarios</string>
+    <string name="avalible_per_day">Duración de la sesión</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">Atrás</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -110,10 +111,12 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Brown pelican</string>
     <string name="calendar_sound">Recordatorios de eventos</string>
-    <string name="calendar_tip">Los sonidos para recordatorios de eventos funcionan para recordatorios del calendario, notas y tareas</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Los capibaras son roedores herbívoros semiacuáticos que pueden contener la respiración bajo el agua hasta cinco minutos a la vez.</string>
+    <string name="category_limit_notify_title">Alerta de tiempo de pantalla</string>
+    <string name="category_list_expand">Más</string>
+    <string name="category_list_packup">Ocultar</string>
     <string name="category_other">Otras</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Cheetah</string>
@@ -125,11 +128,14 @@
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="click_to_save">Tap \"Done\" to set a general ringtone.</string>
     <string name="close">Cerrar</string>
+    <string name="closed_high_refresh_options">Aplicaciones que no usan una frecuencia de pantalla alta</string>
     <string name="color_gamut">Gama de colores</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
+    <string name="compulsor_tip">Pantalla de inicio</string>
     <string name="contact_description">Toque los accesos directos de la Pantalla de inicio para realizar llamadas</string>
     <string name="contact_title">Accesos directos a contactos</string>
+    <string name="continue_time">Duración de la sesión</string>
     <string name="contrast_ratio">Contraste</string>
     <string name="control_center_title">Tiempo en pantalla de hoy</string>
     <string name="control_center_title_new">Usada hoy</string>
@@ -141,6 +147,8 @@
     <string name="created_successfully">Creado con éxito</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">Aplicar</string>
+    <string name="customize_high_refresh_summary">Esta función admite frecuencias de pantalla hasta %d Hz. La frecuencia adecuada se puede seleccionar automáticamente según las preferencias del dispositivo.</string>
+    <string name="customize_high_refresh_title">Aplicaciones que usan una frecuencia de pantalla alta</string>
     <string name="customize_radio_btn_summary">Preferir frecuencia de actualización seleccionada</string>
     <string name="customize_radio_btn_title">Personalizado</string>
     <string name="dall_sheep">Dall sheep</string>
@@ -161,6 +169,8 @@
     <string name="desktop_widget_not_support">"Las estadísticas de tiempo de pantalla
 no se generan en el segundo espacio"</string>
     <string name="desktop_widget_screen_use_time">Tiempo de pantalla</string>
+    <string name="device_limit_enable">Activar</string>
+    <string name="device_limit_un_enable">Desactivar</string>
     <string name="display_description">Iconos y texto más grande, menos desorden visual</string>
     <string name="display_title">Elementos más grandes</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -275,7 +285,13 @@ no se generan en el segundo espacio"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
     <string name="focus_mode_timer_pick_dialog_title">Introducir duración</string>
     <string name="focus_time_exception_tip">Parece que la hora del sistema cambió. El modo concentración se ha desactivado.</string>
+    <string name="follow_apps_settings">Basada en los ajustes de la aplicación</string>
     <string name="follow_sim1">Aplicar ajustes de SIM 1</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. La frecuencia de actualización se puede ajustar hasta %s Hz en aplicaciones y juegos compatibles."</string>
+    <string name="force_rest">Usar descansos de sesión</string>
+    <string name="force_rest_summary">Pausas obligatorias cuando las sesiones alcancen el límite establecido</string>
+    <string name="force_rest_time">Duración del descanso</string>
     <string name="fps_high">Alto</string>
     <string name="fps_nature_summary">La frecuencia de actualización máxima mantiene todo nítido y claro</string>
     <string name="fps_nature_title">Máximo</string>
@@ -308,6 +324,16 @@ no se generan en el segundo espacio"</string>
     <string name="green_peafowl">Green peafowl</string>
     <string name="green_warbler_finch">Green warbler-finch</string>
     <string name="grey_headed_flying_fox">Grey-headed flying fox</string>
+    <string name="guard_item_app_summary">Desinstalar aplicaciones remotamente</string>
+    <string name="guard_item_app_title">Administrar aplicaciones</string>
+    <string name="guard_item_browser_summary">Controla el acceso a las aplicaciones y su contenido</string>
+    <string name="guard_item_browser_title">Restricciones</string>
+    <string name="guard_item_call_summary">Permitir que algunos contactos específicos hagan llamadas</string>
+    <string name="guard_item_call_title">Comunicación</string>
+    <string name="guard_item_eye_protect_summary">Seguimiento de la protección ocular</string>
+    <string name="guard_item_eye_protect_title">Confort ocular</string>
+    <string name="guard_range_from">Desde</string>
+    <string name="guard_range_to">Hasta</string>
     <string name="harp_seal">Harp seal</string>
     <string name="harpy_eagle">Harpy eagle</string>
     <string name="has_applied">Applied</string>
@@ -315,11 +341,14 @@ no se generan en el segundo espacio"</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">Alta frecuencia de actualización de pantalla. Mayor consumo de energía.</string>
     <string name="high_fps_tip_footer">El uso de frecuencias de actualización más altas hace que la experiencia de visualización sea más fluida pero consume más energía.</string>
+    <string name="high_refresh_options_title">Aplicaciones compatibles</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">Días de descanso</string>
     <string name="hsv_space_color">Espacio de color HSV</string>
     <string name="hsv_space_color_hue">Tono</string>
     <string name="hsv_space_color_saturation">Saturación</string>
     <string name="hsv_space_color_value">Valor</string>
+    <string name="in_forbidden_period">El uso está restringido ahora</string>
     <string name="intelligent_radio_btn_summary">Ajuste la frecuencia de actualización de forma dinámica según los escenarios para equilibrar el rendimiento con el consumo de energía</string>
     <string name="intelligent_radio_btn_title">Por defecto (recomendado)</string>
     <string name="intelligent_recognition_item_summary">Usar un tono específico para llamadas de servicios de entrega a domicilio o taxi. Esta opción funcionará cuando %s esté establecido como tono por defecto.</string>
@@ -359,6 +388,7 @@ no se generan en el segundo espacio"</string>
     <string name="leopard">Leopard</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="loading_error">"No se pudo cargar elementos"</string>
     <string name="lock_summary">Proteja su información personal</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
     <string name="low_flicker_mode">Luz Baja</string>
@@ -370,19 +400,21 @@ no se generan en el segundo espacio"</string>
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">La cigüeña marabú es un ave enorme, un carroñero frecuente.</string>
     <string name="masked_palm_civet">Masked palm civet</string>
+    <string name="max_fps_string">Hasta %s Hz</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -461,6 +493,8 @@ no se generan en el segundo espacio"</string>
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">Nazca booby</string>
     <string name="network_error">Se produjo un error de red. Vuelva a intentarlo.</string>
+    <string name="new_customize_high_refresh_title">Frecuencia de pantalla alta</string>
+    <string name="next_day">"(Día siguiente) "</string>
     <string name="night">Noche</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">"No se pudo encontrar una aplicación para abrir este enlace"</string>
@@ -476,6 +510,7 @@ no se generan en el segundo espacio"</string>
     <string name="notification_sound">Sonidos de notificaciones</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+    <string name="opened_high_refresh_options">Aplicaciones que usan una frecuencia de pantalla alta</string>
     <string name="orange_winged_amazon">Orange-winged amazon</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">Los avestruces son grandes aves africanas no voladoras que ponen los huevos más grandes de cualquier animal terrestre vivo.</string>
@@ -536,6 +571,7 @@ no se generan en el segundo espacio"</string>
     <string name="sea_otter">Sea otter</string>
     <string name="seal_info">Seals are marine mammals that can move quickly in deep waters, feeding on fish and shrimps.</string>
     <string name="search_app_name">Buscar aplicacione</string>
+    <string name="search_app_tips">Buscar aplicaciones</string>
     <string name="search_empty">No se encontraron aplicaciones</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
@@ -547,6 +583,12 @@ no se generan en el segundo espacio"</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Skywalker hoolock gibbon</string>
     <string name="small_ground_finch">Small ground finch</string>
     <string name="sms_delivered_sound_title">Mensaje entregado</string>
@@ -590,6 +632,8 @@ no se generan en el segundo espacio"</string>
     <string name="steady_on_screen_notification_title">Deje su teléfono a un lado y tome un descanso</string>
     <string name="steady_on_screen_notification_title_pad">Deja tu dispositivo y tómate un descanso</string>
     <string name="steady_on_screen_notify">Notificar sobre el uso ininterrumpido</string>
+    <string name="steady_on_screen_notify_new">Descansar</string>
+    <string name="steady_on_screen_ntf_msg">Todas las funciones estarán disponibles otra vez en %1$s</string>
     <string name="steady_on_screen_setting">Límite de tiempo para sesiones ininterrumpidas</string>
     <string name="steady_on_screen_summary">Límite de tiempo para sesiones ininterrumpidas</string>
     <string name="stop_app_timer">Desactivar tiempo de pantalla</string>
@@ -598,6 +642,7 @@ no se generan en el segundo espacio"</string>
     <string name="stop_app_timer_tip">Todos los datos y permisos de tiempo de pantalla, incluidas las configuraciones individuales, así como los elementos almacenados localmente y sincronizados con la nube, se eliminarán después de que desactive esta función.</string>
     <string name="stop_summary">Las estadísticas de Horas de pantalla y los datos serán eliminados cuando esta función esté desactivada</string>
     <string name="suggestion">Comentarios</string>
+    <string name="summary_max_fps_for_intelligent">Ajusta dinámicamente la tasa de actualización hasta %s Hz, según el escenario, para equilibrar el rendimiento y el consumo de energía</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>
@@ -649,6 +694,12 @@ no se generan en el segundo espacio"</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
+    <string name="time_over_back_home">Pantalla de inicio</string>
+    <string name="time_over_delayed_use">Ignorar</string>
+    <string name="time_over_not_delayed_use">Entendido</string>
+    <string name="time_over_today">"No queda más tiempo
+para hoy"</string>
+    <string name="time_over_today_use">"Sesiones de hoy: "</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -676,6 +727,7 @@ no se generan en el segundo espacio"</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="two_toed_sloths">Two-toed sloth</string>
     <string name="two_toed_sloths_info">Two-toed sloths can easily travel from tree to tree in the canopies of the rainforests.</string>
+    <string name="unavailable_per_day">Descansos</string>
     <string name="unlock_times_per_day">"Promedio diario: "</string>
     <string name="unlock_times_per_hour">"Desbloqueos por hora: "</string>
     <string name="usage_agree">Aceptar</string>
@@ -711,8 +763,10 @@ no se generan en el segundo espacio"</string>
     <string name="usage_device_limit_app_prolong_time3">Añadir 60 minutos</string>
     <string name="usage_device_limit_app_prolong_time4">"No limitar hoy"</string>
     <string name="usage_device_limit_app_prolong_time5">Añadir tiempo una vez</string>
+    <string name="usage_device_limit_forbidden_period">Uso restringido entre %1$s y %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">"Llegará a su límite en %1$s"</string>
     <string name="usage_device_limit_notifation_title">Tiempo restante hoy</string>
+    <string name="usage_device_limit_start_forbidden_period">Uso restringido entre %1$s y %2$s (%3$s restantes)</string>
     <string name="usage_device_limit_time_over">"Ha llegado a su límite de hoy (%1$s)"</string>
     <string name="usage_exit">Salir</string>
     <string name="usage_focus_focus_premission_main_summary">Esta aplicación necesita acceder a la información de su cuenta para registrar sus estadísticas de uso del modo concentración.</string>
@@ -744,6 +798,8 @@ Esta aplicación también necesita conectarse a Internet y requiere los siguient
     <string name="usage_home_premission_second_summary_double_link_prefix">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Revoca tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactivar Horas de pantalla."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;Antes de usar esta aplicación, lee acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="usage_home_premission_second_summary_new">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no acepta otorgar tales permisos o compartir y cargar su información personal, no podrá usar esta aplicación. Revoque su autorización en Tiempo de pantalla &gt; Configuración &gt; Desactive el tiempo de pantalla. Si tiene más preguntas sobre privacidad, puede contactarnos en privacy@xiaomi.com."</string>
+    <string name="usage_new_category_limit_summary">Establece límites de uso diario para todas las aplicaciones de esta categoría</string>
+    <string name="usage_new_category_limit_title">Restringir uso de categoría de aplicación</string>
     <string name="usage_new_home_app_limit_summary">Establezca un límite diario de horas de pantalla en esta aplicación</string>
     <string name="usage_new_home_app_limit_title">Limitar las horas de pantalla</string>
     <string name="usage_new_home_average">"Prom "</string>
@@ -964,6 +1020,7 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="willow_grouse_info">La perdiz blanca del sauce es herbívora durante la mayor parte de su vida y ocupa principalmente hábitats subalpinos y subárticos.</string>
     <string name="wolf">Wolf</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">Días laborables</string>
     <string name="yellow_necked_spurfowl">Yellow-necked spurfowl</string>
     <string name="yellow_throated_marten">Yellow-throated marten</string>
     <string name="yesterday">Ayer</string>

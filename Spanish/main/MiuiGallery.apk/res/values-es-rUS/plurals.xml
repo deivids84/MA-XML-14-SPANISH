@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
-        <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d horas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d mins</item>
-        <item quantity="one">Hace 1 minuto</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">¿Añadir estos elementos al álbum privado?</item>
@@ -45,8 +45,8 @@
         <item quantity="one">Añadida %d foto en la nube, desactive \"Mostrar solo álbumes locales\" para ver.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elementos no se pueden agregar al álbum. %1$s."</item>
-        <item quantity="one">"%2$d elemento no se puede agregar al álbum. %1$s."</item>
+        <item quantity="other">" %2$d elementos no se pueden añadir al álbum %1$s."</item>
+        <item quantity="one">" %2$d elemento no se puede añadir al álbum %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d elementos no se pueden agregar al álbum privado. %1$s."</item>
@@ -251,10 +251,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
-    </plurals>
-    <plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d elementos</item>
-        <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d minutos</item>
@@ -479,6 +475,10 @@
     <plurals name="send_processing_files_error">
         <item quantity="other">"No se pudo compartir. Procesando %d fotos…"</item>
         <item quantity="one">"No se pudo compartir. Procesando %d foto…"</item>
+    </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Selecciona hasta %d elementos para enviar</item>
+        <item quantity="one">Selecciona hasta %d elemento para enviar</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d vídeos de %1$s</item>

@@ -21,6 +21,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Caducidad del certificado:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Solo permitir conexión a esta red si la información de abajo parece correcta.
 
 "</string>
@@ -36,12 +40,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Firma:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Huella digital SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">"No conectar"</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Conectar de todos modos</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Desconectar ahora</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Permanecer conectado</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">A la red %1$s le falta un certificado.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Información para añadir certificados</string>
     <string name="wifi_ca_cert_dialog_preT_title">"No se puede verificar esta red"</string>

@@ -64,6 +64,7 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="ad_close">Cerrar</string>
     <string name="ad_data_exception">Error de datos de publicidad</string>
+    <string name="ad_flag_text">Anuncio</string>
     <string name="ad_recommend">Mostrar anuncios</string>
     <string name="ad_setting">Ajustes adicionales</string>
     <string name="add">Añadir</string>
@@ -527,6 +528,7 @@
     <string name="get_more_favorite_content_after_login">Iniciar sesión para descubrir más canciones y vídeos.</string>
     <string name="get_one_day_vip">¡Tienes %d-días VIP!</string>
     <string name="get_one_hour_vip">¡Tienes %d-horas VIP!</string>
+    <string name="get_one_minute_vip">Has ganado %d minutos VIP</string>
     <string name="get_vip">Obtener VIP</string>
     <string name="go_agree">Aceptar</string>
     <string name="google_account_login">Iniciar sesión con Google</string>
@@ -945,6 +947,7 @@
     <string name="ok">OK </string>
     <string name="one_day_vip">%d-día VIP</string>
     <string name="one_hour_vip">%d-hora VIP</string>
+    <string name="one_minute_vip">%d minutos VIP</string>
     <string name="online_apk_acquired">Cargado %d%%</string>
     <string name="online_apk_acquiring">Cargando… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"No se pudo descargar ya que el espacio de almacenamiento es insuficiente."</string>
@@ -1252,6 +1255,7 @@ Sea Feliz"</string>
     <string name="retry">Inténtalo otra vez</string>
     <string name="retry_after_network_available">"No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo."</string>
     <string name="retry_download">Inténtalo otra vez</string>
+    <string name="reward_received">Has ganado una suscripción VIP</string>
     <string name="ringtone_editing">Editor de tonos</string>
     <string name="ringtone_not_support">"El formato de la canción no es compatible"</string>
     <string name="ringtone_selected">Seleccionado</string>
@@ -1345,6 +1349,7 @@ Sea Feliz"</string>
     <string name="similar_songs">Canciones similares</string>
     <string name="similar_videos">Vídeos similares</string>
     <string name="skip">Saltar</string>
+    <string name="skip_ad">Saltar</string>
     <string name="sleep_mode">Temporizador de suspensión</string>
     <string name="sleep_mode_canceled">Modo suspensión desactivado</string>
     <string name="sleep_mode_summary">Detener el reproductor después de un tiempo determinado</string>
@@ -1360,6 +1365,7 @@ Sea Feliz"</string>
     <string name="song_offline">Esta canción ya no está disponible.</string>
     <string name="song_picker_complete">Listo</string>
     <string name="song_quality_category">Música</string>
+    <string name="song_swipe_navigation">Desliza el dedo hacia la izquierda o la derecha para cambiar la canción</string>
     <string name="songgroup_pick_album">Álbumes</string>
     <string name="songgroup_pick_playlist">Listas de reproducción</string>
     <string name="sort_by_name">Nombre</string>
@@ -1523,6 +1529,7 @@ Sea Feliz"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="version_info">Versión</string>
+    <string name="video_loading_fail">"No se pudo cargar el vídeo"</string>
     <string name="video_play_cellular">"Tu dispositivo no está conectado al Wi-Fi. ¿Usar datos móviles?"</string>
     <string name="video_replay_btn">Volver a reproducir</string>
     <string name="video_retry_btn">Inténtalo otra vez</string>
@@ -1531,6 +1538,8 @@ Sea Feliz"</string>
     <string name="vip_required_with_song">%s solo está disponible para los miembros Gold. Esta canción se ha omitido.</string>
     <string name="voice_search_first_hint">¡Prueba la búsqueda por voz!</string>
     <string name="watch_video">Ver vídeo</string>
+    <string name="web_reward_dialog_cancle">Cancelar</string>
+    <string name="web_reward_dialog_ok">Salir</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
@@ -1548,13 +1557,6 @@ Sea Feliz"</string>
 
 Pulsa%spara comenzar esta descarga la próxima vez que te conectes a una red Wi-Fi."</string>
     <string name="wifi_required_title">Debes conectarte a Wi-Fi para descargar este archivo</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Falló la conexion Download Manager, compruebe el estado de Download Manager en la Gestión de aplicaciones.eck the Download Manager state in the Application Management.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Presentando la versión %1$s
-Tamaño: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Presentando la versión %1$s
-Tamaño de actualización: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s actualización!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Almacenamiento no disponible, Por favor revisa la tarjeta SD.</string>
     <string name="yandex_ads_internal_instream_call_to_action">Saltar ➔</string>
     <string name="yandex_ads_internal_instream_sponsored_social">Publicidad en redes sociales</string>
     <string name="yandex_ads_internal_instream_sponsored_yandex">Anuncios</string>
@@ -1575,4 +1577,7 @@ Tamaño de actualización: %2$s"</string>
     <string name="youtube_share_guide_tip">Ahora puedes compartir vídeos con amigos</string>
     <string name="youtube_tab_explore">Descubrir</string>
     <string name="youtube_tab_playlist">Listas de reproducción</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_shorts">Cortos</string>
+    <string name="youtube_tab_trend">Tendencia</string>
 </resources>

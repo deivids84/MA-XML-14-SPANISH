@@ -129,6 +129,7 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
     <string name="cit_front_camera_motor_cali_fail">Falló la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_success">Éxito en la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_tips">No bloquee la cámara durante el proceso de calibración del motor de la cámara emergente</string>
+    <string name="cit_front_sub_camera_check_title_fold">Cámara frontal de subpantalla</string>
     <string name="cit_gyrodata_second_sensor_check_title">Segundo giroscopio</string>
     <string name="cit_gyroscope_second_cali_title">Segunda prueba de calibración del sensor del giroscopio</string>
     <string name="cit_horn_motor_test">Prueba del motor de sonido de llamada</string>
@@ -225,10 +226,12 @@ Pulsa el botón apropiado según el número que oigas
 Selecciona el botón correcto con las diferentes condiciones de vibración"</string>
     <string name="test_sidebottom_mic">Micrófono inferior</string>
     <string name="test_sidetop_mic">Micrófono superior</string>
+    <string name="test_sub_front_camera">Cámara frontal de subpantalla</string>
     <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>
     <string name="top_high_speaker_title">Prueba de tweeter superior</string>
     <string name="top_low_speaker_title">Prueba de woofer superior</string>
     <string name="top_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte superior del dispositivo</string>
     <string name="top_speaker_title">Prueba del altavoz superior</string>
     <string name="warm_light_title">Luz cálida</string>
+    <string name="wifi_power_test_testing">Prueba de potencia Wifi...</string>
 </resources>

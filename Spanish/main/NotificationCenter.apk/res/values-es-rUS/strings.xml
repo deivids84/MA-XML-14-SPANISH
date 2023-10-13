@@ -31,11 +31,9 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_name">Notificaciones</string>
-    <string name="back">Atrás</string>
     <string name="channel_keyguard_hide_content">Mostrar todas las notificaciones pero ocultar contenido</string>
     <string name="channel_keyguard_show_content">Mostrar todas las notificaciones y su contenido</string>
     <string name="channel_keyguard_show_nothing">"No mostrar ninguna notificación"</string>
-    <string name="channel_name_notification">Notificaciones de aplicaciones</string>
     <string name="clearable_edittext_clear_description">Claro</string>
     <string name="close">Cerrar</string>
     <string name="copy">Copiar</string>
@@ -90,7 +88,6 @@
     <string name="lockscreen_notifications_short">Pantalla de Bloqueo</string>
     <string name="midnight">Noche</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
-    <string name="miui_snooze_cancel">Cancelar</string>
     <string name="miui_snooze_default_time">Por %d minuto</string>
     <string name="miui_snooze_until_unlock_screen">Hasta bloqueado</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
@@ -177,7 +174,6 @@
     <string name="notification_keyguard_hide_content">Mostrar notificaciones pero ocultar contenido</string>
     <string name="notification_keyguard_show_content">Mostrar contenido y notificaciones</string>
     <string name="notification_keyguard_show_nothing">"No mostrar notificaciones en la Pantalla de bloqueo"</string>
-    <string name="notification_manager">Notificaciones de aplicaciones</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Desactivado</string>

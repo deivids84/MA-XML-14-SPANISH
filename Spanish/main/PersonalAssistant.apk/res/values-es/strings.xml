@@ -218,6 +218,8 @@ Pulsa dos veces para ver más detalles.
 Pulsa dos veces y mantén pulsado para mover."</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, estado de instalación: %3$s.
 Pulsa dos veces para ver los detalles."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, estado de la instalación: %3$s.
+Pulsa dos veces para ver los detalles."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, fila %2$d, número %3$d. 
 Pulsa dos veces para ver los detalles."</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Temas abiertos</string>
@@ -387,6 +389,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_filter_title">Más widgets</string>
     <string name="pa_finish">Hecho</string>
     <string name="pa_get_installed_app_permission_description">Para instalar aplicaciones y añadir widgets</string>
+    <string name="pa_global_search_description">Buscar</string>
+    <string name="pa_global_search_hint">Buscar…</string>
     <string name="pa_guide_dialog_desc">Mantenga presionado un widget para reorganizar. Toque el signo más para agregar más widgets.</string>
     <string name="pa_guide_dialog_sure">Entendido</string>
     <string name="pa_guide_dialog_title">Echa un vistazo a nuestra tienda de widgets</string>
@@ -449,9 +453,11 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_add_maml_net_unavailable">"No se pudo conectar a la red. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="pa_picker_detail_add_to_home">Añadir a la pantalla principal</string>
     <string name="pa_picker_detail_add_to_minus">Agregar a la bóveda de aplicaciones</string>
+    <string name="pa_picker_detail_add_to_stack">Añadir al Grupo</string>
     <string name="pa_picker_detail_add_widget_success">Agregado</string>
     <string name="pa_picker_detail_app_not_in_market">"Esta aplicación no proporciona ningún widget ahora"</string>
     <string name="pa_picker_detail_app_not_off_shelf">"Los widgets de esta aplicación ya no están disponibles"</string>
+    <string name="pa_picker_detail_app_widget_in_dev">"Este widget no está disponible todavía. En su lugar, puedes revisar otros."</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Pantalla de inicio</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Bóveda de aplicaciones</string>
     <string name="pa_picker_detail_bottom_bt_text_to_home">Añadir a la pantalla principal</string>
@@ -490,6 +496,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, primero permita que Temas se conecte a Internet. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Iniciar sesión</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Antes, inicia sesión en tu cuenta Xiaomi. "</string>
+    <string name="pa_picker_detail_view_more">Ver más</string>
     <string name="pa_picker_detail_vp2_indicator">Página seleccionada %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este elemento se descargará a través de Wi-Fi</string>
     <string name="pa_picker_empty">"Los widgets no están disponibles en esta versión de la aplicación. 
@@ -545,6 +552,9 @@ para mostrar widgets."</string>
     <string name="pa_picker_search_result_type_recommend">Recomendado</string>
     <string name="pa_picker_search_result_type_suit">Grupos de widgets</string>
     <string name="pa_picker_search_result_type_widget">Widgets</string>
+    <string name="pa_picker_stack_operate_empty_title">"Todavía no hay nada aquí.
+Añade widgets para empezar."</string>
+    <string name="pa_picker_stack_operate_title">Editar el grupo</string>
     <string name="pa_picker_suit_list_activity_title">Paquetes de personalización</string>
     <string name="pa_picker_tab_title_category">Categorias</string>
     <string name="pa_picker_tab_title_fun">Descubrir</string>
@@ -552,6 +562,7 @@ para mostrar widgets."</string>
     <string name="pa_picker_theme_app_version_error">Se ha producido un error</string>
     <string name="pa_picker_tips_count_limit_forbidden">"No se pueden añadir más widgets. Elimina algunos para agregar otros."</string>
     <string name="pa_picker_toast_add_successfully">Agregado</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Añadir hasta 10 elementos</string>
     <string name="pa_picker_toast_count_limit_forbidden">"No se pueden agregar más widgets"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"No se pueden agregar más widgets de este tipo"</string>
     <string name="pa_picker_toast_count_limit_warning">Agregado. Recuerda que tener muchos widgets en la pantalla de inicio puede ralentizar el dispositivo.</string>
@@ -716,6 +727,8 @@ para mostrar widgets."</string>
     <string name="pa_sports_widget_empty_football">Fútbol</string>
     <string name="pa_sports_widget_empty_game">Honor de los Reyes</string>
     <string name="pa_sports_widget_empty_recommend">Recomendado</string>
+    <string name="pa_stack_summary">Mover hacia arriba los widgets con información nueva</string>
+    <string name="pa_stack_text">Mover los actualizados hacia arriba</string>
     <string name="pa_stock_add_stock_button">Agregar</string>
     <string name="pa_stock_change_cp_code_alert">Esta operación puede hacer que los datos no se muestren correctamente</string>
     <string name="pa_stock_change_cp_code_error">"No se pudo cambiar la fuente de datos"</string>
@@ -761,7 +774,10 @@ para mostrar widgets."</string>
     <string name="pa_vertical_right">Disposición vertical. Alineado a la derecha.</string>
     <string name="pa_widget_advert_loading_dialog_message">Un momento…</string>
     <string name="pa_widget_menu_edit">Editar</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Editar \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Editar el grupo</string>
     <string name="pa_widget_menu_remove">Quitar</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Eliminar \"%s\"</string>
     <string name="pa_widget_menu_replace">Cambiar</string>
     <string name="pa_widget_need_download_dialog_cancel">Cancelar</string>
     <string name="pa_widget_need_download_dialog_confirm">OK </string>

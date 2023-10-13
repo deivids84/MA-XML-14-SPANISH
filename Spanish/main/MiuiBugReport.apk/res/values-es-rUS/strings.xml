@@ -79,6 +79,7 @@
     <string name="bugreport_dump_start_notification_title">Generando informe de errores…</string>
     <string name="bugreport_tool_log_dumping_desc">Tarda cerca de un minuto</string>
     <string name="bugreport_tool_log_dumping_title">Creando informe de errores</string>
+    <string name="can_not_add_more_image">"No se puede añadir más imágenes o vídeos"</string>
     <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_action_complete">Terminar y enviar</string>
     <string name="catch_full_log_action_start">Generar registro</string>
@@ -152,6 +153,18 @@ Envíe este código al supervisor."</string>
     <string name="discard_draft_dialog_content">"Si sale, todos los cambios hechos en el reporte se perderán."</string>
     <string name="discard_draft_dialog_title">¿Salir sin enviar?</string>
     <string name="doing_query_account">Comprobando la información de la cuenta…</string>
+    <string name="dynamic_dialog_content">Estás a punto de abrir la función de registro dinámico, en el modo de captura de problemas especiales, que contiene el programa en ejecución (incluyendo llamadas del sistema, etc.). Después de activar el registro dinámico, el sistema puede manifestra lentitud y temperatura (es normal). Cuando finalice la captura del registro, el dispositivo se apagará automáticamente. Envía tus comentarios en cuanto el problema aparezca otra vez. Seleccionando Aceptar, permites que recopilemos los datos anteriores para la siguiente sesión de grabación y los enviemos para resolver tu problema.</string>
+    <string name="dynamic_dialog_negative_text">No acepto</string>
+    <string name="dynamic_dialog_notification_text">Envía tus comentarios en cuanto el problema aparezca otra vez. La función se cerrará automáticamente</string>
+    <string name="dynamic_dialog_notification_title">La captura dinámica de registros está activada</string>
+    <string name="dynamic_dialog_positive_text">Acepto</string>
+    <string name="dynamic_dialog_title">Nota de privacidad</string>
+    <string name="dynamic_log_float_dump_SF">volcar surfaceflinger</string>
+    <string name="dynamic_log_float_dump_activity">volcar actividad</string>
+    <string name="dynamic_log_float_dump_window">volcar ventana</string>
+    <string name="dynamic_log_load_text">Cargando...</string>
+    <string name="dynamic_log_restore_toast_text">El dispositivo está restaurando el registro dinámico. Inténtalo después</string>
+    <string name="dynamic_log_title">Registro dinámico</string>
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -234,13 +247,13 @@ Envíe este código al supervisor."</string>
     <string name="feedback_evaluation_success_dialog_content">¡Gracias por tu comentario!</string>
     <string name="feedback_evaluation_success_dialog_title">Valorado</string>
     <string name="feedback_guess">Nuestra presunción:</string>
-    <string name="feedback_history_remind_login_desc">"Inicie sesión con su Cuenta Mi para ver los detalles y progreso de sus reportes"</string>
+    <string name="feedback_history_remind_login_desc">"Inicia sesión con tu cuenta Xiaomi para ver los detalles y el estado de tu informe"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Clave JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">Creando un Jira…</string>
     <string name="feedback_package_log_failed">"No se pudo comprimir los registros"</string>
     <string name="feedback_remind_login_btn">Iniciar sesión</string>
-    <string name="feedback_report_remind_login_desc">Inicie sesión con su Cuenta Mi para que nuestros ingenieros puedan contactar con usted.</string>
+    <string name="feedback_report_remind_login_desc">Inicia sesión con tu cuenta de Xiaomi para que nuestros ingenieros puedan contactarte.</string>
     <string name="feedback_report_remind_login_desc2">"También puedes ver el progreso de tu informe en Mis comentarios."</string>
     <string name="feedback_reproductivity_everytime">Cada vez</string>
     <string name="feedback_reproductivity_occasionally">Ocasionalmente</string>
@@ -339,7 +352,7 @@ Envíe este código al supervisor."</string>
     <string name="jump_full_log_dialog_title">Generar registros</string>
     <string name="kr_authorization_agree">Aceptar</string>
     <string name="kr_authorization_contact">Cuentas</string>
-    <string name="kr_authorization_contact_desc">Para acceder a la información de Cuenta Mi e identificar el dispositivo</string>
+    <string name="kr_authorization_contact_desc">Para acceder a la información de la cuenta Xiaomi e identificar el dispositivo</string>
     <string name="kr_authorization_exit">Salir</string>
     <string name="kr_authorization_function">Enviar comentarios, generar registros, ver preguntas frecuentes</string>
     <string name="kr_authorization_log_protocol">Protocolo de registro (opcional)</string>
@@ -377,15 +390,16 @@ Envíe este código al supervisor."</string>
     <string name="mishop_login_other">Otra cuenta</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -468,6 +482,7 @@ Envíe este código al supervisor."</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
+    <string name="net_daig_network_repair">Reparación de red</string>
     <string name="net_diag_cancel">Cancelar</string>
     <string name="net_diag_continue">Continuar</string>
     <string name="net_diag_dialog_msg">Probar la red te ayudará a detectar problemas y mejorar tu conexión.</string>
@@ -482,9 +497,15 @@ Envíe este código al supervisor."</string>
     <string name="net_diag_entry_network_protocol">Protocolo de la red</string>
     <string name="net_diag_entry_network_rssi">Calidad de la señal</string>
     <string name="net_diag_entry_router_topology">Enrutado de la red</string>
+    <string name="net_diag_fix_guide_window_msg">Ocurrió un error de la red. Pulsa para intentarlo otra vez.</string>
+    <string name="net_diag_fixing">Reparando la red. Puede tardar un minuto.</string>
     <string name="net_diag_header_internet">Internet</string>
     <string name="net_diag_header_router">Router</string>
     <string name="net_diag_header_this_device">Este dispositivo</string>
+    <string name="net_diag_repair_msg">Durante el proceso, se desconectará el Wi-Fi y se volverá a conectar. ¿Reparar?</string>
+    <string name="net_diag_repair_msg_china">Durante el proceso, se desconectará el Wi-Fi y se volverá a conectar. ¿Reparar?</string>
+    <string name="net_diag_repair_static_ip_msg">Los ajustes de la red pueden restablecerse durante el proceso. ¿Reparar?</string>
+    <string name="net_diag_repair_title">¿Reparar la red?</string>
     <string name="net_diag_title">Probar la red</string>
     <string name="net_diag_toast_cellular_data">Para probar la red, desactiva los datos móviles.</string>
     <string name="net_diag_toast_other_networks">Para probar la red, conecta a Wi-Fi y desconecta de cualquier otra red.</string>
@@ -503,6 +524,7 @@ Envíe este código al supervisor."</string>
     <string name="non_system_app_select">Aplicaciones descargadas</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
+    <string name="not_support_service_in_maintenance_mode">Este servicio no se soporta en modo mantenimiento</string>
     <string name="open_feedback_main">Más</string>
     <string name="open_settings">Ajustes</string>
     <string name="passport_access_denied">Acceso denegado</string>
@@ -681,7 +703,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="stop_full_log_dialog_title">Generando registros…</string>
     <string name="submit_dialog_cancel">"No acepto"</string>
     <string name="submit_dialog_confirm">Acepto</string>
-    <string name="submit_dialog_content">&lt;Data&gt;[Lea y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas de los que informes junto con los elementos que adjunte (incluidos los registros que podrían contener información personal, así como la información sobre su dispositivo y red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y resolver los problemas de los que nos informe. Si informa de problemas relacionados con varios dispositivos, también se subirán los registros de otros dispositivos en los que se utiliza su Cuenta Mi.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content"><Data>\"Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas que reportes y los elementos que adjuntes (incluyendo registros que podrían contener información personal, del dispositivo y de la red) se cargarán en los servidores de MIUI. Esto ayudará a localizar y resolver los problemas de los que informas. Si éstos están relacionados con múltiples dispositivos, también se cargarán los registros de otros dispositivos en los que utilizas tu cuenta Xiaomi.\"</Data></string>
     <string name="submit_dialog_content_global">&lt;Data&gt;Sus comentarios, así como sus elementos adjuntos (si existe alguno) y registros (puede desmarcar las casillas correspondientes para los elementos que no desea subir) serán enviados a los servidores MIUI. Los registros podrían contener información personal y datos de su ubicación. Al seleccionar \"Aceptar\" usted nos indica que ha leído y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>\"Sus comentarios, junto con los archivos adjuntos (si los hay), los registros (puede desmarcar las casillas correspondientes de los elementos que no desea cargar), el número de teléfono o el correo electrónico se enviarán a los servidores de MIUI. Los registros pueden contener información personal y sus datos de ubicación. Si selecciona \"Acepto\", significa que ha leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;\".</Data></string>
     <string name="submit_dialog_not_show_again">"No volver a mostrar"</string>

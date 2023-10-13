@@ -408,6 +408,9 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="settings_how_use">Usando manos libres</string>
     <string name="settings_log_options">Registros</string>
     <string name="settings_more_help">Ayuda</string>
+    <string name="settings_nfc_transfer_desc1">"·Acerca un teléfono conectado a tu cuenta Xiaomi al módulo NFC del dispositivo para compartir el contenido de la pantalla o transferir los elementos seleccionados en el Administrador de archivos o la Galería."</string>
+    <string name="settings_nfc_transfer_desc2">·Aquí puedes ver los dispositivos compatibles: %s</string>
+    <string name="settings_nfc_transfer_title">Transferir elementos por NFC</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_pad_handoff_title">Conexión automática</string>
     <string name="settings_pc">Ordenador</string>

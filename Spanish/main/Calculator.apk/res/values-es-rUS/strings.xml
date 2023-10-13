@@ -41,7 +41,7 @@
     <string name="app_name">Calculadora</string>
     <string name="app_notification_info">La calculadora se está ejecutando en segundo plano</string>
     <string name="base_rate">Tasa de interés base</string>
-    <string name="bmi_error_text">"Este IMC no parece correcto. Asegúrese de que la altura y el peso que introdujo son correctos."</string>
+    <string name="bmi_error_text">Parámetros inválidos</string>
     <string name="bmi_label_information">Información</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Sobrepeso</string>
@@ -173,6 +173,7 @@
     <string name="install_scanner_to_continued_use">El escáner fue desinstalado. ¿Instalar de nuevo?</string>
     <string name="interest_rate_hint">Ingresar tasa de interés</string>
     <string name="investment_invalid_duration">La duración de la inversión debe ser mayor de cero</string>
+    <string name="investment_loan_result">Detalles</string>
     <string name="investment_type_once">Una vez</string>
     <string name="investment_type_recurring">Periódico</string>
     <string name="item_page_title_investment">Calculadora de inversiones</string>
@@ -496,7 +497,6 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="tax_result_real_get">Después de impuestos</string>
     <string name="tax_social_insurance">Seguro social</string>
     <string name="tax_thershold_foreign">%s (extranjeros)</string>
-    <string name="tax_thershold_native">%s (China continental)</string>
     <string name="tax_thershold_native_new">%s (nuevo)</string>
     <string name="tax_thershold_native_new_description">Los impuestos serán calculados de acuerdo a la nueva ley fiscal entrada en vigor el 1 de octubre de 2018</string>
     <string name="tax_threshold">Ingresos libres de impuestos</string>
@@ -653,7 +653,7 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Fathom</string>
     <string name="unit_data_display_length_ft">Pie</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Furlong (201 m)</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Pulgada</string>

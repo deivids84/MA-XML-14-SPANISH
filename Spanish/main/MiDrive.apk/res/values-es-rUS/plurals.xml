@@ -5,16 +5,16 @@
         <item quantity="other">hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">hace 1 hora</item>
-        <item quantity="other">hace 1 hora</item>
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d horas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
         <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">hace %d mins</item>
-        <item quantity="one">hace 1 min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Hace %1$d días</item>
@@ -47,6 +47,10 @@
     <plurals name="download_fail_info_for_sys_content">
         <item quantity="other">"No se pudieron descargar %1$d elementos"</item>
         <item quantity="one">"No se pudo descargar %1$d elemento"</item>
+    </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Esperando para descargar. %1$s archivos restantes.</item>
+        <item quantity="one">Esperando para descargar. %1$s archivo restante.</item>
     </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Descargando… quedan %1$d elementos (%2$s%%)</item>
@@ -123,6 +127,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"No se pudieron subir %1$d elementos"</item>
         <item quantity="one">"No se pudo subir %1$d elemento"</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Esperando para subir. %1$s archivos restantes.</item>
+        <item quantity="one">Esperando para subir. %1$s archivo restante.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Subiendo... quedan %1$d elementos (%2$s%%)</item>

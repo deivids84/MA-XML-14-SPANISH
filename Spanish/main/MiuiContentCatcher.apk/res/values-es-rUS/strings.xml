@@ -49,6 +49,7 @@
     <string name="autofill_password_activity_label">Códigos de verificación</string>
     <string name="autofill_service_label">Gestionar contraseñas</string>
     <string name="autofill_setting_activity_label">Gestionar contraseñas</string>
+    <string name="back_button_label">Atrás</string>
     <string name="cancel">Cancelar</string>
     <string name="change_passwork_dialog_content">"Ya ha guardado una contraseña para esta cuenta. ¿Actualizar la contraseña ahora?"</string>
     <string name="change_passwork_dialog_title">¿Actualizar la contraseña?</string>

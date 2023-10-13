@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>La alarma sonará en menos de 1 minuto</item>
-        <item>Sonará en %1$s</item>
-        <item>Sonará en %2$s</item>
-        <item>Sonará en %1$s y %2$s</item>
-        <item>Sonará en %3$s</item>
-        <item>Sonará en %1$s y %3$s</item>
-        <item>Sonará en %2$s y %3$s</item>
-        <item>Sonará en %1$s, %2$s y %3$s</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>La alarma sonará en menos de %d minuto</item>
+        <item>La alarma sonará en %1$s</item>
+        <item>La alarma sonará en %2$s</item>
+        <item>La alarma sonará en %1$s %2$s</item>
+        <item>La alarma sonará en %3$s</item>
+        <item>La alarma sonará en %1$s %3$s</item>
+        <item>La alarma sonará en %2$s %3$s</item>
+        <item>La alarma sonará en %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
@@ -24,15 +24,15 @@
         <item>Lun a Vie</item>
         <item>Personalizado</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>La alarma sonará en menos de 1 minuto.</item>
+    <string-array name="alarm_set_new_array">
+        <item>La alarma sonará en menos de %d minuto.</item>
         <item>La alarma sonará en %1$s.</item>
         <item>La alarma sonará en %2$s.</item>
         <item>La alarma sonará en %1$s y %2$s.</item>
         <item>La alarma sonará en %3$s.</item>
         <item>La alarma sonará en %1$s y %3$s.</item>
         <item>La alarma sonará en %2$s y %3$s.</item>
-        <item>La alarma sonará en %1$s, %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s %2$s y %3$s.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -101,20 +101,19 @@
         <item>Muy malo</item>
         <item>Grave</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Nunca</item>
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>Lunes a viernes</item>
         <item>Todos los días</item>
         <item>Días laborables</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Lunes a Viernes</item>
+        <item>Cada día</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Cada día</item>
+        <item>Lunes a Viernes</item>
+        <item>Personalizada</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Todos los días</item>
@@ -309,7 +308,7 @@
         <item>Sofía</item>
         <item>Estocolmo</item>
         <item>Tallin</item>
-        <item>El Vaticano</item>
+        <item>Ciudad del Vaticano</item>
         <item>Viena</item>
         <item>Vilna</item>
         <item>Varsovia</item>
@@ -409,11 +408,6 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Blanco</item>
-        <item>Negro</item>
-        <item>Automático</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Costa de Marfil"</item>
@@ -703,31 +697,6 @@
         <item>Surinam</item>
         <item>Ecuador</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>Dom</item>
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mié</item>
-        <item>Jue</item>
-        <item>Vie</item>
-        <item>Sab</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>A la hora establecida</item>
-        <item>15 minutos de anticipación</item>
-        <item>30 minutos de anticipación</item>
-        <item>1 hora de anticipación</item>
-        <item>Ninguno</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-    </string-array>
     <string-array name="timer_duration">
         <item>%1$s en total</item>
         <item>%2$s en total</item>
@@ -736,34 +705,6 @@
         <item>%1$s y %3$s en total</item>
         <item>%2$s y %3$s en total</item>
         <item>%1$s, %2$s y %3$s en total</item>
-    </string-array>
-    <string-array name="timezone_alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No hacer nada</item>

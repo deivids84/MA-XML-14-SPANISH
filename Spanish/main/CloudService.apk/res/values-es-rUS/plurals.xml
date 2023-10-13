@@ -165,8 +165,8 @@
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
-        <item quantity="other">"Almacenamiento lleno. No se pudo sincronizar &lt;font color=#F22424&gt;%d aplicaciones&lt;/font&gt;"</item>
-        <item quantity="one">"Almacenamiento lleno. No se pudo sincronizar &lt;font color=#F22424&gt;%d aplicación&lt;/font&gt;"</item>
+        <item quantity="other">"Almacenamiento lleno. No se pudo sincronizar &lt;font color=#F22424&gt;%d aplicaciones&lt;/font&gt;."</item>
+        <item quantity="one">"Almacenamiento lleno. No se pudo sincronizar &lt;font color=#F22424&gt;l%d aplicación&lt;/font&gt;."</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">hace %d minutos</item>

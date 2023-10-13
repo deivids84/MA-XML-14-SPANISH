@@ -190,6 +190,15 @@
         <item>Sí</item>
         <item>No</item>
     </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Mínimo</item>
         <item>Bajo</item>
@@ -236,6 +245,10 @@
         <item>"Las aplicaciones de terceros que no son verificadas pueden causar múltiples problemas y disminuir la estabilidad del sistema."</item>
         <item>Algunas aplicaciones de terceros pueden contener malware que pone en riesgo sus datos personales.</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Predeterminado</item>
+        <item>Todo</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Almacenamiento interno</item>
         <item>Almacenamiento externo</item>
@@ -250,15 +263,15 @@
         <item>Saldo del teléfono</item>
     </string-array>
     <string-array name="sort_title_new">
-        <item>Ordenar por nombre de aplicación</item>
-        <item>Ordenar por frecuencia de uso</item>
-        <item>Ordenar por almacenamiento usado</item>
-        <item>Ordenar por tiempo de instalación</item>
+        <item>Ordenar por el nombre de la aplicación</item>
+        <item>Ordenar por el uso reciente</item>
+        <item>Ordenar por el almacenamiento usado</item>
+        <item>Ordenar por la fecha de instalación</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Nombre de la aplicación</item>
-        <item>Frecuencia de uso</item>
-        <item>Almacenamiento usado</item>
+        <item>Usado recientemente</item>
+        <item>Almacenamiento utilizado</item>
         <item>Tiempo de instalación</item>
     </string-array>
     <string-array name="tether_limit_warn_type">

@@ -49,16 +49,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
-        <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d horas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -69,16 +69,16 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace 1 min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d comentarios</item>
@@ -198,6 +198,10 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="other">%d seguidores</item>
         <item quantity="one">%d seguidor</item>
     </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">Suscripción VIP en %d segundos</item>
+        <item quantity="one">Suscripción VIP en %d segundo</item>
+    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">Se enviarán %d canciones</item>
         <item quantity="one">Se enviará %d canción</item>
@@ -233,6 +237,10 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">%d días restantes</item>
         <item quantity="one">%d día restante</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">"Si lo ves durante %d segundos, obtendrás una suscrpción VIP como recompensa. ¿Deseas salir?"</item>
+        <item quantity="one">"Si lo ves durante %d segundo, obtendrás una suscrpción VIP como recompensa. ¿Deseas salir?"</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">Añadidos %d archivos</item>

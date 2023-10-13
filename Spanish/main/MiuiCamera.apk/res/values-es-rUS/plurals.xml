@@ -64,6 +64,10 @@
         <item quantity="other">&lt;Data&gt;Este dispositivo está demasiado caliente.&lt;br&gt;La aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundos&lt;/b&gt;&lt;/font&gt;. El progreso actual se ha guardado.&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Este dispositivo está demasiado caliente.&lt;br&gt;La aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundo&lt;/b&gt;&lt;/font&gt;. El progreso actual se ha guardado.&lt;/Data&gt;</item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data&gt;\"La versión de cámara instalada es incompatible con el dispositivo.&lt;br&gt;Se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d Sec&lt;/b&gt;&lt;/font&gt;. Desinstala esta versión e inténtalo otra vez\".&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\"La versión de cámara instalada es incompatible con el dispositivo.&lt;br&gt;Se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d Sec&lt;/b&gt;&lt;/font&gt;. Desinstala esta versión e inténtalo otra vez\".&lt;/Data&gt;</item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d mins</item>
         <item quantity="one">%1$d min</item>

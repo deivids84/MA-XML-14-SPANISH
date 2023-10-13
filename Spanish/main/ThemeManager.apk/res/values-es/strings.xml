@@ -1189,6 +1189,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="selected_resource_file_invalid">"No puede utilizarse el archivo de recurso seleccionado"</string>
     <string name="send">Enviar</string>
     <string name="server_internal_error">Se produjo un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
+    <string name="server_message">Línea telefónica de atención al cliente: 400–100–5678</string>
     <string name="set_as_colorring">Establecer como tono de llamada personalizado</string>
     <string name="set_calling">Establecer</string>
     <string name="set_color_ring_back_tone">Establecer tono de llamada personalizado</string>
@@ -1574,6 +1575,10 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wallpaper_settings_page_title">Fondo de pantalla</string>
     <string name="wallpaper_share_alert">Ha ocurrido un error. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="wallpaper_static">Estático</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Ajustes</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Aplicar</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Parece que no está activada la optimización MIUI. Así, el este tema no funcionará correctamente. No obstante, puedes aplicarlo o activar la optimización MIUI en Ajustes."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Atención</string>
     <string name="warning_subscribe_wallpaper_group_content">"Ha activado la presentación de diapositivas de la pantalla de inicio. %1$s se aplicará a su pantalla de inicio."</string>
     <string name="wechat_not_found">WeChat no está instalado</string>
     <string name="wednesday">Miércoles</string>

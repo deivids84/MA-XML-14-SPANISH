@@ -56,6 +56,7 @@ esta función se agregará automáticamente al segundo espacio."</string>
     <string name="can_not_delete_when_calling">"No se pueden eliminar espacios durante una llamada"</string>
     <string name="can_not_switch_when_calling">"No se puede cambiar entre espacios durante una llamada"</string>
     <string name="can_not_switch_when_green_kid_active">El cambio al segundo espacio está restringido por el control parental</string>
+    <string name="can_not_switch_when_green_kid_active_new">"No se puede cambiar al segundo espacio con Family Guard activado"</string>
     <string name="can_not_switch_when_super_power_active">"No puede cambiar entre espacios cuando el Ahorrador de batería ultra esté activado"</string>
     <string name="cancelClosePassword">"No desactivar"</string>
     <string name="cancel_button">Cancelar</string>

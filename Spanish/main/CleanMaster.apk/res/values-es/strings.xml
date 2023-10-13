@@ -123,6 +123,7 @@
     <string name="auto_clean_time_every_day">Cada día</string>
     <string name="auto_cleaner_open">Activar</string>
     <string name="back">Volver</string>
+    <string name="be_figuring">Calculando…</string>
     <string name="btn_text_done">Hecho</string>
     <string name="btn_text_quick_cleanup">Limpiar</string>
     <string name="btn_text_quick_cleanup_apk">Eliminar APKs seleccionadas %1$s</string>
@@ -245,6 +246,7 @@
     <string name="dc_item_title_wechat_chat">Borrar el historial de Wechat</string>
     <string name="dc_storage_cleaned">Liberado %s</string>
     <string name="dc_storage_info">Disponible %1$s | Total %2$s</string>
+    <string name="dc_storage_info_new">Disponibles: %1$s</string>
     <string name="deep_clean_completed_tips">Se limpió correctamente</string>
     <string name="deep_clean_data_path_clean_title">Limpiar caché</string>
     <string name="deep_clean_uninstall_completed_tips">Desinstalado</string>

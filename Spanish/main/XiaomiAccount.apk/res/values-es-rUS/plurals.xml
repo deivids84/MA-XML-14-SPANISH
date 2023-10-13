@@ -5,16 +5,16 @@
         <item quantity="other">1 hora antes</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 hora antes</item>
-        <item quantity="other">1 hora antes</item>
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d horas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
         <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">hace %d mins</item>
-        <item quantity="one">hace 1 min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="area_code_search_result_size">
         <item quantity="other">Encontrados %d resultados</item>
@@ -75,6 +75,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">hace %d minutos</item>

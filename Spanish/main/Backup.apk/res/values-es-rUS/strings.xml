@@ -77,6 +77,7 @@
     <string name="backup_failed">"No se pudo respaldar"</string>
     <string name="backup_file_error">"No se pudo respaldar"</string>
     <string name="backup_finished">Respaldo completado</string>
+    <string name="backup_for_broken_screen">Copia de seguridad con la pantalla dañada</string>
     <string name="backup_hint">Mantenga su dispositivo encendido</string>
     <string name="backup_hint_onpad">Mantenga su dispositivo encendido</string>
     <string name="backup_hint_pad">Mantenga su dispositivo encendido</string>

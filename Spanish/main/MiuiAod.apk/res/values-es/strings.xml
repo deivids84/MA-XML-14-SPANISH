@@ -363,6 +363,8 @@ dd/MM"</string>
     <string name="signature">Firma</string>
     <string name="signature_default_content">"Cree siempre que algo maravilloso
 está a punto de suceder"</string>
+    <string name="smart_style">Inteligente</string>
+    <string name="smart_style_summary">"Mostrar siempre los elementos, excepto cuando el dispositivo esté en un bolsillo, la luz ambiente es baja mucho tiempo, o cuando no miras la pantalla"</string>
     <string name="standard_clock_panel">Estándar</string>
     <string name="standard_style">Normal</string>
     <string name="step_component_info_active_tip">Salud Xiaomi proporciona el recuento de pasos. Acepta sus términos y condiciones para continuar.</string>

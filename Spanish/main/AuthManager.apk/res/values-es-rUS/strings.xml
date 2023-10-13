@@ -97,8 +97,7 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Adquirir número de teléfono de la compañía para iniciar sesión</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si no pudo iniciar sesión con un solo toque ahora, vuelva a la página de inicio de sesión y vuelva a intentarlo."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Esta aplicación quiere adquirir tu número de teléfono de la compañía para iniciar sesión. ¿Permitir?</string>
-    <string name="HIPS_Perm_operator_shake">Acceder a datos de acelerómetro</string>
-    <string name="HIPS_Perm_operator_shake_Desc">Los datos del acelerómetro se utilizan para la orientación y el movimiento (por ejemplo, agitar, inclinar y rotar)</string>
+    <string name="HIPS_Perm_operator_shake_Desc">"Para detectar la posición espacial del dispositivo, reconocer sacudidas y proporcionar funciones sensoriales interactivas"</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">acceder al hardware NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Acceder a la aplicación Teléfono</string>
@@ -229,7 +228,7 @@
     <string name="grant_dialog_storage_category_title">Esta aplicación requiere permisos para acceder a la Galería y los mensajes en las aplicaciones de redes sociales.</string>
     <string name="grant_dialog_storage_gallery_title">Galería</string>
     <string name="grant_dialog_storage_sociality_title">Mensajes en aplicaciones de redes sociales</string>
-    <string name="keep_blur_location">Keep on</string>
+    <string name="keep_blur_location">Sí</string>
     <string name="keep_notice_me">Seguir notificando</string>
     <string name="location_settings">Ajustes de ubicación</string>
     <string name="location_warning">%1$s es un proveedor de servicios de ubicación para este dispositivo. El acceso a la ubicación puede ser modificado en los ajustes.</string>
@@ -310,7 +309,7 @@
     <string name="ok">Aceptar</string>
     <string name="perm_action_allow">De acuerdo</string>
     <string name="perm_action_deny">No permitir nunca</string>
-    <string name="perm_educate_post_notification">Las notificaciones pueden acompañarse con sonido y vibración al aparecer en la pantalla de notificación y en los iconos de la pantalla de inicio. Puedes configurar tus preferencias en Ajustes.</string>
+    <string name="perm_educate_post_notification">Las notificaciones pueden ir acompañadas de sonido y vibración tal y como aparecen en la pantalla de notificaciones y en los iconos de la pantalla de inicio. Puedes cambiar tus preferencias de notificación en Configuración.</string>
     <string name="perm_manager_suggest_operation">Administrar permisos</string>
     <string name="perm_manager_suggest_title">¿Ajustar permisos?</string>
     <string name="perm_modem_location">Acceso a su ubicación</string>
@@ -319,6 +318,7 @@
     <string name="permdesc_call_phone">¿Permitir a %1$s realizar llamadas?</string>
     <string name="permdesc_camera">¿Permitir a %1$s tomar fotos y grabar vídeos?</string>
     <string name="permdesc_get_account">¿Permitir a %1$s acceder a todas las cuentas almacenadas en este dispositivo?</string>
+    <string name="permdesc_isolate_storage">¿Permitir que %1$s acceda a fotos, vídeos y audio en este dispositivo?</string>
     <string name="permdesc_location">¿Permitir a %1$s acceder a la información de ubicación?</string>
     <string name="permdesc_location_background">¿Permitir a %1$s acceder a la información de ubicación en segundo plano?</string>
     <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio?</string>
@@ -329,14 +329,14 @@
     <string name="permdesc_read_call_log">¿Permitir a %1$s acceder al historial de llamadas?</string>
     <string name="permdesc_read_contacts">¿Permitir a %1$s acceder a los contactos?</string>
     <string name="permdesc_read_mms">¿Permitir a %1$s leer mensajes multimedia?</string>
-    <string name="permdesc_read_phone_numbers">¿Permitir que %1$s lea números de teléfono en el dispositivo?</string>
+    <string name="permdesc_read_phone_numbers">¿Permitir que %1$s lea números de teléfono en este dispositivo?</string>
     <string name="permdesc_read_phone_state">¿Permitir a %1$s acceder al estado del dispositivo y a la información de la red?</string>
     <string name="permdesc_read_sms">¿Permitir a %1$s leer mensajes de texto y multimedia?</string>
     <string name="permdesc_read_storage">¿Permitir a %1$s acceder a los archivos y fotos en este dispositivo?</string>
     <string name="permdesc_recognition">¿Permitir a %1$s acceder a tu información de tu actividad?</string>
     <string name="permdesc_send_sms">¿Permitir a %1$s enviar mensajes de texto?</string>
     <string name="permdesc_sensors">¿Permitir a %1$s leer los datos generados por los sensores corporales?</string>
-    <string name="permdesc_shake">¿Permitir que %1$s acceda a los datos del acelerómetro?</string>
+    <string name="permdesc_shake">Permitir que \"%1$s\" use los sensores del dispositivo para reconocer sacudidas y proporcionar funciones sensoriales interactivas</string>
     <string name="permdesc_use_sip">¿Permitir a %1$s usar el Protocolo de Inicio de Sesión (SIP) para transmitir vídeo?</string>
     <string name="permdesc_write_calendar">¿Permitir a %1$s crear y guardar eventos del calendario?</string>
     <string name="permdesc_write_call_log">¿Permitir a %1$s editar el historial de llamadas?</string>
@@ -349,6 +349,8 @@
     <string name="permgroupdesc_location">¿Permitir a %1$s acceder a la información de ubicación?</string>
     <string name="permgroupdesc_microphone">¿Permitir a %1$s grabar audio?</string>
     <string name="permgroupdesc_phone">¿Permitir a %1$s hacer llamadas y acceder a la información del dispositivo?</string>
+    <string name="permgroupdesc_read_media_aural">¿Permitir que %1$s acceda a los archivos de audio en este dispositivo?</string>
+    <string name="permgroupdesc_read_media_visual">¿Permitir que %1$s acceda a las fotos y vídeos del dispositivo?</string>
     <string name="permgroupdesc_recognition">¿Permitir a %1$s acceder a datos de salud y actividad?</string>
     <string name="permgroupdesc_sensors">¿Permitir a %1$s acceder a los datos del sensor corporal?</string>
     <string name="permgroupdesc_sms">¿Permitir a %1$s leer o enviar SMS?</string>
@@ -383,7 +385,7 @@
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
-    <string name="stop_blur_location">Turn off</string>
+    <string name="stop_blur_location">No</string>
     <string name="storage_policy_notify_both_title">"%1$s no tiene permiso para acceder a la Galería ni a los mensajes en las aplicaciones de redes sociales"</string>
     <string name="storage_policy_notify_content">Toque para ajustar los permisos</string>
     <string name="storage_policy_notify_gallery_title">"%1$s no tiene permiso para acceder a la Galería"</string>

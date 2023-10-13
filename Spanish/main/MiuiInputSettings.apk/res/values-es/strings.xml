@@ -39,6 +39,7 @@
     <string name="auto_disable_screenbuttons_ask">Preguntar para desactivar</string>
     <string name="auto_disable_screenbuttons_auto">Siempre desactivar</string>
     <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
+    <string name="auto_disable_screenbuttons_dialog_title">¿Desactivar los botones de pantalla para %s?</string>
     <string name="auto_disable_screenbuttons_no">Nunca desactivar</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Los botones de navegación se bloquearán cuando el dispositivo esté en modo horizontal</string>
     <string name="auto_disable_screenbuttons_rotation_title">Bloquear botones de navegación en modo horizontal</string>
@@ -165,6 +166,7 @@ Puedes ver los registros generados en el Administrador de archivos."</string>
     <string name="keyboard_function_summary_first_line">· Mantén pulsado para mostrar los accesos directos.</string>
     <string name="keyboard_function_summary_second_line">· Toca el área NFC del teclado con un teléfono conectado a la misma cuenta para transferir la pantalla. Selecciona un archivo o una foto para transferirlos.</string>
     <string name="keyboard_funtion_key">Tecla de función</string>
+    <string name="keyboard_layout_arabic">Árabe</string>
     <string name="keyboard_layout_default_label">Predeterminada</string>
     <string name="keyboard_layout_dialog_setup_button">Configurar diseños de teclado</string>
     <string name="keyboard_layout_dialog_switch_hint">Para cambiar, pulsa Ctrl+espacio</string>

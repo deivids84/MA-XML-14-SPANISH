@@ -22,8 +22,10 @@
     <string name="avl_dialog_policy">Política de Privacidad</string>
     <string name="avl_dialog_title">"Política de privacidad de AVL"</string>
     <string name="common_ids_permission_label">Permiso vasto para ids comunes</string>
+    <string name="guid_hint">Guía</string>
     <string name="hello_world">¡Hola mundo!</string>
     <string name="menu_settings">Ajustes</string>
+    <string name="set_button">Ajuste</string>
     <string name="tencent_dialog_cloudscan">Cargar y escanear los nombres y detalles de las aplicaciones usando las definiciones de virus en línea.</string>
     <string name="tencent_dialog_dbupdate">Actualizar definiciones de virus automáticamente</string>
     <string name="tencent_dialog_header">"Esta función cifra y transfiere la ID de su dispositivo a los servidores de Tencent (%s)."</string>

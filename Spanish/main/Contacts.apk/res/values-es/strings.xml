@@ -947,6 +947,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="preference_dial_pad_touch_tone_title">Tonos del teclado de marcado</string>
     <string name="preference_display_contact">Opciones de visualización</string>
     <string name="preference_export">Exportar</string>
+    <string name="preference_feedback_title">Comentario</string>
     <string name="preference_import">Importar</string>
     <string name="preference_import_export">Importar/Exportar</string>
     <string name="preference_import_export_title">Importar/Exportar contactos</string>

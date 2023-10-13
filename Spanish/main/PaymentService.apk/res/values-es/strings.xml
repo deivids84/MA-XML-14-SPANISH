@@ -110,9 +110,9 @@
     <string name="mibi_click_retry">%1$s, haz clic para volver a intentarlo</string>
     <string name="mibi_cta_agreement_checkbox_description">Por favor, lea y acepte el %1$s y el %2$s</string>
     <string name="mibi_cta_agreement_tips">Por favor, acepta los términos y el uso.</string>
-    <string name="mibi_cta_description">"Te damos la bienvenida a Mi Coin. Esta aplicación brinda funciones como la recarga de Mi Coin y la visualización de certificados de regalo. Procesaremos tu información relevante según lo exijan las leyes y reglamentaciones. Aquí, te recordamos solemnemente:
-1. 1. Antes de usar los productos o servicios de Mibi, lee cuidadosamente y comprende la Política de Privacidad y no uses los productos o servicios relevantes hasta que confirmes tu total comprensión y conformidad.
-2. 2. Durante el uso de esta aplicación, se necesitan permisos para la cámara e Internet. Te preguntaremos respecto a los permisos relacionados, elemento por elemento, cuando la uses por primera vez. También puedes administrar los permisos relacionados en la configuración de privacidad del acceso a la aplicación - Administración de permisos o en los ajustes del sistema del dispositivo.
+    <string name="mibi_cta_description">"Te damos la bienvenida a Mi Coin. Esta aplicación brinda funciones como la recarga de monedas Mi y la visualización de certificados de regalo. Procesaremos tu información relevante según lo exijan las leyes y reglamentaciones. Te recordamos:
+1. Antes de usar los productos o servicios de Mibi, lee cuidadosamente y entiende su Política de Privacidad y no uses productos o servicios relevantes hasta que confirmes tu comprensión y conformidad.
+2. Esta aplicación, necesita permisos para la cámara y acceso a Internet. Comprueba que el dispositivo está conectado a Internet y completa los ajustes de configuración.
 %1$s"</string>
     <string name="mibi_cta_description_suffix">"3. Tomamos y protegemos su información personal muy en serio. Si tiene alguna pregunta, comentario o sugerencia sobre el contenido de esta política, puede contactarnos visitando %1$s.
 "</string>

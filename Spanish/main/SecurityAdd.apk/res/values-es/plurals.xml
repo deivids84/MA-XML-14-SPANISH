@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
-        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">Dentro de 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">En %d minutos</item>
-        <item quantity="one">En %d minuto</item>
+        <item quantity="one">En 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace %d minuto</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="extreme_mode_runtime_hour">
         <item quantity="other">%s horas</item>

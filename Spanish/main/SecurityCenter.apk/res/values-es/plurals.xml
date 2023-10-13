@@ -136,6 +136,10 @@
         <item quantity="other">%d aplicaciones desinstaladas</item>
         <item quantity="one">%d aplicación desinstalada</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Actualizar %d aplicaciones</item>
+        <item quantity="one">Actualizar %d aplicación</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Usado hace %d días</item>
         <item quantity="one">Usado hace %d día</item>
